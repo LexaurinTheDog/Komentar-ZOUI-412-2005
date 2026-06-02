@@ -571,28 +571,6 @@ Smyslem této restrikce je **ochrana neveřejnosti řízení** (§ 89 odst. 4) a
 > **§ 92a**
 >
 > *Jménem podnikatele činí úkony v řízení jeho odpovědná osoba.*
->
-> **§ 92b — Procesní způsobilost**
->
-> *Účastník řízení může činit v řízení úkony samostatně (dále jen „procesní způsobilost") v tom rozsahu, v jakém je svéprávný.*
->
-> **§ 92c — Zastoupení účastníka řízení**
->
-> *Zástupcem účastníka řízení je zákonný zástupce, opatrovník nebo zmocněnec.*
->
-> **§ 92d — Zastoupení na základě zákona a opatrovnictví**
->
-> *(výňatek)*
->
-> *(1) V rozsahu, v jakém účastník řízení nemá procesní způsobilost, musí být zastupován zákonným zástupcem.*
->
-> *(2) Úřad ustanoví opatrovníka [za podmínek písm. a)–d)]…*
->
-> **§ 92e — Zastoupení na základě plné moci**
->
-> *(1) Účastník řízení se může dát zastupovat advokátem nebo jiným zástupcem, kterého si zvolí. Zmocnění k zastoupení se prokazuje písemnou plnou mocí. Účastník řízení může mít současně pouze jednoho zmocněnce. U osobních úkonů je zastoupení vyloučeno.*
->
-> *(…)*
 
 **Výklad:**
 
@@ -624,17 +602,23 @@ Smyslem této restrikce je **ochrana neveřejnosti řízení** (§ 89 odst. 4) a
 
 > **§ 93**
 >
-> *(výňatek; doslovné znění viz zdroj)*
->
 > *(1) Řízení je zahájeno dnem, kdy je*
 >
 > *- a) Úřadu doručena písemná žádost podle § 94 nebo 99,*
 >
 > *- b) Úřadu doručena písemná žádost podle § 96 a je zaplacen správní poplatek,*
 >
-> *- c) Úřadu doručena žádost orgánu Evropské unie nebo mezinárodní organizace, jejímž je Česká republika členem, o vydání osvědčení fyzické osoby — státního občana České republiky, který je zaměstnancem orgánu Evropské unie nebo zaměstnancem mezinárodní organizace, jejímž je Česká republika členem, nebo*
+> *- c) Úřadu doručena žádost orgánu Evropské unie nebo mezinárodní organizace, jejímž je Česká republika členem, o vydání osvědčení fyzické osoby - státního občana České republiky, který je zaměstnancem orgánu Evropské unie nebo zaměstnancem mezinárodní organizace, jejímž je Česká republika členem, nebo*
 >
 > *- d) držiteli osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu doručeno písemné oznámení Úřadu o zahájení řízení o zrušení platnosti těchto veřejných listin.*
+>
+> *(2) Na žádost účastníka řízení Úřad přijetí žádosti podle § 94, 96 nebo 99 potvrdí.*
+>
+> *(3) O zahájení řízení podle odstavce 1 písm. d), jde-li o řízení o zrušení platnosti osvědčení fyzické osoby nebo dokladu, uvědomí Úřad též osobu, která je pro držitele těchto veřejných listin příslušnou odpovědnou osobou.*
+>
+> *(4) Žádost podle § 94, 96 nebo 99 může účastník řízení vzít zpět; toto právo nelze uplatnit v době od vydání rozhodnutí Úřadu do zahájení řízení o rozkladu a po vydání rozhodnutí o rozkladu.*
+>
+> *Žádost fyzické osoby*
 
 **Výklad:**
 
@@ -661,11 +645,21 @@ Tato úprava odráží spolupráci ČR v rámci NATO a EU. Žádost orgánu EU (
 
 > **§ 94**
 >
-> *(výňatek; v plném rozsahu sedm odstavců, viz zdroj)*
+> *(1) Žádost o vydání osvědčení fyzické osoby (dále jen „žádost fyzické osoby“) obsahuje v rozsahu stanoveném prováděcím právním předpisem písemné zdůvodnění nutnosti jejího přístupu k utajované informaci s uvedením stupně utajení, souhlas s provedením řízení a prohlášení o pravdivosti a úplnosti údajů.*
 >
-> *(1) Žádost o vydání osvědčení fyzické osoby (dále jen „žádost fyzické osoby") obsahuje v rozsahu stanoveném prováděcím právním předpisem písemné zdůvodnění nutnosti jejího přístupu k utajované informaci s uvedením stupně utajení, souhlas s provedením řízení a prohlášení o pravdivosti a úplnosti údajů.*
+> *(2) Součástí žádosti podle odstavce 1 jsou tyto přílohy:*
 >
-> *(2) Součástí žádosti podle odstavce 1 jsou tyto přílohy: [a) dotazník, b) doplňující písemnosti, c) fotografie, d) doklady cizince, e) prohlášení o zproštění mlčenlivosti správce daně, f) zdůvodnění přístupu k UI]…*
+> *- a) vyplněný dotazník fyzické osoby v elektronické podobě,*
+>
+> *- b) písemnosti dosvědčující správnost údajů uvedených v dotazníku v rozsahu a formě stanovených prováděcím právním předpisem; to neplatí, lze-li správnost údajů dosvědčit na základě údajů vedených v základním registru nebo agendovém informačním systému, které jsou Úřadu zpřístupněné pro výkon agendy, nebo na základě souhlasu,*
+>
+> *- c) jedna fotografie svým provedením odpovídající požadavkům podle jiného právního předpisu72),*
+>
+> *- d) je-li fyzická osoba cizincem, doklady a prohlášení podle § 13 odst. 2,*
+>
+> *- e) prohlášení o zproštění povinnosti mlčenlivosti věcně a místně příslušného správce daně a jiné osoby zúčastněné na správě daní podle § 52 odst. 2 daňového řádu, a to v plném rozsahu údajů za účelem provedení řízení, a*
+>
+> *- f) zdůvodnění nutnosti přístupu k utajované informaci s uvedením stupně utajení a označení místa nebo funkce podle § 69 odst. 1 písm. b) potvrzené odpovědnou osobou nebo bezpečnostním ředitelem toho, kdo bude fyzické osobě utajované informace poskytovat, v rozsahu stanoveném prováděcím právním předpisem.*
 >
 > *(3) Má-li mít fyzická osoba přístup k utajované informaci i bezprostředně po uplynutí doby platnosti jejího dosavadního osvědčení fyzické osoby, je povinna písemně požádat Úřad o vydání nového osvědčení fyzické osoby, a to před uplynutím doby platnosti dosavadního osvědčení fyzické osoby ve lhůtě nejméně*
 >
@@ -674,6 +668,14 @@ Tato úprava odráží spolupráci ČR v rámci NATO a EU. Žádost orgánu EU (
 > *- b) 7 měsíců u osvědčení fyzické osoby pro stupeň utajení Tajné a*
 >
 > *- c) 10 měsíců u osvědčení fyzické osoby pro stupeň utajení Přísně tajné.*
+>
+> *(4) Žádost podle odstavce 3 musí splňovat náležitosti podle odstavce 1 a musí k ní být přiloženy přílohy podle odstavce 2.*
+>
+> *(5) Požádá-li fyzická osoba podle odstavce 3 o vydání nového osvědčení fyzické osoby pro stejný stupeň utajení, pro který jí bylo vydáno dosavadní osvědčení fyzické osoby, zjišťují se podmínky pro vydání nového osvědčení fyzické osoby zpětně nejméně za dobu, která uplynula od vydání jejího dosavadního osvědčení fyzické osoby.*
+>
+> *(6) Požádá-li o vydání osvědčení fyzické osoby orgán Evropské unie nebo mezinárodní organizace, jejímž je Česká republika členem podle § 93 odst. 1 písm. c), fyzická osoba, o vydání jejíhož osvědčení se žádá, postupuje podle odstavců 2 až 5 obdobně.*
+>
+> *(7) Důvod pro nutnost přístupu fyzické osoby k utajované informaci, uvedený v žádosti, musí trvat po celou dobu řízení podle § 93 odst. 1 písm. a) nebo c).*
 
 **Výklad:**
 
@@ -828,11 +830,11 @@ Toto pravidlo zajišťuje, že **otázka zrušení platnosti musí být meritorn
 >
 > **§ 103**
 >
-> *(1) Úřad je oprávněn požadovat od účastníka řízení […] upřesnění údajů uvedených v žádosti […] a sdělení doplňujících údajů […]. Za tím účelem Úřad účastníka řízení písemně vyzve, aby toto upřesnění údajů a sdělení doplňujících údajů ve lhůtě do 14 dnů a v žádosti podané podle § 96 ve lhůtě do 30 dnů ode dne doručení výzvy předložil Úřadu.*
+> *(1) Úřad je oprávněn požadovat od účastníka řízení, držitele osvědčení fyzické osoby, držitele osvědčení podnikatele nebo dokladu upřesnění údajů uvedených v žádosti podle § 94, 96 a 99 a sdělení doplňujících údajů k ověření splnění podmínek pro vydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu, je-li to nezbytné pro úplné a přesné zjištění skutečného stavu věci. Za tím účelem Úřad účastníka řízení písemně vyzve, aby toto upřesnění údajů a sdělení doplňujících údajů ve lhůtě do 14 dnů a v žádosti podané podle § 96 ve lhůtě do 30 dnů ode dne doručení výzvy předložil Úřadu.*
 >
-> *(2) Účastník řízení […] je povinen poskytnout Úřadu nezbytnou součinnost pro ověření údajů […].*
+> *(2) Účastník řízení, držitel osvědčení fyzické osoby, držitel osvědčení podnikatele nebo držitel dokladu je povinen poskytnout Úřadu nezbytnou součinnost pro ověření údajů, kterými Úřad disponuje, pro ověření splnění podmínek pro vydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu. Za tím účelem Úřad postupuje podle odstavce 1 věty druhé.*
 >
-> *(3) Účastník řízení je povinen v průběhu řízení neprodleně písemně oznamovat Úřadu změny údajů uvedených v žádosti […].*
+> *(3) Účastník řízení je povinen v průběhu řízení neprodleně písemně oznamovat Úřadu změny údajů uvedených v žádosti podle § 94, 96 a 99; omezení rozsahu hlášení změn, jakož i způsob a formu jejich doložení, stanoví prováděcí právní předpis.*
 
 **Výklad:**
 
@@ -852,13 +854,21 @@ Důsledkem nesoučinnosti je možnost zastavení řízení (§ 113 odst. 1 písm
 
 ### § 104 — Svědek
 
-> **§ 104** *(výňatek — sedm odstavců)*
+> **§ 104**
 >
-> *(1) Každý, kdo není účastníkem řízení, je povinen vypovídat jako svědek za účelem zjištění skutečného stavu věci a zjištění možných bezpečnostních rizik a dostavit se na předvolání k Úřadu. […] Jako svědek nesmí být vyslechnut ten, kdo by porušil ochranu utajovaných informací nebo zákonem uloženou nebo uznanou povinnost mlčenlivosti, ledaže by byl této povinnosti zproštěn. Výpověď může odepřít jen tehdy, kdyby jí způsobil nebezpečí trestního stíhání sobě nebo osobám blízkým39). Výpověď může rovněž odepřít osoba blízká k účastníku řízení.*
+> *(1) Každý, kdo není účastníkem řízení, je povinen vypovídat jako svědek za účelem zjištění skutečného stavu věci a zjištění možných bezpečnostních rizik a dostavit se na předvolání k Úřadu. Z předvolání musí být zřejmé, kdy, kam a v jaké věci se má svědek dostavit a jaké jsou právní následky nedostavení se (§ 115 a 116). Svědek musí vypovídat pravdivě a nesmí nic zamlčet. Jako svědek nesmí být vyslechnut ten, kdo by porušil ochranu utajovaných informací nebo zákonem uloženou nebo uznanou povinnost mlčenlivosti, ledaže by byl této povinnosti zproštěn. Výpověď může odepřít jen tehdy, kdyby jí způsobil nebezpečí trestního stíhání sobě nebo osobám blízkým39). Výpověď může rovněž odepřít osoba blízká k účastníku řízení.*
 >
-> *(…)*
+> *(2) Úřad před výslechem zjistí totožnost svědka a poučí jej podle odstavce 1 a o právních následcích bezdůvodného odmítnutí nebo nepravdivé nebo neúplné svědecké výpovědi (§ 116).*
+>
+> *(3) O výpovědi svědka se vyhotoví protokol. Pro vyhotovení protokolu o výpovědi svědka platí obdobně § 105 odst. 5 a 6.*
+>
+> *(4) Od svědka lze požadovat, aby ke skutečnostem, které mu Úřad uvede, podal písemné vyjádření. Podpis svědka musí být na každé straně listiny obsahující jeho vyjádření. V dalším se obdobně použijí odstavce 1, 2, 6 a 7.*
+>
+> *(5) Úřad nahradí svědkovi prokázané hotové výdaje podle zákona upravujícího cestovní náhrady40) a ušlý výdělek. Nárok je třeba uplatnit do 5 dnů po svědecké výpovědi, jinak zaniká. O tom musí být svědek předem poučen.*
 >
 > *(6) Jako svědek nesmí být vyslechnut příslušník policie nebo zpravodajské služby podílející se na řízení.*
+>
+> *(7) Výpovědí svědka nelze nahrazovat úkony v řízení podle § 107 až 109.*
 
 **Výklad:**
 
@@ -879,13 +889,23 @@ Důsledkem nesoučinnosti je možnost zastavení řízení (§ 113 odst. 1 písm
 
 ### § 105 — Pohovor
 
-> **§ 105** *(výňatek — osm odstavců)*
+> **§ 105**
 >
 > *(1) Vyskytnou-li se v průběhu řízení skutečnosti, které je třeba objasnit pro zjištění skutečného stavu věci, provede Úřad s účastníkem řízení pohovor; s účastníkem řízení, který žádá o vydání osvědčení fyzické osoby pro stupeň utajení Přísně tajné, provede Úřad pohovor vždy.*
 >
+> *(2) Účastník řízení se k pohovoru předvolá písemně, a to nejméně s pětidenním předstihem. Z předvolání musí být zřejmé, kdy, kam, v jaké věci a z jakého důvodu se má účastník řízení dostavit a jaké jsou právní následky nedostavení se. Lhůtu uvedenou ve větě první je možné se souhlasem účastníka řízení zkrátit.*
+>
 > *(3) Při pohovoru je účastník řízení povinen vypovídat osobně; advokát či jiný zástupce účastníka řízení není oprávněn do průběhu pohovoru zasahovat.*
 >
+> *(4) Před započetím pohovoru musí být účastník řízení písemně poučen o významu a účelu pohovoru, o způsobu jeho provedení a o případných následcích odmítnutí vypovídat nebo nepravdivé nebo neúplné výpovědi.*
+>
+> *(5) O provedení pohovoru se vyhotoví protokol. Protokol musí obsahovat místo, čas a obsah pohovoru a údaje umožňující identifikaci účastníka řízení, úřední osoby a dalších osob zúčastněných na pohovoru.*
+>
+> *(6) Protokol podepisuje účastník řízení, úřední osoba, popřípadě zapisovatel a tlumočník; podpis účastníka řízení musí být na každé straně protokolu. Odepření podpisu a důvody tohoto odepření se v protokolu zaznamenají. Na žádost účastníka řízení úřední osoba vydá kopii protokolu. Pohovor může být zaznamenán na zvukový nebo obrazový nosič pouze se souhlasem účastníka řízení; záznam se provede vždy, pokud o to účastník řízení požádá. Tento záznam je součástí bezpečnostního svazku (§ 124).*
+>
 > *(7) Při pohovoru nesmějí být sdělovány utajované informace.*
+>
+> *(8) Pohovor s účastníkem řízení, který dlouhodobě pobývá v zahraničí, lze nahradit jeho písemným vyjádřením. Úřad této osobě sdělí skutečnosti, které mají být předmětem vyjádření, a poučí ji podle odstavce 4. Podpis účastníka řízení musí být na každé straně písemného vyjádření.*
 
 **Výklad:**
 
@@ -927,15 +947,19 @@ Standardní úprava znaleckého dokazování podle zákona č. 254/2019 Sb., o z
 
 ### § 107–§ 111 — Úkony v řízení
 
-> **§ 107 — Úkony v řízení o vydání osvědčení FO**
->
-> *(výňatek)*
+> **§ 107**
 >
 > *(1) V řízení o vydání osvědčení fyzické osoby pro stupeň utajení Důvěrné si Úřad k ověření podmínek pro vydání tohoto osvědčení vyžádá potřebnou informaci od příslušného orgánu státu, právnické osoby nebo podnikající fyzické osoby, pokud s ní nakládají.*
 >
-> *(2) V řízení o vydání osvědčení fyzické osoby pro stupeň utajení Tajné Úřad provede úkony podle odstavce 1 a dále ověří identitu účastníka řízení. Pokud získané informace nepostačují pro rozhodnutí ve věci a Úřad je nemůže ověřit nebo doplnit, lze je ověřit nebo doplnit na žádost Úřadu šetřením příslušné zpravodajské služby nebo policie […].*
+> *(2) V řízení o vydání osvědčení fyzické osoby pro stupeň utajení Tajné Úřad provede úkony podle odstavce 1 a dále ověří identitu účastníka řízení. Pokud získané informace nepostačují pro rozhodnutí ve věci a Úřad je nemůže ověřit nebo doplnit, lze je ověřit nebo doplnit na žádost Úřadu šetřením příslušné zpravodajské služby nebo policie k účastníkovi řízení, k manželovi nebo k partnerovi52) a k osobám starším 18 let žijícím s účastníkem řízení v domácnosti. Úřad v žádosti vymezí okolnosti, ke kterým má být šetření provedeno.*
 >
 > *(3) V řízení o vydání osvědčení fyzické osoby pro stupeň utajení Přísně tajné Úřad provede úkony podle odstavce 2 a dále požádá příslušnou zpravodajskou službu o šetření k výskytu bezpečnostních rizik v prostředí, v němž se účastník řízení pohybuje.*
+>
+> *(4) Pokud informace získané úkony v řízení o vydání osvědčení fyzické osoby pro stupeň utajení Důvěrné nepostačují pro rozhodnutí ve věci, Úřad postupuje podle odstavců 2 a 3. Pokud informace získané úkony v řízení o vydání osvědčení fyzické osoby pro stupeň utajení Tajné nepostačují pro rozhodnutí ve věci, Úřad postupuje podle odstavce 3. V těchto případech si Úřad vyžádá písemný souhlas účastníka řízení a zároveň jej poučí o právních následcích, které nastanou, jestliže Úřad písemný souhlas neobdrží. Úřad v žádosti zpravodajské službě nebo policii vymezí okolnosti, ke kterým má být šetření provedeno.*
+>
+> *(5) Za účelem šetření prováděného zpravodajskou službou nebo policií podle odstavců 2 až 4 poskytne Úřad informace, kterými k předmětu šetření disponuje. Žádosti Úřadu jsou zpravodajské služby a policie povinny vyhovět a podat Úřadu zprávu o výsledcích požadovaných šetření. Zpravodajské služby a policie se ve zprávě o výsledcích šetření vyjádří k předmětu šetření a uvedou další informace, kterými disponují a které by mohly mít vliv na rozhodnutí ve věci.*
+>
+> *(6) Je-li prováděno řízení na základě žádosti podle § 94 odst. 3, je Úřad oprávněn provést úkony podle odstavců 1 až 4. Ustanovení odstavce 4 věty třetí platí obdobně.*
 
 **Výklad:**
 
@@ -984,21 +1008,31 @@ Konkretizací průběžného prověřování je oznamovací povinnost odpovědn�
 
 ### § 112 — Přerušení řízení
 
-> **§ 112** *(výňatek — šest odstavců)*
+> **§ 112**
 >
 > *(1) Úřad usnesením přeruší řízení, jestliže*
 >
 > *- a) probíhá jiné řízení, které řeší otázku významnou pro vydání rozhodnutí podle tohoto zákona,*
 >
-> *- b) účastník řízení byl Úřadem vyzván, aby ve stanovené lhůtě odstranil nedostatky žádosti […], anebo aby doplnil jiné Úřadem požadované údaje, nebo jestliže byl předvolán k pohovoru,*
+> *- b) účastník řízení byl Úřadem vyzván, aby ve stanovené lhůtě odstranil nedostatky žádosti fyzické osoby, žádosti podnikatele, žádosti o doklad nebo v rozkladu, anebo aby doplnil jiné Úřadem požadované údaje, nebo jestliže byl předvolán k pohovoru,*
 >
 > *- c) účastník řízení byl Úřadem vyzván, aby ve stanovené lhůtě určil odpovědnou osobu,*
 >
-> *- d) nelze provést výslech svědka, jehož výpověď je důležitá […],*
+> *- d) nelze provést výslech svědka, jehož výpověď je důležitá pro úplné a přesné zjištění skutečného stavu věci v rozsahu, který je nezbytný pro rozhodnutí,*
 >
 > *- e) účastník řízení o žádosti o přerušení požádá z důvodu, který mu dlouhodobě brání v účasti na řízení, a to na dobu nejdéle 60 dnů; účastník řízení o žádosti může požádat o přerušení řízení nejvýše dvakrát, nebo*
 >
 > *- f) Úřadem bylo vydáno usnesení o ustanovení znalce pro vypracování znaleckého posudku.*
+>
+> *(2) Úřad může usnesením řízení přerušit v případě odmítnutí nahlédnutí do spisu podle § 138 odst. 2.*
+>
+> *(3) Řízení se přerušuje dnem předání usnesení o přerušení řízení držiteli poštovní licence nebo zvláštní poštovní licence, dnem osobního převzetí takového usnesení účastníkem řízení, doručuje-li Úřad, nebo dodáním do datové schránky účastníka řízení54).*
+>
+> *(4) Proti usnesení o přerušení řízení není rozklad přípustný.*
+>
+> *(5) Během přerušení řízení činí Úřad a účastník řízení úkony, kterých je zapotřebí k odstranění důvodů přerušení podle odstavce 1. Úřad pokračuje v řízení, jakmile pominuly překážky, pro které bylo řízení přerušeno, případně jakmile uplynula lhůta uvedená v odstavci 1 písm. e) nebo se účastník řízení dostavil k pohovoru. Účastníka řízení o tomto písemně vyrozumí, s výjimkou pokračování řízení provedením pohovoru.*
+>
+> *(6) Po dobu přerušení řízení lhůty podle § 117 a § 131 odst. 6 neběží.*
 
 **Výklad:**
 
@@ -1021,29 +1055,35 @@ Konkretizací průběžného prověřování je oznamovací povinnost odpovědn�
 
 ### § 113 — Zastavení řízení
 
-> **§ 113** *(výňatek)*
+> **§ 113**
 >
 > *(1) Úřad usnesením řízení zastaví, jestliže*
 >
-> *- a) účastník řízení vzal žádost […] zpět,*
+> *- a) účastník řízení vzal žádost podle § 94, 96 nebo 99 zpět,*
 >
 > *- b) účastník řízení nesplňuje podmínky stanovené v § 12 odst. 1 písm. b) a d) nebo § 81 odst. 1 písm. b), c) nebo d),*
 >
-> *- c) účastník řízení ve stanovené lhůtě neodstranil nedostatky v žádosti […],*
+> *- c) účastník řízení ve stanovené lhůtě neodstranil nedostatky v žádosti fyzické osoby, v žádosti podnikatele nebo v žádosti o doklad,*
 >
-> *- d) účastník řízení se bez omluvy […] nedostaví opětovně k pohovoru,*
+> *- d) účastník řízení se bez omluvy, obsahující závažné důvody, nedostaví opětovně k pohovoru,*
 >
 > *- e) účastník řízení nedal souhlas podle § 107 odst. 4, § 108 odst. 7 nebo § 109 odst. 2,*
 >
 > *- f) účastník řízení ve stanovené lhůtě neurčil odpovědnou osobu,*
 >
-> *- g) není možné zjistit úplně a přesně skutečný stav věci […], proto, že účastník řízení se dlouhodobě zdržuje nebo zdržoval na území cizího státu,*
+> *- g) není možné zjistit úplně a přesně skutečný stav věci v rozsahu, který je nezbytný pro rozhodnutí, proto, že účastník řízení se dlouhodobě zdržuje nebo zdržoval na území cizího státu,*
 >
-> *- h) účastník řízení podal nepravdivou nebo neúplnou výpověď nebo neposkytuje jinou nezbytnou součinnost […],*
+> *- h) účastník řízení podal nepravdivou nebo neúplnou výpověď nebo neposkytuje jinou nezbytnou součinnost a na základě daného stavu věci nelze rozhodnout,*
 >
 > *- i) účastník řízení zemřel, byl prohlášen za mrtvého, byl zrušen nebo zanikl, nebo*
 >
 > *- j) v řízení o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu odpadl jeho důvod či předmět.*
+>
+> *(2) Úřad může řízení o vydání osvědčení fyzické osoby nebo dokladu zastavit na základě oznámení odpovědné osoby podle § 67 odst. 1 písm. f) nebo § 86 písm. c).*
+>
+> *(3) Proti usnesení o zastavení řízení podle odstavce 1 písm. a), b), e), f), g), i) a j) není rozklad přípustný.*
+>
+> *Zajištění účelu a průběhu řízení*
 
 **Výklad:**
 
@@ -1097,7 +1137,7 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 
 ### § 117 — Lhůty pro provedení řízení
 
-> **§ 117** *(výňatek)*
+> **§ 117**
 >
 > *(1) Úřad provede úkon podle § 121 v případě řízení o vydání osvědčení fyzické osoby ode dne jeho zahájení ve lhůtě*
 >
@@ -1116,6 +1156,28 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 > *- c) 10 měsíců pro stupeň utajení Přísně tajné.*
 >
 > *(3) Úřad provede úkon podle § 121 v případě řízení o vydání dokladu ve lhůtě 75 dnů ode dne jeho zahájení.*
+>
+> *(4) Příslušná zpravodajská služba a policie postoupí Úřadu výsledky šetření provedeného podle § 107 odst. 2 věty druhé a § 107 odst. 3 ode dne doručení jeho žádosti ve lhůtě*
+>
+> *- a) 4 měsíců pro stupeň utajení Tajné,*
+>
+> *- b) 6 měsíců pro stupeň utajení Přísně tajné.*
+>
+> *(5) Příslušná zpravodajská služba a policie postoupí Úřadu výsledky šetření provedeného podle § 108 odst. 5 ode dne doručení jeho žádosti ve lhůtě*
+>
+> *- a) 3 měsíců pro stupeň utajení Důvěrné,*
+>
+> *- b) 4 měsíců pro stupeň utajení Tajné,*
+>
+> *- c) 6 měsíců pro stupeň utajení Přísně tajné.*
+>
+> *(6) Orgán státu, právnická osoba nebo podnikající fyzická osoba je povinna ve lhůtě 30 dnů ode dne doručení žádosti Úřadu podle § 107, 108 nebo 109 bezplatně vyhovět jeho žádosti o poskytnutí informace.*
+>
+> *(7) Udělí-li fyzická osoba souhlas s ověřením informací podle § 107 odst. 4 nebo § 109 odst. 2, anebo udělí-li podnikatel souhlas podle § 108 odst. 7, vztahují se na dané řízení lhůty stanovené pro stupeň utajení, k jehož úkonům byl souhlas udělen.*
+>
+> *(8) Lhůty podle odstavců 1 až 6 neběží po dobu, kdy je vyhlášen krizový stav.*
+>
+> *(9) V případě rozhodnutí ředitele Úřadu o rozkladu vydaného podle § 131 odst. 6 běží lhůty podle odstavců 1 až 3 ode dne doručení rozhodnutí účastníkovi řízení.*
 
 **Výklad:**
 
@@ -1152,13 +1214,13 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 
 > **§ 118**
 >
+> *(1) Nemůže-li zpravodajská služba nebo policie sdělit Úřadu výsledky šetření ve lhůtách podle § 117 odst. 4 a 5, oznámí tuto skutečnost Úřadu s uvedením důvodů pro nedodržení těchto lhůt.*
+>
+> *(2) Nemůže-li orgán státu, právnická osoba nebo podnikající fyzická osoba informaci poskytnout ve lhůtě uvedené v § 117 odst. 6, oznámí tuto skutečnost Úřadu.*
+>
 > *(3) Nemůže-li Úřad na základě oznámení podle odstavce 1 nebo 2 rozhodnout ve lhůtách podle § 117 odst. 1 až 3, ředitel Úřadu lhůtu přiměřeně, nejvýše však dvakrát, prodlouží a účastníka řízení o tom, s uvedením důvodů, písemně vyrozumí.*
 >
-> **§ 119**
->
-> *(1) Úřad určí účastníkovi řízení přiměřenou lhůtu k provedení úkonu, pokud ji nestanoví zákon a je-li toho zapotřebí. […]*
->
-> *(6) Zmešká-li účastník řízení ze závažných důvodů lhůtu, Úřad zmeškání lhůty usnesením promine, pokud o to účastník řízení požádá do 5 dnů ode dne, kdy pominula příčina zmeškání, a učiní-li v téže lhůtě zmeškaný úkon. […]*
+> *(4) Doba prodloužení lhůty podle odstavce 3 nesmí být jednorázově delší, než je doba stanovená pro provedení řízení podle § 117.*
 
 **Výklad:**
 
@@ -1175,9 +1237,27 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 
 ### § 120 — Doručování
 
-> **§ 120** *(výňatek — devět odstavců)*
+> **§ 120**
 >
-> *(1) Rozhodnutí a jiné písemnosti doručuje Úřad sám, dodáním do datové schránky54) nebo prostřednictvím držitele poštovní licence nebo zvláštní poštovní licence […]. Doručování do zahraničí se zpravidla provádí prostřednictvím Ministerstva zahraničních věcí. […] Všechny písemnosti se doručují do vlastních rukou. Má-li účastník řízení zástupce, doručují se písemnosti pouze zástupci; v případě osobních úkonů se písemnosti doručují také účastníku řízení.*
+> *(1) Rozhodnutí a jiné písemnosti doručuje Úřad sám, dodáním do datové schránky54) nebo prostřednictvím držitele poštovní licence nebo zvláštní poštovní licence, kterému z poštovní smlouvy17) vyplývá povinnost doručit písemnost způsobem odpovídajícím požadavkům tohoto zákona. Doručování do zahraničí se zpravidla provádí prostřednictvím Ministerstva zahraničních věcí. U příslušníků nebo zaměstnanců ozbrojených sil a bezpečnostních sborů se doručování do zahraničí může provádět prostřednictvím příslušného bezpečnostního ředitele. Všechny písemnosti se doručují do vlastních rukou. Má-li účastník řízení zástupce, doručují se písemnosti pouze zástupci; v případě osobních úkonů se písemnosti doručují také účastníku řízení. Doručování zastoupenému nemá účinky pro běh lhůt. V případě zastavení řízení podle § 113 odst. 1 písm. i) se usnesení nedoručuje.*
+>
+> *(2) Odepře-li adresát písemnost převzít, držitel poštovní licence nebo zvláštní poštovní licence tuto skutečnost vyznačí na doručence spolu s datem a písemnost Úřadu vrátí. Písemnost se považuje za doručenou dnem, kdy bylo její převzetí adresátem odepřeno; doručuje-li Úřad, odepření převzetí písemnosti na ni vyznačí obdobně.*
+>
+> *(3) Nebyl-li adresát v místě doručení zastižen, doručovatel uloží zásilku u Úřadu nebo v místně příslušné provozovně držitele poštovní licence nebo zvláštní poštovní licence. Zásilka se uloží po dobu 10 dnů. Adresát se vyzve vložením oznámení do domovní schránky nebo jiným vhodným způsobem, aby si písemnost vyzvedl. Nevyzvedne-li si adresát písemnost do 10 dnů od uložení, považuje se poslední den lhůty za den doručení, i když se adresát o uložení nedozvěděl.*
+>
+> *(4) Místem doručení u fyzické osoby je adresa na území České republiky určená touto osobou. Pobývá-li fyzická osoba dlouhodobě v zahraničí ve státním zájmu, může být místem doručení i adresa v zahraničí.*
+>
+> *(5) Je-li písemnost doručována adresátu do zahraničí, lhůty podle tohoto zákona v době doručování neběží.*
+>
+> *(6) Fyzické osobě lze písemnost doručit, kdekoli bude zastižena. Odepře-li fyzická osoba písemnost převzít, postupuje se podle odstavce 2 obdobně.*
+>
+> *(7) Právnické osobě a podnikající fyzické osobě se písemnost doručuje na adresu jejího sídla. Za právnickou osobu je oprávněna písemnost převzít odpovědná osoba nebo pověřený zaměstnanec přijímající písemnosti.*
+>
+> *(8) Osobám neznámého pobytu nebo sídla a osobám, jimž se prokazatelně nedaří doručovat, se může doručovat veřejnou vyhláškou. Doručení veřejnou vyhláškou se provede tak, že se písemnost, popřípadě oznámení o možnosti převzít písemnost, vyvěsí na úřední desce Úřadu a na písemnost se vyznačí den vyvěšení. Patnáctým dnem po vyvěšení se písemnost považuje za doručenou, byla-li v této lhůtě splněna i povinnost zveřejnění podle odstavce 9.*
+>
+> *(9) Úřad zřizuje úřední desku, která musí být nepřetržitě veřejně přístupná. Obsah úřední desky se zveřejňuje i na internetových stránkách Úřadu.*
+>
+> *Rozhodnutí*
 
 **Výklad:**
 
@@ -1205,15 +1285,13 @@ Možné u **osob neznámého pobytu** nebo osob, jimž se prokazatelně nedaří
 
 > **§ 121**
 >
-> *(1) Pokud Úřad žádosti […] vyhoví, nevydává písemné rozhodnutí. V těchto případech Úřad vydá osvědčení […] a doručí jej účastníku řízení; kopie založí do bezpečnostního svazku.*
+> *(1) Pokud Úřad žádosti fyzické osoby, žádosti podnikatele nebo žádosti o doklad vyhoví, nevydává písemné rozhodnutí. V těchto případech Úřad vydá osvědčení fyzické osoby, osvědčení podnikatele nebo doklad a doručí jej účastníku řízení; kopie založí do bezpečnostního svazku (§ 124).*
 >
-> *(2) Pokud Úřad žádosti […] nevyhoví, vydá rozhodnutí o nevydání osvědčení […].*
+> *(2) Pokud Úřad žádosti fyzické osoby, žádosti podnikatele nebo žádosti o doklad nevyhoví, vydá rozhodnutí o nevydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu, které založí do bezpečnostního svazku a jeho stejnopis doručí účastníku řízení.*
 >
-> **§ 122 — Náležitosti rozhodnutí**
+> *(3) Pokud Úřad zruší platnost osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu, vydá o tom rozhodnutí, které založí do bezpečnostního svazku a jeho stejnopis doručí účastníku řízení.*
 >
-> *(1) Rozhodnutí se vydává v písemné podobě a obsahuje výrokovou část, odůvodnění a poučení účastníka řízení.*
->
-> *(3) V odůvodnění se uvedou důvody vydání rozhodnutí, podklady pro jeho vydání, úvahy, kterými se Úřad řídil při jejich hodnocení a při použití právních předpisů. Jsou-li některé z důvodů vydání rozhodnutí utajovanými informacemi, uvede se v odůvodnění pouze odkaz na podklady pro vydání rozhodnutí a jejich stupeň utajení.*
+> *(4) V případě řízení provedeného na základě žádosti příslušného orgánu Evropské unie nebo mezinárodní organizace, jejímž je Česká republika členem podle § 93 odst. 1 písm. c), zašle Úřad tomuto orgánu oznámení o výsledku řízení.*
 
 **Výklad:**
 
@@ -1241,9 +1319,9 @@ Standardně: výrok, odůvodnění, poučení, označení Úřadu, datum, razít
 
 > **§ 124**
 >
-> *(1) Bezpečnostní svazek obsahuje materiály vztahující se k řízení a hlášení změn a musí být označen spisovou značkou; člení se na utajovanou a neutajovanou část. […]*
+> *(1) Bezpečnostní svazek obsahuje materiály vztahující se k řízení a hlášení změn a musí být označen spisovou značkou; člení se na utajovanou a neutajovanou část. Bezpečnostní svazek tvoří podklady pro zahájení řízení, protokoly, záznamy, písemná vyhotovení rozhodnutí a další písemnosti, které se vztahují k dané věci, včetně obrazových a zvukových záznamů a záznamů na elektronických médiích. Bezpečnostní svazek musí obsahovat soupis všech svých součástí s určením data, kdy byly do bezpečnostního svazku vloženy.*
 >
-> *(2) […] vyřazuje se po uplynutí 11 let od data posledního pravomocného rozhodnutí v řízení. Zpravodajské služby vyřazují své bezpečnostní svazky nejdříve po uplynutí 11 let od data posledního pravomocného rozhodnutí v řízení.*
+> *(2) Bezpečnostní svazek zakládá, vede, doplňuje, eviduje a vyřazuje Úřad; vyřazuje se po uplynutí 11 let od data posledního pravomocného rozhodnutí v řízení. Zpravodajské služby vyřazují své bezpečnostní svazky nejdříve po uplynutí 11 let od data posledního pravomocného rozhodnutí v řízení.*
 >
 > *(3) Údaje uvedené v bezpečnostním svazku je možné využívat pouze pro potřeby plnění úkolů podle tohoto zákona a neposkytují se podle zákona upravujícího svobodný přístup k informacím.*
 >
@@ -1335,9 +1413,23 @@ Proti **oběma** těmto rozhodnutím **lze podat (nový) rozklad** — zajiště
 >
 > *(1) O rozkladu rozhoduje, nejde-li o postup podle § 128 odst. 1 nebo § 129 odst. 1, ředitel Úřadu na základě návrhu rozkladové komise.*
 >
-> *(2) Členy rozkladové komise jmenuje a odvolává ředitel Úřadu. Rozkladová komise má nejméně pět členů. Více než polovina členů komise musí mít ukončené právnické vysokoškolské vzdělání v magisterském studijním programu právo a právní věda. Člen rozkladové komise musí být držitelem platného osvědčení fyzické osoby a státním občanem České republiky. […]*
+> *(2) Členy rozkladové komise jmenuje a odvolává ředitel Úřadu. Rozkladová komise má nejméně pět členů. Více než polovina členů komise musí mít ukončené právnické vysokoškolské vzdělání v magisterském studijním programu právo a právní věda. Člen rozkladové komise musí být držitelem platného osvědčení fyzické osoby a státním občanem České republiky. Rozkladová komise je ustavena vždy na dobu 5 let; předsedou rozkladové komise je vždy jeden z členů této komise po dobu jednoho kalendářního roku. Rozkladová komise může jednat, je-li přítomna nadpoloviční většina jejích členů; usnesení se přijímá nadpoloviční většinou jejích přítomných členů.*
 >
-> *(3) Většinu členů rozkladové komise tvoří zaměstnanci státu zařazení v jiných orgánech státu než v Úřadu […].*
+> *(3) Většinu členů rozkladové komise tvoří zaměstnanci státu zařazení v jiných orgánech státu než v Úřadu; to neplatí pro složení rozkladové komise v řízení podle § 140 odst. 1 písm. a).*
+>
+> *(4) Členství v rozkladové komisi končí*
+>
+> *- a) uplynutím funkčního období této komise,*
+>
+> *- b) odvoláním z funkce,*
+>
+> *- c) vzdáním se funkce,*
+>
+> *- d) úmrtím nebo prohlášením osoby za mrtvou.*
+>
+> *(5) Za činnost v rozkladové komisi nepřísluší jejímu členovi odměna. Úřad může členům rozkladové komise poskytovat náhradu cestovních výdajů podle zákona upravujícího cestovní náhrady40).*
+>
+> *(6) O podjatosti člena rozkladové komise z důvodů uvedených v § 90 odst. 1 rozhoduje ředitel Úřadu usnesením; proti tomuto usnesení není rozklad přípustný. V případě, že ředitel Úřadu shledá, že jsou u člena rozkladové komise dány skutečnosti, pro které lze pochybovat o jeho nepodjatosti, vyloučí tohoto člena rozkladové komise z projednávání daného rozkladu.*
 
 **Výklad:**
 
@@ -1361,7 +1453,37 @@ V řízení o rozkladu proti rozhodnutí **zpravodajské služby** se nepoužije
 
 ### § 131 — Rozhodnutí ředitele Úřadu o rozkladu
 
-> **§ 131** *(výňatek)*
+> **§ 131**
+>
+> *(1) V řízení o rozkladu proti rozhodnutí Úřadu o nevydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu nebo rozhodnutí Úřadu o zastavení řízení ředitel Úřadu řízení zastaví a napadené rozhodnutí zruší, jestliže*
+>
+> *- a) účastník řízení vzal žádost podle § 94, 96 nebo 99 zpět,*
+>
+> *- b) účastník řízení nesplňuje podmínky stanovené v § 12 odst. 1 písm. b) a d) nebo § 81 odst. 1 písm. b), c) nebo d), nebo*
+>
+> *- c) účastník řízení zemřel, byl prohlášen za mrtvého, byl zrušen nebo zanikl;*
+>
+> *řízení o rozkladu je zastaveno dnem, kdy usnesení o zastavení řízení, které se pouze poznamená do bezpečnostního svazku, nabylo právní moci.*
+>
+> *(2) V řízení o rozkladu proti rozhodnutí Úřadu o nevydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu nebo rozhodnutí Úřadu o zastavení řízení ředitel Úřadu usnesením řízení o rozkladu zastaví, jestliže*
+>
+> *- a) účastník řízení vzal rozklad zpět, nebo*
+>
+> *- b) účastník řízení ve stanovené lhůtě neodstranil nedostatky rozkladu.*
+>
+> *(3) V řízení o rozkladu proti rozhodnutí Úřadu o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu ředitel Úřadu usnesením řízení o rozkladu zastaví, jestliže*
+>
+> *- a) účastník řízení vzal rozklad zpět,*
+>
+> *- b) účastník řízení ve stanovené lhůtě neodstranil nedostatky rozkladu, nebo*
+>
+> *- c) účastník řízení zemřel, byl prohlášen za mrtvého, byl zrušen nebo zanikl;*
+>
+> *řízení o rozkladu je zastaveno dnem, kdy usnesení o zastavení řízení, které se pouze poznamená do bezpečnostního svazku, nabylo právní moci.*
+>
+> *(4) Proti rozhodnutí ředitele Úřadu podle odstavců 1 až 3 nelze podat rozklad. Dnem právní moci usnesení ředitele Úřadu o zastavení řízení o rozkladu podle odstavců 2 a 3 nabývá právní moci rovněž napadené rozhodnutí.*
+>
+> *(5) Napadené rozhodnutí ředitel Úřadu zruší, pokud vyhoví v plném rozsahu rozkladu podanému proti rozhodnutí o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu.*
 >
 > *(6) Napadené rozhodnutí ředitel Úřadu zruší a věc vrátí k novému projednání a rozhodnutí, pokud*
 >
@@ -1371,7 +1493,7 @@ V řízení o rozkladu proti rozhodnutí **zpravodajské služby** se nepoužije
 >
 > *(7) Rozklad ředitel Úřadu zamítne a rozhodnutí potvrdí, pokud neshledá důvod pro postup podle odstavců 1 až 6.*
 >
-> *(8) Ředitel Úřadu v odůvodnění rozhodnutí o rozkladu podle odstavce 6 vysloví též právní názor, kterým je při novém projednání věci Úřad vázán […].*
+> *(8) Ředitel Úřadu v odůvodnění rozhodnutí o rozkladu podle odstavce 6 vysloví též právní názor, kterým je při novém projednání věci Úřad vázán, pokud se tento právní názor vlivem změny právního stavu nebo skutkových okolností nestane bezpředmětným. Při novém projednání věci může Úřad využít podkladů původního rozhodnutí, včetně podkladů rozhodnutí o rozkladu, nevylučuje-li to důvod řízení.*
 >
 > *(9) Ředitel Úřadu o rozkladu rozhodne do 3 měsíců ode dne doručení rozkladu.*
 
@@ -1401,7 +1523,7 @@ V případě kasačního rozhodnutí (odst. 6) **právní názor ředitele** je 
 
 > **§ 132**
 >
-> *Dnem právní moci rozhodnutí o rozkladu podle § 129 odst. 1 anebo § 131 odst. 5 nebo 6 se platnost zrušeného osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu obnoví. Současně s rozhodnutím o rozkladu se účastníkovi řízení zašle zpět jeho osvědčení […]; doba platnosti osvědčení nebo dokladu zůstává zachována.*
+> *Dnem právní moci rozhodnutí o rozkladu podle § 129 odst. 1 anebo § 131 odst. 5 nebo 6 se platnost zrušeného osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu obnoví. Současně s rozhodnutím o rozkladu se účastníkovi řízení zašle zpět jeho osvědčení fyzické osoby, osvědčení podnikatele nebo doklad, odevzdané podle § 66 odst. 1 písm. b), § 68 písm. a) nebo § 87 odst. 1 písm. a); doba platnosti osvědčení nebo dokladu zůstává zachována.*
 
 **Výklad:**
 
@@ -1417,7 +1539,7 @@ Zásadní účinek úspěšného rozkladu: **platnost se obnoví**, s **zachovan
 >
 > *(1) Žalobu podle jiného právního předpisu42) lze podat proti rozhodnutí ředitele Úřadu podle § 131 odst. 2 písm. b), § 131 odst. 3 písm. b) a § 131 odst. 5 až 7.*
 >
-> *(2) Dokazování se v soudním řízení provádí tak, aby byla šetřena povinnost zachovávat mlčenlivost o utajovaných informacích obsažených ve výsledcích šetření nebo v údajích z evidencí zpravodajských služeb nebo policie. K těmto okolnostem lze provést důkaz výslechem jen tehdy, byl-li ten, kdo povinnost mlčenlivosti má, této povinnosti příslušným orgánem zproštěn; zprostit mlčenlivosti nelze pouze v případě, kdy by mohlo dojít k ohrožení nebo vážnému narušení činnosti zpravodajských služeb nebo policie […].*
+> *(2) Dokazování se v soudním řízení provádí tak, aby byla šetřena povinnost zachovávat mlčenlivost o utajovaných informacích obsažených ve výsledcích šetření nebo v údajích z evidencí zpravodajských služeb nebo policie. K těmto okolnostem lze provést důkaz výslechem jen tehdy, byl-li ten, kdo povinnost mlčenlivosti má, této povinnosti příslušným orgánem zproštěn; zprostit mlčenlivosti nelze pouze v případě, kdy by mohlo dojít k ohrožení nebo vážnému narušení činnosti zpravodajských služeb nebo policie; přiměřeně se postupuje i v případech, kdy se důkaz provádí jinak než výslechem.*
 >
 > *(3) Úřad označí okolnosti uvedené v odstavci 2, o kterých tvrdí, že ve vztahu k nim nelze zprostit mlčenlivosti, a předseda senátu rozhodne, že části spisu, k nimž se tyto okolnosti váží, budou odděleny, jestliže činnost zpravodajských služeb nebo policie může být ohrožena nebo vážně narušena; do oddělených částí spisu účastník řízení, jeho zástupce a osoby zúčastněné na řízení nahlížet nemohou. V ostatním nejsou ustanovení zvláštního právního předpisu42) o dokazování, označování částí spisu a nahlížení do něj dotčena.*
 
@@ -1526,17 +1648,17 @@ Zaměstnanci NBÚ podléhají **zákoníku práce** a Platovému řádu Úřadu,
 >
 > *Úřad*
 >
-> *- a) rozhoduje o žádosti fyzické osoby, žádosti podnikatele a žádosti o doklad a o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele a dokladu a vydává osvědčení pro cizí moc […],*
+> *- a) rozhoduje o žádosti fyzické osoby, žádosti podnikatele a žádosti o doklad a o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele a dokladu a vydává osvědčení pro cizí moc, s výjimkou případů stanovených tímto zákonem [§ 140 odst. 1 písm. a) a § 141 odst. 1], a vydává osvědčení fyzické osoby podle § 56a,*
 >
-> *- b) vykonává kontrolu v oblasti ochrany utajovaných informací a bezpečnostní způsobilosti (§ 143) a metodickou činnost […],*
+> *- b) vykonává kontrolu v oblasti ochrany utajovaných informací a bezpečnostní způsobilosti (§ 143) a metodickou činnost, s výjimkou případů stanovených tímto zákonem (§ 143 odst. 4),*
 >
-> *- c) plní úkoly v oblasti ochrany utajovaných informací v souladu se závazky vyplývajícími z členství České republiky v Evropské unii, Organizaci Severoatlantické smlouvy a z mezinárodních smluv […], a provádí na žádost bezpečnostního úřadu členského státu Organizace Severoatlantické smlouvy, Evropské unie nebo jiného státu […] úkony řízení k osobě, která je v daném státě prověřována pro přístup k utajovaným informacím,*
+> *- c) plní úkoly v oblasti ochrany utajovaných informací v souladu se závazky vyplývajícími z členství České republiky v Evropské unii, Organizaci Severoatlantické smlouvy a z mezinárodních smluv, jimiž je Česká republika vázána, a provádí na žádost bezpečnostního úřadu členského státu Organizace Severoatlantické smlouvy, Evropské unie nebo jiného státu, se kterým má Česká republika uzavřenou mezinárodní smlouvu, který má v působnosti ochranu utajovaných informací, úkony řízení k osobě, která je v daném státě prověřována pro přístup k utajovaným informacím,*
 >
-> *- d) vede ústřední registr a schvaluje zřízení registrů […],*
+> *- d) vede ústřední registr a schvaluje zřízení registrů v orgánech státu, u právnických osob podle § 60b a u podnikatelů,*
 >
 > *- e) ve stanovených případech povoluje poskytování utajovaných informací v mezinárodním styku,*
 >
-> *- f) vydává na základě písemné žádosti odpovědné osoby nebo bezpečnostního ředitele kurýrní listy a v odůvodněných případech zajišťuje přepravu utajovaných informací […],*
+> *- f) vydává na základě písemné žádosti odpovědné osoby nebo bezpečnostního ředitele kurýrní listy a v odůvodněných případech zajišťuje přepravu utajovaných informací, s výjimkou utajovaných informací poskytovaných podle § 78 odst. 1,*
 >
 > *- g) provádí certifikace technického prostředku,*
 >
@@ -1598,7 +1720,7 @@ NBÚ zveřejňuje seznam osvědčení a dokladů na svých internetových strán
 >
 > *- a) zajišťuje zkoušky zvláštní odborné způsobilosti a vydává osvědčení o zvláštní odborné způsobilosti,*
 >
-> *- b) plní úkoly v souladu se závazky vyplývajícími z členství České republiky v Evropské unii, Organizaci Severoatlantické smlouvy a z mezinárodních smluv […], ve vybraných oblastech ochrany utajovaných informací,*
+> *- b) plní úkoly v souladu se závazky vyplývajícími z členství České republiky v Evropské unii, Organizaci Severoatlantické smlouvy a z mezinárodních smluv, jimiž je Česká republika vázána, ve vybraných oblastech ochrany utajovaných informací,*
 >
 > *- c) vykonává metodickou činnost,*
 >
@@ -1610,7 +1732,7 @@ NBÚ zveřejňuje seznam osvědčení a dokladů na svých internetových strán
 >
 > *- g) vyvíjí a schvaluje národní šifrové algoritmy a vytváří národní politiku kryptografické ochrany,*
 >
-> *- h) zjišťuje kompromitující vyzařování […],*
+> *- h) zjišťuje kompromitující vyzařování tam, kde se vyskytují nebo budou vyskytovat utajované informace,*
 >
 > *- i) zjišťuje v součinnosti se zpravodajskými službami a policií, zda v jednací oblasti nedochází nedovoleným použitím technických prostředků určených k získávání informací k ohrožení nebo únikům utajovaných informací,*
 >
@@ -1620,9 +1742,9 @@ NBÚ zveřejňuje seznam osvědčení a dokladů na svých internetových strán
 >
 > *- l) rozhoduje v dalších věcech a plní další úkoly na úseku ochrany utajovaných informací stanovené tímto zákonem,*
 >
-> *- m) vede a na svých internetových stránkách zveřejňuje seznam certifikátů informačního systému, kryptografického prostředku, kryptografického pracoviště a stínicí komory […],*
+> *- m) vede a na svých internetových stránkách zveřejňuje seznam certifikátů informačního systému, kryptografického prostředku, kryptografického pracoviště a stínicí komory, jejichž platnost zanikla podle § 48 odst. 4 písm. b) a d), § 49 odst. 5 písm. b), § 50 odst. 4 písm. b) a d) nebo § 51 odst. 4 písm. b) a d),*
 >
-> *- n) provádí analýzu a monitoring hrozeb […] a*
+> *- n) provádí analýzu a monitoring hrozeb, které mohou ohrozit způsobilost informačního nebo komunikačního systému nakládat s utajovanými informacemi, a zvýšení rizika využití těchto hrozeb a*
 >
 > *- o) zajišťuje výzkum a vývoj v oblasti ochrany utajovaných informací.*
 
@@ -1665,19 +1787,19 @@ NÚKIB **vyvíjí a schvaluje národní šifrové algoritmy** — klíčový atr
 
 ### § 138 — Oprávnění Úřadu
 
-> **§ 138** *(výňatek)*
+> **§ 138**
 >
 > *(1) Úřad je při plnění úkolů podle tohoto zákona oprávněn*
 >
 > *- a) zpracovávat osobní údaje v rozsahu nezbytném pro plnění úkolů podle tohoto zákona,*
 >
-> *- b) vést evidenci porušení ochrany utajovaných informací, evidenci bezpečnostních ředitelů, evidenci fyzických osob a podnikatelů, kteří mají přístup k utajovaným informacím […], evidenci fyzických osob, které jsou držiteli dokladu,*
+> *- b) vést evidenci porušení ochrany utajovaných informací, evidenci bezpečnostních ředitelů, evidenci fyzických osob a podnikatelů, kteří mají přístup k utajovaným informacím, s výjimkou příslušníků a zaměstnanců zařazených do zpravodajských služeb a vybraných policistů, evidenci fyzických osob, které jsou držiteli dokladu,*
 >
 > *- c) požadovat bezplatně poskytnutí informace u orgánu státu, právnické osoby nebo podnikající fyzické osoby a tyto informace využívat a evidovat,*
 >
 > *- d) pro účely řízení požadovat od policie a zpravodajských služeb informace získané postupy podle zvláštního právního předpisu43),*
 >
-> *- e) vyžadovat opis z evidence Rejstříku trestů […] a z evidence přestupků […],*
+> *- e) vyžadovat opis z evidence Rejstříku trestů11) a z evidence přestupků vedené Rejstříkem trestů; žádost o vydání opisu z evidence Rejstříku trestů a z evidence přestupků a opis z evidence Rejstříku trestů a z evidence přestupků se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup,*
 >
 > *- f) nahlížet do trestních a soudních spisů a dále do spisů vedených jiným orgánem veřejné moci v rámci výkonu jeho působnosti a pořizovat si z nich výpisy a kopie,*
 >
@@ -1692,6 +1814,32 @@ NÚKIB **vyvíjí a schvaluje národní šifrové algoritmy** — klíčový atr
 > *- k) vyjadřovat se k oznámení podle § 69 odst. 1 písm. r) ve lhůtě 30 dnů ode dne jeho doručení a poskytovat přehled těchto oznámení a vyjádření k nim Úřadu pro ochranu hospodářské soutěže a*
 >
 > *- l) pro rozhodování zpravodajské služby podle § 140 odst. 1, na základě její písemné žádosti, provádět úkony podle § 107 odst. 1.*
+>
+> *(2) Zpravodajská služba může nahlížení do svých spisů podle odstavce 1 písm. f) odmítnout. Nahlížení do spisů uvedených v odstavci 1 písm. f) lze dále odmítnout, pokud by jejich zpřístupnění ohrozilo důležitý zájem sledovaný orgánem veřejné moci, který spis vede, přičemž po odpadnutí důvodu odmítnutí orgán veřejné moci spis k nahlížení Úřadu zpřístupní. Z nahlížení je vyloučen bezpečnostní svazek vedený podle § 124.*
+>
+> *(3) Úřad poskytuje*
+>
+> *- a) zpravodajským službám a Ministerstvu vnitra jedenkrát měsíčně seznam*
+>
+> *- 1. osvědčení fyzických osob, osvědčení podnikatelů a dokladů s uvedením informace o datu platnosti a datu zániku jejich platnosti,*
+>
+> *- 2. osob, u kterých rozhodl o nevydání veřejné listiny uvedené v bodu 1 nebo kterým byla platnost této listiny zrušena, a*
+>
+> *- 3. podnikatelů, k nimž obdržel podle § 15a odst. 2 nebo 3 prohlášení podnikatele, a*
+>
+> *- b) policii, Generální inspekci bezpečnostních sborů, Generálnímu ředitelství cel a Vojenské policii jedenkrát měsíčně seznam podle písmene a) bodů 1 a 3.*
+>
+> *(4) Způsob ochrany informací poskytovaných podle odstavce 3 písm. b), jejich poskytování a podmínky dalšího nakládání se stanoví dohodou mezi Úřadem a orgány uvedenými v odstavci 3 písm. b).*
+>
+> *(5) Úřad vydá zaměstnanci služební průkaz, který osvědčuje, že jeho držitel je zaměstnancem Úřadu; vzor služebního průkazu stanoví prováděcí právní předpis.*
+>
+> *(6) Národní úřad pro kybernetickou a informační bezpečnost je při plnění úkolů podle tohoto zákona oprávněn k činnostem podle odstavce 1 písm. a), c), g) a i), a dále je oprávněn*
+>
+> *- a) vést evidenci fyzických osob, které jsou držiteli osvědčení o zvláštní odborné způsobilosti, evidenci porušení ochrany utajovaných informací a evidenci pracovníků kryptografické ochrany a kurýrů kryptografického materiálu,*
+>
+> *- b) uzavírat smlouvu s orgánem státu nebo podnikatelem k provádění dílčích úloh při certifikaci informačních systémů, kryptografických prostředků, kryptografického pracoviště, stínících komor, k provádění školení zvláštní odborné způsobilosti pracovníků kryptografické ochrany a zjišťování možnosti výskytu kompromitujícího vyzařování tam, kde se utajované informace budou vyskytovat, a provádět výrobu kryptografických prostředků a*
+>
+> *- c) vést certifikační spis informačního systému, kryptografického prostředku, kryptografického pracoviště a stínící komory, vést seznam kontrolovaných kryptografických položek a vést dokumentaci pro provádění činností podle § 45.*
 
 **Výklad:**
 
@@ -1772,15 +1920,59 @@ Katalog umožňuje **klasifikaci konkrétní informace** podle vlastnosti, ktero
 
 ### § 140 — Zpravodajské služby
 
-> **§ 140** *(výňatek — deset odstavců)*
+> **§ 140**
 >
 > *(1) Zpravodajské služby*
 >
-> *- a) rozhodují o žádosti fyzické osoby v případě svých příslušníků, zaměstnanců a uchazečů o přijetí do služebního poměru nebo základního pracovněprávního vztahu […], a o zrušení platnosti osvědčení této fyzické osoby a vydávají osvědčení fyzické osoby podle § 56a a osvědčení fyzické osoby pro cizí moc podle § 57 […],*
+> *- a) rozhodují o žádosti fyzické osoby v případě svých příslušníků, zaměstnanců a uchazečů o přijetí do služebního poměru nebo základního pracovněprávního vztahu, s výjimkou uchazečů o přijetí do služebního poměru nebo základního pracovněprávního vztahu, kteří jsou držiteli osvědčení fyzické osoby alespoň pro požadovaný stupeň utajení, a o zrušení platnosti osvědčení této fyzické osoby a vydávají osvědčení fyzické osoby podle § 56a a osvědčení fyzické osoby pro cizí moc podle § 57; za fyzickou osobu se považuje též osoba, která žádá o zařazení do aktivní zálohy, bývalý voják z povolání, který má být zařazen do aktivní zálohy, a voják v aktivní záloze, pokud mají vykonávat službu ve služebním zařazení u Vojenského zpravodajství a nejsou zároveň držiteli osvědčení fyzické osoby vydaného Úřadem,*
 >
 > *- b) na základě písemné žádosti Úřadu v rámci své působnosti provádí šetření podle tohoto zákona.*
 >
 > *(2) Zpravodajské služby mají při rozhodování podle odstavce 1 písm. a) postavení Úřadu a odpovědná osoba zpravodajské služby postavení ředitele Úřadu. Příslušnost k úkonům se řídí podle § 5 zákona č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů.*
+>
+> *(3) Zpravodajské služby jsou při plnění úkolů podle tohoto zákona povinny oznámit neprodleně Úřadu, zjistí-li okolnosti nasvědčující tomu, že držitel osvědčení fyzické osoby, držitel osvědčení podnikatele nebo dokladu přestal splňovat podmínky pro jejich vydání, neohrozí-li to zájem sledovaný zpravodajskou službou.*
+>
+> *(4) Zpravodajské služby jsou při plnění úkolů podle tohoto zákona oprávněny*
+>
+> *- a) používat prostředky k získávání informací podle zvláštních právních předpisů44),*
+>
+> *- b) využívat údaje ze svých evidencí a údaje z evidencí poskytnutých Úřadem,*
+>
+> *- c) požadovat a využívat údaje z evidencí a materiálů vzniklých z činnosti bezpečnostních a vojenských orgánů československého státu,*
+>
+> *- d) zpracovávat osobní údaje,*
+>
+> *- e) vést evidence,*
+>
+> *- f) požadovat bezúplatně informace u orgánu státu, právnické osoby nebo podnikající fyzické osoby a využívat je,*
+>
+> *- g) vyžadovat opis a výpis z evidence Rejstříku trestů11) a opis z evidence přestupků; žádost o vydání opisu nebo výpisu z evidence Rejstříku trestů nebo opisu z evidence přestupků a opis nebo výpis z evidence Rejstříku trestů nebo opis z evidence přestupků se předávají v listinné podobě, popřípadě elektronické podobě, a to způsobem umožňujícím dálkový přístup,*
+>
+> *- h) uchovávat v informačních systémech údaje získané v rámci plnění úkolů podle tohoto zákona,*
+>
+> *- i) provádět opatření k evidenční ochraně osobních údajů fyzické osoby,*
+>
+> *- j) využívat údaje z evidence osob, kterým byl umožněn přístup k utajovaným informacím podle § 58 odst. 4,*
+>
+> *- k) v souvislosti s postupem podle odstavce 1 písm. a) požadovat další informace nad rámec položek dotazníku podle § 95 odst. 1 v rozsahu nezbytném pro ověřování podmínek pro vydání osvědčení fyzické osoby a*
+>
+> *- l) nahlížet do trestních a soudních spisů a dále do spisů vedených jiným orgánem veřejné moci v rámci výkonu jeho působnosti a pořizovat si z nich výpisy a kopie.*
+>
+> *(5) Zpravodajská služba může nahlížení do svých spisů podle odstavce 4 písm. l) odmítnout. Nahlížení do spisů uvedených v odstavci 4 písm. l) lze dále odmítnout, pokud by jejich zpřístupnění ohrozilo důležitý zájem sledovaný orgánem veřejné moci, který spis vede, přičemž po odpadnutí důvodu odmítnutí orgán veřejné moci spis k nahlížení zpravodajské službě zpřístupní. Z nahlížení je vyloučen bezpečnostní svazek vedený podle § 124.*
+>
+> *(6) Orgán veřejné správy, který je správcem informačního systému, v němž jsou zpracovávány příslušné osobní údaje, je povinen poskytnout zpravodajským službám součinnost potřebnou k provedení opatření podle odstavce 4 písm. i).*
+>
+> *(7) Ředitel zpravodajské služby vydává souhlas podle § 59 odst. 3.*
+>
+> *(8) V řízení podle odstavce 1 písm. a) se ustanovení § 105 odst. 6 věty čtvrté, § 105 odst. 7, § 112, 114 a 120 použijí přiměřeně.*
+>
+> *(9) Zpravodajská služba může usnesením řízení*
+>
+> *- a) přerušit, pokud je jí odmítnuto nahlížení do spisu podle odstavce 5, nebo*
+>
+> *- b) zastavit, pokud odpadl důvod řízení podle odstavce 1 písm. a) z důvodu nepříslušnosti a žádost fyzické osoby nebyla vzata zpět.*
+>
+> *(10) Je-li to nezbytné z důvodu ohrožení činnosti při plnění úkolů v působnosti zpravodajské služby podle jiného zákona56), může zpravodajská služba používat při ochraně utajovaných informací zvláštní postupy v oblasti administrativní bezpečnosti, fyzické bezpečnosti, bezpečnosti informačních nebo komunikačních systémů a kryptografické ochrany. Zvláštní postupy stanoví vláda; návrh zvláštních postupů předkládá vládě zpravodajská služba prostřednictvím příslušného člena vlády, a to se stanoviskem Úřadu, a jde-li o zvláštní postupy v oblasti bezpečnosti informačních nebo komunikačních systémů a kryptografické ochrany Národního úřadu pro kybernetickou a informační bezpečnost. Použitím zvláštních postupů nesmí být ohrožena ochrana utajovaných informací. Zvláštní postupy nelze používat při nakládání s utajovanými informacemi Evropské unie a Organizace Severoatlantické smlouvy a utajovanými informacemi vyžadujícími zvláštní režim nakládání.*
 
 **Výklad:**
 
@@ -1829,9 +2021,45 @@ Toto **ústavně i kompetenčně neobvyklé** ustanovení dovoluje zpravodajské
 
 ### § 141 — Ministerstvo vnitra a policie
 
-> **§ 141** *(výňatek)*
+> **§ 141**
 >
-> *(1) Ministerstvo vnitra rozhoduje o žádosti fyzické osoby v případě příslušníků policie vybraných v zájmu plnění závažných úkolů policie ministrem vnitra, s výjimkou příslušníků policie, kteří jsou držiteli osvědčení fyzické osoby alespoň pro požadovaný stupeň utajení, a o zrušení platnosti osvědčení fyzické osoby u těchto příslušníků policie a vydává osvědčení fyzické osoby podle § 56a a osvědčení fyzické osoby pro cizí moc podle § 57 […].*
+> *(1) Ministerstvo vnitra rozhoduje o žádosti fyzické osoby v případě příslušníků policie vybraných v zájmu plnění závažných úkolů policie ministrem vnitra, s výjimkou příslušníků policie, kteří jsou držiteli osvědčení fyzické osoby alespoň pro požadovaný stupeň utajení, a o zrušení platnosti osvědčení fyzické osoby u těchto příslušníků policie a vydává osvědčení fyzické osoby podle § 56a a osvědčení fyzické osoby pro cizí moc podle § 57; obdobně Ministerstvo vnitra rozhoduje o žádosti fyzické osoby, která může být vybrána v zájmu plnění závažných úkolů policie ministrem vnitra.*
+>
+> *(2) Ministerstvo vnitra má při rozhodování podle odstavce 1 postavení Úřadu a ministr vnitra postavení ředitele Úřadu.*
+>
+> *(3) Ministerstvo vnitra je při plnění úkolů podle tohoto zákona dále povinno provádět na žádost Úřadu opatření k evidenční ochraně osobních údajů držitele osvědčení fyzické osoby nebo jeho manžela, partnera52), dítěte nebo rodiče nebo osoby žijící s ním ve společné domácnosti a údajů o vozidle provozovaném nebo vlastněném těmito osobami.*
+>
+> *(4) Při plnění úkolů podle odstavců 1 až 3 je Ministerstvo vnitra oprávněno*
+>
+> *- a) využívat údaje ze svých evidencí a údaje poskytnuté Úřadem z jeho evidencí,*
+>
+> *- b) zpracovávat osobní údaje,*
+>
+> *- c) vést evidence,*
+>
+> *- d) požadovat bezúplatně informace u orgánu státu, právnické osoby nebo podnikající fyzické osoby a využívat je,*
+>
+> *- e) vyžadovat stanovisko policie k bezpečnostní spolehlivosti vybraného příslušníka policie,*
+>
+> *- f) vyžadovat opis a výpis z evidence Rejstříku trestů11) a opis z evidence přestupků; žádost o vydání opisu nebo výpisu z evidence Rejstříku trestů nebo opisu z evidence přestupků a opis nebo výpis z evidence Rejstříku trestů nebo opis z evidence přestupků se předávají v listinné podobě, popřípadě elektronické podobě, a to způsobem umožňujícím dálkový přístup,*
+>
+> *- g) nahlížet do trestních a soudních spisů a dále do spisů vedených jiným orgánem veřejné moci v rámci výkonu jeho působnosti a pořizovat si z nich výpisy a kopie.*
+>
+> *(5) Zpravodajská služba může nahlížení do svých spisů podle odstavce 4 písm. g) odmítnout. Nahlížení do spisů uvedených v odstavci 4 písm. g) lze dále odmítnout, pokud by jejich zpřístupnění ohrozilo důležitý zájem sledovaný orgánem veřejné moci, který spis vede, přičemž po odpadnutí důvodu odmítnutí orgán veřejné moci spis k nahlížení Ministerstvu vnitra zpřístupní. Z nahlížení je vyloučen bezpečnostní svazek vedený podle § 124.*
+>
+> *(6) Ministerstvo vnitra může usnesením řízení*
+>
+> *- a) přerušit, pokud je mu odmítnuto nahlížení do spisu podle odstavce 5, nebo*
+>
+> *- b) zastavit, pokud odpadl důvod řízení podle odstavce 1 z důvodu nepříslušnosti a žádost fyzické osoby nebyla vzata zpět.*
+>
+> *(7) Policie se podílí v rámci své působnosti podle zvláštního právního předpisu30) na plnění úkolů Ministerstva vnitra podle odstavce 1; na základě písemné žádosti Úřadu v rámci své působnosti provádí též úkony v řízení.*
+>
+> *(8) Policie je při plnění úkolů podle tohoto zákona oprávněna využívat údaje z evidence osob, kterým byl umožněn přístup k utajovaným informacím podle § 58 odst. 4.*
+>
+> *(9) Orgán veřejné správy, který je správcem informačního systému, v němž jsou zpracovávány příslušné osobní údaje, je povinen poskytnout Ministerstvu vnitra součinnost potřebnou k provedení opatření podle odstavce 3.*
+>
+> *(10) Ministr vnitra vydává souhlas podle § 59 odst. 3.*
 
 **Výklad:**
 
@@ -2150,7 +2378,7 @@ Tato úprava obrací obvyklý princip přestupkového práva (které se zaměřu
 
 ### § 149 — Přestupky fyzické osoby s přístupem k UI
 
-> **§ 149** *(výňatek)*
+> **§ 149**
 >
 > *(1) Fyzická osoba, která má přístup k utajované informaci, se dopustí přestupku tím, že*
 >
@@ -2166,9 +2394,9 @@ Tato úprava obrací obvyklý princip přestupkového práva (které se zaměřu
 >
 > *- f) nesplní požadavky na zpracovávání nebo ukládání utajované informace podle § 24 odst. 5 nebo 6,*
 >
-> *- g) nakládá s utajovanou informací v informačním systému, který není certifikován nebo akreditován Národním úřadem pro kybernetickou a informační bezpečnost […],*
+> *- g) nakládá s utajovanou informací v informačním systému, který není certifikován nebo akreditován Národním úřadem pro kybernetickou a informační bezpečnost nebo není certifikován pro příslušný stupeň utajení nebo není písemně schválen do provozu odpovědnou osobou nebo jí pověřenou osobou,*
 >
-> *- h) nakládá s utajovanou informací v komunikačním systému, jehož bezpečnostní projekt není schválen Národním úřadem pro kybernetickou a informační bezpečnost […],*
+> *- h) nakládá s utajovanou informací v komunikačním systému, jehož bezpečnostní projekt není schválen Národním úřadem pro kybernetickou a informační bezpečnost nebo není schválen pro stupeň utajení odeslané utajované informace,*
 >
 > *- i) zpracovává utajovanou informaci v rozporu s bezpečnostní provozní směrnicí vydanou podle § 36 odst. 2 písm. a),*
 >
@@ -2200,17 +2428,21 @@ Specifikum: u některých přestupků je trestný také **organizátor** (kromě
 
 ### § 150–§ 152 — Přestupky držitelů veřejných listin
 
-> **§ 150 — Přestupky držitele osvědčení FO**
+> **§ 150**
 >
-> *(výňatek; pět skutkových podstat — pokuty do 50 000 Kč)*
+> *(1) Fyzická osoba, která je držitelem osvědčení fyzické osoby, se dopustí přestupku tím, že*
 >
-> **§ 151 — Přestupky držitele oznámení**
+> *- a) neodevzdá neplatné osvědčení fyzické osoby podle § 66 odst. 1 písm. b),*
 >
-> *(dvě skutkové podstaty — pokuty do 30 000 Kč)*
+> *- b) neoznámí ztrátu, odcizení nebo poškození osvědčení fyzické osoby podle § 66 odst. 1 písm. c),*
 >
-> **§ 152 — Přestupky držitele dokladu**
+> *- c) neoznámí neprodleně změnu údaje uvedeného v žádosti fyzické osoby podle § 66 odst. 1 písm. d),*
 >
-> *(tři skutkové podstaty — pokuty do 50 000 Kč)*
+> *- d) jako držitel osvědčení fyzické osoby pro cizí moc neodevzdá neplatné osvědčení fyzické osoby pro cizí moc podle § 57 odst. 11, nebo*
+>
+> *- e) jako držitel osvědčení fyzické osoby pro cizí moc neoznámí ztrátu, odcizení nebo poškození osvědčení fyzické osoby pro cizí moc podle § 66 odst. 1 písm. c).*
+>
+> *(2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 Kč.*
 
 **Výklad:**
 
@@ -2230,11 +2462,87 @@ Pozoruhodný je § 151 (přestupky držitele oznámení) — jde o nejnižší p
 
 ### § 153 — Přestupky podnikatele, právnické osoby a orgánu státu
 
-> **§ 153** *(velmi rozsáhlý — výňatek)*
+> **§ 153**
 >
-> *(1) Podnikatel, který má přístup k utajované informaci, právnická osoba podle § 60b nebo orgán státu se dopustí přestupku tím, že [a)–z) — 26 skutkových podstat]…*
+> *(1) Podnikatel, který má přístup k utajované informaci, právnická osoba podle § 60b nebo orgán státu se dopustí přestupku tím, že*
 >
-> *(2) [Stejný okruh osob] se dopustí přestupku tím, že [a)–l) — 12 dalších skutkových podstat]…*
+> *- a) nezajistí podle § 28 odst. 2 nebo 4 ostrahu u objektu, ve kterém se nachází zabezpečená oblast kategorie Vyhrazené,*
+>
+> *- b) v rozporu s § 36 odst. 2 písm. a) nevydá bezpečnostní provozní směrnici, nebo nezašle Národnímu úřadu pro kybernetickou a informační bezpečnost informaci podle § 36 odst. 2 písm. b) o provozovaném zařízení uvedeném v § 36 odst. 1,*
+>
+> *- c) nezajistí písemné pověření fyzické osoby k přístupu k utajované informaci se zvláštním režimem nakládání označené „ATOMAL“,*
+>
+> *- d) nezřídí a neobsadí funkci bezpečnostního ředitele podle § 71 odst. 1 nebo obsadí funkci bezpečnostního ředitele v rozporu s § 71 odst. 4,*
+>
+> *- e) neoznámí podle § 71 odst. 2 jmenování bezpečnostního ředitele,*
+>
+> *- f) nevyznačí na utajované informaci náležitosti podle § 21 odst. 2 až 4,*
+>
+> *- g) jako původce klasifikuje a označí stupeň utajení na informaci, aniž ji lze podřadit pod položku uvedenou v katalogu oblastí utajovaných informací nebo aniž její vyzrazení nebo zneužití může způsobit újmu zájmu České republiky nebo může být pro tento zájem nevýhodné,*
+>
+> *- h) jako původce neoznámí zrušení nebo změnu stupně utajení podle § 22 odst. 6,*
+>
+> *- i) jako adresát utajované informace neoznámí změnu nebo zrušení stupně utajení podle § 22 odst. 6,*
+>
+> *- j) nezajistí podle § 28 odst. 1, 3 nebo 4 nepřetržitou ostrahu u objektu, ve kterém se nachází zabezpečená oblast nebo jednací oblast,*
+>
+> *- k) nenahlásí porušení povinnosti při ochraně utajované informace,*
+>
+> *- l) nezpracuje projekt fyzické bezpečnosti podle § 32,*
+>
+> *- m) nevede některou z evidencí stanovených v § 69 odst. 1 písm. j),*
+>
+> *- n) nepředá k zaevidování utajovanou informaci podle § 69 odst. 1 písm. n),*
+>
+> *- o) nezajistí, aby použitá opatření fyzické bezpečnosti odpovídala projektu fyzické bezpečnosti a požadavkům stanoveným podle § 31,*
+>
+> *- p) jako původce nevyznačí náležitosti podle § 21 odst. 1 a 4, ačkoli informaci lze podřadit pod položku uvedenou v katalogu oblastí utajovaných informací a její vyzrazení nebo zneužití může způsobit újmu zájmu České republiky nebo může být pro tento zájem nevýhodné,*
+>
+> *- q) jako původce nezruší nebo nezmění neprodleně stupeň utajení v případech, kdy pominul důvod pro utajení informace, důvody pro utajení neodpovídají stanovenému stupni utajení nebo byl-li stupeň utajení stanoven neoprávněně, anebo po obdržení výzvy podle § 22 odst. 9,*
+>
+> *- r) nezajistí vytvoření podmínek stanovených na základě § 33 pro ukládání a § 23 odst. 2 pro evidenci, zapůjčování nebo přepravu utajovaných informací nebo utajovaných informací se zvláštním režimem nakládání nebo pro jinou manipulaci s nimi,*
+>
+> *- s) provozuje informační systém, který není certifikován Národním úřadem pro kybernetickou a informační bezpečnost nebo není písemně schválen do provozu odpovědnou osobou nebo jí pověřenou osobou, nebo provozuje informační systém cizí moci, který není akreditován Národním úřadem pro kybernetickou a informační bezpečnost, anebo v rozporu s § 34 odst. 4 nezavede další nutné bezpečnostní funkce nebo opatření nebo jejich zavedení neoznámí Národnímu úřadu pro kybernetickou a informační bezpečnost,*
+>
+> *- t) provozuje komunikační systém, jehož bezpečnostní projekt není schválen Národním úřadem pro kybernetickou a informační bezpečnost,*
+>
+> *- u) nezastaví provoz informačního systému, který nesplňuje podmínky stanovené v certifikační zprávě, nebo nezastaví provoz komunikačního systému, který nesplňuje podmínky stanovené v projektu bezpečnosti komunikačního systému,*
+>
+> *- v) používá pro kryptografickou ochranu prostředek, který není certifikován Národním úřadem pro kybernetickou a informační bezpečnost nebo není součástí informačního systému cizí moci akreditovaného Národním úřadem pro kybernetickou a informační bezpečnost, nebo používá kryptografické pracoviště k jinému účelu, než ke kterému bylo certifikováno a schváleno do provozu,*
+>
+> *- w) nezajistí výkon kryptografické ochrany osobou, která splňuje požadavky stanovené v § 38 odst. 2,*
+>
+> *- x) nezajistí obsluhu kryptografického prostředku osobou, která splňuje požadavky stanovené v § 40 odst. 2,*
+>
+> *- y) nezajistí přepravu kryptografického materiálu osobou, která splňuje požadavky stanovené v § 42 odst. 1, nebo*
+>
+> *- z) neoznámí kompromitaci kryptografického materiálu podle § 43 odst. 2.*
+>
+> *(2) Podnikatel, který má přístup k utajované informaci, právnická osoba podle § 60b nebo orgán státu se dopustí přestupku tím, že*
+>
+> *- a) nezřídí registr nebo nenahlásí Úřadu změny v registru podle § 79 odst. 8 písm. f),*
+>
+> *- b) neprovádí kontrolu utajovaných informací podle § 69 odst. 1 písm. m) vedených v registru nebo neoznámí její výsledek Úřadu,*
+>
+> *- c) odešle utajovanou informaci stupně utajení Přísně tajné, Tajné nebo Důvěrné v rozporu s § 77,*
+>
+> *- d) umožní výkon citlivé činnosti fyzické osobě, která není držitelem platného dokladu nebo osvědčení fyzické osoby nebo jí nebylo uznáno bezpečnostní oprávnění vydané úřadem cizí moci,*
+>
+> *- e) neoznámí zničení utajované informace podle § 21 odst. 11 nebo § 69 odst. 1 písm. u),*
+>
+> *- f) nevede některou z evidencí stanovených v § 69 odst. 1 písm. t),*
+>
+> *- g) nezpracovává a nevede přehled míst nebo funkcí podle § 69 odst. 1 písm. b),*
+>
+> *- h) nezajistí zaslání kopie poučení Úřadu podle § 11 odst. 2,*
+>
+> *- i) nezašle neprodleně Úřadu kopii prohlášení podnikatele podle § 15a odst. 2,*
+>
+> *- j) umožní přístup k utajované informaci neoprávněné osobě,*
+>
+> *- k) nezajistí nakládání s kryptografickým materiálem jiným způsobem, než je uvedeno v § 38 odst. 1, § 40, § 41 odst. 3 nebo § 42, osobou, která splňuje požadavky stanovené v § 42a, nebo*
+>
+> *- l) neprojednává utajované informace v jednací oblasti v souladu s § 24 odst. 4 nebo je projednává v jednací oblasti, která nesplňuje stanovené požadavky.*
 >
 > *(3) Za přestupek lze uložit pokutu do*
 >
@@ -2291,30 +2599,18 @@ Souvisí to s § 29 a § 192 zákona č. 134/2016 Sb., o zadávání veřejných
 
 ### § 154 — Přestupky podnikatele s přístupem k UI
 
-> **§ 154** *(výňatek)*
->
 > *(1) Podnikatel, který má přístup k utajované informaci, se dopustí přestupku tím, že*
->
 > *- a) neodevzdá nebo nepředá utajovanou informaci podle § 56 odst. 2,*
->
 > *- b) neaktualizuje bezpečnostní dokumentaci podnikatele podle § 98,*
->
 > *- c) poskytne utajovanou informaci stupně utajení Vyhrazené zahraničnímu partneru v rozporu s § 73 písm. b),*
->
 > *- d) poskytne utajovanou informaci stupně utajení Přísně tajné, Tajné nebo Důvěrné zahraničnímu partneru v rozporu s § 73 písm. a),*
->
 > *- e) vyveze z území České republiky certifikovaný kryptografický prostředek bez povolení Národního úřadu pro kybernetickou a informační bezpečnost,*
->
 > *- f) nezašle neprodleně Úřadu kopii prohlášení podnikatele podle § 15a odst. 2 nebo prohlášení podnikatele podle § 15a odst. 3, nebo*
->
 > *- g) neoznámí písemně Úřadu nebo poskytovateli vyhrazené informace zánik prohlášení podnikatele podle § 15a odst. 6.*
 >
 > *(2) Za přestupek lze uložit pokutu do*
->
 > *- a) 300 000 Kč, jde-li o přestupek podle odstavce 1 písm. f) nebo g),*
->
 > *- b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b) nebo c),*
->
 > *- c) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) nebo e).*
 
 **Výklad:**
@@ -2337,9 +2633,25 @@ Souvisí to s § 29 a § 192 zákona č. 134/2016 Sb., o zadávání veřejných
 
 ### § 155 — Přestupky držitele osvědčení podnikatele
 
-> **§ 155** *(výňatek)*
+> **§ 155**
 >
-> *(1) Podnikatel, který je držitelem osvědčení podnikatele, se dopustí přestupku tím, že […]*
+> *(1) Podnikatel, který je držitelem osvědčení podnikatele, se dopustí přestupku tím, že*
+>
+> *- a) neodevzdá podle § 68 písm. a) osvědčení podnikatele, jehož platnost zanikla,*
+>
+> *- b) neoznámí podle § 68 písm. b) ztrátu, odcizení nebo poškození osvědčení podnikatele,*
+>
+> *- c) neoznámí podle § 68 písm. c) změnu údaje uvedeného v § 97 písm. a), b), c) nebo q) nebo v § 98 písm. c),*
+>
+> *- d) neoznámí podle § 68 písm. d) změnu údaje uvedeného v žádosti podnikatele,*
+>
+> *- e) jako držitel osvědčení pro cizí moc neodevzdá podle § 57 odst. 11 neplatné osvědčení podnikatele pro cizí moc,*
+>
+> *- f) jako držitel osvědčení pro cizí moc neoznámí podle § 68 písm. b) ztrátu, odcizení nebo poškození osvědčení podnikatele pro cizí moc,*
+>
+> *- g) nezabezpečí ochranu utajované informace při zániku platnosti osvědčení podnikatele postupem podle § 56 odst. 2, nebo*
+>
+> *- h) nezašle podle § 68 písm. f) rozhodnutí o schválení projektu přeměny podle zákona o přeměnách obchodních společností a družstev.*
 >
 > *(2) Za přestupek lze uložit pokutu do*
 >
@@ -2442,7 +2754,7 @@ Procesně se podle § 159 in fine na řízení o přestupcích podle Části osm
 
 ### § 157 — Přechodná ustanovení
 
-> **§ 157** *(rozsáhlé — 28 odstavců; výňatek)*
+> **§ 157**
 >
 > *(1) Utajovaná skutečnost podle dosavadních právních předpisů se považuje za utajovanou informaci podle tohoto zákona. Pokud se v dosavadních právních předpisech mluví o utajovaných skutečnostech nebo o státním a služebním tajemství, rozumí se tím utajované informace podle tohoto zákona.*
 >
@@ -2450,9 +2762,55 @@ Procesně se podle § 159 in fine na řízení o přestupcích podle Části osm
 >
 > *(3) Dnem 1. ledna 2008 se zrušují stupně utajení u utajovaných písemností vzniklých do 31. prosince 1992, pokud odpovědná osoba nestanoví v konkrétním případě do 31. prosince 2007 jinak.*
 >
-> *(…)*
+> *(4) Písemný záznam o určení podle dosavadních právních předpisů se považuje za poučení podle tohoto zákona.*
 >
 > *(5) Osvědčení, že navrhovaná osoba splňuje podmínky stanovené pro jeho vydání, které bylo vydáno podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za osvědčení fyzické osoby podle tohoto zákona.*
+>
+> *(6) Doklad o bezpečnostní způsobilosti fyzické osoby, který byl vydán podle dosavadních právních předpisů, se považuje za doklad o bezpečnostní způsobilosti fyzické osoby podle tohoto zákona, včetně doby jeho platnosti.*
+>
+> *(7) Oznámení o splnění podmínek pro určení navrhované osoby pro stupeň utajení Vyhrazené, které bylo vydáno podle dosavadních právních předpisů, se po dobu 6 měsíců ode dne nabytí účinnosti tohoto zákona považuje za ověření splnění podmínky způsobilosti k právním úkonům, věku a bezúhonnosti pro umožnění přístupu fyzické osoby k utajované informaci stupně utajení Vyhrazené podle tohoto zákona, pokud odpovědná osoba nebo ten, kdo utajovanou informaci fyzické osobě poskytuje, provede do 1 měsíce ode dne nabytí účinnosti tohoto zákona její poučení.*
+>
+> *(8) Souhlas s určením navrhované osoby bez předchozího provedení bezpečnostní prověrky, který byl vydán podle dosavadních právních předpisů, se po dobu 6 měsíců ode dne nabytí účinnosti tohoto zákona považuje za souhlas s jednorázovým přístupem k utajované informaci pro stupeň utajení, pro který má být navrhované osobě vydáno osvědčení.*
+>
+> *(9) Fyzická osoba, která se přede dnem nabytí účinnosti tohoto zákona podle dosavadních právních předpisů seznamovala s utajovanými skutečnostmi pouze na základě poučení a nebyla držitelem platného osvědčení, může mít ode dne nabytí účinnosti tohoto zákona přístup k utajovaným informacím pouze, je-li držitelem platného osvědčení fyzické osoby. To neplatí u osoby, která podle tohoto zákona má přístup k utajované informaci bez platného osvědčení fyzické osoby a bez poučení.*
+>
+> *(10) Certifikát potvrzující cizí moci, že navrhované osobě bylo vydáno osvědčení nebo organizaci potvrzení, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za osvědčení fyzické osoby pro cizí moc nebo osvědčení podnikatele pro cizí moc, které potvrzuje cizí moci, že u fyzické osoby nebo podnikatele bylo provedeno bezpečnostní řízení a je držitelem platného osvědčení fyzické osoby nebo osvědčení podnikatele daného stupně utajení a v případě osvědčení podnikatele i formy výskytu utajované informace.*
+>
+> *(11) Potvrzení, že podnikatel splňuje podmínky stanovené pro jeho vydání, které bylo vydáno podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za osvědčení podnikatele podle tohoto zákona.*
+>
+> *(12) Souhlas s poskytováním utajovaných skutečností mezi organizací a zahraničním partnerem, který byl vydán podle dosavadních právních předpisů, se považuje za povolení k poskytování utajovaných informací mezi organizací a zahraničním partnerem mimo území České republiky podle tohoto zákona.*
+>
+> *(13) Osvědčení odborné způsobilosti pracovníka kryptografické ochrany vydané podle dosavadních právních předpisů se považuje po dobu platnosti v něm uvedenou za osvědčení o zvláštní odborné způsobilosti pracovníka kryptografické ochrany podle tohoto zákona.*
+>
+> *(14) Certifikát technického prostředku používaného k ochraně utajovaných skutečností, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za certifikát technického prostředku podle tohoto zákona.*
+>
+> *(15) Certifikát informačního systému používaného k nakládání s utajovanými skutečnostmi, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za certifikát informačního systému podle tohoto zákona.*
+>
+> *(16) Certifikát kryptografického prostředku používaného k ochraně utajovaných skutečností, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za certifikát kryptografického prostředku podle tohoto zákona.*
+>
+> *(17) Utajovaný bezpečnostní standard, který byl vydán podle dosavadních právních předpisů, se považuje za bezpečnostní standard podle tohoto zákona.*
+>
+> *(18) Bezpečnostní prověrka zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů. Na její dokončení se vztahuje lhůta pro provedení srovnatelného řízení o vydání osvědčení podle tohoto zákona s tím, že lhůta začíná běžet ode dne nabytí účinnosti tohoto zákona.*
+>
+> *(19) Ověřování bezpečnostní způsobilosti zahájené přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů. Na jeho dokončení se vztahuje lhůta pro provedení řízení o vydání dokladu podle tohoto zákona s tím, že lhůta začíná běžet ode dne nabytí účinnosti tohoto zákona.*
+>
+> *(20) Certifikace technického prostředku, informačního systému nebo kryptografického prostředku zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle tohoto zákona.*
+>
+> *(21) Stížnost proti nevydání osvědčení, potvrzení nebo dokladu podaná ve lhůtě přede dnem nabytí účinnosti tohoto zákona se vyřídí podle dosavadních právních předpisů.*
+>
+> *(22) Opravný prostředek podaný podle dosavadních právních předpisů Kolegiu na úseku ochrany utajovaných skutečností, o kterém nebylo přede dnem nabytí účinnosti tohoto zákona rozhodnuto, Kolegium již nevyřizuje. Kolegium v těchto případech všechen spisový materiál do 5 pracovních dnů ode dne nabytí účinnosti tohoto zákona vrátí orgánu, který mu jej předložil. Tento orgán písemně poučí účastníka řízení o tom, že proti rozhodnutí ředitele Úřadu může podat žalobu; v těchto případech lhůta pro podání žaloby běží znovu ode dne doručení písemného poučení.*
+>
+> *(23) Proti rozhodnutí o zamítnutí stížnosti vydanému podle dosavadních právních předpisů po dni nabytí účinnosti tohoto zákona lze podat žalobu podle tohoto zákona.*
+>
+> *(24) Řízení o uložení pokuty zahájené přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.*
+>
+> *(25) Komunikační systém, který byl provozován přede dnem nabytí účinnosti tohoto zákona, lze provozovat do doby schválení jeho projektu bezpečnosti, nejdéle však po dobu 12 měsíců ode dne nabytí účinnosti tohoto zákona, pokud odpovědná osoba orgánu do 3 měsíců ode dne nabytí účinnosti tohoto zákona písemně požádá o schválení jeho bezpečnostního projektu.*
+>
+> *(26) Pracoviště, na kterém byly vykonávány činnosti kryptografické ochrany přede dnem nabytí účinnosti tohoto zákona, lze používat k výkonu kryptografické ochrany do doby jeho schválení do provozu statutárním orgánem, nejdéle však po dobu 12 měsíců ode dne nabytí účinnosti tohoto zákona, a v případě, že pracoviště podléhá certifikaci, pokud orgán státu nebo podnikatel do 3 měsíců ode dne nabytí účinnosti tohoto zákona písemně požádá o provedení jeho certifikace.*
+>
+> *(27) Stínicí komoru, která byla Ministerstvem zahraničních věcí používána na zastupitelském úřadu České republiky k ochraně utajovaných informací přede dnem nabytí účinnosti tohoto zákona, lze tímto ministerstvem používat k ochraně utajovaných informací do doby provedení její certifikace, nejdéle však po dobu 24 měsíců ode dne nabytí účinnosti tohoto zákona, pokud Ministerstvo zahraničních věcí do 3 měsíců ode dne nabytí účinnosti tohoto zákona písemně požádá o provedení její certifikace.*
+>
+> *(28) Provedení bezpečnostní prověrky fyzické osoby, bezpečnostní prověrky organizace, certifikace technického prostředku, certifikace informačního systému, certifikace kryptografického prostředku, ověření bezpečnostní způsobilosti fyzické osoby, vydání certifikátu potvrzující cizí moci, že navrhované osobě bylo vydáno osvědčení nebo organizaci potvrzení, a vydání souhlasu s poskytováním utajovaných informací mezi organizací a zahraničním partnerem se řídí dosavadními právními předpisy pouze tehdy, jestliže žádost byla předána k poštovní přepravě nebo jinak doručena či podána nejpozději 45 dnů přede dnem nabytí účinnosti tohoto zákona.*
 
 **Výklad:**
 

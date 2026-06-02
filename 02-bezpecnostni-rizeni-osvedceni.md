@@ -33,23 +33,90 @@ Komplementárně k § 45a stanoví § 22 zákona č. 181/2014 Sb., o kybernetick
 > **§ 46**
 >
 > *(1) Certifikace je postup, jímž Úřad nebo Národní úřad pro kybernetickou a informační bezpečnost*
+>
 > *- a) ověřuje způsobilost technického prostředku k ochraně utajovaných informací,*
+>
 > *- b) ověřuje způsobilost informačního systému k nakládání s utajovanými informacemi,*
+>
 > *- c) ověřuje způsobilost kryptografického prostředku k ochraně utajovaných informací,*
+>
 > *- d) ověřuje způsobilost kryptografického pracoviště pro vykonávání činností podle § 37 odst. 4, nebo*
+>
 > *- e) ověřuje způsobilost stínicí komory k ochraně utajovaných informací.*
 >
-> *(2) Zjistí-li Úřad nebo Národní úřad pro kybernetickou a informační bezpečnost způsobilost podle odstavce 1, certifikát […] vydá.*
+> *(2) Zjistí-li Úřad nebo Národní úřad pro kybernetickou a informační bezpečnost způsobilost podle odstavce 1, certifikát technického prostředku, certifikát informačního systému, certifikát kryptografického prostředku, certifikát kryptografického pracoviště nebo certifikát stínicí komory vydá.*
 >
 > *(3) Certifikáty podle odstavce 2 jsou veřejnými listinami.*
 >
-> *[odst. 4–9 — obsahové náležitosti jednotlivých druhů certifikátů]*
+> *(4) Certifikát technického prostředku obsahuje*
 >
-> *(10) Není-li […] zjištěna způsobilost podle odstavce 1, rozhodne o nevydání certifikátu. Proti rozhodnutí o nevydání certifikátu podle odstavce 1 písm. b) a c) není odvolání přípustné.*
+> *- a) evidenční číslo certifikátu,*
 >
-> *(11) [zánik platnosti certifikátů; odvolání nemá odkladný účinek; proti rozhodnutí NÚKIB o zániku platnosti certifikátu informačního systému a kryptografického prostředku není odvolání přípustné]*
+> *- b) název a typové označení technického prostředku,*
 >
-> *[odst. 12–18 — odevzdání certifikátu, certifikační zpráva, smlouvy o zajištění činnosti, dělba se zpravodajskými službami]*
+> *- c) identifikaci výrobce technického prostředku obchodní firmou (dále jen „firma“) nebo názvem, identifikačním číslem osoby (dále jen „identifikační číslo“) a sídlem, jde-li o právnickou osobu, nebo jménem, příjmením a místem trvalého pobytu, jde-li o osobu fyzickou,*
+>
+> *- d) identifikaci držitele certifikátu technického prostředku podle písmene c),*
+>
+> *- e) hodnocení technického prostředku,*
+>
+> *- f) datum vydání a dobu platnosti certifikátu a*
+>
+> *- g) otisk úředního razítka a podpis oprávněného zástupce Úřadu; otisk úředního razítka se nevyžaduje, byl-li certifikát vydán v elektronické podobě.*
+>
+> *(5) Certifikát informačního systému, certifikát kryptografického prostředku, certifikát kryptografického pracoviště a certifikát stínicí komory obsahuje*
+>
+> *- a) evidenční číslo certifikátu,*
+>
+> *- b) identifikaci držitele certifikátu podle odstavce 4 písm. c),*
+>
+> *- c) datum vydání a dobu platnosti certifikátu a*
+>
+> *- d) otisk úředního razítka Národního úřadu pro kybernetickou a informační bezpečnost a podpis oprávněného zástupce Národního úřadu pro kybernetickou a informační bezpečnost; otisk úředního razítka se nevyžaduje, byl-li certifikát vydán v elektronické podobě.*
+>
+> *(6) Certifikát informačního systému vedle náležitostí podle odstavce 5 obsahuje identifikaci informačního systému a stupeň utajení utajovaných informací, pro který byla způsobilost informačního systému ověřena.*
+>
+> *(7) Certifikát kryptografického prostředku vedle náležitostí podle odstavce 5 obsahuje*
+>
+> *- a) identifikaci kryptografického prostředku,*
+>
+> *- b) identifikaci výrobce kryptografického prostředku podle odstavce 4 písm. c) a*
+>
+> *- c) stupeň utajení utajovaných informací, pro který byla způsobilost kryptografického prostředku schválena.*
+>
+> *(8) Certifikát kryptografického pracoviště vedle náležitostí podle odstavce 5 obsahuje*
+>
+> *- a) identifikaci kryptografického pracoviště,*
+>
+> *- b) rozsah způsobilosti kryptografického pracoviště a*
+>
+> *- c) kategorii kryptografického pracoviště.*
+>
+> *(9) Certifikát stínicí komory vedle náležitostí podle odstavce 5 obsahuje*
+>
+> *- a) identifikaci stínicí komory, pro kterou je vydáván,*
+>
+> *- b) identifikaci výrobce stínicí komory podle odstavce 4 písm. c) a*
+>
+> *- c) stupeň utajení utajovaných informací, pro který byla způsobilost stínicí komory schválena.*
+>
+> *(10) Není-li Úřadem nebo Národním úřadem pro kybernetickou a informační bezpečnost zjištěna způsobilost podle odstavce 1, rozhodne o nevydání certifikátu. Proti rozhodnutí o nevydání certifikátu podle odstavce 1 písm. b) a c) není odvolání přípustné.*
+>
+> *(11) Úřad rozhoduje o zániku platnosti certifikátu v případech uvedených v § 47 odst. 4 písm. b). Národní úřad pro kybernetickou a informační bezpečnost rozhoduje o zániku platnosti certifikátu v případech uvedených v § 48 odst. 4 písm. d), § 49 odst. 5 písm. b), § 50 odst. 4 písm. d) a § 51 odst. 4 písm. d). Odvolání podané proti rozhodnutí Úřadu nebo Národního úřadu pro kybernetickou a informační bezpečnost o zániku platnosti certifikátu nemá odkladný účinek. Proti rozhodnutí Národního úřadu pro kybernetickou a informační bezpečnost o zániku platnosti certifikátu informačního systému a certifikátu kryptografického prostředku není odvolání přípustné.*
+>
+> *(12) Jestliže platnost certifikátu, který nebyl vydán v elektronické podobě, zanikla podle § 48 odst. 4 písm. b) a d), § 49 odst. 5 písm. b), § 50 odst. 4 písm. b) a d) nebo § 51 odst. 4 písm. b) a d), je držitel certifikátu povinen do 5 dnů ode dne doručení oznámení Národního úřadu pro kybernetickou a informační bezpečnost odevzdat certifikát Národnímu úřadu pro kybernetickou a informační bezpečnost. Jestliže platnost certifikátu, který nebyl vydán v elektronické podobě, zanikla podle § 47 odst. 4 písm. b), je držitel certifikátu povinen do 5 dnů ode dne doručení oznámení Úřadu odevzdat certifikát Úřadu.*
+>
+> *(13) Přílohou certifikátu informačního systému, kryptografického prostředku, kryptografického pracoviště nebo stínicí komory je certifikační zpráva, která obsahuje zásady a podmínky jejich provozování. V příloze certifikátu technického prostředku mohou být stanoveny podmínky jeho používání.*
+>
+> *(14) Úřad ověřuje způsobilost technického prostředku podle odstavce 1 písm. a) na základě posudku vlastností technického prostředku (dále jen „posudek“). K vydávání posudku podle věty první může Úřad uzavřít s orgánem státu, právnickou osobou podle § 60b nebo podnikatelem smlouvu podle § 52 o zajištění činnosti.*
+>
+> *(15) K provádění dílčích úloh při ověřování způsobilosti podle odstavce 1 písm. b) až e) může Národní úřad pro kybernetickou a informační bezpečnost uzavřít s orgánem státu, právnickou osobou podle § 60b nebo podnikatelem smlouvu podle § 52 o zajištění těchto činností; to neplatí, jde-li o ověřování způsobilosti informačního systému, kryptografického prostředku nebo pracoviště anebo stínící komory, které mají být provozovány zpravodajskými službami.*
+>
+> *(16) Seznam orgánů státu, právnických osob podle § 60b a podnikatelů, s nimiž je uzavřena smlouva podle § 52, s výjimkou zpravodajských služeb, zveřejňuje Úřad a Národní úřad pro kybernetickou a informační bezpečnost v příslušném věstníku nebo na svých internetových stránkách.*
+>
+> *(17) K provádění dílčích úloh při ověřování způsobilosti podle odstavce 1 písm. b) až e), které z důvodu utajení nelze provést Národním úřadem pro kybernetickou a informační bezpečnost, jde-li o informační systém, kryptografický prostředek, kryptografické pracoviště nebo stínicí komoru, které mají být provozovány zpravodajskými službami, jsou oprávněny tyto zpravodajské služby. V těchto případech zpravodajské služby předloží Národnímu úřadu pro kybernetickou a informační bezpečnost výsledky provedení dílčích úloh a na žádost Národního úřadu pro kybernetickou a informační bezpečnost k nahlédnutí též protokoly o provedení dílčích úloh.*
+>
+> *(18) Při provádění dílčích úloh podle odstavce 17 jsou zpravodajské služby povinny dodržovat ustanovení tohoto zákona, prováděcích právních předpisů a bezpečnostních standardů Národního úřadu pro kybernetickou a informační bezpečnost.*
 >
 > *(19) Účastníkem řízení o certifikaci nebo o zrušení platnosti certifikátu je žadatel podle § 47 odst. 1, § 48 odst. 1, § 49 odst. 1, § 50 odst. 1 a § 51 odst. 1.*
 
@@ -116,13 +183,19 @@ Pro **provedení dílčích úloh** při certifikaci může NBÚ a NÚKIB uzavř
 >
 > *(2) Dobu platnosti certifikátu technického prostředku stanoví Úřad nejdéle na dobu 5 let.*
 >
-> *(3) Seznam certifikovaných technických prostředků […] je zveřejňován na internetových stránkách Úřadu.*
+> *(3) Seznam certifikovaných technických prostředků, kromě technických prostředků certifikovaných na žádost uživatele technického prostředku, je zveřejňován na internetových stránkách Úřadu.*
 >
 > *(4) Platnost certifikátu technického prostředku zaniká*
-> *- a) uplynutím doby jeho platnosti, nebo*
-> *- b) rozhodnutím Úřadu o zániku platnosti certifikátu v případě, že vyráběný technický prostředek nesplňuje požadavky tohoto zákona […]*
 >
-> *[odst. 5–7 — vyřazení ze seznamu; pokračující používání po uplynutí platnosti; uznání zahraničního certifikátu]*
+> *- a) uplynutím doby jeho platnosti, nebo*
+>
+> *- b) rozhodnutím Úřadu o zániku platnosti certifikátu v případě, že vyráběný technický prostředek nesplňuje požadavky tohoto zákona a prováděcích právních předpisů nebo není ve shodě s posuzovaným technickým prostředkem.*
+>
+> *(5) Zanikla-li platnost certifikátu technického prostředku podle odstavce 4, Úřad tento technický prostředek vyřadí ze seznamu zveřejňovaného podle odstavce 3.*
+>
+> *(6) Technický prostředek používaný k ochraně utajovaných informací lze nadále používat i po uplynutí doby platnosti jeho certifikátu.*
+>
+> *(7) Úřad může při certifikaci technického prostředku přihlédnout k certifikátu nebo obdobnému dokumentu technického prostředku vydanému oprávněným pracovištěm cizí moci.*
 
 **Výklad:**
 
@@ -152,22 +225,29 @@ NBÚ může přihlédnout k certifikátu nebo obdobnému dokumentu **vydanému o
 >
 > *(1) O certifikaci informačního systému písemně žádá u Národního úřadu pro kybernetickou a informační bezpečnost orgán státu, právnická osoba podle § 60b nebo podnikatel, který bude informační systém provozovat.*
 >
-> *[odst. 2 — dokumentace na žádost]*
+> *(2) Ten, kdo o certifikaci informačního systému podle odstavce 1 požádal, předkládá v průběhu certifikace na žádost Národního úřadu pro kybernetickou a informační bezpečnost dokumentaci nezbytnou pro provedení certifikace.*
 >
 > *(3) Dobu platnosti certifikátu informačního systému stanoví Národní úřad pro kybernetickou a informační bezpečnost. Platnost certifikátu informačního systému je pro stupeň utajení*
+>
 > *- a) Přísně tajné, Tajné a Důvěrné nejdéle 3 roky a*
+>
 > *- b) Vyhrazené nejdéle 5 let.*
 >
 > *(4) Platnost certifikátu informačního systému zaniká*
+>
 > *- a) uplynutím doby jeho platnosti,*
+>
 > *- b) v případě informačního systému pro nakládání s utajovanými informacemi stupně utajení Důvěrné nebo vyššího zánikem platnosti osvědčení podnikatele,*
+>
 > *- c) zrušením orgánu státu nebo zánikem právnické osoby podle § 60b,*
+>
 > *- d) rozhodnutím Národního úřadu pro kybernetickou a informační bezpečnost o zániku platnosti certifikátu, přestal-li být informační systém způsobilý k nakládání s utajovanými informacemi, nebo*
-> *- e) oznámením […] o zrušení informačního systému.*
 >
-> *(5) Má-li být informační systém používán i bezprostředně po uplynutí doby platnosti jeho certifikátu, je žadatel povinen požádat o certifikaci […] nejméně 6 měsíců před uplynutím doby platnosti původního certifikátu.*
+> *- e) oznámením orgánu státu, právnické osoby podle § 60b nebo podnikatele, který je držitelem certifikátu, o zrušení informačního systému.*
 >
-> *(6) Národní úřad pro kybernetickou a informační bezpečnost je povinen rozhodnout o certifikaci informačního systému do 1 roku od zahájení řízení o certifikaci, ve zvlášť složitých případech do 2 let […]*
+> *(5) Má-li být informační systém používán i bezprostředně po uplynutí doby platnosti jeho certifikátu, je žadatel podle odstavce 1 povinen požádat Národní úřad pro kybernetickou a informační bezpečnost o certifikaci informačního systému. Opakovaná žádost musí být Národnímu úřadu pro kybernetickou a informační bezpečnost doručena nejméně 6 měsíců před uplynutím doby platnosti původního certifikátu informačního systému.*
+>
+> *(6) Národní úřad pro kybernetickou a informační bezpečnost je povinen rozhodnout o certifikaci informačního systému do 1 roku od zahájení řízení o certifikaci, ve zvlášť složitých případech do 2 let; nelze-li vzhledem k povaze věci rozhodnout v této lhůtě, může ji přiměřeně prodloužit ředitel Národního úřadu pro kybernetickou a informační bezpečnost, nejvýše však o 6 měsíců.*
 
 **Výklad:**
 
@@ -237,22 +317,27 @@ Odbornou literaturou je § 49 odst. 2 spíše akceptován jako **zákonem aprobo
 
 > **§ 50**
 >
-> *(1) O certifikaci kryptografického pracoviště písemně žádá […] orgán státu, právnická osoba podle § 60b nebo podnikatel, u kterého má být kryptografické pracoviště provozováno. Žádá-li o certifikaci kryptografického pracoviště podnikatel, musí být držitelem platného osvědčení podnikatele.*
+> *(1) O certifikaci kryptografického pracoviště písemně žádá u Národního úřadu pro kybernetickou a informační bezpečnost orgán státu, právnická osoba podle § 60b nebo podnikatel, u kterého má být kryptografické pracoviště provozováno. Žádá-li o certifikaci kryptografického pracoviště podnikatel, musí být držitelem platného osvědčení podnikatele.*
 >
-> *[odst. 2 — dokumentace]*
+> *(2) Ten, kdo o certifikaci kryptografického pracoviště podle odstavce 1 požádal, předkládá v průběhu certifikace na žádost Národního úřadu pro kybernetickou a informační bezpečnost dokumentaci nezbytnou pro provedení certifikace.*
 >
 > *(3) Dobu platnosti certifikátu kryptografického pracoviště stanoví Národní úřad pro kybernetickou a informační bezpečnost na dobu nejdéle 3 let.*
 >
 > *(4) Platnost certifikátu kryptografického pracoviště zaniká*
+>
 > *- a) uplynutím doby jeho platnosti,*
+>
 > *- b) zánikem platnosti osvědčení podnikatele,*
+>
 > *- c) zrušením orgánu státu nebo zánikem právnické osoby podle § 60b,*
-> *- d) rozhodnutím Národního úřadu pro kybernetickou a informační bezpečnost o zániku platnosti certifikátu […], nebo*
-> *- e) oznámením […] o zrušení kryptografického pracoviště.*
 >
-> *[odst. 5 — opakovaná žádost min. 6 měsíců předem]*
+> *- d) rozhodnutím Národního úřadu pro kybernetickou a informační bezpečnost o zániku platnosti certifikátu, přestalo-li být kryptografické pracoviště způsobilé pro vykonávání určených činností, nebo*
 >
-> *(6) Národní úřad pro kybernetickou a informační bezpečnost je povinen rozhodnout o certifikaci kryptografického pracoviště do 6 měsíců od zahájení řízení o certifikaci, ve zvlášť složitých případech do 1 roku […]*
+> *- e) oznámením orgánu státu, právnické osoby podle § 60b nebo podnikatele, který je držitelem certifikátu, o zrušení kryptografického pracoviště.*
+>
+> *(5) Má-li být kryptografické pracoviště využíváno i bezprostředně po uplynutí doby platnosti jeho certifikátu, je žadatel podle odstavce 1 povinen požádat Národní úřad pro kybernetickou a informační bezpečnost o certifikaci kryptografického pracoviště. Opakovaná žádost musí být Národnímu úřadu pro kybernetickou a informační bezpečnost doručena nejméně 6 měsíců před uplynutím doby platnosti původního certifikátu kryptografického pracoviště.*
+>
+> *(6) Národní úřad pro kybernetickou a informační bezpečnost je povinen rozhodnout o certifikaci kryptografického pracoviště do 6 měsíců od zahájení řízení o certifikaci, ve zvlášť složitých případech do 1 roku; nelze-li vzhledem k povaze věci rozhodnout v této lhůtě, může ji přiměřeně prodloužit ředitel Národního úřadu pro kybernetickou a informační bezpečnost, nejvýše však o 3 měsíce.*
 
 **Výklad:**
 
@@ -276,13 +361,21 @@ NÚKIB rozhoduje **do 6 měsíců** (zvlášť složité případy do 1 roku; pr
 >
 > *(1) O certifikaci stínicí komory písemně žádá u Národního úřadu pro kybernetickou a informační bezpečnost orgán státu, právnická osoba podle § 60b nebo podnikatel, u kterého je stínicí komora používána.*
 >
-> *[odst. 2 — dokumentace]*
+> *(2) Ten, kdo o certifikaci stínicí komory podle odstavce 1 požádal, předkládá v průběhu certifikace na žádost Národního úřadu pro kybernetickou a informační bezpečnost dokumentaci nezbytnou pro provedení certifikace.*
 >
 > *(3) Dobu platnosti certifikátu stínicí komory stanoví Národní úřad pro kybernetickou a informační bezpečnost na dobu nejdéle 5 let.*
 >
-> *(4) Platnost certifikátu stínicí komory zaniká [obdobně jako § 50]*
+> *(4) Platnost certifikátu stínicí komory zaniká*
 >
-> *(5) Má-li být stínicí komora používána i bezprostředně po uplynutí doby platnosti jejího certifikátu, je žadatel povinen požádat […] nejméně 12 měsíců před uplynutím doby platnosti původního certifikátu stínicí komory.*
+> *- a) uplynutím doby jeho platnosti,*
+>
+> *- b) zánikem platnosti osvědčení podnikatele,*
+>
+> *- c) zrušením orgánu státu nebo zánikem právnické osoby podle § 60b, nebo*
+>
+> *- d) rozhodnutím Národního úřadu pro kybernetickou a informační bezpečnost o zániku platnosti certifikátu, přestala-li být stínicí komora způsobilá k ochraně utajovaných informací.*
+>
+> *(5) Má-li být stínicí komora používána i bezprostředně po uplynutí doby platnosti jejího certifikátu, je žadatel podle odstavce 1 povinen požádat Národní úřad pro kybernetickou a informační bezpečnost o certifikaci stínicí komory. Opakovaná žádost musí být Národnímu úřadu pro kybernetickou a informační bezpečnost doručena nejméně 12 měsíců před uplynutím doby platnosti původního certifikátu stínicí komory.*
 >
 > *(6) Pro lhůty pro vydání rozhodnutí platí § 50 odst. 6.*
 
@@ -302,17 +395,43 @@ NÚKIB rozhoduje **do 6 měsíců** (zvlášť složité případy do 1 roku; pr
 
 > **§ 52**
 >
-> *(1) Smlouva o zajištění činnosti (dále jen „smlouva") uvedená v § 39 odst. 3, § 45 odst. 4 a § 46 odst. 14 a 15 se uzavírá na dobu určitou nebo neurčitou. Smlouva musí mít písemnou formu. Projev vůle účastníků smlouvy musí být na téže listině.*
+> *(1) Smlouva o zajištění činnosti (dále jen „smlouva“) uvedená v § 39 odst. 3, § 45 odst. 4 a § 46 odst. 14 a 15 se uzavírá na dobu určitou nebo neurčitou. Smlouva musí mít písemnou formu. Projev vůle účastníků smlouvy musí být na téže listině.*
 >
 > *(2) Smlouvu lze uzavřít s orgánem státu, právnickou osobou podle § 60b nebo podnikatelem na základě jejich písemné žádosti, a to pouze tehdy, budou-li činnosti, jež jsou předmětem smlouvy,*
-> *- a) prováděny odborně způsobilými zaměstnanci […],*
-> *- b) zajištěny […] organizačně, technicky a materiálně.*
+>
+> *- a) prováděny odborně způsobilými zaměstnanci státu, právnické osoby podle § 60b nebo podnikatele,*
+>
+> *- b) zajištěny u orgánu státu, právnické osoby podle § 60b nebo podnikatele organizačně, technicky a materiálně.*
 >
 > *(3) Smlouvu s podnikatelem lze dále uzavřít pouze tehdy, je-li*
-> *- a) jeho sídlo na území České republiky,*
-> *- b) držitelem platného osvědčení podnikatele příslušného stupně utajení […]*
 >
-> *[odst. 4 — náležitosti, odst. 5 — povinné odstoupení při porušení, odst. 6 — kontrola, odst. 7–8 — změna a výpověď písemně, odst. 9 — subsidiarita občanského zákoníku]*
+> *- a) jeho sídlo na území České republiky,*
+>
+> *- b) držitelem platného osvědčení podnikatele příslušného stupně utajení; tato podmínka neplatí, má-li být uzavřena smlouva k vydávání posudku uvedená v § 46 odst. 14 a 15.*
+>
+> *(4) Smlouva musí obsahovat*
+>
+> *- a) označení účastníků smlouvy,*
+>
+> *- b) vymezení předmětu smlouvy a jeho rozsahu,*
+>
+> *- c) práva a povinnosti účastníků smlouvy,*
+>
+> *- d) způsob kontroly prováděné Úřadem nebo Národním úřadem pro kybernetickou a informační bezpečnost podle odstavce 6,*
+>
+> *- e) způsob a podmínky odstoupení účastníků od smlouvy,*
+>
+> *- f) souhlas se zveřejněním technického prostředku na internetových stránkách Úřadu, jde-li o smlouvu k vydávání posudku uvedenou v § 46 odst. 14.*
+>
+> *(5) V podmínkách podle odstavce 4 písm. e) musí být též stanoveno, že Úřad nebo Národní úřad pro kybernetickou a informační bezpečnost odstoupí od smlouvy v případě, že druhý účastník smlouvy poruší povinnost stanovenou tímto zákonem, prováděcími právními předpisy nebo uzavřenou smlouvou.*
+>
+> *(6) Úřad nebo Národní úřad pro kybernetickou a informační bezpečnost kontroluje, zda druhý účastník smlouvy dodržuje ustanovení tohoto zákona, prováděcích právních předpisů a uzavřené smlouvy.*
+>
+> *(7) Změnit obsah smlouvy lze pouze písemnou dohodou účastníků smlouvy.*
+>
+> *(8) Smlouvu lze vypovědět pouze písemnou formou.*
+>
+> *(9) Nestanoví-li tento zákon jinak, použijí se v ostatním přiměřeně ustanovení občanského zákoníku.*
 
 **Výklad:**
 
@@ -339,11 +458,17 @@ Smlouva musí obsahovat: označení účastníků; vymezení předmětu a rozsah
 > **§ 53**
 >
 > *Prováděcí právní předpis stanoví*
-> *- a) náležitosti žádosti o certifikaci technického prostředku […],*
-> *- b) náležitosti žádosti a opakované žádosti o certifikaci informačního systému, certifikaci kryptografického prostředku, certifikaci kryptografického pracoviště a certifikaci stínící komory […],*
-> *- c) způsob a podmínky provádění certifikace nebo akreditace […],*
+>
+> *- a) náležitosti žádosti o certifikaci technického prostředku, dokumentaci nezbytnou k provedení certifikace technického prostředku, pravidla pro stanovení doby platnosti certifikátu technického prostředku, pravidla a způsob používání technického prostředku po uplynutí doby platnosti jeho certifikátu a vzor certifikátu technického prostředku,*
+>
+> *- b) náležitosti žádosti a opakované žádosti o certifikaci informačního systému, certifikaci kryptografického prostředku, certifikaci kryptografického pracoviště a certifikaci stínící komory, a dokumentaci nezbytnou k provedení certifikace informačního systému, certifikace kryptografického prostředku, certifikace kryptografického pracoviště a certifikace stínící komory,*
+>
+> *- c) způsob a podmínky provádění certifikace nebo akreditace informačního systému, certifikace kryptografického prostředku, certifikace kryptografického pracoviště a certifikace stínící komory a jejich opakování a obsah certifikační zprávy podle § 46 odst. 13,*
+>
 > *- d) vzory certifikátu informačního systému, certifikátu kryptografického prostředku, certifikátu kryptografického pracoviště a certifikátu stínící komory,*
-> *- e) náležitosti žádosti o ověření způsobilosti elektrických a elektronických zařízení […],*
+>
+> *- e) náležitosti žádosti o ověření způsobilosti elektrických a elektronických zařízení, zabezpečené oblasti nebo objektu k ochraně před únikem utajované informace kompromitujícím vyzařováním a způsob hodnocení jejich způsobilosti a*
+>
 > *- f) náležitosti žádosti orgánu státu, právnické osoby podle § 60b nebo podnikatele o uzavření smlouvy podle § 52.*
 
 **Výklad:**
@@ -365,21 +490,32 @@ Tyto vyhlášky byly opakovaně novelizovány v reakci na změny v technologii a
 > *(1) Osvědčení fyzické osoby a osvědčení podnikatele jsou veřejnými listinami.*
 >
 > *(2) Osvědčení fyzické osoby obsahuje*
+>
 > *- a) jméno, příjmení, rodné příjmení,*
+>
 > *- b) den, měsíc, rok a místo narození,*
+>
 > *- c) státní občanství,*
+>
 > *- d) uvedení nejvyššího stupně utajení utajované informace, pro přístup k níž osvědčení fyzické osoby opravňuje,*
+>
 > *- e) datum vydání a dobu platnosti a*
+>
 > *- f) otisk úředního razítka a podpis oprávněného zástupce Úřadu.*
 >
 > *(3) Osvědčení podnikatele obsahuje*
-> *- a) identifikaci podnikatele firmou nebo názvem a identifikačním číslem […],*
-> *- b) uvedení nejvyššího stupně utajení utajované informace […],*
+>
+> *- a) identifikaci podnikatele firmou nebo názvem a identifikačním číslem, jde-li o právnickou osobu, a jménem a příjmením nebo firmou a identifikačním číslem, jde-li o fyzickou osobu,*
+>
+> *- b) uvedení nejvyššího stupně utajení utajované informace, pro přístup k níž osvědčení podnikatele opravňuje,*
+>
 > *- c) formu přístupu podle § 20,*
+>
 > *- d) datum vydání a dobu platnosti a*
+>
 > *- e) otisk úředního razítka a podpis oprávněného zástupce Úřadu.*
 >
-> *(4) V případě změny některého údaje obsaženého v osvědčení […] vydá Úřad bezodkladně nové osvědčení […]. Přístup k utajované informaci není do doby doručení nového osvědčení dotčen.*
+> *(4) V případě změny některého údaje obsaženého v osvědčení fyzické osoby nebo v osvědčení podnikatele vydá Úřad bezodkladně nové osvědčení fyzické osoby nebo nové osvědčení podnikatele. Přístup k utajované informaci není do doby doručení nového osvědčení dotčen.*
 
 **Výklad:**
 
@@ -489,16 +625,19 @@ Tato úprava odráží zvláštní bezpečnostní režim zpravodajských služeb
 
 > **§ 56a**
 >
-> *(1) V případě zániku platnosti osvědčení fyzické osoby podle § 56 odst. 1 písm. g) vydá příslušná zpravodajská služba nebo Ministerstvo vnitra této fyzické osobě nové osvědčení […]*
+> *(1) V případě zániku platnosti osvědčení fyzické osoby podle § 56 odst. 1 písm. g) vydá příslušná zpravodajská služba nebo Ministerstvo vnitra této fyzické osobě nové osvědčení, které nahrazuje osvědčení původní, a to ke dni vzniku jejího služebního nebo pracovního poměru nebo ke dni, kdy se tato fyzická osoba stala osobou uvedenou v § 141 odst. 1.*
 >
-> *(2) V případě zániku platnosti osvědčení fyzické osoby podle § 56 odst. 1 písm. h) a i) vydá této fyzické osobě nové osvědčení […]*
-> *- a) příslušná zpravodajská služba […],*
-> *- b) Ministerstvo vnitra […],*
-> *- c) Úřad v ostatních případech […]*
+> *(2) V případě zániku platnosti osvědčení fyzické osoby podle § 56 odst. 1 písm. h) a i) vydá této fyzické osobě nové osvědčení, jež nahrazuje osvědčení původní,*
 >
-> *(3) Příslušná zpravodajská služba nebo Ministerstvo vnitra potvrdí v případě postupu podle odstavce 2 písm. c) zánik platnosti osvědčení […]*
+> *- a) příslušná zpravodajská služba, a to ke dni, kdy této fyzické osobě vznikl služební poměr příslušníka zpravodajské služby nebo základní pracovněprávní vztah zaměstnance zařazeného do zpravodajské služby,*
 >
-> *(4) Orgán státu, který vydal nové osvědčení fyzické osoby, si písemně vyžádá bezpečnostní svazek této osoby od orgánu státu, který vydal původní osvědčení; bezpečnostní svazek se předá do 5 dnů […]*
+> *- b) Ministerstvo vnitra, a to ke dni, kdy se tato fyzická osoba stala osobou uvedenou v § 141 odst. 1, nebo*
+>
+> *- c) Úřad v ostatních případech, a to ke dni následujícímu po dni zániku platnosti původního osvědčení. Nové osvědčení fyzické osoby Úřad vydá na základě písemné žádosti této fyzické osoby, a to do 5 dnů ode dne doručení žádosti. Žádost o vydání nového osvědčení fyzické osoby lze podat do 30 dnů ode dne zániku platnosti původního osvědčení; přílohou žádosti musí být potvrzení příslušné zpravodajské služby nebo Ministerstva vnitra podle odstavce 3.*
+>
+> *(3) Příslušná zpravodajská služba nebo Ministerstvo vnitra potvrdí v případě postupu podle odstavce 2 písm. c) zánik platnosti osvědčení fyzické osoby na základě žádosti této fyzické osoby, a to do 5 dnů ode dne doručení žádosti. V potvrzení se uvede označení orgánu státu, který původní osvědčení fyzické osoby vydal, údaje uvedené v § 54 odst. 2 písm. a) až e) a den zániku platnosti tohoto osvědčení.*
+>
+> *(4) Orgán státu, který vydal nové osvědčení fyzické osoby, si písemně vyžádá bezpečnostní svazek této osoby od orgánu státu, který vydal původní osvědčení; bezpečnostní svazek se předá do 5 dnů ode dne doručení této žádosti.*
 
 **Výklad:**
 
@@ -516,11 +655,45 @@ Důležitá lhůta pro žádost o nové osvědčení podle odst. 2 písm. c) je 
 >
 > *(1) Má-li mít fyzická osoba nebo podnikatel přístup k utajované informaci cizí moci, musí splňovat podmínky podle § 11 nebo § 15 písm. b), a požaduje-li tak cizí moc, být též držitelem osvědčení pro cizí moc.*
 >
-> *(2) Je-li to v souladu s bezpečnostními a ekonomickými zájmy České republiky a se závazky vyplývajícími pro Českou republiku z mezinárodní smlouvy a neprobíhá-li s danou osobou řízení o zrušení platnosti osvědčení […], Úřad na základě písemné odůvodněné žádosti držitele platného osvědčení fyzické osoby nebo platného osvědčení podnikatele vydává*
+> *(2) Je-li to v souladu s bezpečnostními a ekonomickými zájmy České republiky a se závazky vyplývajícími pro Českou republiku z mezinárodní smlouvy a neprobíhá-li s danou osobou řízení o zrušení platnosti osvědčení fyzické osoby nebo osvědčení podnikatele, Úřad na základě písemné odůvodněné žádosti držitele platného osvědčení fyzické osoby nebo platného osvědčení podnikatele vydává*
+>
 > *- a) osvědčení fyzické osoby pro cizí moc, nebo*
+>
 > *- b) osvědčení podnikatele pro cizí moc.*
 >
-> *[odst. 3–12 — postup, náležitosti, zánik, zachování platnosti v krizovém stavu, potvrzení pro PO podle § 60b]*
+> *(3) Pokud je žádost podle odstavce 2 podána současně s žádostí podle § 94 nebo 96 nebo v průběhu řízení podle části čtvrté o této žádosti, Úřad postupuje podle odstavce 2 neprodleně po vydání osvědčení fyzické osoby nebo osvědčení podnikatele.*
+>
+> *(4) Osvědčení podle odstavce 2 je veřejnou listinou.*
+>
+> *(5) Osvědčení podle odstavce 2 obsahuje náležitosti uvedené v § 54 s tím, že označení nejvyššího stupně utajení utajované informace, pro přístup k níž toto osvědčení opravňuje, se uvádí včetně zkratky ve smyslu § 21 odst. 2.*
+>
+> *(6) Osvědčení podle odstavce 2 potvrzuje, že u jeho držitele bylo provedeno bezpečnostní řízení podle části čtvrté a je držitelem platného osvědčení fyzické osoby nebo osvědčení podnikatele daného stupně utajení; v případě osvědčení podnikatele potvrzuje též formy přístupu podnikatele k utajované informaci podle § 20.*
+>
+> *(7) Osvědčení podle odstavce 2 se vydává na dobu nezbytně nutnou, nejdéle však na dobu, na kterou je vydáno osvědčení fyzické osoby nebo osvědčení podnikatele.*
+>
+> *(8) Platnost osvědčení uvedeného v odstavci 2 zaniká*
+>
+> *- a) zánikem platnosti osvědčení fyzické osoby nebo osvědčení podnikatele, nejde-li o zánik podle § 56 odst. 1 písm. e) nebo f) a fyzická osoba nebo podnikatel ve lhůtě 15 dnů požádal o vydání osvědčení nového (§ 56 odst. 4), nebo*
+>
+> *- b) z důvodů stanovených v § 56 odst. 1 písm. a), e), f) nebo j).*
+>
+> *(9) Platnost osvědčení podle odstavce 2 nezaniká z důvodu uvedeného v § 56 odst. 1 písm. a) do doby rozhodnutí o žádosti podle § 94 odst. 3 nebo § 96 odst. 3, nejdéle však po dobu 12 měsíců od uplynutí doby platnosti osvědčení, pokud byla žádost podána v době, kdy byl vyhlášen válečný stav nebo pro celé území České republiky nouzový stav nebo stav ohrožení státu (dále jen „krizový stav“), nebo byl-li krizový stav vyhlášen v průběhu řízení o této žádosti.*
+>
+> *(10) V případě změny některého údaje obsaženého v osvědčení podle odstavce 2 vydá Úřad bezodkladně nové osvědčení podle odstavce 2. Úřad do 5 dnů vydá též osvědčení podle odstavce 2, pokud držitel tohoto osvědčení do 15 dnů ode dne zániku jeho platnosti podle § 56 odst. 1 písm. e) nebo f) požádá o vydání osvědčení nového. Přístup k utajované informaci cizí moci není do doby doručení nového osvědčení podle odstavce 2 dotčen.*
+>
+> *(11) Držitel osvědčení podle odstavce 2 je povinen odevzdat je do 15 dnů Úřadu, zanikla-li*
+>
+> *- a) platnost osvědčení fyzické osoby nebo osvědčení podnikatele podle § 56 odst. 1 písm. b) nebo g) až l),*
+>
+> *- b) platnost osvědčení fyzické osoby nebo osvědčení podnikatele podle § 56 odst. 1 písm. e) a f) a v důsledku toho zanikl přístup k utajované informaci,*
+>
+> *- c) jeho platnost z důvodů stanovených v § 56 odst. 1 písm. f), nebo*
+>
+> *- d) jeho platnost doručením nového osvědčení podle odstavce 2 v souvislosti s postupem podle odstavce 8.*
+>
+> *(12) Na základě odůvodněné písemné žádosti právnické osoby podle § 60b Úřad vydá, je-li to požadavek jejího zahraničního partnera nebo cizí moci, časově omezené potvrzení o rozsahu ochrany utajovaných informací, zajištěné podle § 5 u právnické osoby podle § 60b. Před vydáním potvrzení Úřad v nezbytné míře ověří splnění podmínek tohoto zákona.*
+>
+> *Zvláštní přístup k utajované informaci*
 
 **Výklad:**
 
@@ -693,9 +866,29 @@ U příslušníků zpravodajských služeb souhlas vydává **ředitel příslu�
 
 > **§ 59a**
 >
-> *(1) Na základě písemné žádosti odpovědné osoby může Úřad ve výjimečných a odůvodněných případech vydat souhlas s přístupem k utajované informaci se stupněm utajení až o dva vyšším, než na který je vydáno platné osvědčení fyzické osoby, a to osobě služebně činné v policejním orgánu, státnímu zástupci jako orgánu činnému v trestním řízení nebo státnímu zástupci plnícímu v trestním řízení úkoly podle jiného právního předpisu […]*
+> *(1) Na základě písemné žádosti odpovědné osoby může Úřad ve výjimečných a odůvodněných případech vydat souhlas s přístupem k utajované informaci se stupněm utajení až o dva vyšším, než na který je vydáno platné osvědčení fyzické osoby, a to osobě služebně činné v policejním orgánu, státnímu zástupci jako orgánu činnému v trestním řízení nebo státnímu zástupci plnícímu v trestním řízení úkoly podle jiného právního předpisu62), neprobíhá-li s danou osobou řízení o zrušení platnosti osvědčení fyzické osoby.*
 >
-> *[odst. 2–8 — souhlasné stanovisko nadřízeného státního zástupce u PT, lhůta NBÚ 5 dnů, vazba na účast v trestním řízení]*
+> *(2) Žádost podle odstavce 1 pro osobu služebně činnou v policejním orgánu musí být doplněna souhlasným stanoviskem státního zástupce, který vykonává dozor nad zachováváním zákonnosti v přípravném řízení, a v případě utajované informace stupně utajení Přísně tajné musí být doplněna též souhlasným stanoviskem vedoucího státního zástupce nejblíže vyššího státního zastupitelství.*
+>
+> *(3) Žádost podle odstavce 1 pro státního zástupce v případě utajované informace stupně utajení Přísně tajné musí být doplněna souhlasným stanoviskem vedoucího státního zástupce nejblíže vyššího státního zastupitelství, s výjimkou státního zástupce činného u Nejvyššího státního zastupitelství.*
+>
+> *(4) Žádost podle odstavce 1 obsahuje*
+>
+> *- a) zdůvodnění přístupu,*
+>
+> *- b) označení utajované informace, ke které má být souhlas s přístupem vydán,*
+>
+> *- c) spisové označení věci, která je předmětem trestního řízení, a*
+>
+> *- d) kopii osvědčení fyzické osoby, které má být souhlas podle odstavce 1 vydán.*
+>
+> *(5) Úřad vydá souhlas podle odstavce 1 neprodleně, nejpozději do 5 dnů ode dne doručení žádosti, a jen na dobu nezbytnou pro účast fyzické osoby v trestním řízení.*
+>
+> *(6) Odpovědná osoba nebo jí pověřená osoba provede poučení fyzické osoby a zajistí založení písemného záznamu o jejím poučení do trestního spisu a zaslání kopie poučení do 30 dnů ode dne poučení Úřadu; kopii poučení lze Úřadu zaslat i elektronicky.*
+>
+> *(7) Souhlas podle odstavce 1 zaniká dnem následujícím po dni, kdy skončila účast fyzické osoby v trestním řízení, nejpozději však dnem zániku platnosti osvědčení fyzické osoby podle § 56 odst. 1.*
+>
+> *(8) K utajované informaci cizí moci lze souhlas podle odstavce 1 vydat pouze v souladu s požadavky této cizí moci.*
 
 **Výklad:**
 
@@ -715,11 +908,17 @@ Toto pravidlo reflektuje, že v trestním řízení mohou nastat situace, kdy je
 
 > **§ 60**
 >
-> *(1) Fyzické osobě, která nemá přístup k utajovaným informacím stupně utajení Vyhrazené nebo není držitelem osvědčení fyzické osoby potřebného stupně utajení, nebo podnikateli, […] lze umožnit přístup k utajované informaci, pokud plní úkoly v období rostoucího mezinárodního napětí nebo v rámci účasti České republiky v ozbrojeném konfliktu v zahraničí, v záchranné nebo humanitární akci v zahraničí nebo v rámci vyhlášeného válečného stavu, stavu ohrožení státu, nouzového stavu, stavu nebezpečí nebo stavu kybernetického nebezpečí.*
+> *(1) Fyzické osobě, která nemá přístup k utajovaným informacím stupně utajení Vyhrazené nebo není držitelem osvědčení fyzické osoby potřebného stupně utajení, nebo podnikateli, který nemá přístup k utajovaným informacím stupně utajení Vyhrazené nebo není držitelem osvědčení podnikatele potřebného stupně utajení, lze umožnit přístup k utajované informaci, pokud plní úkoly v období rostoucího mezinárodního napětí nebo v rámci účasti České republiky v ozbrojeném konfliktu v zahraničí, v záchranné nebo humanitární akci v zahraničí nebo v rámci vyhlášeného válečného stavu, stavu ohrožení státu, nouzového stavu, stavu nebezpečí20) nebo stavu kybernetického nebezpečí.*
 >
 > *(2) Přístup fyzické osoby podle odstavce 1 lze umožnit pouze v případě, že neexistují pochybnosti o důvěryhodnosti fyzické osoby a o její schopnosti utajovat informace.*
 >
-> *[odst. 3–6 — poučení (nebo ústní seznámení při naléhavosti), písemný záznam, oznámení NBÚ, požadavky cizí moci]*
+> *(3) V případě přístupu podle odstavce 1 je odpovědná osoba povinna zajistit poučení fyzické osoby. Hrozí-li nebezpečí z prodlení nebo z důvodu jiné naléhavosti a významu konkrétního úkolu, lze poučení nahradit ústním seznámením fyzické osoby s jejími povinnostmi v oblasti ochrany utajovaných informací a s následky jejich porušení.*
+>
+> *(4) O přístupu podle odstavce 1 je odpovědná osoba nebo jí pověřená osoba povinna zpracovat písemný záznam. Tento písemný záznam spolu s poučením zašle odpovědná osoba nebo jí pověřená osoba neprodleně Úřadu; bylo-li poučení nahrazeno ústním seznámením podle odstavce 3 věty druhé, uvede se tato skutečnost v písemném záznamu. Je-li přístup podle odstavce 1 umožněn zpravodajskou službou, písemný záznam podle věty první a části věty druhé za středníkem ani poučení se Úřadu nezasílají, ale ukládají se u příslušné zpravodajské služby.*
+>
+> *(5) Je-li podnikateli umožněn přístup k utajované informaci podle odstavce 1, je jeho odpovědná osoba povinna o přístupu zpracovat písemný záznam, který neprodleně zašle Úřadu.*
+>
+> *(6) V mimořádných situacích lze přístup k utajované informaci cizí moci umožnit pouze v souladu s požadavky této cizí moci.*
 
 **Výklad:**
 
@@ -814,9 +1013,67 @@ Současně se vylučuje přístup k informacím se **zvláštním režimem nakl�
 
 > **§ 62**
 >
-> *(1) Úřad může uznat bezpečnostní oprávnění vydané úřadem cizí moci, který má v působnosti ochranu utajovaných informací (dále jen „bezpečnostní oprávnění"), je-li uzavřena mezinárodní smlouva v oblasti ochrany utajovaných informací, kterou je Česká republika vázána. Úřad dále může bezpečnostní oprávnění uznat v případě, kdy je uznání v souladu se zahraničně politickými a bezpečnostními zájmy České republiky; na toto uznání není právní nárok. […]*
+> *Uznání bezpečnostního oprávnění vydaného úřadem cizí moci*
 >
-> *[odst. 2–6 — žádost, náležitosti, lhůty (10 / 20 / 60 dnů), náležitosti uznání, právní účinky]*
+> *(1) Úřad může uznat bezpečnostní oprávnění vydané úřadem cizí moci, který má v působnosti ochranu utajovaných informací (dále jen „bezpečnostní oprávnění“), je-li uzavřena mezinárodní smlouva v oblasti ochrany utajovaných informací, kterou je Česká republika vázána. Úřad dále může bezpečnostní oprávnění uznat v případě, kdy je uznání v souladu se zahraničně politickými a bezpečnostními zájmy České republiky; na toto uznání není právní nárok. Při postupu podle věty první a druhé si Úřad může vyžádat písemné stanovisko Ministerstva zahraničních věcí a příslušné zpravodajské služby; neobdrží-li Úřad vyžádané stanovisko do 30 dnů ode dne doručení žádosti o ně, platí, že stanovisko je kladné.*
+>
+> *(2) Uznání podle odstavce 1 Úřad provede na základě žádosti držitele bezpečnostního oprávnění. Žádost lze podat i prostřednictvím úřadu cizí moci, který má v působnosti ochranu utajovaných informací; lhůty podle odstavce 4 běží v takovém případě ode dne, kdy žádost dojde Úřadu. Žádost obsahuje*
+>
+> *- a) u nepodnikající fyzické osoby*
+>
+> *- 1. jméno, popřípadě jména, a příjmení držitele bezpečnostního oprávnění,*
+>
+> *- 2. datum a místo narození držitele bezpečnostního oprávnění,*
+>
+> *- 3. státní občanství držitele bezpečnostního oprávnění,*
+>
+> *- 4. důvod, proč má být provedeno uznání podle odstavce 1,*
+>
+> *- 5. dobu, na kterou má být uznání provedeno, a*
+>
+> *- 6. podpis držitele bezpečnostního oprávnění nebo odpovědného pracovníka úřadu cizí moci, který má v působnosti ochranu utajovaných informací, a adresu, na kterou má být uznání podle odstavce 1 doručeno, a*
+>
+> *- b) u ostatních držitelů bezpečnostního oprávnění*
+>
+> *- 1. firmu nebo název, identifikační číslo, bylo-li přiděleno, a sídlo, jde-li o právnickou osobu, nebo jméno a příjmení nebo firmu, identifikační číslo, bylo-li přiděleno, a sídlo nebo místo trvalého pobytu, jde-li o fyzickou osobu,*
+>
+> *- 2. důvod, proč má být provedeno uznání podle odstavce 1,*
+>
+> *- 3. formu přístupu držitele bezpečnostního oprávnění k utajované informaci a formu přístupu odpovídajícího formě přístupu podle § 20 odst. 1, o jejíž uznání je žádáno,*
+>
+> *- 4. dobu, na kterou má být uznání provedeno, a*
+>
+> *- 5. podpis držitele bezpečnostního oprávnění nebo podpis odpovědného pracovníka úřadu cizí moci, který má v působnosti ochranu utajovaných informací, a adresu, na kterou má být uznání podle odstavce 1 doručeno.*
+>
+> *(3) K žádosti podle odstavce 2 je nutné připojit úřední překlad bezpečnostního oprávnění nebo jeho ověřenou kopii; tyto doklady se nevyžadují, je-li žádost podána prostřednictvím úřadu cizí moci, který má v působnosti ochranu utajovaných informací, pokud tento na žádosti nebo v potvrzení, které se k žádosti připojí, potvrdí, že žadatel je držitelem příslušného bezpečnostního oprávnění.*
+>
+> *(4) Uznání podle odstavce 1 věty první Úřad zašle držiteli bezpečnostního oprávnění do 10 dnů ode dne podání jeho žádosti; pokud není žádost podle odstavce 2 podána prostřednictvím úřadu cizí moci, Úřad zašle držiteli bezpečnostního oprávnění uznání podle odstavce 1 do 20 dnů ode dne doručení žádosti Úřadu. Uznání podle odstavce 1 věty druhé Úřad zašle držiteli bezpečnostního oprávnění do 60 dnů ode dne podání jeho žádosti; pokud by uznání nebylo v souladu se zahraničně politickými nebo bezpečnostními zájmy České republiky, Úřad žádosti nevyhoví a tuto skutečnost žadateli v téže lhůtě písemně oznámí.*
+>
+> *(5) Uznání podle odstavce 1 musí obsahovat*
+>
+> *- a) údaje podle odstavce 2 písm. a) bodů 1 až 3 a odstavce 2 písm. b) bodu 1,*
+>
+> *- b) identifikaci bezpečnostního oprávnění vydaného úřadem cizí moci,*
+>
+> *- c) označení nejvyššího stupně utajení utajované informace, pro přístup k níž uznání podle odstavce 1 opravňuje,*
+>
+> *- d) u žadatele podle odstavce 2 písm. b) formu přístupu podle § 20,*
+>
+> *- e) datum vydání a dobu platnosti,*
+>
+> *- f) otisk úředního razítka a podpis oprávněného zástupce Úřadu; otisk úředního razítka se nevyžaduje, bylo-li uznání vydáno v elektronické podobě.*
+>
+> *(6) Na základě uznání podle odstavce 1 lze umožnit*
+>
+> *- a) nepodnikající fyzické osobě*
+>
+> *- 1. výkon citlivé činnosti a*
+>
+> *- 2. pokud je poučena, přístup k utajované informaci nebo samostatný vstup do zabezpečené oblasti nebo jednací oblasti, a*
+>
+> *- b) držitelům bezpečnostního oprávnění neuvedeným v písmenu a) přístup k utajované informaci.*
+>
+> *Zproštění povinnosti zachovávat mlčenlivost*
 
 **Výklad:**
 
@@ -846,9 +1103,53 @@ Uznání umožňuje:
 
 > **§ 63**
 >
-> *(1) Odpovědná osoba orgánu státu, do jehož oblasti věcné působnosti utajovaná informace náleží, zprostí fyzickou osobu povinnosti zachovávat mlčenlivost (dále jen „zproštění mlčenlivosti") na základě žádosti orgánu státu, který vede řízení, ve kterém je nezbytně nutné projednat utajovanou informaci, pokud tento zákon nestanoví jinak. […]*
+> *(1) Odpovědná osoba orgánu státu, do jehož oblasti věcné působnosti utajovaná informace náleží, zprostí fyzickou osobu povinnosti zachovávat mlčenlivost (dále jen „zproštění mlčenlivosti“) na základě žádosti orgánu státu, který vede řízení, ve kterém je nezbytně nutné projednat utajovanou informaci, pokud tento zákon nestanoví jinak. Žádost o zproštění mlčenlivosti musí obsahovat identifikaci*
 >
-> *[odst. 2–7 — náhradní příslušnost při zániku orgánu, katalog zprošťujících autorit (prezident, předsedové komor, předseda vlády, ministr spravedlnosti atd.), forma a omezení, zákaz pro prezidenta, ochranné výjimky]*
+> *- a) řízení, které orgán státu vede, a odůvodnění potřeby a rozsahu provedení zproštění mlčenlivosti,*
+>
+> *- b) utajované informace nebo označení věci, k níž se vztahuje utajovaná informace, ke které má být zproštění provedeno, a*
+>
+> *- c) fyzické osoby, která má být zproštěna mlčenlivosti, je-li to možné.*
+>
+> *(2) V případě, že orgán státu zanikne bez právního nástupce, může zproštění mlčenlivosti provést ředitel Úřadu.*
+>
+> *(3) Pro potřeby řízení podle odstavce 1 zproštění mlčenlivosti dále provádí*
+>
+> *- a) prezident republiky u předsedy vlády, prezidenta, viceprezidenta a členů Nejvyššího kontrolního úřadu, předsedy a místopředsedy Ústavního soudu, předsedy a místopředsedy Nejvyššího soudu, předsedy a místopředsedy Nejvyššího správního soudu, vedoucího Kanceláře prezidenta republiky, u veřejného ochránce práv, ochránce práv dětí a jejich zástupce a u guvernéra a viceguvernérů České národní banky,*
+>
+> *- b) Poslanecká sněmovna u poslanců,*
+>
+> *- c) Senát u senátorů,*
+>
+> *- d) předseda Poslanecké sněmovny u vedoucího Kanceláře Poslanecké sněmovny,*
+>
+> *- e) předseda Senátu u vedoucího Kanceláře Senátu,*
+>
+> *- f) předseda vlády u ministrů a vedoucích ostatních ústředních správních úřadů,*
+>
+> *- g) předseda Ústavního soudu u soudců Ústavního soudu,*
+>
+> *- h) ministr spravedlnosti u soudců neuvedených v písmenu g), státních zástupců a přísedících,*
+>
+> *- i) vláda u ředitele Bezpečnostní informační služby,*
+>
+> *- j) ministr vnitra u ředitele Úřadu pro zahraniční styky a informace,*
+>
+> *- k) ministr obrany u ředitele Vojenského zpravodajství a*
+>
+> *- l) předseda vlády u ředitele Generální inspekce bezpečnostních sborů,*
+>
+> *a to po vyjádření odpovědné osoby orgánu státu, do jehož oblasti věcné působnosti utajovaná informace náleží, které obsahuje souhlas se zproštěním mlčenlivosti nebo odůvodněné vyjádření, že se zproštěním mlčenlivosti ze závažných důvodů nesouhlasí.*
+>
+> *(4) Týká-li se povinnost zachovávat mlčenlivost věci, kterou projednává orgán Parlamentu, může zproštění mlčenlivosti fyzické osoby provést Poslanecká sněmovna nebo Senát postupem podle odstavce 3.*
+>
+> *(5) Zproštění mlčenlivosti se nevyžaduje u prezidenta republiky.*
+>
+> *(6) Zproštění mlčenlivosti se provádí písemně, v nezbytně nutném rozsahu a na dobu nezbytně nutnou. Stupeň utajení utajované informace není zproštěním mlčenlivosti dotčen.*
+>
+> *(7) Zproštění mlčenlivosti lze odepřít v případě, kdy zájem na ochraně utajované informace podle odstavce 1 převažuje nad zájmem na jejím projednání.*
+>
+> *Zmocňovací ustanovení*
 
 **Výklad:**
 
@@ -944,12 +1245,20 @@ Porušení mlčenlivosti naplňuje znaky **trestného činu ohrožení utajovan�
 > **§ 66**
 >
 > *(1) Fyzická osoba, která má přístup k utajovaným informacím, je povinna*
+>
 > *- a) dodržovat povinnosti při ochraně utajovaných informací,*
+>
 > *- b) odevzdat tomu, kdo osvědčení fyzické osoby vydal, do 15 dnů své osvědčení fyzické osoby, jehož platnost zanikla podle § 56 odst. 1 písm. b), f) až i) nebo k),*
-> *- c) neprodleně písemně oznámit […] ztrátu nebo odcizení svého osvědčení […], a takové poškození, že zápisy v něm uvedené jsou nečitelné nebo je porušena jeho celistvost,*
-> *- d) neprodleně písemně oznamovat Úřadu změny údajů, které byly uvedeny v její žádosti fyzické osoby; omezení rozsahu hlášení změn […] stanoví prováděcí právní předpis,*
-> *- e) neprodleně oznamovat tomu, kdo provedl její poučení […], porušení povinností […] a ztrátu nebo neoprávněné zničení nosiče obsahujícího utajovanou informaci,*
+>
+> *- c) neprodleně písemně oznámit tomu, kdo osvědčení fyzické osoby nebo osvědčení fyzické osoby pro cizí moc vydal, ztrátu nebo odcizení svého osvědčení fyzické osoby nebo osvědčení fyzické osoby pro cizí moc a takové poškození svého osvědčení fyzické osoby nebo osvědčení fyzické osoby pro cizí moc, že zápisy v něm uvedené jsou nečitelné nebo je porušena jeho celistvost,*
+>
+> *- d) neprodleně písemně oznamovat Úřadu změny údajů, které byly uvedeny v její žádosti fyzické osoby; omezení rozsahu hlášení změn, jakož i způsob a formu jejich doložení, stanoví prováděcí právní předpis,*
+>
+> *- e) neprodleně oznamovat tomu, kdo provedl její poučení podle § 9 odst. 1 nebo § 11 odst. 2, porušení povinností stanovených tímto zákonem a ztrátu nebo neoprávněné zničení nosiče obsahujícího utajovanou informaci,*
+>
 > *- f) účastnit se proškolení podle § 67 odst. 1 písm. b).*
+>
+> *(2) Na fyzickou osobu, která je držitelem osvědčení fyzické osoby, ale nemá přístup k utajované informaci, se vztahují pouze povinnosti uvedené v odstavci 1 písm. b) až d).*
 
 **Výklad:**
 
@@ -988,15 +1297,25 @@ Fyzická osoba, která je **držitelem osvědčení, ale nemá přístup k utajo
 > **§ 67**
 >
 > *(1) Odpovědná osoba je povinna zajistit*
+>
 > *- a) poučení fyzické osoby,*
+>
 > *- b) jednou ročně provedení proškolení fyzických osob, které mají přístup k utajované informaci, z právních předpisů v oblasti ochrany utajovaných informací a vést o těchto proškoleních přehledy,*
+>
 > *- c) ověřování splnění podmínek pro přístup fyzické osoby k utajované informaci stupně utajení Vyhrazené,*
+>
 > *- d) schválení informačního systému do provozu a písemné oznámení této skutečnosti Národnímu úřadu pro kybernetickou a informační bezpečnost,*
+>
 > *- e) pověření fyzické osoby k výkonu kryptografické ochrany,*
+>
 > *- f) neprodlené písemné oznámení Úřadu o tom, že před vydáním osvědčení fyzické osoby nebo rozhodnutí podle § 121 odst. 2 pominuly skutečnosti, kterými byla žádost fyzické osoby odůvodněna,*
-> *- g) neprodlené písemné oznámení Úřadu o skončení služebního poměru […] ve kterém byl fyzické osobě umožněn přístup k utajované informaci stupně utajení Přísně tajné, Tajné nebo Důvěrné […],*
+>
+> *- g) neprodlené písemné oznámení Úřadu o skončení služebního poměru nebo pracovněprávního, členského či obdobného vztahu, ve kterém byl fyzické osobě umožněn přístup k utajované informaci stupně utajení Přísně tajné, Tajné nebo Důvěrné; tato povinnost se nevztahuje na odpovědnou osobu zpravodajské služby nebo Ministerstva vnitra v případech příslušníků policie podle § 141 odst. 1,*
+>
 > *- h) kontrolu dodržování dalších povinností stanovených tímto zákonem,*
+>
 > *- i) neprodlené písemné oznámení Národnímu úřadu pro kybernetickou a informační bezpečnost o ukončení nebo přerušení provozu informačního systému a*
+>
 > *- j) provedení úkonů podle § 11a.*
 >
 > *(2) K výkonu povinností stanovených odpovědné osobě v § 21 odst. 5, § 23 odst. 1 písm. b), § 59 odst. 1, § 60 odst. 5, § 63 odst. 1 a 3, § 70 odst. 5 a v § 77 odst. 2 písm. a) nelze pověřit jinou osobu.*
@@ -1044,12 +1363,18 @@ Některé povinnosti podle § 67 fakticky vykonává **bezpečnostní ředitel**
 > **§ 68**
 >
 > *Podnikatel, který je držitelem osvědčení podnikatele, je povinen*
+>
 > *- a) odevzdat Úřadu do 15 dnů osvědčení podnikatele, jehož platnost zanikla podle § 56 odst. 1 písm. b), f) nebo l),*
-> *- b) neprodleně písemně oznámit Úřadu ztrátu nebo odcizení osvědčení podnikatele nebo osvědčení podnikatele pro cizí moc […],*
-> *- c) neprodleně písemně oznamovat Úřadu změny údajů uvedených podle § 97 písm. a), b), c) nebo q) anebo § 98 písm. c) v dotazníku podnikatele a v jeho bezpečnostní dokumentaci a dále zřízení nebo zrušení zabezpečené oblasti kategorie Vyhrazené […],*
-> *- d) písemně oznamovat Úřadu každoročně […] změny údajů uvedených v žádosti podnikatele […],*
+>
+> *- b) neprodleně písemně oznámit Úřadu ztrátu nebo odcizení osvědčení podnikatele nebo osvědčení podnikatele pro cizí moc a takové poškození osvědčení podnikatele nebo osvědčení podnikatele pro cizí moc, že zápisy v něm uvedené jsou nečitelné nebo je porušena jeho celistvost,*
+>
+> *- c) neprodleně písemně oznamovat Úřadu změny údajů uvedených podle § 97 písm. a), b), c) nebo q) anebo § 98 písm. c) v dotazníku podnikatele a v jeho bezpečnostní dokumentaci a dále zřízení nebo zrušení zabezpečené oblasti kategorie Vyhrazené; omezení rozsahu hlášení změn, jakož i způsob a formu jejich doložení, stanoví prováděcí právní předpis,*
+>
+> *- d) písemně oznamovat Úřadu každoročně ke dni, který se svým označením shoduje se dnem vydání osvědčení podnikatele, změny údajů uvedených v žádosti podnikatele podle § 96; omezení rozsahu hlášení změn a formu jejich doložení stanoví prováděcí právní předpis,*
+>
 > *- e) zabezpečit ochranu utajovaných informací při zániku platnosti osvědčení podnikatele,*
-> *- f) zaslat Úřadu rozhodnutí o schválení projektu přeměny […] do 15 dnů ode dne jeho přijetí.*
+>
+> *- f) zaslat Úřadu rozhodnutí o schválení projektu přeměny podle zákona o přeměnách obchodních společností a družstev28a) do 15 dnů ode dne jeho přijetí.*
 
 **Výklad:**
 
@@ -1074,12 +1399,18 @@ Některé povinnosti podle § 67 fakticky vykonává **bezpečnostní ředitel**
 > **§ 68a**
 >
 > *Podnikatel, který učinil prohlášení podnikatele, je povinen*
+>
 > *- a) vést bezpečnostní dokumentaci podnikatele v rozsahu § 98 písm. c) a na vyžádání poskytovatele vyhrazené informace mu ji poskytnout,*
+>
 > *- b) zabezpečit ochranu utajovaných informací při zániku přístupu k utajované informaci,*
+>
 > *- c) zaslat prohlášení podnikatele Úřadu podle § 15a odst. 3,*
-> *- d) oznámit podle § 15a odst. 4 písemně Úřadu nebo poskytovateli vyhrazené informace ukončení přístupu […],*
-> *- e) postupovat obdobně podle § 56 odst. 2 při zániku platnosti prohlášení podnikatele […],*
-> *- f) učinit a neprodleně předat poskytovateli vyhrazené informace, nebo v případě § 15a odst. 3 Úřadu, nové prohlášení podnikatele […]*
+>
+> *- d) oznámit podle § 15a odst. 4 písemně Úřadu nebo poskytovateli vyhrazené informace ukončení přístupu k ní nebo podle § 15a odst. 6 zánik platnosti prohlášení podnikatele,*
+>
+> *- e) postupovat obdobně podle § 56 odst. 2 při zániku platnosti prohlášení podnikatele z důvodů uvedených v § 15a odst. 5,*
+>
+> *- f) učinit a neprodleně předat poskytovateli vyhrazené informace, nebo v případě § 15a odst. 3 Úřadu, nové prohlášení podnikatele, pokud i po zániku platnosti původního prohlášení podnikatele podle § 15a odst. 5 písm. a) nebo f) i nadále nezbytně potřebuje přístup k utajované informaci stupně utajení Vyhrazené.*
 
 **Výklad:**
 
@@ -1097,28 +1428,63 @@ Některé povinnosti podle § 67 fakticky vykonává **bezpečnostní ředitel**
 
 > **§ 69**
 >
+> *Povinnosti podnikatele, který má přístup k utajované informaci, právnické osoby podle § 60b a orgánu státu*
+>
 > *(1) Podnikatel, který má přístup k utajované informaci, právnická osoba podle § 60b a orgán státu jsou povinni*
+>
 > *- a) zajistit ochranu utajovaných informací podle tohoto zákona a mezinárodních smluv,*
-> *- b) zpracovávat a vést přehled míst nebo funkcí, na kterých je nezbytné mít přístup k utajovaným informacím […],*
+>
+> *- b) zpracovávat a vést přehled míst nebo funkcí, na kterých je nezbytné mít přístup k utajovaným informacím včetně utajovaných informací Evropské unie, Organizace Severoatlantické smlouvy a utajovaných informací vyžadujících zvláštní režim nakládání, s uvedením stupně utajení, nebo které nelze vykonávat bez osvědčení o zvláštní odborné způsobilosti podle tohoto zákona (§ 39); tím nejsou dotčena ustanovení zvláštních právních předpisů na úseku odborné způsobilosti29),*
+>
 > *- c) neprodleně písemně oznámit Úřadu skutečnost, která může mít vliv na vydání nebo na platnost osvědčení fyzické osoby nebo osvědčení podnikatele,*
-> *- d) zajistit vytvoření podmínek pro označování, evidenci, zapůjčování, ukládání, přepravu, další manipulaci a vyřazování utajované informace […],*
-> *- e) provozovat jen informační systém, který je certifikován Národním úřadem pro kybernetickou a informační bezpečnost a písemně schválen do provozu […],*
-> *- f) zastavit provoz informačního systému, který nesplňuje podmínky […],*
-> *- g) provozovat jen komunikační systém, jehož projekt bezpečnosti byl schválen […],*
-> *- h) zastavit provoz komunikačního systému, který nesplňuje podmínky […],*
-> *- i) používat pro kryptografickou ochranu jen prostředek, který je certifikován […],*
+>
+> *- d) zajistit vytvoření podmínek pro označování, evidenci, zapůjčování, ukládání, přepravu, další manipulaci a vyřazování utajované informace a utajované informace se zvláštním režimem nakládání v souladu s prováděcím právním předpisem,*
+>
+> *- e) provozovat jen informační systém, který je certifikován Národním úřadem pro kybernetickou a informační bezpečnost a písemně schválen do provozu, nebo informační systém cizí moci, který je akreditován Národním úřadem pro kybernetickou a informační bezpečnost,*
+>
+> *- f) zastavit provoz informačního systému, který nesplňuje podmínky stanovené v certifikační zprávě, a zajistit ochranu utajované informace v něm a o těchto skutečnostech informovat Národní úřad pro kybernetickou a informační bezpečnost,*
+>
+> *- g) provozovat jen komunikační systém, jehož projekt bezpečnosti byl schválen Národním úřadem pro kybernetickou a informační bezpečnost,*
+>
+> *- h) zastavit provoz komunikačního systému, který nesplňuje podmínky stanovené v projektu bezpečnosti komunikačního systému, a o této skutečnosti informovat Národní úřad pro kybernetickou a informační bezpečnost,*
+>
+> *- i) používat pro kryptografickou ochranu jen prostředek, který je certifikován Národním úřadem pro kybernetickou a informační bezpečnost nebo je součástí informačního systému cizí moci akreditovaného Národním úřadem pro kybernetickou a informační bezpečnost, a používat kryptografické pracoviště jen k účelu, ke kterému bylo certifikováno a schváleno do provozu,*
+>
 > *- j) vést evidenci fyzických osob, které mají přístup k utajované informaci, a evidenci případů neoprávněného nakládání s utajovanou informací,*
-> *- k) hlásit porušení povinnosti při ochraně utajované informace […],*
-> *- l) zřídit registr poskytovaných utajovaných informací (§ 79) a hlásit změny v něm Úřadu […],*
-> *- m) provést kontrolu utajovaných informací evidovaných v registru utajovaných informací k 31. prosinci kalendářního roku […],*
-> *- n) předat utajovanou informaci poskytnutou cizí mocí […] k zaevidování Úřadu nebo Ministerstvu zahraničních věcí podle § 79 odst. 5,*
-> *- o) zasílat v případech stanovených tímto zákonem utajované informace cizí moci prostřednictvím ústředního registru […],*
-> *- p) zajistit písemné pověření fyzické osoby k přístupu k utajované informaci se zvláštním režimem nakládání označené „ATOMAL",*
-> *- q) jako poskytovatel vyhrazené informace neprodleně zaslat Úřadu kopii prohlášení podnikatele […],*
-> *- r) jako zadavatel […] neprodleně písemně oznámit a doložit Úřadu doklady […] [zadávání veřejných zakázek s přístupem k UI]*
+>
+> *- k) hlásit porušení povinnosti při ochraně utajované informace nebo povinnosti uložené mezinárodní smlouvou v oblasti ochrany utajovaných informací a přijetí opatření k odstranění příčin a nepříznivých následků porušení Úřadu; tato povinnost se nevztahuje na zpravodajské služby v případech podle § 140 odst. 1 písm. a) a na Ministerstvo vnitra v případech podle § 141 odst. 1, s výjimkou případů porušení ochrany utajovaných informací Organizace Severoatlantické smlouvy nebo Evropské unie,*
+>
+> *- l) zřídit registr poskytovaných utajovaných informací (§ 79) a hlásit změny v něm Úřadu v rozsahu stanoveném prováděcím právním předpisem,*
+>
+> *- m) provést kontrolu utajovaných informací evidovaných v registru utajovaných informací k 31. prosinci kalendářního roku a zprávu o jejím výsledku zaslat Úřadu do 15. února následujícího kalendářního roku spolu s uvedením počtu utajovaných informací a jejich stupňů utajení; zpravodajské služby zasílají zprávu o utajovaných informacích poskytnutých ústředním registrem a registrem vedeným Ministerstvem zahraničních věcí podle § 78 odst. 1,*
+>
+> *- n) předat utajovanou informaci poskytnutou cizí mocí nebo zahraničním partnerem k zaevidování Úřadu nebo Ministerstvu zahraničních věcí podle § 79 odst. 5,*
+>
+> *- o) zasílat v případech stanovených tímto zákonem utajované informace cizí moci prostřednictvím ústředního registru (§ 79 odst. 2),*
+>
+> *- p) zajistit písemné pověření fyzické osoby k přístupu k utajované informaci se zvláštním režimem nakládání označené „ATOMAL“,*
+>
+> *- q) jako poskytovatel vyhrazené informace neprodleně zaslat Úřadu kopii prohlášení podnikatele podle § 15a odst. 2,*
+>
+> *- r) jako zadavatel, není-li zpravodajskou službou, neprodleně písemně oznámit a doložit Úřadu doklady ke*
+>
+> *- 1. skutečnosti, že bude zadávat veřejnou zakázku mimo zadávací řízení z důvodu ochrany utajovaných informací49) nebo bude zadávat nadlimitní veřejnou zakázku mimo zadávací řízení z jiného důvodu63), pokud při zadávání veřejné zakázky bude umožněn přístup k utajované informaci,*
+>
+> *- 2. skutečnosti, že v zadávacím řízení stanoví opatření k zajištění ochrany utajované informace50) stupně utajení Důvěrné nebo vyšší,*
+>
+> *- 3. stanovení požadavku na profesní způsobilost v zadávacím řízení51) spočívající v předložení dokladu prokazujícího schopnost dodavatele zabezpečit ochranu utajovaných informací stupně utajení Důvěrné nebo vyšší nebo oprávnění ke vstupu osob dodavatele do zabezpečené oblasti kategorie Důvěrné nebo vyšší anebo jednací oblasti podle tohoto zákona, nebo*
+>
+> *- 4. stanovení podmínky na uzavření smlouvy v zadávacím řízení spočívající v předložení dokladu prokazujícího schopnost dodavatele zabezpečit ochranu utajovaných informací64) stupně utajení Důvěrné nebo vyšší.*
+>
 > *- s) kontrolovat dodržování dalších povinností stanovených tímto zákonem,*
+>
 > *- t) vést evidenci kryptografického materiálu, evidenci pracovníků kryptografické ochrany, evidenci provozní obsluhy kryptografického prostředku a evidenci kurýrů kryptografického materiálu,*
+>
 > *- u) oznámit Úřadu zničení utajované informace podle § 21 odst. 11.*
+>
+> *(2) Povinnost uvedená v odstavci 1 písm. c) se nevztahuje na zpravodajské služby v případech podle § 140 odst. 1 písm. a) a na Ministerstvo vnitra v případech podle § 141 odst. 1.*
+>
+> *(3) Povinnost podle odstavce 1 písm. r) se vztahuje i na kraj při výkonu jeho samostatné působnosti.*
 
 **Výklad:**
 
@@ -1176,13 +1542,15 @@ Některé oznamovací povinnosti **se nevztahují na zpravodajské služby** v p
 
 > **§ 70**
 >
-> *(1) Každý, kdo Úřadu průmyslového vlastnictví podává přihlášku vynálezu, užitného vzoru nebo topografie polovodičového výrobku (dále jen „přihlašovatel"), je povinen na přihlášce vyznačit návrh stupně utajení, domnívá-li se, že předmět přihlášky obsahuje utajovanou informaci. […]*
+> *(1) Každý, kdo Úřadu průmyslového vlastnictví podává přihlášku vynálezu, užitného vzoru nebo topografie polovodičového výrobku (dále jen „přihlašovatel“), je povinen na přihlášce vyznačit návrh stupně utajení, domnívá-li se, že předmět přihlášky obsahuje utajovanou informaci. Je-li přihlašovatelem právnická osoba, uvede v přihlášce jméno, příjmení a funkci nebo postavení odpovědné osoby.*
 >
-> *(2) Úřad průmyslového vlastnictví přihlášku podle odstavce 1 předloží Úřadu, který […] návrh stupně utajení potvrdí, změní nebo, neobsahuje-li předmět přihlášky utajovanou informaci, návrh zamítne […]*
+> *(2) Úřad průmyslového vlastnictví přihlášku podle odstavce 1 předloží Úřadu, který po vyjádření ústředního správního úřadu, do jehož oblasti věcné působnosti předmět přihlášky náleží, návrh stupně utajení potvrdí, změní nebo, neobsahuje-li předmět přihlášky utajovanou informaci, návrh zamítne; nenáleží-li předmět přihlášky do oblasti věcné působnosti žádného ústředního správního úřadu, vyjádření se nevyžaduje.*
 >
-> *(3) Úřad potvrzení nebo změnu návrhu stupně utajení provedené podle odstavce 2 oznámí Úřadu průmyslového vlastnictví ve lhůtě 60 dnů ode dne doručení přihlášky […]*
+> *(3) Úřad potvrzení nebo změnu návrhu stupně utajení provedené podle odstavce 2 oznámí Úřadu průmyslového vlastnictví ve lhůtě 60 dnů ode dne doručení přihlášky Úřadu, popřípadě mu v téže lhůtě sdělí, že návrh stupně utajení zamítl, a přihlášku mu vrátí; v oznámení Úřad zároveň uvede, zda přihlašovatel splňuje podmínky přístupu k utajované informaci.*
 >
-> *[odst. 4 — vyznačení stupně utajení na přihlášce; odst. 5 — poučení přihlašovatele nesplňujícího podmínky přístupu]*
+> *(4) Úřad průmyslového vlastnictví stupeň utajení oznámený podle odstavce 3 vyznačí na přihlášce a neprodleně jej oznámí přihlašovateli, který tento stupeň utajení stanoveným způsobem (§ 21 a 22) vyznačí na předmětu přihlášky; je-li přihlašovatelem nepodnikající fyzická osoba, Úřad průmyslového vlastnictví má postavení původce. Sdělení podle odstavce 3 Úřad průmyslového vlastnictví přihlašovateli neprodleně oznámí též.*
+>
+> *(5) Obsahuje-li předmět přihlášky podle odstavce 1 utajovanou informaci a nesplňuje-li přihlašovatel podmínky přístupu k utajované informaci tohoto stupně utajení, Úřad průmyslového vlastnictví provede, je-li přihlašovatelem fyzická osoba, její poučení, a je-li přihlašovatelem právnická osoba, poučení odpovědné osoby přihlašovatele; odpovědná osoba přihlašovatele poučí všechny fyzické osoby, které v rámci právnické osoby přihlašovatele přístup k předmětu přihlášky měly nebo jej nezbytně potřebují; poučením se tyto osoby považují za osoby splňující podmínky přístupu k utajované informaci, obsažené v předmětu této přihlášky. Ustanovení § 9 odst. 1 věty poslední a § 11 odst. 2 věty třetí platí obdobně.*
 
 **Výklad:**
 
@@ -1286,8 +1654,10 @@ Vládní schválení personálních projektů má povahu **vnitřního správní
 > **§ 73**
 >
 > *Utajovanou informaci lze v mezinárodním styku poskytovat, není-li v § 74 stanoveno jinak,*
+>
 > *- a) jde-li o utajovanou informaci stupně utajení Přísně tajné, Tajné nebo Důvěrné, na základě písemné žádosti orgánu státu, právnické osoby podle § 60b nebo podnikatele a písemného povolení Úřadu,*
-> *- b) jde-li o utajovanou informaci stupně utajení Vyhrazené, na základě písemné žádosti […] a písemného souhlasu ústředního správního úřadu, do jehož oblasti věcné působnosti utajovaná informace náleží; nenáleží-li utajovaná informace do oblasti věcné působnosti žádného ústředního správního úřadu, na základě písemného souhlasu Úřadu.*
+>
+> *- b) jde-li o utajovanou informaci stupně utajení Vyhrazené, na základě písemné žádosti orgánu státu, právnické osoby podle § 60b nebo podnikatele a písemného souhlasu ústředního správního úřadu, do jehož oblasti věcné působnosti utajovaná informace náleží; nenáleží-li utajovaná informace do oblasti věcné působnosti žádného ústředního správního úřadu, na základě písemného souhlasu Úřadu.*
 
 **Výklad:**
 
@@ -1347,12 +1717,16 @@ Pro **stupeň V mezi orgánem státu a cizí mocí** odpadá i **souhlas ústře
 > **§ 75**
 >
 > *(1) Žádost podle § 73 obsahuje*
+>
 > *- a) označení cizí moci nebo zahraničního partnera, kterým má být utajovaná informace poskytnuta,*
+>
 > *- b) důvody, pro které se o povolení nebo o souhlas žádá; to neplatí, má-li být utajovaná informace poskytnuta cizí moci orgánem státu.*
 >
 > *(2) Přílohou žádosti o povolení nebo souhlas podle § 73 je*
+>
 > *- a) smlouva, podle které má být utajovaná informace poskytnuta cizí moci nebo zahraničnímu partnerovi, obsahující konkretizaci utajované informace a podmínky její ochrany, nebo*
-> *- b) jde-li zároveň o případ podle § 75a, návrh smlouvy […]*
+>
+> *- b) jde-li zároveň o případ podle § 75a, návrh smlouvy, podle které má být utajovaná informace poskytnuta další cizí moci (§ 77 odst. 7) nebo zahraničnímu partnerovi, obsahující bezpečnostní instrukci.*
 
 **Výklad:**
 
@@ -1396,13 +1770,13 @@ Na smlouvy uzavírané **mezi cizí mocí nebo zahraničním partnerem a zpravod
 
 > **§ 76**
 >
-> *(1) Před vydáním povolení podle § 73 písm. a) si Úřad vždy vyžádá písemné stanovisko Ministerstva zahraničních věcí a příslušné zpravodajské služby a dále ústředního správního úřadu […]*
+> *(1) Před vydáním povolení podle § 73 písm. a) si Úřad vždy vyžádá písemné stanovisko Ministerstva zahraničních věcí a příslušné zpravodajské služby a dále ústředního správního úřadu, do jehož oblasti věcné působnosti utajovaná informace náleží, nežádá-li o povolení tento orgán státu; nenáleží-li utajovaná informace do oblasti věcné působnosti žádného ústředního správního úřadu, stanovisko se nevyžaduje. Žádá-li o povolení orgán státu, právnická osoba podle § 60b nebo podnikatel, Úřad si od nich vyžádá bezpečnostní oprávnění jejich zahraničního partnera vydané úřadem cizí moci, do jehož působnosti náleží ochrana utajovaných informací v zemi zahraničního partnera. Pokud má být utajovaná informace poskytnuta v mezinárodním styku pro potřeby řízení před některými mezinárodními soudy a jinými mezinárodními kontrolními orgány65) nebo v souvislosti s mezinárodními závazky České republiky, Úřad si vyžádá před vydáním povolení podle § 73 písm. a) pouze písemné stanovisko ústředního správního úřadu, do jehož oblasti věcné působnosti utajovaná informace náleží, popřípadě příslušné zpravodajské služby nebo policie, pokud jsou jejím původcem.*
 >
 > *(2) Ministerstvo zahraničních věcí, příslušná zpravodajská služba a ústřední správní úřad poskytnou Úřadu stanovisko podle odstavce 1 ve lhůtě 30 dnů ode dne doručení jeho žádosti.*
 >
-> *(3) Úřad vydá povolení podle § 73 písm. a) ve lhůtě 60 dnů ode dne doručení žádosti orgánu státu, právnické osoby podle § 60b nebo podnikatele […]*
+> *(3) Úřad vydá povolení podle § 73 písm. a) ve lhůtě 60 dnů ode dne doručení žádosti orgánu státu, právnické osoby podle § 60b nebo podnikatele; v případě, kdy by utajovaná informace byla jejím poskytnutím ohrožena, Úřad žádosti nevyhoví a tuto skutečnost žadateli v uvedené lhůtě písemně oznámí.*
 >
-> *(4) Ústřední správní úřad nebo Úřad vydá souhlas podle § 73 písm. b) ve lhůtě 30 dnů ode dne doručení žádosti […]*
+> *(4) Ústřední správní úřad nebo Úřad vydá souhlas podle § 73 písm. b) ve lhůtě 30 dnů ode dne doručení žádosti orgánu státu, právnické osoby podle § 60b nebo podnikatele; v případě, kdy by utajovaná informace byla jejím poskytnutím ohrožena, ústřední správní úřad nebo Úřad žádosti nevyhoví a tuto skutečnost žadateli v uvedené lhůtě písemně oznámí.*
 >
 > *(5) Na vydání povolení a na udělení souhlasu podle § 73 není právní nárok.*
 >
@@ -1443,11 +1817,24 @@ NBÚ vede **přehled vydaných povolení** — slouží k retrospektivní kontro
 > *(1) Poskytování utajované informace stupně utajení Přísně tajné, Tajné nebo Důvěrné v mezinárodním styku se uskutečňuje prostřednictvím registru uvedeného v § 79 odst. 2, pokud není v odstavcích 2 až 5, v § 78 nebo v mezinárodní smlouvě stanoveno jinak.*
 >
 > *(2) Odstavec 1 se nevztahuje na poskytování utajované informace*
-> *- a) mezi zpravodajskou službou a obdobnou službou cizí moci […],*
-> *- b) mezi státními zastupitelstvími, orgány činnými v trestním řízení a obdobnými orgány cizí moci zřízenými podle přímo použitelného předpisu Evropské unie,*
-> *- c) mezi justičními orgány a cizozemskými orgány, Agenturou Evropské unie pro justiční spolupráci v trestních věcech […], Agenturou Evropské unie pro spolupráci v oblasti prosazování práva (Europol) […], orgány a institucemi Evropské unie, Mezinárodní organizací kriminální policie (Interpol) a jinými mezinárodními organizacemi […]*
 >
-> *[odst. 3–8 — výjimky pro MO, MS, soudy, SZ, policii, GIBS, celní orgány; evidence; krizové výjimky; další cizí moci; kurýrní list]*
+> *- a) mezi zpravodajskou službou a obdobnou službou cizí moci v rámci spolupráce uskutečňované podle zákona o zpravodajských službách České republiky; o poskytování utajované informace v tomto případě rozhoduje odpovědná osoba zpravodajské služby,*
+>
+> *- b) mezi státními zastupitelstvími, orgány činnými v trestním řízení a obdobnými orgány cizí moci zřízenými podle přímo použitelného předpisu Evropské unie66),*
+>
+> *- c) mezi justičními orgány a cizozemskými orgány, Agenturou Evropské unie pro justiční spolupráci v trestních věcech zřízenou přímo použitelným předpisem Evropské unie67), Agenturou Evropské unie pro spolupráci v oblasti prosazování práva (Europol) zřízenou přímo použitelným předpisem Evropské unie68), orgány a institucemi Evropské unie, Mezinárodní organizací kriminální policie (Interpol) a jinými mezinárodními organizacemi a mezinárodními trestními soudy, mezinárodními trestními tribunály nebo obdobnými mezinárodními soudními orgány s působností v trestních věcech a jejich orgány v rámci mezinárodní justiční spolupráce ve věcech trestních uskutečňované podle zákona o mezinárodní justiční spolupráci ve věcech trestních.*
+>
+> *(3) Na poskytování utajovaných informací mezi Ministerstvem obrany, Ministerstvem spravedlnosti, soudy, státními zastupitelstvími, policií, Generální inspekcí bezpečnostních sborů nebo celními orgány a obdobnými orgány cizí moci se odstavec 1, stanoví-li mezinárodní smlouva, kterou je Česká republika vázána, nebo zvláštní právní předpis31) jinak, nevztahuje.*
+>
+> *(4) Orgány státu a policie vedou evidenci utajovaných informací poskytovaných podle odstavců 2 a 3.*
+>
+> *(5) Ustanovení odstavce 1 a § 73 se nepoužijí, jde-li o poskytování utajované informace v mezinárodním styku v případech podle § 60 odst. 1.*
+>
+> *(6) Poskytování utajované informace stupně utajení Přísně tajné, Tajné nebo Důvěrné v mezinárodním styku pro potřeby řízení před některými mezinárodními soudy a jinými mezinárodními kontrolními orgány podle zákona o mezinárodní justiční spolupráci ve věcech trestních nebo v souvislosti s mezinárodními závazky České republiky se uskutečňuje prostřednictvím kurýra nebo diplomatickou cestou.*
+>
+> *(7) Utajovanou informaci cizí moci lze pouze v souladu s jejími požadavky poskytnout další cizí moci nebo zahraničnímu partnerovi.*
+>
+> *(8) V případě přepravy utajovaných informací stupně utajení Přísně tajné, Tajné a Důvěrné poskytovaných v mezinárodním styku prostřednictvím kurýra požádá odpovědná osoba nebo bezpečnostní ředitel Úřad o vydání kurýrního listu. Kurýrní list obsahuje zejména identifikační údaje kurýra, informace o přepravované zásilce a pokyny pro nakládání s ní. Při přepravě diplomatické pošty prostřednictvím diplomatického kurýra Úřad kurýrní list nevydává; v těchto případech je diplomatický kurýr vybaven úředním dokumentem podle mezinárodní smlouvy69), kterou je Česká republika vázána.*
 
 **Výklad:**
 
@@ -1514,11 +1901,31 @@ UI s **zvláštním režimem nakládání** podle § 21 odst. 3 (typicky ATOMAL 
 >
 > *(1) V registrech nebo pomocných registrech utajovaných informací se eviduje v jednacích protokolech a ukládá nebo odesílá utajovaná informace stupně utajení Přísně tajné, Tajné nebo Důvěrné poskytovaná v mezinárodním styku. V kontrolních bodech registru se tato utajovaná informace zaznamenává v pomocných jednacích protokolech a předává zpracovateli.*
 >
-> *(2) Úřad zřizuje a vede ústřední registr utajovaných informací uvedených v odstavci 1 jím nebo jemu přímo poskytnutých a utajovaných informací, které se poskytují jeho prostřednictvím podle § 77 odst. 1 (dále jen „ústřední registr").*
+> *(2) Úřad zřizuje a vede ústřední registr utajovaných informací uvedených v odstavci 1 jím nebo jemu přímo poskytnutých a utajovaných informací, které se poskytují jeho prostřednictvím podle § 77 odst. 1 (dále jen „ústřední registr“).*
 >
-> *(3) Orgán státu, právnická osoba podle § 60b a podnikatel zřizují a vedou registr utajovaných informací uvedených v odstavci 1 jimi nebo jim poskytnutých (dále jen „registr"); v registru Ministerstva zahraničních věcí se evidují též utajované informace, které se poskytují jeho prostřednictvím podle § 78 odst. 1. […]*
+> *(3) Orgán státu, právnická osoba podle § 60b a podnikatel zřizují a vedou registr utajovaných informací uvedených v odstavci 1 jimi nebo jim poskytnutých (dále jen „registr“); v registru Ministerstva zahraničních věcí se evidují též utajované informace, které se poskytují jeho prostřednictvím podle § 78 odst. 1. Zřízení registru schvaluje Úřad na základě písemné žádosti orgánu státu, právnické osoby podle § 60b nebo podnikatele; to neplatí pro zpravodajské služby. Úřad je oprávněn před vydáním souhlasu provést ověření skutečností uvedených v žádosti o zřízení registru, případně dalších skutečností a podmínek, souvisejících se zřízením registru.*
 >
-> *[odst. 4 — pomocné registry a kontrolní body; odst. 5 — předávání UI poskytnutých jinou cestou; odst. 6 — oznamování změn; odst. 7 — dohled NBÚ]*
+> *(4) Orgán státu, právnická osoba podle § 60b nebo podnikatel mohou z důvodu zvýšení operativnosti využívání svého registru zřídit, jako jeho vnitřní složky, pomocné registry nebo kontrolní body.*
+>
+> *(5) Utajovanou informaci uvedenou v odstavci 1 poskytnutou cizí mocí nebo zahraničním partnerem orgánu státu, právnické osoby podle § 60b nebo podnikatele jiným způsobem než uvedeným v § 77 odst. 1 nebo § 78 odst. 1 orgán státu, právnická osoba podle § 60b nebo podnikatel předají k zaevidování v ústředním registru, nebo v případě utajované informace podle § 78 odst. 1 v registru Ministerstva zahraničních věcí, neprodleně po jejím poskytnutí; tato povinnost se nevztahuje na zpravodajské služby.*
+>
+> *(6) Orgán státu, právnická osoba podle § 60b nebo podnikatel oznamují Úřadu změny v registru v rozsahu stanoveném prováděcím právním předpisem.*
+>
+> *(7) Úřad vede přehled zřízených registrů a provádí dohled nad jejich činností.*
+>
+> *(8) Prováděcí právní předpis stanoví*
+>
+> *- a) organizaci a činnost ústředního registru,*
+>
+> *- b) organizaci a činnost registru, pomocného registru a kontrolního bodu,*
+>
+> *- c) náležitosti zprávy o kontrole utajovaných informací evidovaných v registru podle § 69 odst. 1 písm. m),*
+>
+> *- d) obsah písemné žádosti o zřízení registru,*
+>
+> *- e) podmínky zřízení, obsah a způsob vedení registru a*
+>
+> *- f) rozsah změn v registru oznamovaných Úřadu a postup při zrušení registru.*
 
 **Výklad:**
 
@@ -1709,22 +2116,40 @@ V této oblasti je rozsáhlá judikatura **NSS** k otázce, kdy se má za to, ž
 > *(1) Doklad je veřejnou listinou. Platnost dokladu je 10 let.*
 >
 > *(2) Doklad musí obsahovat*
+>
 > *- a) jméno, příjmení, rodné příjmení,*
+>
 > *- b) den, měsíc, rok a místo narození,*
+>
 > *- c) státní občanství,*
+>
 > *- d) datum vydání a dobu platnosti a*
+>
 > *- e) otisk úředního razítka a podpis oprávněného zástupce Úřadu.*
 >
 > *(3) Platnost dokladu zaniká*
+>
 > *- a) uplynutím doby jeho platnosti,*
-> *- b) dnem vykonatelnosti rozhodnutí Úřadu […] o zrušení jeho platnosti (§ 101),*
+>
+> *- b) dnem vykonatelnosti rozhodnutí Úřadu (§ 123 odst. 3, § 126 odst. 4) o zrušení jeho platnosti (§ 101),*
+>
 > *- c) úmrtím fyzické osoby, která je držitelem dokladu, nebo jejím prohlášením za mrtvou,*
+>
 > *- d) ohlášením jeho odcizení nebo ztráty,*
+>
 > *- e) ohlášením takového poškození, že zápisy v něm uvedené jsou nečitelné nebo je porušena jeho celistvost,*
+>
 > *- f) vrácením dokladu jeho držitelem tomu, kdo ho vydal, nebo*
+>
 > *- g) dnem doručení osvědčení fyzické osoby nebo nového dokladu.*
 >
-> *[odst. 4–6 — náhradní doklad, změna údajů, odpovědná osoba zajišťuje nevýkon citlivé činnosti; odst. 7 — vzor]*
+> *(4) Pokud držitel dokladu do 15 dnů ode dne zániku jeho platnosti podle odstavce 3 písm. d) nebo e) požádá písemně Úřad o vydání dokladu nového, výkon citlivé činnosti není zánikem platnosti původního dokladu dotčen; Úřad vydá do 5 dnů od doručení žádosti doklad nový, který nahrazuje původní. Pokud nebude podána žádost podle věty první, postupuje Úřad podle odstavce 6 věty druhé obdobně.*
+>
+> *(5) V případě změny některého údaje obsaženého v dokladu vydá Úřad bezodkladně doklad nový. Možnost výkonu citlivé činnosti není do doby doručení nového dokladu dotčena.*
+>
+> *(6) Při zániku platnosti dokladu podle odstavce 3 písm. a), b) nebo f) je odpovědná osoba povinna zajistit, aby fyzická osoba nevykonávala citlivou činnost. V případě zániku platnosti dokladu podle odstavce 3 písm. b) nebo f) Úřad písemně vyrozumí odpovědnou osobu fyzické osoby o zániku platnosti dokladu.*
+>
+> *(7) Prováděcí právní předpis stanoví vzor dokladu.*
 
 **Výklad:**
 
