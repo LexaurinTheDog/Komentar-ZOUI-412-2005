@@ -2974,5 +2974,3 @@ Druhá polovina zákona č. 412/2005 Sb. (Části III–IX) představuje **funk�
 
 Komentář je nutné chápat v kontextu **mezinárodního bezpečnostního prostředí** — ZOUI je zákonem, jehož funkčnost je posuzována také partnery v rámci NATO a EU; jeho úprava reflektuje mezinárodní bezpečnostní standardy a umožňuje České republice plnit její závazky v rámci spojeneckých systémů ochrany utajovaných informací.
 
-
-

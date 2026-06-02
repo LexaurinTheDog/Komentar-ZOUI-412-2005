@@ -515,6 +515,11 @@ Nesplnění této oznamovací povinnosti je samostatným důvodem zániku platno
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2558/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B8A26545967270EFC1257AC20055DDA8?openDocument) — 6. 11. 2012, kat. A
+  > „Stav v době dání výpovědi z pracovního poměru je pro posouzení její platnosti rozhodující též, spočívá-li důvod výpovědi podle § 46 odst. 1 písm. e) zák. práce (ve znění účinném do 31. 12. 2006)* v nesplňování předpokladů stanovených předpisy o ochraně utajovaných informací a o bezpečnostní způsobilosti z hlediska platnosti posuzované výpovědi nejsou zásadně významné okolnosti (výsledek bezpečností prověrky), které nastaly později"
+
 #### Skoková změna oprávnění — od oznámení k osvědčení
 
 Pro vyšší tři stupně (D, T, PT) **nestačí oznámení** vydávané odpovědnou osobou, vyžaduje se **osvědčení fyzické osoby** vydávané výlučně **Úřadem** (§ 54), a to po formálním **bezpečnostním řízení** podle Části čtvrté zákona (§§ 93 a násl. — vně rozsahu této kapitoly). Mezi oznámením a osvědčením je **kvalitativní rozdíl** v rozsahu prověrky:
