@@ -519,6 +519,11 @@ Tyto vyhlášky byly opakovaně novelizovány v reakci na změny v technologii a
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 9/2010 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/620091) — 27. 10. 2010
+  > „Osvědčení podnikatele představuje, vedle nezbytnosti utajované informace k výkonu činnosti, jednu z podmínek přístupu podnikatele k utajované informaci (§ 15 zákona č. 412/2005 Sb.). Z ustanovení § 15, § 16 a § 54 odst. 3 zákona č. 412/2005 Sb. vyplývá, že osvědčení je vydáváno vždy konkrétnímu podnikateli, u kterého jsou splněny podmínky pro jeho vydání, a osvědčení je tudíž nepřevoditelné na jiný subjekt"
+
 #### Osvědčení jako veřejná listina (odst. 1)
 
 Stejně jako certifikáty (§ 46 odst. 3) jsou i **osvědčení fyzické osoby a osvědčení podnikatele veřejnými listinami** — se všemi důsledky (důkazní síla, trestněprávní ochrana). Význam osvědčení jakožto veřejné listiny je dvojí:
@@ -742,6 +747,11 @@ Mimořádné pravidlo: osvědčení pro cizí moc **nezaniká uplynutím doby pl
 > *[odst. 3 — zpravodajské zdroje, informátoři, chráněné osoby; odst. 4–6 — přístup v řízeních a u cizí moci]*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 7/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-09_1) — nález, 4. 5. 2010
+  > „Ústavní soud konstatuje, že napadené ustanovení sleduje legitimní cíl, jímž je ochrana utajovaných informací cizí moci, tedy ochrana zájmů státu a mezinárodních zájmů v bezpečnostní oblasti"
 
 #### Ústavněprávní logika přístupu ex lege
 
@@ -1968,6 +1978,11 @@ NBÚ vede **přehled zřízených registrů** a vykonává **dohled** nad jejich
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 12/2023 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722789) — 11. 4. 2024
+  > „Je tomu tak proto, že podle ustanovení § 80 odst. 1 zákona č. 412/2005 Sb. ve spojení s ustanovením § 2 písm. b) téhož zákona a ve spojení s ustanovením § 8 písm. a) zákona č. 38/1994 Sb. je výkon funkce člena statutárního orgánu (v daném případě tedy jednatele) právnické osoby, která provádí obchod s vojenským materiálem, … považován za citlivou činnost. Takovou činnost pak může vykonávat v souladu s ustanovením § 80 odst. 2 zákona č. 412/2005 Sb. pouze taková fyzická osoba, která je bezpečnostně způsobilá nebo která je držitelem platného osvědčení fyzické osoby"
+
 #### Bezpečnostní způsobilost jako paralelní institut k osvědčení
 
 **Část třetí ZOÚI** zavádí **samostatný institut** bezpečnostní způsobilosti, který je **paralelní k osvědčení fyzické osoby**, ale slouží jiným účelům:
@@ -2069,6 +2084,11 @@ Podmínky musí být splňovány **po celou dobu platnosti dokladu** — nikoli 
 > *(5) Při posuzování, zda okolnost podle odstavce 3 je negativní okolností, se přihlíží k tomu, do jaké míry může ovlivnit výkon citlivé činnosti, k době jejího výskytu, k jejímu rozsahu a charakteru a k chování fyzické osoby v období uvedeném v odstavci 4.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 12/2023 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722789) — 11. 4. 2024
+  > „Pojmem „lze“ v ustanovení § 84 odst. 3 písm. c) zákona č. 412/2005 Sb. zákonodárce správnímu orgánu vymezil prostor pro správní úvahu založenou na okolnostech každého jednotlivého případu. Správní orgány, ani správní soudy, pak nejsou povinny zákonnou úpravu konkretizovat vodítky pro budoucí jednání žadatele"
 
 #### Dvojí katalog negativních okolností
 

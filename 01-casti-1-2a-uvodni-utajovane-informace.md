@@ -108,6 +108,11 @@ Zákon na tyto závazky reaguje výslovně — § 21 odst. 2 (převzetí značen
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 91/2023 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716109) — 13. 11. 2023
+  > „Městský soud dospěl k závěru, že informaci nelze poskytnout pouze na základě toho, že je označena za utajovanou, ale je nutné se zabývat všemi znaky utajované informace ve smyslu § 2 písm. a) zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti … Dospěl k závěru, že správní orgány srozumitelně nevysvětlily, proč obsah usnesení, resp. v nich obsažené označení podkladových „utajených“ materiálů … naplňuje jednotlivé znaky legální definice utajované informace"
+
 #### Pojem utajované informace [písm. a)] — třísložkový test
 
 Definice utajované informace je **trojkonjunktivní** (kumulativní): aby šlo o utajovanou informaci, musí být splněny **současně tři podmínky**:
@@ -357,6 +362,11 @@ Původce může na utajované informaci vyznačit **dobu utajení** — po její
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 40/2017 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424096) — 12. 3. 2020
+  > „je v každém konkrétním případě potřeba posoudit, zda podnikatel tuto informaci ve smyslu § 6 odst. 1 a § 15 písm. a) zákona č. 412/2005 Sb., potřebuje nezbytně znát pro účely své činnosti (jde tzv. princip need to know). Jakýkoliv jiný výklad by vedl k absurdním důsledkům, kdy by se každý držitel bezpečnostní prověrky mohl automaticky seznámit s každou utajovanou informací v držení orgánů České republiky, která stupněm svého utajení odpovídá jeho prověření"
+
 #### Princip need-to-know
 
 Klíčová podmínka — „**nezbytně potřebuje k výkonu své funkce, pracovní nebo jiné činnosti**" — je promítnutím mezinárodního principu **need-to-know**: přístup nesmí být umožněn pouze proto, že osoba má dostatečné oprávnění, nýbrž **musí existovat aktuální věcný důvod** v podobě plnění konkrétního úkolu. Princip se uplatňuje napříč celým zákonem (srov. § 11 odst. 1 — vyšší stupně, § 15 — podnikatel).
@@ -574,6 +584,11 @@ Mlčenlivost trvá tak dlouho, dokud trvá stupeň utajení informace; zrušení
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 2893/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2893-14_1) — usnesení, 16. 12. 2014
+  > „Jejich zjištění o existenci bezpečnostního rizika pro zájem České republiky, za které lze považovat chování stěžovatele, mající vliv na důvěryhodnost nebo ovlivnitelnost jeho osoby ve vztahu k utajovaným informacím a jež bylo vyhodnoceno tak, že stěžovatel přestal splňovat podmínku § 12 odst. 1 písm. d) zákona č. 412/2005 Sb., nutnou pro udělení osvědčení Národního bezpečnostního úřadu … oproti zájmům stěžovatele coby osoby, o níž existují důvodné pochybnosti, zda je bezpečnostně spolehlivou osobou, stojí veřejný zájem na tom, aby nedošlo k ohrožení či vážnému narušení činnosti zpravodajských služeb nebo policie"
+
 #### Čtyři kumulativní podmínky — pětistupňový test
 
 Pro osvědčení FO (D/T/PT) zákon klade **čtyři kumulativní podmínky**:
@@ -595,6 +610,11 @@ Trvání podmínek je vyžadováno po celou dobu platnosti osvědčení (odst. 2
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 83/2008 - 124](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/614839) — 25. 3. 2009
+  > „Co se rozumí osobnostní způsobilostí je stanoveno v § 13 zákona č. 412/2005 Sb., jehož odst. 1 uvádí, že „podmínku osobnostní způsobilosti splňuje fyzická osoba, která netrpí poruchou či obtížemi, které mohou mít vliv na její spolehlivost nebo schopnost utajovat informace“"
+
 #### Rozšíření o podmíněné zastavení a narovnání
 
 Oproti § 8 (bezúhonnost pro oznámení) zákon rozlišuje tři speciální procesní situace, jež bezúhonnost dočasně narušují:
@@ -613,6 +633,11 @@ Bezúhonnost se ověřuje **opisem z RT** (nikoli pouze výpisem) — tj. včetn
 > *Podmínku bezpečnostní spolehlivosti splňuje fyzická osoba, u níž není zjištěno bezpečnostní riziko.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 160/2015 - 137](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/433905) — 1. 10. 2019
+  > „Posuzování informační hodnoty určitého zjištění je nutně vždy úvahou pravděpodobnostní, založenou v určité míře na odhadu. Proto někdy pro závěr o existenci bezpečnostního rizika (§ 14 odst. 3 zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti) postačí zjištění, že je pravděpodobné, že příslušná zákonem předvídaná skutková podstata byla naplněna. Může tomu tak být ovšem pouze v případě, že taková eventualita je nejpravděpodobnějším vysvětlením skutkových zjištění a že se na základě dostupných údajů jeví být významně pravděpodobnější než jiná v úvahu připadající vysvětlení"
 
 #### Bezpečnostní riziko — dvojvrstvý katalog (odst. 2 a 3)
 
@@ -685,6 +710,13 @@ Speciální oprávnění mají **zpravodajské služby u svých příslušníků
 > *není-li stanoveno v § 58 až 62 jinak.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 40/2017 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424096) — 12. 3. 2020
+  > „je v každém konkrétním případě potřeba posoudit, zda podnikatel tuto informaci ve smyslu § 6 odst. 1 a § 15 písm. a) zákona č. 412/2005 Sb., potřebuje nezbytně znát pro účely své činnosti (jde tzv. princip need to know). Jakýkoliv jiný výklad by vedl k absurdním důsledkům, kdy by se každý držitel bezpečnostní prověrky mohl automaticky seznámit s každou utajovanou informací v držení orgánů České republiky, která stupněm svého utajení odpovídá jeho prověření"
+- *NSS* [8 As 9/2010 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/620091) — 27. 10. 2010
+  > „Z ustanovení § 15, § 16 a § 54 odst. 3 zákona č. 412/2005 Sb. vyplývá, že osvědčení je vydáváno vždy konkrétnímu podnikateli, u kterého jsou splněny podmínky pro jeho vydání, a osvědčení je tudíž nepřevoditelné na jiný subjekt. … Předmětné osvědčení deklaruje oprávnění … subjektu, který vydaným osvědčením disponuje, seznamovat se s utajovanými informacemi"
 
 #### Pojem podnikatele pro účely zákona — užší než v ObčZ/ZOK
 
@@ -838,6 +870,11 @@ Forma se vyznačuje v osvědčení podnikatele (§ 54 odst. 3 písm. c)). Při z
 > *Na utajovanou informaci je původce povinen vyznačit svůj název, stupeň jejího utajení, její evidenční označení a datum jejího vzniku, není-li dále stanoveno jinak.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 276/2019 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/658845) — 29. 4. 2021
+  > „Je výhradně na původci informace, aby rozhodl o jejím utajení a v souladu s § 21 odst. 1 zákona č. 412/2005 Sb. o ochraně utajovaných informací a o bezpečnostní způsobilosti … vyznačil stupeň jejího utajení, případně jej podle § 22 odst. 4 téhož zákona změnil či zrušil. Byť je takovým postupem nepochybně zasaženo do procesních práv účastníka řízení, jedná se o zásah odůvodněný zájmem na ochraně utajovaných informací"
 
 #### Povinné identifikační údaje (odst. 1)
 
@@ -1905,6 +1942,11 @@ Speciální nástroj pro PO podle § 60b — Úřad vydá časově omezené potv
 > *- f) prezident, viceprezident a členové Nejvyššího kontrolního úřadu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 7/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-09_1) — nález, 4. 5. 2010
+  > „smyslem přijetí napadeného ustanovení bylo omezit přístup k utajovaným informacím cizí moci osobám bez platného osvědčení. To vede k závěru, že účelem napadeného ustanovení je právně zajistit utajované informace cizí moci, a tím i dodržet závazky vyplývající z mezinárodního práva, a nikoliv krátit právo na obhajobu. … napadené ustanovení sleduje legitimní cíl, jímž je ochrana utajovaných informací cizí moci, tedy ochrana zájmů státu a mezinárodních zájmů v bezpečnostní oblasti"
 
 #### Ústavní výjimka z bezpečnostní prověrky
 

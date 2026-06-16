@@ -20,6 +20,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 12/2023 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722789) — 11. 4. 2024
+  > „Je tomu tak proto, že podle ustanovení § 80 odst. 1 zákona č. 412/2005 Sb. ve spojení s ustanovením § 2 písm. b) téhož zákona a ve spojení s ustanovením § 8 písm. a) zákona č. 38/1994 Sb. je výkon funkce člena statutárního orgánu (v daném případě tedy jednatele) právnické osoby, která provádí obchod s vojenským materiálem, což společnost INFLATECH naplňuje, považován za citlivou činnost. Takovou činnost pak může vykonávat v souladu s ustanovením § 80 odst. 2 zákona č. 412/2005 Sb. pouze taková fyzická osoba, která je bezpečnostně způsobilá nebo která je držitelem platného osvědčení fyzické osoby"
+
 #### Definice citlivé činnosti (odst. 1) — dvě paralelní zdrojové linie
 
 Pojem **citlivé činnosti** je definován kombinací formálního a materiálního znaku:
@@ -90,6 +95,11 @@ Toto ustanovení (vložené pozdější novelou v souvislosti s krizovou legisla
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 197/2019 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/657006) — 25. 11. 2020
+  > „Podle § 81 odst. 1 písm. e) zákona o ochraně utajovaných informací je podmínkou vydání dokladu o bezpečnostní způsobilosti fyzické osoby její spolehlivost. Tuto podmínku splňuje podle § 84 odst. 1 osoba, u níž není zjištěna negativní okolnost podle navazujících části tohoto ustanovení. Podle jeho odst. 3 písm. c) pak lze za negativní okolnost považovat mj. ovlivnitelnost fyzické osoby, která může vést ke zneužití výkonu citlivé činnosti. Při posouzení, zda ovlivnitelnost osoby v konkrétním případě představuje negativní okolnost vedoucí k její nespolehlivosti, se podle § 84 odst. 5 přihlíží k tomu, do jaké míry může ovlivnit výkon citlivé činnosti, k době jejího výskytu, k jejímu rozsahu a charakteru a k chování fyzické osoby v období uvedeném v odstavci 4"
+
 #### Pět kumulativních podmínek (odst. 1)
 
 Pro vydání dokladu **musí** žadatel splnit všech pět podmínek; jde o klasický soubor kumulativních předpokladů, jejichž neexistence kterékoli z nich vede k nevydání dokladu, případně k zastavení řízení podle § 113 odst. 1 písm. b).
@@ -141,6 +151,11 @@ Klíčové ustanovení: **podmínky pro vydání dokladu musí být splňovány 
 > *(5) Při posuzování, zda okolnost podle odstavce 3 je negativní okolností, se přihlíží k tomu, do jaké míry může ovlivnit výkon citlivé činnosti, k době jejího výskytu, k jejímu rozsahu a charakteru a k chování fyzické osoby v období uvedeném v odstavci 4.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 12/2023 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722789) — 11. 4. 2024
+  > „Žalovaný dle soudu zjištěné závadové jednání a chování žalobce podřadil pod správnou skutkovou podstatu negativní okolnosti spočívající v ovlivnitelnosti (vydíratelnosti) žalobce. Rovněž pak žalovaný nepochybil v tom smyslu, že by zjištění negativní okolnosti pominul posoudit postupem podle ustanovení § 84 odst. 5 předmětného zákona, když z žalobou napadeného rozhodnutí vyplývá, že žalovaný hodnotil dlouhodobost, opakovanost i charakter zjištěného chování žalobce ve vztahu k výkonu citlivé činnosti"
 
 #### Negativní vymezení spolehlivosti (odst. 1)
 
@@ -444,6 +459,13 @@ Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [18 A 32/2024 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739021) — 20. 12. 2024
+  > „Lze s ním souhlasit potud, že i v bezpečnostním řízení musí být skutkový stav zjištěn v souladu se zásadou materiální pravdy přesně a úplně, a to v rozsahu, který je nezbytný pro rozhodnutí ve věci (viz § 89 odst. 1 zákona č. 412/2005 Sb.). Rozdíl tkví ovšem zejména v důkazním standardu, který je v daných řízeních aplikován, tedy v míře jistoty potřebné pro vyhodnocení zjištěného skutkového stavu určitým způsobem. Zatímco v trestním řízení je nutno prokázat vinu obžalovaného bez důvodných pochybností, v řízení bezpečnostním postačuje přiměřená míra pravděpodobnosti (tj. že se jedná o nejpravděpodobnější variantu skutkového děje) verze událostí předestřené žalovaným, z níž žalovaný dovozuje bezpečno…"
+- *NSS* [6 Ad 7/2017 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/417980) — 11. 6. 2020
+  > „Řízení o propuštění ze služebního poměru podle § 42 odst. 2 zákona č. 361/2003 Sb., a řízení podle § 89 a násl. zákona č. 412/2005 Sb., o ochraně utajovaných informací a bezpečnostní způsobilosti navíc podléhají jinému procesnímu režimu. Zatímco pro řízení podle zákona č. 361/2003 Sb., se subsidiárně uplatní správní řád, je aplikace správního řádu pro řízení podle § 89 zákona č. 412/2005 Sb., o ochraně utajovaných informací a bezpečnostní způsobilosti vyloučena"
+
 #### Čtyři zásady bezpečnostního řízení
 
 § 89 normuje **čtyři základní zásady**, jejichž obdobu (nikoli identitu) najdeme v § 2–8 správního řádu:
@@ -525,6 +547,11 @@ Speciální opatření pro **nevidomé**: čtení obsahu, zvukový záznam, př�
 > *(8) Odstavce 1 a 3 až 6 se užijí obdobně i pro účast znalců a tlumočníků v řízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 83/2008 - 124](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/614839) — 25. 3. 2009
+  > „Je tak třeba uzavřít, že v zájmu zajištění objektivity řízení má účastník řízení právo vědět, kdo se na jeho řízení bezprostředně podílí a kdo je tedy úřední osobou, jejíž podjatost může ve smyslu § 90 zákona č. 412/2005 Sb. namítat. Pokud jde o stěžovatelčin požadavek, aby jí byla sdělena jména osob, které se budou účastnit jejího bezpečnostního pohovoru, je zcela dostačující, jsou-li jména těchto úředních osob oznámena účastníkovi těsně před započetím pohovoru. I tak je totiž zajištěna možnost účastníka namítnout případnou podjatost úřední osoby"
 
 #### Standardní úprava nepodjatosti s netriviální výjimkou
 
@@ -678,6 +705,11 @@ Tato úprava odráží spolupráci ČR v rámci NATO a EU. Žádost orgánu EU (
 > *(7) Důvod pro nutnost přístupu fyzické osoby k utajované informaci, uvedený v žádosti, musí trvat po celou dobu řízení podle § 93 odst. 1 písm. a) nebo c).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 6/2019 - 95](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/677244) — 7. 12. 2021
+  > „Učinil tak v souladu s ustanovením § 94 odst. 4 písm. a) zákona č. 412/2005 Sb., o ochraně utajovaných informací a bezpečnostní způsobilosti, ve znění pozdějších předpisů (dále jen „zákon o ochraně utajovaných informací“), které za účelem nepřerušovaného přístupu k těmto utajovaným informacím stanoví minimální tříměsíční lhůtu pro podání žádosti o vydání nové bezpečnostní prověrky před uplynutím předchozího osvědčení"
 
 #### Trojí obsah žádosti (odst. 1)
 
@@ -909,6 +941,11 @@ Důsledkem nesoučinnosti je možnost zastavení řízení (§ 113 odst. 1 písm
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 51/2018 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/651059) — 20. 6. 2019
+  > „K této námitce Nejvyšší správní soud konstatuje, že pohovor prováděný s účastníkem řízení je důležitou součástí celého řízení. Dle § 105 odst. 1 zákona č. 412/2005 Sb., provede žalovaný s účastníkem řízení pohovor, vyskytnou-li se v průběhu řízení skutečnosti, které je třeba objasnit pro zjištění skutečného stavu věci. Pokud by správní orgán neměl pochybnosti o skutkovém stavu, není třeba pohovor s účastníkem provádět (s výjimkou žadatele o osvědčení pro stupeň utajení „přísně tajné“). I stěžovateli tedy muselo být zřejmé, že žalovaný s ním prováděl pohovor s cílem potvrdit či vyvrátit informace, které o něm mohl získat z j…"
+
 #### Pohovor jako osobní úkon
 
 Pohovor je **klíčový dokazovací prostředek** bezpečnostního řízení, jehož specifika oproti běžnému správnímu výslechu jsou:
@@ -963,6 +1000,11 @@ Standardní úprava znaleckého dokazování podle zákona č. 254/2019 Sb., o z
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 37/2010 - 117](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/568996) — 27. 8. 2010
+  > „Nyní platný zákon č. 412/2005 Sb., koncipuje oprávnění Úřadu žádat informace od zpravodajských služeb (a povinnost zpravodajských služeb informace Úřadu poskytovat) obdobným způsobem., tj. zpravodajské služby opět poskytují ve smyslu § 107 zákona č. 412/2005 Sb., pouze výsledky šetření, nikoli celé spisy včetně podkladů, z nichž tyto výsledky vycházejí. Úřad ani jeho ředitel nemá žádné právní či reálné mechanizmy k přezkumu činnosti zpravodajských služeb, předané poznatky toliko shromažďuje a v souhrnu s celým spisovým matriálem vyhodnocuje z pohledu, zda informace v nich obsažené představují bezpečnostní rizika či nikoliv"
+
 #### Stupňovaný systém šetření
 
 § 107 zavádí **třístupňovou eskalaci** rozsahu šetření podle stupně utajení:
@@ -997,6 +1039,11 @@ Pokud informace nepostačují, Úřad **vyžádá písemný souhlas** účastní
 > *(2) Fyzická osoba nebo podnikatel jsou povinni poskytnout nezbytnou součinnost pro postup Úřadu podle odstavce 1.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 23/2022 - 80](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718442) — 14. 12. 2023
+  > „Ustanovení § 101 odst. 2 zákona o ochraně utajovaných informací stanoví, že přestal-li držitel osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu splňovat podmínky pro vydání takovéto veřejné listiny, NBÚ její platnost zruší. NBÚ je na základě § 110 odst. 1 zákona o ochraně utajovaných informací povinen po dobu platnosti osvědčení za pomoci úkonů řízení prověřovat, zda fyzická osoba i nadále podmínky pro vydání osvědčení splňuje"
 
 #### Monitoring v průběhu platnosti
 
@@ -1086,6 +1133,11 @@ Konkretizací průběžného prověřování je oznamovací povinnost odpovědn�
 > *Zajištění účelu a průběhu řízení*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Azs 204/2021 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702723) — 29. 7. 2022
+  > „Podle § 113 odst. 1 písm. h) zákona č. 412/2005 Sb., o ochraně utajovaných informací a bezpečnostní způsobilosti, platí, že úřad zastaví řízení, jestliže účastník řízení podal nepravdivou nebo neúplnou výpověď. I zde je tedy účastník povinen vypovídat pravdivě a v plném rozsahu. Důvody této odchylky jsou velmi obdobné jako v případě řízení o pobytu cizinců. Primárním důvodem je vysoký zájem státu na ochraně utajovaných informací, tedy informací, jejichž vyzrazení nebo zneužití může způsobit újmu zájmu České republiky nebo může být pro tento zájem nevýhodné. […] V rámci bezpečnostního řízení jsou také zkoumány otázky týkající se osobního života žadatele, které lze jen obtížně zjistit jinak"
 
 #### Deset důvodů zastavení (taxativní katalog)
 
@@ -1433,6 +1485,11 @@ Proti **oběma** těmto rozhodnutím **lze podat (nový) rozklad** — zajiště
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 60/2016 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/460308) — 25. 4. 2018
+  > „Ze zvláštní části důvodové zprávy k § 130 zákona č. 412/2005 Sb. lze citovat, že „pro dodržení zásad spravedlivého a nestranného posouzení věci samé, tedy k zajištění právních jistot účastníka řízení, rozhoduje ředitel Úřadu až na základě doporučení poradního orgánu. Jedná se opět o převzetí standardního institutu správního řízení dle správního řádu. Tento poradní orgán je složen nejen z pracovníků Úřadu, ale zejména z odborníků z jiných úřadů státní správy.“"
+
 #### Strukturální záruky nestrannosti
 
 § 130 zakotvuje **rozkladovou komisi** jako poradní orgán ředitele Úřadu, s následujícími zárukami:
@@ -1544,6 +1601,13 @@ Zásadní účinek úspěšného rozkladu: **platnost se obnoví**, s **zachovan
 > *(3) Úřad označí okolnosti uvedené v odstavci 2, o kterých tvrdí, že ve vztahu k nim nelze zprostit mlčenlivosti, a předseda senátu rozhodne, že části spisu, k nimž se tyto okolnosti váží, budou odděleny, jestliže činnost zpravodajských služeb nebo policie může být ohrožena nebo vážně narušena; do oddělených částí spisu účastník řízení, jeho zástupce a osoby zúčastněné na řízení nahlížet nemohou. V ostatním nejsou ustanovení zvláštního právního předpisu42) o dokazování, označování částí spisu a nahlížení do něj dotčena.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 45/2022 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736213) — 11. 10. 2024
+  > „Nejvyšší správní soud tedy shrnuje, že účastník bezpečnostního řízení není oprávněn nahlížet do utajované části bezpečnostního svazku a žalovaný není povinen uvádět ve svých rozhodnutích důvody, které jsou utajovanými informacemi; postačí na ně pouze odkázat. Současně však musí být účastníkovi bezpečnostního řízení na základě jeho žaloby poskytnuta ochrana soudy ve správním soudnictví […]. Vzhledem k tomu, že postavení účastníka řízení je v takových případech oslabené a tento do jisté míry ztrácí možnost hájit se, soud pak musí ‚suplovat‘ procesní aktivitu účastníka a přezkoumat napadené rozhodnutí i nad rámec žalobních námitek"
+- *ÚS* [II.ÚS 1392/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1392-11_1) — usnesení, 16. 6. 2011
+  > „Současně však musí být účastníkovi bezpečnostního řízení na základě jeho žaloby poskytnuta ochrana soudy ve správním soudnictví, a to za těchto podmínek: 1) z nahlížení lze (resp. za podmínek § 133 odst. 3 zákona č. 412/2005 Sb. je nutno) v rámci soudního řízení vyloučit ty části spisu, které obsahují utajované informace; 2) z nahlížení obecně nelze vyloučit části spisu, jimiž byl nebo bude prováděn důkaz soudem […]; k vyloučení by mohlo dojít pouze v případě možného ohrožení nebo vážného narušení činnosti zpravodajských služeb nebo policie, přičemž i v takovém případě by měl soud zvážit možnost poskytnout účastníkovi bezpečnostního řízení alespoň anonymizované či agregované údaje"
 
 #### Specifický režim správního soudnictví
 
@@ -2814,6 +2878,13 @@ Procesně se podle § 159 in fine na řízení o přestupcích podle Části osm
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 29/2011 - 113](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/621086) — 8. 4. 2011
+  > „Na žádosti o bezpečnostní prověrku podané méně než 45 dní přede dnem účinnosti zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, se aplikuje počínaje dnem účinnosti nového zákona nová zákonná úprava co se týče práva hmotného i práva procesního; naopak na žádosti podané dříve se aplikuje v řízení před Národním bezpečnostním úřadem staré procesní právo, ovšem hmotněprávní podmínky vydání osvědčení se posuzují podle nového hmotného práva (§ 157 odst. 28 ve spojitosti s odst. 18 téhož zákona)"
+- *NSS* [2 As 91/2006 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/250053) — 17. 5. 2007
+  > „Z hlediska účelu procesního institutu opravného prostředku projednávaného před Kolegiem je proto třeba zdůraznit, že tento je zcela a lépe naplněn soudním přezkumem. […] stěžovatel má právo na ochranu základních práv a svobod při bezpečnostním prověřování […], ale nemá právo na projednání posuzovaného případu rovněž na základě opravného prostředku Kolegiem, neboť úprava procesního postupu při ochraně práv je v mezích daných ústavními pravidly věcí zákonodárce, který v § 157 odst. 22, tedy v přechodných ustanoveních zákona č. 412/2005 Sb. […] s účinností od 1. 1. 2006 jednoznačně stanovil, že „opravný prostředek podaný podle dosavadních právních předpisů Kolegiu na úseku ochrany utajovaných skutečností, o kterém nebylo přede dnem nabytí účinnosti tohoto zákona rozhodnuto, Kolegium již nevyřizuje.“"
+
 #### Komplexní přechodný režim
 
 § 157 obsahuje **28 odstavců** přechodných ustanovení, jež zajišťují **plynulý přechod** z úpravy zákona č. 148/1998 Sb. (a navazujících prováděcích předpisů) na novou úpravu ZOUI. Klíčové pojmové přemostění:
@@ -2875,6 +2946,13 @@ Toto rozdělení odráží **kompetenční dělbu** mezi oběma úřady. Aktuál
 > *Správní řád se vztahuje pouze na řízení podle § 35 odst. 2, podle části druhé hlavy IX, a na řízení podle části osmé.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [18 A 32/2024 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739021) — 20. 12. 2024
+  > „Na bezpečnostní řízení podle § 89 a násl. zákona č. 412/2005 Sb. právní úprava správního řádu nedopadá. Jeho použití je jednak výslovně vyloučeno v § 159 zákona č. 412/2005 Sb., jednak § 122 odst. 3 téhož zákona stanoví pro odůvodnění rozhodnutí v bezpečnostním řízení pravidla speciální. Z posledně zmíněného ustanovení plyne, že jsou-li některé z důvodů vydání rozhodnutí utajovanými informacemi, uvede žalovaný v odůvodnění pouze odkaz na podklady pro vydání rozhodnutí a jejich stupeň utajení"
+- *NSS* [10 A 60/2016 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/460308) — 25. 4. 2018
+  > „Zdejší soud v uvedeném směru doplňuje, že ačkoli platí, že se na předmětné řízení podle § 159 zákona č. 412/2005 Sb. správní řád až na základní zásady činnosti správních orgánů nepoužije, lze i s ohledem na úmysl historického zákonodárce vyjádřený ve shora citované pasáži zvláštní části důvodové zprávy k zákonu č. 412/2005 Sb. z judikaturních závěrů týkajících se postupu odvolacího správního orgánu obdobně vycházet i v posuzované věci"
 
 #### Klíčové pravidlo o vztahu k SŘ
 
