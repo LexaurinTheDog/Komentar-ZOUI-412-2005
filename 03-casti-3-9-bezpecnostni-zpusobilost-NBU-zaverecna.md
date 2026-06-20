@@ -52,6 +52,42 @@ Odstavec 3 zavádí pro účely celého zákona legislativní zkratku **„dokla
 
 > **Srovnání s režimem osvědčení:** Bezpečnostní způsobilost je institutem zúženého rozsahu — k jejímu udělení postačí prokázat bezúhonnost a spolehlivost (§ 81 odst. 1 písm. d) a e)). Naproti tomu pro vydání osvědčení fyzické osoby pro přístup k UI musí žadatel splnit ještě další náročnější podmínku, totiž absenci bezpečnostního rizika ve smyslu § 14 ZOUI. Procesně je shodně užíván rámec bezpečnostního řízení (Část čtvrtá), avšak co do hloubky šetření je u dokladu šetření redukováno (viz § 109).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost ALFA Defence, s. r. o., která je držitelem povolení k obchodu s vojenským materiálem podle zákona č. 38/1994 Sb., jmenuje pana N. novým jednatelem. Pan N. není držitelem žádného osvědčení ani dokladu o bezpečnostní způsobilosti. Společnost jej fakticky pověří jednáním za firmu při obchodech s municí. Konkurent podá podnět NBÚ. Bylo by třeba obstarat: výpis z obchodního rejstříku prokazující výkon funkce jednatele, povolení společnosti k obchodu s vojenským materiálem, doklad o tom, zda pan N. má/nemá platné osvědčení FO nebo doklad o bezpečnostní způsobilosti.
+
+**2. Právní otázka.** Je výkon funkce jednatele společnosti obchodující s vojenským materiálem „citlivou činností" ve smyslu § 80 odst. 1, a smí ji proto pan N. vykonávat bez bezpečnostní způsobilosti, osvědčení FO nebo uznaného cizího oprávnění (§ 80 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80 — definice citlivé činnosti (formální + materiální znak) a tři alternativní průkazy způsobilosti (odst. 2).
+- *Související ustanovení téhož zákona:* § 81 (podmínky vydání dokladu), § 84 (spolehlivost), § 85 (doklad), § 86 (povinnost subjektu zajistit výkon jen kvalifikovanou osobou), § 88 (citlivá činnost pro zpravodajskou službu).
+- *Související předpisy:* § 8 písm. a) a § 2 písm. b) zákona č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem (kvalifikuje výkon funkce statutárního orgánu jako citlivou činnost); atomový zákon č. 263/2016 Sb.; § 55b zákona č. 49/1997 Sb. (civilní letectví).
+- *Judikatura:* NSS 6 A 12/2023 (citováno v komentáři) — výkon funkce člena statutárního orgánu PO obchodující s vojenským materiálem je citlivou činností podle § 80 odst. 1 ZOUI ve spojení s § 8 písm. a) zákona č. 38/1994 Sb. a může ji vykonávat jen osoba bezpečnostně způsobilá nebo držitel osvědčení FO.
+
+**4. Subsumpce.** Formální znak: zákon č. 38/1994 Sb. (zvláštní právní předpis dle pozn. 32) označuje výkon funkce statutárního orgánu obchodníka s vojenským materiálem za citlivou činnost — splněno. Materiální znak: zneužitím (např. nedovolený vývoz zbraní) by mohlo dojít k ohrožení zájmu ČR ve smyslu § 3 — splněno potenciálně. Pan N. nemá žádný ze tří průkazů podle odst. 2 — podmínka nesplněna. Výkon citlivé činnosti je tedy protiprávní.
+
+**5. Řešení.** Pan N. nesmí funkci fakticky vykonávat, dokud nebude bezpečnostně způsobilý (doklad podle § 85), nebude držitelem platného osvědčení FO (§ 54), nebo mu nebude uznáno cizí oprávnění (§ 57). Společnost porušuje § 86 písm. a) a hrozí jí přestupek (§ 153, § 155a). Praktický krok: bezodkladně podat žádost o doklad podle § 99 a do jejího vyřízení pověřit jednáním jiného, již prověřeného jednatele, případně omezit jeho jednatelské oprávnění.
+
+**6. Varianty.** (a) Pokud by pan N. byl držitelem platného osvědčení FO pro stupeň Důvěrné, podmínka odst. 2 by byla splněna (osvědčení dominuje nad dokladem) a další doklad není třeba. (b) Pokud by šlo o čistě administrativní pozici bez vlivu na obchody s vojenským materiálem (nikoli statutární orgán), nešlo by o citlivou činnost a způsobilost by se nevyžadovala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Citlivá činnost vyžaduje reálné ohrožení."* Neobstojí — § 80 odst. 1 užívá podmiňovacího způsobu („mohlo by dojít"), postačí abstraktní potenciální nebezpečí; reálné ohrožení se neprokazuje.
+- *Protiargument 2: „Postačí prověření až po nástupu do funkce."* Neobstojí — způsobilost (resp. jiný průkaz) musí existovat v době výkonu citlivé činnosti; nikoli být teprve získávána zpětně.
+- *Slabé místo:* hranice mezi „citlivou" funkcí statutárního orgánu a běžnou administrativní pozicí může být v konkrétním případě sporná; nosný je odkaz zvláštního zákona, nikoli vlastní úvaha NBÚ o citlivosti.
+
+#### H. Praktický závěr
+
+Citlivá činnost je definována kombinací formálního znaku (označení tímto zákonem nebo zvláštním předpisem dle pozn. 32) a materiálního znaku (potenciální ohrožení zájmu ČR). Vykonávat ji smí jen osoba s jedním ze tří průkazů podle odst. 2; osvědčení FO přitom doklad nahrazuje.
+
+**Checklist (advokát / subjekt / NBÚ / adresát normy):**
+- [ ] Označuje tento zákon (§ 88) nebo zvláštní předpis činnost výslovně za citlivou?
+- [ ] Mohlo by jejím zneužitím dojít k ohrožení zájmu ČR (§ 3)?
+- [ ] Má vykonavatel doklad, osvědčení FO nebo uznané cizí oprávnění (odst. 2)?
+- [ ] Je tento průkaz platný po celou dobu výkonu, nejen při nástupu?
+
+**Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku, povolení/oprávnění podle zvláštního zákona, doklad/osvědčení FO a doklad o jeho platnosti, popis konkrétní vykonávané funkce.
+
 ---
 
 ### § 80a — Prodloužení oprávnění za krizového stavu
@@ -70,6 +106,42 @@ Toto ustanovení (vložené pozdější novelou v souvislosti s krizovou legisla
 2. **Přístup k UI stupně utajení Vyhrazené** — držitel je za stejných podmínek oprávněn k přístupu ke stupni Vyhrazené, čímž se mu de facto zachovává nižší stupeň prověření.
 
 **Časové omezení** je dvoustupňové: oprávnění trvá *do doby vydání rozhodnutí o žádosti*, nejdéle však *12 měsíců od uplynutí platnosti dokladu*. Ředitel Úřadu nemůže tuto lhůtu prodloužit — jde o objektivní *deadline*. Pokud Úřad o žádosti v této lhůtě nerozhodne, končí *ex lege* oprávnění držitele a osoba ztrácí možnost vykonávat citlivou činnost; navazující povinnosti subjektů, pro něž osoba pracuje, viz § 86 písm. a).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní K. řídí kontrolu detekce zavazadel na mezinárodním letišti (citlivá činnost dle zákona o civilním letectví). Platnost jejího dokladu uplyne 1. března. Dne 15. ledna podala řádnou žádost o nový doklad (§ 99 odst. 3). Dne 20. února vláda vyhlásí krizový stav (pandemie). NBÚ proto nestihne řízení uzavřít do 1. března. Zaměstnavatel (provozovatel letiště) řeší, zda paní K. smí 2. března nastoupit na směnu. Bylo by třeba doložit: datum podání žádosti, doklad o vyhlášení krizového stavu, datum původní platnosti dokladu.
+
+**2. Právní otázka.** Smí držitel po zániku platnosti dokladu uplynutím doby (§ 85 odst. 3 písm. a)) nadále vykonávat citlivou činnost, je-li žádost o nový doklad podána a v průběhu řízení byl vyhlášen krizový stav — a jak dlouho?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80a — *interim* oprávnění držitele neplatného dokladu za krizového stavu.
+- *Související ustanovení téhož zákona:* § 85 odst. 3 písm. a) (zánik uplynutím doby), § 99 odst. 3 (žádost o nový doklad), § 117 odst. 8 (stavení lhůt za krizového stavu), § 86 písm. a) (povinnost subjektu po zániku oprávnění), § 6 odst. 1 (stupeň Vyhrazené).
+- *Související předpisy:* zákon č. 240/2000 Sb., o krizovém řízení (definice a vyhlášení krizového stavu); zákon č. 49/1997 Sb., o civilním letectví.
+- *Judikatura:* k povaze přechodných oprávnění za mimořádných stavů obecně judikatura zdůrazňuje restriktivní výklad výjimek a striktní dodržení objektivních lhůt; nosný závěr: prekluzivní lhůta ji nelze prodloužit správní úvahou.
+
+**4. Subsumpce.** Platnost zanikla z důvodu podle § 85 odst. 3 písm. a) — splněno. Žádost o nový doklad byla podána — splněno. Krizový stav byl vyhlášen v průběhu řízení — splněno. Oprávnění tedy trvá do vydání rozhodnutí, nejdéle 12 měsíců od 1. března. Paní K. smí 2. března nastoupit a vykonávat citlivou činnost i mít přístup ke stupni Vyhrazené.
+
+**5. Řešení.** Paní K. pokračuje ve výkonu citlivé činnosti bez přerušení. Jakmile NBÚ vydá rozhodnutí (kladné či záporné), oprávnění z § 80a končí. Nerozhodne-li Úřad do 12 měsíců, končí oprávnění *ex lege* a zaměstnavatel musí podle § 86 písm. a) zajistit, aby činnost dále nevykonávala. Praktický krok: zaměstnavatel si pečlivě eviduje datum počátku 12měsíční lhůty.
+
+**6. Varianty.** (a) Pokud by paní K. žádost o nový doklad nepodala vůbec, § 80a se neuplatní a po 1. březnu nesmí činnost vykonávat. (b) Pokud by platnost zanikla z jiného důvodu (např. zrušení rozhodnutím dle písm. b)), § 80a se nepoužije — kryje pouze zánik uplynutím doby.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Ředitel může 12měsíční lhůtu prodloužit při trvajícím krizovém stavu."* Neobstojí — jde o objektivní (prekluzivní) *deadline* stanovený zákonem, který nelze správní úvahou prodloužit.
+- *Protiargument 2: „Oprávnění pokrývá i vyšší stupně utajení."* Neobstojí — § 80a výslovně omezuje přístup k UI jen na stupeň Vyhrazené.
+- *Slabé místo:* ustanovení nepokrývá situaci, kdy krizový stav skončí dříve — text neřeší, zda oprávnění trvá i poté; výkladem však oprávnění trvá až do rozhodnutí/12 měsíců, neboť vznik je vázán na vyhlášení v průběhu řízení, nikoli na trvání krize.
+
+#### H. Praktický závěr
+
+§ 80a zabezpečuje kontinuitu citlivých provozů za krize: po zániku platnosti dokladu uplynutím doby smí držitel, který včas podal žádost, dále vykonávat citlivou činnost a mít přístup ke stupni Vyhrazené, nejdéle však 12 měsíců.
+
+**Checklist (subjekt / držitel / NBÚ):**
+- [ ] Zanikla platnost právě uplynutím doby (§ 85 odst. 3 písm. a))?
+- [ ] Byla žádost o nový doklad podána (§ 99 odst. 3)?
+- [ ] Byl krizový stav vyhlášen při podání nebo v průběhu řízení?
+- [ ] Běží 12měsíční lhůta — a kdy přesně skončí?
+
+**Typicky rozhodné důkazy / podklady:** žádost o nový doklad s datem doručení, akt o vyhlášení krizového stavu, původní doklad s vyznačenou dobou platnosti.
 
 ---
 
@@ -121,6 +193,43 @@ Ověření výhradně formou občanského průkazu nebo cestovního dokladu posk
 #### Trvalost splnění podmínek (odst. 3)
 
 Klíčové ustanovení: **podmínky pro vydání dokladu musí být splňovány nepřetržitě po celou dobu platnosti**. Doklad není „jednorázovým" potvrzením stavu k datu rozhodnutí, nýbrž **veřejnoprávním osvědčením o trvajícím stavu**. Tento koncept umožňuje zahájení řízení o zrušení platnosti dokladu, kdykoli Úřad zjistí pochybnost o trvajícím splnění některé z podmínek (§ 101 odst. 1). Důsledkem je trvající **oznamovací povinnost** držitele (§ 87 odst. 1 písm. c)) a třetích osob (§ 86, § 138c).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan S., slovenský státní občan (občan EU i NATO), 25 let, plně svéprávný, žádá o doklad o bezpečnostní způsobilosti, neboť má nastoupit do funkce v Hradní stráži. V trestním rejstříku má záznam o úmyslném trestném činu výtržnictví spáchaném před třemi lety. Bylo by třeba obstarat: doklad o státním občanství, občanský průkaz/cestovní doklad k ověření věku, opis z rejstříku trestů, podklady k posouzení spolehlivosti dle § 84.
+
+**2. Právní otázka.** Splňuje pan S. všech pět kumulativních podmínek § 81 odst. 1, zejména podmínku státního občanství (písm. a)) a bezúhonnosti (písm. d)) — a brání záznam o úmyslném trestném činu vydání dokladu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81 odst. 1 — pět kumulativních podmínek (občanství, svéprávnost, věk, bezúhonnost, spolehlivost); odst. 3 (trvalost splnění).
+- *Související ustanovení téhož zákona:* § 13 (bezúhonnost), § 84 (spolehlivost), § 12 odst. 1 písm. a) (srovnání — u osvědčení FO jen české občanství), § 101 (zrušení při odpadnutí podmínky), § 113 odst. 1 písm. b) (zastavení řízení).
+- *Související předpisy:* § 30, § 55, § 57 zákona č. 89/2012 Sb., občanského zákoníku (svéprávnost); čl. 45 SFEU (volný pohyb osob); smluvní závazky vůči NATO.
+- *Judikatura:* NSS 9 As 197/2019 (citováno v komentáři) — podmínka spolehlivosti dle § 81 odst. 1 písm. e) se posuzuje skrze § 84 (negativní okolnost); k bezúhonnosti je rozhodující povaha odsouzení dle § 13.
+
+**4. Subsumpce.** Občanství: slovenské = občan EU/NATO — u dokladu (na rozdíl od osvědčení FO) postačuje, podmínka splněna. Svéprávnost a věk (25 let): splněno, věk ověřen dle odst. 2. Bezúhonnost: úmyslný trestný čin výtržnictví zakládá podle § 13 nedostatek bezúhonnosti — podmínka pravděpodobně nesplněna. Spolehlivost (§ 84): posuzuje se zvlášť. Při nesplnění bezúhonnosti nelze doklad vydat.
+
+**5. Řešení.** Pokud záznam odpovídá kategorii podle § 13 (úmyslný trestný čin), je podmínka bezúhonnosti nesplněna a doklad nelze vydat; řízení může být zastaveno podle § 113. Klíčové je ověřit, zda nedošlo k zahlazení odsouzení (na zahlazené se hledí, jako by nebylo). Praktický krok: prověřit aktuálnost a právní účinky záznamu, případně doložit zahlazení.
+
+**6. Varianty.** (a) Pokud by šlo o nedbalostní trestný čin nespadající do výčtu § 13, bezúhonnost by nebyla dotčena a doklad by bylo možno vydat (při splnění ostatních podmínek). (b) Pokud by pan S. byl občanem třetího státu (mimo EU/NATO), nesplnil by ani podmínku občanství podle písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „U dokladu platí stejně přísné občanství jako u osvědčení FO (jen české)."* Neobstojí — § 81 odst. 1 písm. a) vědomě rozšiřuje okruh na občany EU a NATO; jde o úmyslnou odchylku od § 12.
+- *Protiargument 2: „Doklad jednou vydaný platí 10 let bez ohledu na pozdější vývoj."* Neobstojí — odst. 3 vyžaduje splňování podmínek po celou dobu platnosti; jinak hrozí zrušení dle § 101.
+- *Slabé místo:* posouzení bezúhonnosti závisí na přesné subsumpci konkrétního trestného činu pod § 13 a na otázce zahlazení; bez aktuálního opisu z rejstříku trestů je závěr předčasný.
+
+#### H. Praktický závěr
+
+Doklad vydá NBÚ jen osobě splňující všech pět kumulativních podmínek; u občanství je okruh širší (EU/NATO) než u osvědčení FO. Podmínky musí trvat po celou dobu platnosti, jinak následuje zrušení.
+
+**Checklist (advokát / žadatel / NBÚ):**
+- [ ] Je žadatel občanem ČR, EU nebo NATO (písm. a))?
+- [ ] Je plně svéprávný a starší 18 let (písm. b), c)) — ověřeno OP/cestovním dokladem?
+- [ ] Je bezúhonný podle § 13 (zohledněno zahlazení)?
+- [ ] Je spolehlivý podle § 84 (žádná negativní okolnost)?
+- [ ] Trvají všechny podmínky i po vydání (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o občanství, občanský průkaz/cestovní doklad, opis z evidence Rejstříku trestů, podklady k posouzení spolehlivosti.
 
 ---
 
@@ -208,6 +317,42 @@ Odst. 5 zavádí **standardní test proporcionality** pro hodnocení okolností 
 Tento test je předmětem soudního přezkumu (§ 133) a NSS opakovaně judikoval, že rozhodnutí podle odst. 3 musí obsahovat zdůvodnění respektující všechna čtyři kritéria, jinak je rozhodnutí nepřezkoumatelné.
 
 > **Praktická poznámka:** Odst. 3 vyžaduje od Úřadu nadprůměrně pečlivé odůvodnění, neboť aplikace „diskreční" negativní okolnosti je předmětem ústavněprávního testu zákazu svévole (čl. 1 a 36 Listiny základních práv a svobod) a její nepřezkoumatelnost je nejčastějším důvodem rušení rozhodnutí ve správním soudnictví.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan H., držitel dokladu o bezpečnostní způsobilosti pracující v jaderném zařízení, se dostal do vysokých dluhů z hazardu a opakovaně se s ním stýká osoba podezřelá ze spolupráce s cizí rozvědkou. NBÚ zahájí řízení o zrušení platnosti dokladu (§ 101) a hodlá konstatovat nespolehlivost. Pan H. namítá, že jeho dluhy jsou „soukromá věc". Bylo by třeba obstarat: výpisy z bankovních a exekučních registrů, zprávu zpravodajské služby o stycích, případně znalecký posudek (§ 106) k osobnostní charakteristice.
+
+**2. Právní otázka.** Zakládá kombinace zadluženosti z hazardu (ovlivnitelnost/vydíratelnost) a rizikových styků negativní okolnost podle § 84 odst. 3, a postupoval NBÚ správně, pokud ji vyhodnotil testem proporcionality podle odst. 5?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 — spolehlivost negativně vymezená; tvrdé okolnosti (odst. 2), měkké/diskreční (odst. 3), rozhodná období (odst. 4), test proporcionality (odst. 5).
+- *Související ustanovení téhož zákona:* § 81 odst. 1 písm. e) (spolehlivost jako podmínka), § 3 (zájem ČR), § 89 odst. 1 (vyšetřovací zásada), § 106 (znalec), § 133 (soudní přezkum), § 109 odst. 2 (součinnost).
+- *Související předpisy:* čl. 1 a 36 Listiny základních práv a svobod (zákaz svévole, nepřezkoumatelnost); koncept *financial reliability* z praxe NATO/EU.
+- *Judikatura:* NSS 6 A 12/2023 (citováno) — ovlivnitelnost (vydíratelnost) lze podřadit pod negativní okolnost, NBÚ musí hodnotit dlouhodobost, opakovanost a charakter chování ve vztahu k výkonu citlivé činnosti (§ 84 odst. 5); NSS 9 As 197/2019 (citováno) — k aplikaci kritérií odst. 5.
+
+**4. Subsumpce.** Zadluženost z hazardu = chování s negativním vlivem na ovlivnitelnost (odst. 3 písm. a)). Styky s osobou činnou proti zájmu ČR (odst. 3 písm. b)). Jde o „měkké" okolnosti — slovo „lze" — jejich kvalifikace jako negativních vyžaduje hodnocení dle odst. 5 (míra ovlivnění výkonu, doba, rozsah, charakter, chování v rozhodném období 10 let / od 15 let). Pokud NBÚ tato kritéria odůvodní, je nespolehlivost dána.
+
+**5. Řešení.** NBÚ může konstatovat nespolehlivost a zrušit platnost dokladu, jen pokud v odůvodnění respektuje všechna čtyři kritéria odst. 5; jinak je rozhodnutí nepřezkoumatelné. Námitka „soukromé věci" je irelevantní — zákon výslovně cílí na ovlivnitelnost ohrožující výkon citlivé činnosti. Praktický krok pro pana H.: doložit konsolidaci dluhů a ukončení rizikových styků (chování v rozhodném období).
+
+**6. Varianty.** (a) Pokud by šlo o tvrdou okolnost dle odst. 2 (např. prokázaná činnost proti zájmu ČR), hodnocení by bylo mechanické, bez testu proporcionality. (b) Pokud by dluhy byly dávné, splacené a styky jednorázové a nevědomé, test odst. 5 by mohl vyznít ve prospěch zachování dokladu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Každý dluh zakládá nespolehlivost."* Neobstojí — odst. 3 vyžaduje individuální posouzení dle odst. 5; rozhodná je ovlivnitelnost ohrožující výkon činnosti, nikoli dluh sám o sobě.
+- *Protiargument 2: „NBÚ nemusí odůvodňovat aplikaci měkké okolnosti."* Neobstojí — NSS opakovaně ruší rozhodnutí, jež nerespektují všechna čtyři kritéria odst. 5, pro nepřezkoumatelnost.
+- *Slabé místo:* u odst. 3 písm. c) (zdravotní/osobnostní charakteristiky) zákon nestanoví rozhodné období; absence znaleckého posudku (§ 106) oslabuje důkazní pozici Úřadu.
+
+#### H. Praktický závěr
+
+Spolehlivost je vymezena negativně (absence negativní okolnosti). Tvrdé okolnosti (odst. 2) vedou k nespolehlivosti bez dalšího; měkké (odst. 3) jen po hodnocení testem proporcionality podle odst. 5, jehož opomenutí činí rozhodnutí nepřezkoumatelným.
+
+**Checklist (advokát / NBÚ / soud):**
+- [ ] Jde o okolnost z odst. 2 (tvrdá) nebo odst. 3 (měkká, „lze")?
+- [ ] Spadá okolnost do rozhodného období dle odst. 4?
+- [ ] Je u měkké okolnosti proveden test podle odst. 5 (míra ovlivnění, doba, rozsah/charakter, chování v období)?
+- [ ] Je důkazní břemeno na Úřadu (§ 89 odst. 1) uneseno?
+
+**Typicky rozhodné důkazy / podklady:** výpisy z registrů dlužníků a exekucí, zprávy zpravodajských služeb o stycích, znalecký posudek k osobnostní/zdravotní charakteristice, daňové údaje k majetkovým poměrům.
 
 ---
 
@@ -301,6 +446,42 @@ V případech zániku platnosti podle písm. a), b) nebo f) (uplynutí, zrušen�
 
 Zmocnění k vydání vzoru dokladu je svěřeno **NBÚ** v rámci jeho vyhláškové pravomoci podle § 158.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní R., držitelka platného dokladu, ztratí při služební cestě peněženku s dokladem. Ztrátu ohlásí Úřadu dne 3. dubna (čímž platnost dokladu zaniká dle § 85 odst. 3 písm. d)). Dne 10. dubna písemně požádá NBÚ o vydání nového dokladu a chce mezitím pokračovat ve výkonu citlivé činnosti (řízení provozu na letišti). Zaměstnavatel váhá, zda ji smí nechat na směně. Bylo by třeba doložit: oznámení ztráty s datem, žádost o nový doklad s datem doručení, doklad o datu zániku platnosti.
+
+**2. Právní otázka.** Smí držitel, jemuž platnost dokladu zanikla ohlášením ztráty (§ 85 odst. 3 písm. d)), nadále vykonávat citlivou činnost, požádá-li do 15 dnů o nový doklad podle § 85 odst. 4 — a v jaké lhůtě vydá Úřad doklad nový?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85 — doklad jako veřejná listina (odst. 1), náležitosti (odst. 2), sedm důvodů zániku (odst. 3), zrychlený režim náhradního dokladu (odst. 4), změna údajů (odst. 5), povinnost ukončit výkon (odst. 6).
+- *Související ustanovení téhož zákona:* § 87 odst. 1 písm. a), b) (povinnosti držitele), § 86 písm. a) (povinnost subjektu), § 101 (zrušení), § 123 odst. 3 (vykonatelnost), § 153, § 155a (přestupky), § 2 písm. e) (odpovědná osoba), § 158 (vzor dokladu).
+- *Související předpisy:* § 567 zákona č. 89/2012 Sb. a § 134 o. s. ř. (veřejná listina); § 348 trestního zákoníku (padělání veřejné listiny).
+- *Judikatura:* k účinkům veřejné listiny obecně — presumpce správnosti údajů v ní zapsaných až do prokázání opaku; nosný závěr soudů: zrychlené náhradní režimy je třeba vykládat tak, aby nebyla zbytečně narušena kontinuita oprávněné činnosti.
+
+**4. Subsumpce.** Platnost zanikla ohlášením ztráty — důvod podle odst. 3 písm. d). Paní R. požádala o nový doklad do 15 dnů (3.–10. dubna) — splněna podmínka odst. 4. Tím výkon citlivé činnosti není zánikem dotčen a Úřad vydá nový doklad do 5 dnů od doručení žádosti. Paní R. tedy smí být na směně i mezi 3. a 10. dubnem (a poté do vydání nového dokladu).
+
+**5. Řešení.** Zaměstnavatel ji smí ponechat ve výkonu citlivé činnosti, protože byl naplněn zrychlený režim odst. 4. Úřad je povinen vydat nový doklad do 5 dnů od 10. dubna. Pokud by paní R. žádost ve 15denní lhůtě nepodala, nastoupil by režim odst. 6 (resp. odst. 6 věta druhá obdobně) a odpovědná osoba by musela zajistit ukončení výkonu. Praktický krok: zaměstnavatel si uchová kopii žádosti a sleduje 5denní lhůtu.
+
+**6. Varianty.** (a) Pokud by platnost zanikla zrušením rozhodnutím (písm. b)) nebo vrácením (písm. f)), režim odst. 4 se nepoužije a odpovědná osoba musí dle odst. 6 ukončit výkon; Úřad ji navíc vyrozumí. (b) Pokud by šlo jen o změnu příjmení (odst. 5), výkon by rovněž nebyl přerušen a Úřad by vydal nový doklad bezodkladně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Zánikem platnosti dokladu vždy okamžitě končí oprávnění k činnosti."* Neobstojí u písm. d) a e) — odst. 4 zakládá výjimku zachovávající kontinuitu, pokud držitel do 15 dnů požádá o nový doklad.
+- *Protiargument 2: „Úřad může vydání nového dokladu odkládat."* Neobstojí — odst. 4 stanoví pevnou 5denní lhůtu od doručení žádosti.
+- *Slabé místo:* spornou se může stát identifikace přesného dne zániku platnosti (den ohlášení), na němž závisí běh 15denní lhůty; chybí-li doklad o datu oznámení, je výpočet nejistý.
+
+#### H. Praktický závěr
+
+Doklad je veřejnou listinou s platností 10 let a sedmi taxativními důvody zániku. U ztráty/odcizení/poškození (písm. d), e)) platí zrychlený režim: požádá-li držitel do 15 dnů, výkon činnosti pokračuje a Úřad vydá nový doklad do 5 dnů.
+
+**Checklist (držitel / odpovědná osoba / NBÚ):**
+- [ ] Z jakého z důvodů odst. 3 platnost zanikla?
+- [ ] Jde o písm. d)/e) — byla podána žádost o nový doklad do 15 dnů (odst. 4)?
+- [ ] Jde o písm. a)/b)/f) — zajistila odpovědná osoba ukončení výkonu (odst. 6)?
+- [ ] Vyrozuměl Úřad odpovědnou osobu (u písm. b), f))?
+
+**Typicky rozhodné důkazy / podklady:** oznámení o ztrátě/odcizení/poškození s datem, žádost o nový doklad s datem doručení, rozhodnutí o zrušení (u písm. b)), doklad o vrácení listiny.
+
 ---
 
 ### § 86 — Povinnosti právnické osoby, podnikající fyzické osoby a orgánu státu
@@ -352,6 +533,42 @@ Subjekt oznamuje Úřadu **datum zahájení nebo ukončení** výkonu citlivé �
 
 > **Srovnání s povinnostmi u UI:** Soubor povinností podle § 86 je co do struktury obdobou § 67 ZOUI (povinnosti odpovědné osoby u přístupu k UI), avšak co do rozsahu zjednodušený. Subjekt zejména nemusí zajišťovat ochranu **utajované informace** (jelikož citlivá činnost s ní zpravidla nesouvisí). Rozsah oznámovacích povinností je však obdobný — odráží to stejnou potřebu informovanosti NBÚ o stavu prověřených osob.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost BETA provozuje úsek nakládání s vojenským materiálem, v němž čtyři zaměstnanci vykonávají citlivou činnost. Jednomu z nich (panu T.) skončil pracovní poměr k 31. květnu. Společnost to Úřadu neoznámí. Současně přijme nového pracovníka U. a nechá jej činnost vykonávat, ačkoli jeho doklad je teprve v řízení. Při kontrole NBÚ zjistí oba prohřešky. Bylo by třeba obstarat: evidenci vykonavatelů citlivé činnosti, personální dokumentaci ke skončení poměru pana T., doklad/osvědčení pana U. a datum nástupu.
+
+**2. Právní otázka.** Porušila společnost BETA povinnosti podle § 86 — zejména písm. a) (zajistit výkon jen kvalifikovanou osobou) a písm. e) (oznámit zahájení/ukončení výkonu) — a jaké sankce jí hrozí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 — pět povinností subjektů (PO, podnikající FO, orgán státu): zajistit kvalifikovaný výkon (a)), vést evidenci (b)), oznamovat odpadnutí důvodu žádosti (c)) a jiné rozhodné skutečnosti (d)), oznamovat zahájení/ukončení výkonu (e)).
+- *Související ustanovení téhož zákona:* § 80 odst. 2 (kvalifikační průkazy), § 101 odst. 1 (zahájení řízení o zrušení), § 138 odst. 1 písm. b) a odst. 3 (evidence a informování ZS), § 153 odst. 1 a odst. 2 písm. d), § 155a (přestupky).
+- *Související předpisy:* čl. 24, čl. 5 nařízení (EU) 2016/679 (GDPR — zásady minimalizace a omezení účelu evidence); zákon č. 38/1994 Sb.
+- *Judikatura:* k oznamovacím povinnostem zaměstnavatele obecně soudy zdůrazňují, že porušení je dokonáno samotným nesplněním ve stanovené lhůtě bez ohledu na následek; nosný závěr: evidenční a notifikační povinnosti slouží kontrolní funkci dozorového orgánu.
+
+**4. Subsumpce.** Pan U. vykonává citlivou činnost bez platného dokladu/osvědčení (doklad teprve v řízení) — porušení písm. a). Skončení poměru pana T. nebylo oznámeno — porušení písm. e) (oznámení o ukončení s datem). Evidence (písm. b)) musí oba případy zachytit. Naplněny jsou skutkové podstaty přestupků dle § 153 (orgán státu/PO) a u podnikatele dle § 155a.
+
+**5. Řešení.** Společnost musí okamžitě zajistit, aby pan U. citlivou činnost nevykonával, dokud nebude vydán doklad; bezodkladně oznámit Úřadu ukončení výkonu pana T. (s datem) a zahájení/ukončení dalších. Hrozí pokuta podle § 153 odst. 2 písm. d) (do 1 000 000 Kč) za nezajištění kvalifikovaného výkonu a podle § 153 odst. 1 (do 300 000 Kč) za nesplnění oznamovací povinnosti. Praktický krok: zavést interní proces propojující personální evidenci s oznamováním NBÚ.
+
+**6. Varianty.** (a) Pokud by pan U. byl držitelem platného osvědčení FO, výkon by byl po právu (písm. a) splněno) a porušení by se týkalo jen neoznámení pana T. (b) Pokud by společnost neprodleně oznámila odpadnutí důvodu žádosti pana U. (ukončení projektu), aplikovalo by se písm. c), nikoli písm. d).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Postačí, že pracovník měl doklad při nástupu."* Neobstojí — písm. a) vyžaduje platné oprávnění po celou dobu výkonu, nikoli jen při nástupu.
+- *Protiargument 2: „Evidence není povinná, protože zákon neurčuje formát."* Neobstojí — povinnost vést evidenci (písm. b)) trvá; absence předepsaného formátu znamená jen volnost formy, ne zproštění povinnosti.
+- *Slabé místo:* hranice mezi oznamovací povinností podle písm. c) (odpadnutí důvodu žádosti) a písm. d) (jiná rozhodná skutečnost) je v praxi neostrá; chybné podřazení však samo o sobě neruší existenci povinnosti oznámit.
+
+#### H. Praktický závěr
+
+§ 86 ukládá PO, podnikající FO a orgánu státu pět povinností: zajistit výkon citlivé činnosti jen osobou s platným průkazem, vést evidenci vykonavatelů a plnit tři oznamovací povinnosti vůči NBÚ (odpadnutí důvodu žádosti, jiné rozhodné skutečnosti, zahájení/ukončení výkonu).
+
+**Checklist (subjekt / odpovědná osoba / NBÚ):**
+- [ ] Má každý vykonavatel platný doklad, osvědčení FO nebo uznané cizí oprávnění (písm. a))?
+- [ ] Je vedena evidence vykonavatelů citlivé činnosti (písm. b))?
+- [ ] Byly Úřadu oznámeny okolnosti dle písm. c) a d) bez prodlení?
+- [ ] Bylo oznámeno zahájení/ukončení výkonu s datem (písm. e))?
+
+**Typicky rozhodné důkazy / podklady:** interní evidence vykonavatelů, personální/služební dokumentace, kopie dokladů a osvědčení, písemná oznámení zaslaná Úřadu s doklady o doručení.
+
 ---
 
 ### § 87 — Povinnosti fyzické osoby
@@ -381,6 +598,42 @@ Subjekt oznamuje Úřadu **datum zahájení nebo ukončení** výkonu citlivé �
 #### Povinnost odevzdat nalezený doklad (odst. 2)
 
 **Erga omnes** povinnost — vztahuje se na kohokoli, kdo nalezený doklad získá. Tři alternativní místa odevzdání: NBÚ, policie, zastupitelský úřad ČR v zahraničí. Sankce za nesplnění (u fyzické osoby) viz § 148 odst. 1 písm. b) (do 100 000 Kč). Účelem je vrácení dokladu do oficiálního oběhu a předcházení zneužití (zejm. krádeži identity).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Panu V., držiteli dokladu, NBÚ pravomocně zruší platnost dokladu rozhodnutím vykonatelným k 1. červnu (§ 85 odst. 3 písm. b)). Pan V. přesto ponechá doklad u sebe a do 15 dnů jej Úřadu neodevzdá, neboť „mu na něj nikdo nezavolal". Současně jeho známý nalezne na ulici cizí doklad o bezpečnostní způsobilosti a ponechá si jej. Bylo by třeba obstarat: rozhodnutí o zrušení platnosti a doklad o jeho vykonatelnosti, evidenci o (ne)odevzdání dokladu, okolnosti nálezu cizího dokladu.
+
+**2. Právní otázka.** Porušil pan V. povinnost podle § 87 odst. 1 písm. a) odevzdat neplatný doklad do 15 dnů a dopustil se jeho známý přestupku tím, že nalezený doklad neodevzdal podle § 87 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 — povinnosti držitele (odevzdat neplatný doklad do 15 dnů (odst. 1 písm. a)), oznámit ztrátu/odcizení/poškození (písm. b)), oznámit změny údajů (písm. c))); *erga omnes* povinnost odevzdat nalezený doklad (odst. 2).
+- *Související ustanovení téhož zákona:* § 85 odst. 3 písm. b), e), g) (důvody zániku, k nimž se váže odevzdání), § 101 (zrušení), § 152 odst. 1 (přestupky držitele), § 148 odst. 1 písm. b) (přestupek za neodevzdání nalezeného dokladu), § 158 (prováděcí předpis k rozsahu hlášení změn).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky; obecná povinnost vracet nalezené věci dle § 1051 a násl. OZ (analogie).
+- *Judikatura:* k notifikačním a odevzdávacím povinnostem soudy dovozují, že lhůta „neprodleně" znamená bez zbytečného odkladu po zjištění skutečnosti; nosný závěr: přestupek je dokonán uplynutím lhůty.
+
+**4. Subsumpce.** Platnost dokladu pana V. zanikla podle § 85 odst. 3 písm. b) — vznikla povinnost odevzdat doklad Úřadu do 15 dnů (§ 87 odst. 1 písm. a)). Marným uplynutím lhůty je naplněn přestupek dle § 152 odst. 1 písm. a). Známý pana V. nalezený doklad neodevzdal — naplnil přestupek dle § 148 odst. 1 písm. b) (odst. 2 ukládá povinnost komukoli).
+
+**5. Řešení.** Pan V. má bezodkladně odevzdat doklad NBÚ; jeho subjektivní výmluva (nikdo jej nevyzval) je bez významu, povinnost vzniká *ex lege* zánikem platnosti. Známému hrozí pokuta do 100 000 Kč, nedevzdá-li nalezený doklad NBÚ, policii nebo zastupitelskému úřadu ČR. Praktický krok: doklad odevzdat na nejbližší dostupné místo a vyžádat si potvrzení o odevzdání.
+
+**6. Varianty.** (a) Pokud by platnost zanikla úmrtím (písm. c)), povinnost odevzdat dle písm. a) by se na zemřelého nevztahovala (odst. 1 písm. a) odkazuje na písm. b), e), g)). (b) Pokud by známý nalezený doklad odevzdal policii týž den, žádný přestupek by nevznikl (splnění povinnosti odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Povinnost odevzdat vzniká až výzvou Úřadu."* Neobstojí — povinnost vzniká přímo zánikem platnosti (§ 85 odst. 3 písm. b), e), g)) a běží 15denní lhůta bez ohledu na výzvu.
+- *Protiargument 2: „Nalezený doklad lze ponechat, dokud se nepřihlásí majitel."* Neobstojí — odst. 2 ukládá neprodlené odevzdání NBÚ, policii nebo zastupitelskému úřadu; jde o veřejnoprávní povinnost, nikoli soukromoprávní nález.
+- *Slabé místo:* prokázání okamžiku, kdy nálezce doklad získal (počátek „neprodlené" povinnosti), může být obtížné; bez něj je posouzení včasnosti odevzdání nejisté.
+
+#### H. Praktický závěr
+
+Držitel musí odevzdat neplatný doklad do 15 dnů (zánik dle § 85 odst. 3 písm. b), e), g)) a neprodleně oznámit ztrátu, odcizení, poškození i změny údajů. Kdokoli, kdo doklad nalezne, jej musí neprodleně odevzdat NBÚ, policii nebo zastupitelskému úřadu ČR.
+
+**Checklist (držitel / nálezce / NBÚ):**
+- [ ] Zanikla platnost z důvodu dle písm. b), e) nebo g) — běží 15denní lhůta k odevzdání?
+- [ ] Byla neprodleně oznámena ztráta/odcizení/poškození (písm. b))?
+- [ ] Byly oznámeny změny údajů v rozsahu dle prováděcího předpisu (písm. c))?
+- [ ] Byl nalezený doklad odevzdán NBÚ/policii/zastupitelskému úřadu (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o zrušení a doklad o vykonatelnosti, potvrzení o odevzdání dokladu, oznámení o ztrátě/změnách, protokol o nálezu a odevzdání.
 
 ---
 
@@ -414,6 +667,42 @@ Výkon je omezen na **dobu nutnou k provedení činnosti**. Není zde stanovena 
 
 > **Vztah k jiným zákonům:** § 88 navazuje na pravomoci zpravodajských služeb podle zákona č. 153/1994 Sb., o zpravodajských službách ČR, zákona č. 154/1994 Sb., o Bezpečnostní informační službě (BIS), a zákona č. 289/2005 Sb., o Vojenském zpravodajství. Pojmem „zpravodajská služba" se rozumí BIS, Úřad pro zahraniční styky a informace (ÚZSI) a Vojenské zpravodajství.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bezpečnostní informační služba (BIS) potřebuje pro operativní úkol získat ke spolupráci pana Z., civilního experta na telekomunikace, který není příslušníkem ani zaměstnancem služby. Má pro službu na základě dohody provést jednorázovou technickou analýzu (citlivá činnost pro potřeby ZS). BIS chce postupovat bez bezpečnostního řízení u NBÚ. Bylo by třeba zajistit: dohodu o spolupráci, interní ověření podmínek § 81 ze strany BIS, vymezení doby nutné k provedení činnosti.
+
+**2. Právní otázka.** Smí zpravodajská služba umožnit panu Z. výkon citlivé činnosti pro své potřeby na základě vlastního ověření podmínek § 81, aniž by NBÚ vedl bezpečnostní řízení a vydal doklad (§ 88 odst. 2 až 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 — zjednodušený režim citlivé činnosti pro potřeby ZS: ověřuje sama služba (odst. 2), z vlastního podnětu v nezbytném rozsahu (odst. 3), bez bezpečnostního řízení a bez vydání dokladu, na dobu nutnou (odst. 4).
+- *Související ustanovení téhož zákona:* § 80 (citlivá činnost), § 81 (podmínky), § 140 odst. 1 písm. a) (příslušníci/zaměstnanci ZS — jiný režim), Část čtvrtá (bezpečnostní řízení, jež se zde neprovádí).
+- *Související předpisy:* zákon č. 153/1994 Sb., o zpravodajských službách ČR; zákon č. 154/1994 Sb., o BIS; zákon č. 289/2005 Sb., o Vojenském zpravodajství.
+- *Judikatura:* k autonomii zpravodajských služeb soudy akcentují omezenou přezkoumatelnost operativních postupů a ochranu zdrojů; nosný závěr: zákonem stanovené zjednodušené režimy nelze rozšiřovat nad rámec účelu (potřeba služby).
+
+**4. Subsumpce.** Pan Z. není uveden v § 140 odst. 1 písm. a) (není příslušníkem/zaměstnancem) — spadá pod § 88 odst. 1. Úkon provádí pro ZS na základě dohody — splněno. BIS ověří podmínky § 81 z vlastního podnětu v nezbytném rozsahu (odst. 3) — splněno. Bezpečnostní řízení se nevede a doklad se nevydává. Výkon je omezen na dobu nutnou k provedení (odst. 4).
+
+**5. Řešení.** BIS smí panu Z. umožnit výkon citlivé činnosti po interním ověření podmínek § 81, bez účasti NBÚ a bez dokladu. Oprávnění trvá jen po dobu nutnou k provedení úkolu; po jejím uplynutí výkon končí. Praktický krok: BIS zdokumentuje rozsah a výsledek ověření interně tak, aby byl zachován utajený charakter spolupráce a zároveň doložitelnost splnění podmínek.
+
+**6. Varianty.** (a) Pokud by pan Z. byl příslušníkem ZS (§ 140 odst. 1 písm. a)), § 88 by se nepoužil a uplatnil by se zvláštní režim § 140. (b) Pokud by činnost neměla být vykonávána pro potřeby ZS, ale např. pro běžný orgán státu, vyžadoval by se standardní doklad a bezpečnostní řízení podle Části čtvrté.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „I pro spolupracovníky ZS musí doklad vydat NBÚ."* Neobstojí — § 88 odst. 3 výslovně vylučuje bezpečnostní řízení i vydání dokladu; ověření provádí sama služba.
+- *Protiargument 2: „Oprávnění platí trvale jako u běžného dokladu (10 let)."* Neobstojí — odst. 4 omezuje výkon na dobu nutnou k provedení činnosti; trvalý status je vyloučen kvůli ochraně utajenosti zdroje.
+- *Slabé místo:* absence formálního dokladu a omezená přezkoumatelnost ztěžuje vnější kontrolu, zda byly podmínky § 81 skutečně ověřeny; kontrolu vykonává spíše parlamentní mechanismus než správní soud.
+
+#### H. Praktický závěr
+
+§ 88 zavádí zjednodušený režim pro citlivou činnost vykonávanou pro potřeby zpravodajské služby osobami mimo § 140 odst. 1 písm. a). Podmínky § 81 ověřuje sama služba z vlastního podnětu; bezpečnostní řízení se nevede, doklad se nevydává a výkon je omezen na dobu nutnou.
+
+**Checklist (zpravodajská služba / spolupracovník):**
+- [ ] Není osoba uvedena v § 140 odst. 1 písm. a) (příslušník/zaměstnanec)?
+- [ ] Provádí úkon pro ZS na základě dohody v souvislosti s výkonem státní správy nebo z jiného důvodu?
+- [ ] Ověřila služba podmínky § 81 z vlastního podnětu v nezbytném rozsahu?
+- [ ] Je výkon omezen jen na dobu nutnou k provedení činnosti?
+
+**Typicky rozhodné důkazy / podklady:** dohoda o spolupráci, interní záznam o ověření podmínek § 81, vymezení účelu a doby výkonu citlivé činnosti.
+
 ---
 
 ## ČÁST ČTVRTÁ — Bezpečnostní řízení (§§ 88a–135)
@@ -442,6 +731,42 @@ Výkon je omezen na **dobu nutnou k provedení činnosti**. Není zde stanovena 
 #### Legislativní zkratka „řízení"
 
 Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá) se zavádí legislativní zkratka **„řízení"** označující bezpečnostní řízení. Tato zkratka nahrazuje obecný pojem „správní řízení" — vyjadřuje **lex specialis** povahu celé úpravy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan A. podá NBÚ žádost o vydání dokladu o bezpečnostní způsobilosti (§ 99). Současně chce, aby NBÚ v témže „řízení" rozhodl i o jeho stížnosti na postup zaměstnavatele a o náhradě nákladů, které mu vznikly při vyplňování dotazníku. NBÚ tyto návrhy odmítne projednat. Bylo by třeba doložit: podanou žádost o doklad, obsah dalších návrhů pana A., předmět zahájeného řízení.
+
+**2. Právní otázka.** Spadají návrhy pana A. (stížnost na zaměstnavatele, náhrada nákladů) do předmětu bezpečnostního řízení vymezeného v § 88a, nebo je předmět řízení omezen pouze na rozhodování o vyjmenovaných žádostech a o zrušení platnosti veřejných listin?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88a — předmět bezpečnostního řízení (žádosti dle § 94, 96, 99 a zrušení platnosti osvědčení FO, osvědčení podnikatele nebo dokladu); legislativní zkratka „řízení".
+- *Související ustanovení téhož zákona:* § 94, § 96, § 99 (typy žádostí), § 101 (zrušení platnosti), § 89 (zásady), § 159 (subsidiarita správního řádu jen ve vymezených případech).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád (jeho aplikace je pro bezpečnostní řízení vyloučena s úzkými výjimkami).
+- *Judikatura:* NSS 6 Ad 7/2017 (citováno u § 89) — aplikace správního řádu pro řízení podle § 89 a násl. ZOUI je vyloučena; nosný závěr: bezpečnostní řízení je samostatný procesní režim s vymezeným předmětem.
+
+**4. Subsumpce.** Předmětem řízení podle § 88a je výlučně rozhodování o žádosti o doklad (§ 99) — to bylo zahájeno. Stížnost na zaměstnavatele ani náhrada nákladů pod taxativní výčet § 88a nespadají; nejsou ani žádostí dle § 94/96/99, ani řízením o zrušení platnosti. NBÚ je tedy v bezpečnostním řízení projednat nemůže.
+
+**5. Řešení.** NBÚ správně odmítne projednat návrhy mimo předmět řízení; jeho úkolem je rozhodnout o žádosti o doklad. Náklady řízení a postup zaměstnavatele se řeší mimo bezpečnostní řízení (zaměstnavatelské vztahy podle pracovněprávních/služebních předpisů, dozor podle § 86 a násl.). Praktický krok: poučit pana A., že jeho další návrhy je třeba uplatnit v příslušném (jiném) řízení.
+
+**6. Varianty.** (a) Pokud by pan A. podal žádost o osvědčení FO (§ 94), předmět řízení by se posunul, ale i tak by zůstal omezen na § 88a. (b) Pokud by NBÚ zahájil řízení o zrušení platnosti jeho dosavadního dokladu, šlo by o čtvrtý typ řízení dle § 88a (zrušení platnosti).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „V bezpečnostním řízení lze subsidiárně užít správní řád a projednat i související návrhy."* Neobstojí — § 159 připouští subsidiaritu jen ve velmi úzkých případech; obecně je aplikace SŘ vyloučena (NSS 6 Ad 7/2017).
+- *Protiargument 2: „Předmět řízení je demonstrativní."* Neobstojí — § 88a vyjmenovává typy řízení taxativně (žádosti dle § 94, 96, 99 a zrušení platnosti).
+- *Slabé místo:* hranice mezi „bezpečnostním řízením" a souvisejícími procesy (např. řízení o přestupcích dle Části osmé, kde se SŘ subsidiárně užije) může být matoucí; je třeba rozlišovat typ řízení.
+
+#### H. Praktický závěr
+
+§ 88a vymezuje předmět bezpečnostního řízení taxativně: rozhodování o žádostech podle § 94, 96 a 99 a o zrušení platnosti osvědčení FO, osvědčení podnikatele nebo dokladu. Mimo tento rámec se bezpečnostní řízení nevede.
+
+**Checklist (advokát / účastník / NBÚ):**
+- [ ] Jde o žádost podle § 94, § 96 nebo § 99?
+- [ ] Nebo jde o řízení o zrušení platnosti veřejné listiny (§ 101)?
+- [ ] Spadá uplatněný návrh vůbec do předmětu § 88a?
+- [ ] Není namístě jiný procesní režim (přestupkové řízení, pracovněprávní/služební spor)?
+
+**Typicky rozhodné důkazy / podklady:** podaná žádost a její typ, oznámení o zahájení řízení o zrušení, vymezení předmětu řízení v procesních úkonech NBÚ.
 
 ---
 
@@ -480,6 +805,42 @@ Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá
 
 > **Srovnání se správním řádem:** Zásady § 89 jsou méně rozvinuté než katalog v § 2–8 SŘ. Chybějí výslovné zásady zákazu zneužití pravomoci (§ 2 odst. 2 SŘ), legitimního očekávání (§ 2 odst. 4 SŘ) a součinnosti správních orgánů (§ 8 SŘ). Tato mezera je zpravidla zaplňována ústavněprávním výkladem (čl. 1 Ústavy, čl. 2 odst. 2 a čl. 36 LZPS), neboť Úřad je správním orgánem a vázán základními ústavními principy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** NBÚ vede s paní B. řízení o žádosti o osvědčení FO pro stupeň Tajné. Vyšetřovatel si vyžádá rozsáhlé podklady o jejích příbuzných do třetího kolena, o nichž paní B. tvrdí, že s předmětem prověření nesouvisejí. Současně paní B., která je nevidomá, namítá, že jí nebyl umožněn přístup k podkladům ve formě, kterou by mohla vnímat, a že o jednání chce vést záznam veřejně. Bylo by třeba doložit: rozsah vyžádaných podkladů a jejich vztah k předmětu řízení, doklad o zdravotním postižení, průběh úkonů řízení.
+
+**2. Právní otázka.** Porušil NBÚ zásadu materiální pravdy a procesní ekonomie (§ 89 odst. 1) tím, že zjišťoval informace nad rámec nezbytný pro rozhodnutí, a respektoval zásady ochrany osobnosti, nediskriminace a neveřejnosti (odst. 2 až 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 — čtyři zásady: materiální pravda a procesní ekonomie (odst. 1), respekt k cti a důstojnosti (odst. 2), nediskriminace zdravotně postižených (odst. 3), neveřejnost (odst. 4).
+- *Související ustanovení téhož zákona:* § 89c (nahlížení a opatření pro nevidomé), § 92d (opatrovník), § 89b (jazyk), § 109 (rozsah ověřování), § 14 (bezpečnostní rizika — rozsah zjišťování).
+- *Související předpisy:* čl. 10 a čl. 36 Listiny základních práv a svobod; § 2–8 zákona č. 500/2004 Sb. (obdoba zásad, nikoli identita); zákon č. 198/2009 Sb. (antidiskriminační).
+- *Judikatura:* NSS 18 A 32/2024 (citováno) — skutkový stav musí být zjištěn přesně a úplně v nezbytném rozsahu, avšak s nižším důkazním standardem (přiměřená míra pravděpodobnosti) než v trestním řízení; NSS 6 Ad 7/2017 (citováno) — vyloučení subsidiarity správního řádu.
+
+**4. Subsumpce.** Zásada odst. 1 zakazuje „fishing expedition" — zjišťování nad rámec nezbytný pro rozhodnutí; je-li vztah vyžádaných podkladů o vzdálených příbuzných k předmětu prověření sporný, jde o porušení procesní ekonomie. Odst. 3 ukládá vytvořit podmínky, aby kvůli zdravotnímu postižení nedošlo k újmě na právech (přístup k podkladům ve vnímatelné formě dle § 89c). Odst. 4 (neveřejnost) naopak vylučuje veřejné jednání — požadavek paní B. na veřejnost je nedůvodný.
+
+**5. Řešení.** NBÚ smí zjišťovat jen údaje nezbytné pro rozhodnutí (odst. 1); musí paní B. jako nevidomé zajistit přístup k podkladům (přečtení, zvukový záznam dle § 89c) a šetřit její důstojnost (odst. 2). Požadavku na veřejnost řízení nelze vyhovět — řízení je obligatorně neveřejné (odst. 4). Praktický krok: paní B. může v rozkladu/žalobě namítat nepřiměřený rozsah zjišťování a porušení odst. 3.
+
+**6. Varianty.** (a) Pokud by vyžádané údaje o příbuzných byly skutečně bezpečnostně významné (§ 14), zásada odst. 1 by porušena nebyla. (b) Pokud by účastník nebyl zdravotně postižen, povinnost podle odst. 3 by se neuplatnila a nahlížení by probíhalo standardně dle § 89c.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „V bezpečnostním řízení platí trestní důkazní standard (bez důvodných pochybností)."* Neobstojí — NSS 18 A 32/2024: postačuje přiměřená míra pravděpodobnosti (nejpravděpodobnější varianta), nikoli jistota bez pochybností.
+- *Protiargument 2: „Řízení může být na žádost účastníka veřejné jako podle správního řádu."* Neobstojí — odst. 4 stanoví neveřejnost kategoricky, na rozdíl od § 49 SŘ.
+- *Slabé místo:* katalog zásad § 89 je užší než § 2–8 SŘ (chybí výslovně legitimní očekávání, zákaz zneužití pravomoci); tuto mezeru je nutno doplňovat ústavněprávním výkladem (čl. 1 Ústavy, čl. 2 odst. 2 a čl. 36 LZPS).
+
+#### H. Praktický závěr
+
+§ 89 stanoví čtyři zásady bezpečnostního řízení: materiální pravdu v nezbytném rozsahu spojenou s procesní ekonomií, respekt k cti a důstojnosti, aktivní nediskriminaci zdravotně postižených a obligatorní neveřejnost. Důkazní standard je přitom nižší než v trestním řízení.
+
+**Checklist (advokát / účastník / NBÚ / soud):**
+- [ ] Zjišťuje Úřad jen údaje nezbytné pro rozhodnutí (odst. 1), bez zbytečných nákladů a průtahů?
+- [ ] Je šetřena čest a důstojnost dotčených osob (odst. 2)?
+- [ ] Byla u zdravotně postiženého vytvořena podmínka k zachování práv (odst. 3, § 89c)?
+- [ ] Je dodržena neveřejnost řízení (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** přehled vyžádaných podkladů a jejich vztah k předmětu řízení, doklad o zdravotním postižení, protokoly o úkonech, bezpečnostní svazek.
+
 ---
 
 ### § 89a — Vedení řízení
@@ -493,6 +854,42 @@ Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá
 **Výklad:**
 
 Úředními osobami jsou zaměstnanci NBÚ určení vnitřními předpisy. Záznam o identitě úřední osoby ve svazku zajišťuje **transparentnost a možnost uplatnit námitku podjatosti** (§ 90). Forma písemných úkonů je obligatorní s úzkou výjimkou pro neformální ústní sdělení přítomným osobám — tento ústní postup však musí být následně zaznamenán do bezpečnostního svazku, čímž je zachována dokumentační transparentnost.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení paní C. o vydání osvědčení FO provede vyšetřovatel s paní C. neformálně ústní sdělení o nutnosti doplnit jednu přílohu, aniž by je zapsal do bezpečnostního svazku. Později paní C. namítá podjatost vyšetřovatele, ale tvrdí, že nezná jeho totožnost ani útvar, do něhož je zařazen. Bylo by třeba doložit: vnitřní předpisy NBÚ o určení úředních osob, obsah bezpečnostního svazku (záznam o úřední osobě a o úkonech), průběh ústního sdělení.
+
+**2. Právní otázka.** Postupoval NBÚ v souladu s § 89a, pokud (a) neprovedl do svazku záznam o ústně učiněném úkonu a (b) účastnici nesdělil na požádání, který zaměstnanec je v řízení úřední osobou a v jakém útvaru je zařazen?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89a — vedení řízení úředními osobami určenými vnitřními předpisy a záznam o nich do svazku (odst. 1); písemná forma úkonů s výjimkou ústních sdělení přítomnému účastníku, jejichž obsah se poznamená do svazku (odst. 2).
+- *Související ustanovení téhož zákona:* § 90 (vyloučení/podjatost úřední osoby), § 124 (bezpečnostní svazek), § 89c (nahlížení do svazku), § 89 odst. 1 (procesní ekonomie).
+- *Související předpisy:* vnitřní organizační předpisy NBÚ; analogicky § 15 SŘ (úřední osoby), byť SŘ se přímo neaplikuje.
+- *Judikatura:* NSS 2 As 83/2008 (citováno u § 90) — účastník má právo vědět, kdo je úřední osobou, jejíž podjatost může namítat; postačí sdělení jmen těsně před pohovorem.
+
+**4. Subsumpce.** Úředními osobami jsou zaměstnanci určení vnitřními předpisy (odst. 1); o jejich identitě a útvaru se provede záznam do svazku a Úřad o tom účastníka na požádání informuje — paní C. tedy má právo se to dozvědět (jinak nemůže uplatnit námitku podjatosti dle § 90). Ústní sdělení přítomné účastnici bylo přípustné (odst. 2), avšak jeho obsah musel být poznamenán do svazku — opomenutí záznamu je vadou dokumentace.
+
+**5. Řešení.** NBÚ musí paní C. na požádání sdělit, kdo je úřední osobou a v jakém útvaru je zařazena, aby mohla uplatnit námitku podjatosti (§ 90). Obsah ústního úkonu měl být zaznamenán do bezpečnostního svazku; chybějící záznam je třeba doplnit, jinak hrozí zpochybnění transparentnosti řízení. Praktický krok: účastnice si vyžádá informaci o úřední osobě a nahlédne do svazku (§ 89c).
+
+**6. Varianty.** (a) Pokud by všechny úkony byly činěny písemně, otázka záznamu ústního úkonu by nevyvstala. (b) Pokud by účastnice nebyla úkonu přítomna, ústní forma by byla nepřípustná a úkon by musel být učiněn písemně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Totožnost úřední osoby lze utajit kvůli povaze řízení."* Neobstojí — § 89a odst. 1 ukládá záznam a informování účastníka na požádání; NSS 2 As 83/2008 potvrzuje právo znát úřední osobu (postačí sdělení před pohovorem).
+- *Protiargument 2: „Ústní úkony není třeba zaznamenávat."* Neobstojí — odst. 2 výslovně vyžaduje poznamenat obsah nepísemného úkonu do bezpečnostního svazku.
+- *Slabé místo:* zákon nestanoví přesnou lhůtu pro provedení záznamu; absence záznamu se však projeví jako důkazní vada při přezkumu úplnosti svazku.
+
+#### H. Praktický závěr
+
+§ 89a vyžaduje, aby řízení vedly úřední osoby určené vnitřními předpisy, jejichž identita a útvar jsou zaznamenány do svazku a na požádání sděleny účastníku (předpoklad námitky podjatosti). Úkony se činí písemně; ústní sdělení přítomnému účastníku je možné, ale jeho obsah se poznamená do svazku.
+
+**Checklist (účastník / NBÚ):**
+- [ ] Je úřední osoba určena vnitřním předpisem a zaznamenána do svazku (odst. 1)?
+- [ ] Byla účastníkovi na požádání sdělena identita úřední osoby a útvar?
+- [ ] Jsou úkony činěny písemně, nevylučuje-li to povaha věci (odst. 2)?
+- [ ] Je obsah ústních úkonů poznamenán do bezpečnostního svazku?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpisy NBÚ o určení úředních osob, bezpečnostní svazek se záznamy, protokoly o úkonech, žádost účastníka o sdělení úřední osoby.
 
 ---
 
@@ -510,6 +907,42 @@ Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá
 
 Trojí jazykový režim: (i) **čeština jako úřední jazyk** (odst. 1); (ii) **jazyk národnostní menšiny** s ústavněprávně chráněným statusem (odst. 2, vychází z čl. 25 LZPS) — náklady tlumočení nese stát; (iii) **jazyk cizinců** v rámci běžných žádostí podle § 94 nebo § 96 — náklady tlumočení nese **účastník**, pokud sám prohlásí neznalost češtiny. Důsledné rozlišení mezi menšinami a cizinci odráží ústavněprávní privilegium menšin.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan D., příslušník polské národnostní menšiny dlouhodobě žijící v ČR, žádá o vydání dokladu a chce činit úkony vůči NBÚ v polštině. Zároveň pan E., cizinec (francouzský státní občan) žádající o osvědčení FO, prohlásí, že neovládá češtinu, a požaduje, aby mu Úřad zajistil tlumočníka na své náklady. Pan E. rovněž předkládá listinu vyhotovenou ve francouzštině bez překladu. Bylo by třeba doložit: doklad o příslušnosti k národnostní menšině, prohlášení o neznalosti češtiny, originální listiny a jejich úředně ověřené překlady.
+
+**2. Právní otázka.** Kdo nese náklady tlumočení a překladu, jedná-li v řízení (a) příslušník národnostní menšiny podle § 89b odst. 2 a (b) cizinec jako účastník podle § 92 písm. a) a b) podle odst. 3 — a smí účastník předložit cizojazyčnou listinu bez ověřeného překladu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89b — čeština jako úřední jazyk a povinnost úředně ověřeného překladu cizojazyčných písemností (odst. 1); jazyk národnostní menšiny s náklady na účet Úřadu (odst. 2); jazyk cizinců-účastníků na jejich náklady (odst. 3).
+- *Související ustanovení téhož zákona:* § 92 písm. a), b) (účastník), § 92e (zástupce), § 89 odst. 3 (nediskriminace), § 89c (nahlížení).
+- *Související předpisy:* čl. 25 Listiny základních práv a svobod (práva národnostních menšin); zákon č. 354/2019 Sb., o soudních tlumočnících a soudních překladatelích; pozn. 70 (úředně ověřený překlad).
+- *Judikatura:* k jazykovým právům obecně soudy rozlišují ústavně privilegované postavení menšin (čl. 25 LZPS) od běžné povinnosti cizince zajistit si překlad; nosný závěr: stát hradí tlumočení menšině, nikoli cizinci, jenž prohlásí neznalost češtiny.
+
+**4. Subsumpce.** Pan D. je příslušník menšiny tradičně žijící v ČR — má právo jednat v jazyce menšiny (odst. 2) a náklady tlumočení/překladu nese Úřad. Pan E. je cizinec-účastník podle § 92 písm. a) — prohlásí-li neznalost češtiny, obstará si tlumočníka na své náklady (odst. 3). Cizojazyčnou listinu musí předložit v originále i v úředně ověřeném překladu (odst. 1) — předložení bez překladu je nedostatkem.
+
+**5. Řešení.** NBÚ zajistí (resp. strpí) jednání pana D. v polštině a ponese náklady tlumočení; pana E. vyzve, aby si tlumočníka obstaral na vlastní náklady a doplnil úředně ověřený překlad francouzské listiny. Praktický krok: u menšiny ověřit splnění znaku „tradičně a dlouhodobě žije na území ČR"; u cizince trvat na ověřeném překladu jako podmínce použitelnosti listiny.
+
+**6. Varianty.** (a) Pokud by pan E. nebyl účastníkem podle § 92 písm. a)/b), nýbrž např. svědkem, náklady tlumočení by nesl Úřad (odst. 3 in fine — „v ostatních případech"). (b) Pokud by NBÚ neměl úřední osobu znalou jazyka menšiny, obstará tlumočníka ze seznamu a náklady ponese rovněž Úřad (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Cizinec má stejné jazykové výsady jako národnostní menšina."* Neobstojí — odst. 2 a 3 vědomě rozlišují: menšině hradí náklady stát (čl. 25 LZPS), cizinec-účastník si tlumočníka platí sám.
+- *Protiargument 2: „Cizojazyčnou listinu lze použít i bez ověřeného překladu."* Neobstojí — odst. 1 vyžaduje originál i úředně ověřený překlad; jinak je listina procesně nepoužitelná.
+- *Slabé místo:* posouzení, zda menšina „tradičně a dlouhodobě žije na území ČR", může být sporné; chybné zařazení ovlivní rozdělení nákladů tlumočení.
+
+#### H. Praktický závěr
+
+V řízení se jedná česky; cizojazyčné písemnosti je nutno předložit s úředně ověřeným překladem. Příslušník národnostní menšiny má právo jednat v jazyce menšiny na náklady Úřadu; cizinec-účastník, který prohlásí neznalost češtiny, si tlumočníka obstará na vlastní náklady.
+
+**Checklist (účastník / NBÚ):**
+- [ ] Jedná se s účastníkem v češtině, nejde-li o práva menšiny (odst. 1)?
+- [ ] Jsou cizojazyčné písemnosti doloženy úředně ověřeným překladem?
+- [ ] Jde o příslušníka menšiny tradičně žijící v ČR — náklady nese Úřad (odst. 2)?
+- [ ] Jde o cizince-účastníka (§ 92 písm. a), b)) — tlumočníka si hradí sám (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o příslušnosti k národnostní menšině, prohlášení o (ne)znalosti češtiny, originály listin a jejich úředně ověřené překlady, ustanovení tlumočníka ze seznamu.
+
 ---
 
 ### § 89c — Nahlížení do bezpečnostního svazku
@@ -523,6 +956,42 @@ Trojí jazykový režim: (i) **čeština jako úřední jazyk** (odst. 1); (ii) 
 Toto ustanovení **klíčově omezuje** procesní právo na nahlížení do spisu. Účastník nemá přístup k té části, jež obsahuje **utajovanou informaci** — typicky výsledky šetření zpravodajských služeb. Tento „omezený přístup" byl předmětem ústavněprávních a evropskoprávních sporů (zejm. v kontextu čl. 6 EÚLP a čl. 38 a 47 Listiny základních práv EU). Ústavní soud opakovaně judikoval (nálezy Pl. ÚS 11/04, Pl. ÚS 41/02 aj.), že omezení musí být **proporcionální** a soud musí mít plný přístup k utajeným podkladům — to odráží i § 133 (zvláštní úprava soudního přezkumu).
 
 Speciální opatření pro **nevidomé**: čtení obsahu, zvukový záznam, přítomnost průvodce. Tato adaptace plní obecnou zásadu § 89 odst. 3 a navazuje na zákon č. 198/2009 Sb. (antidiskriminační zákon).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** NBÚ zamítne žádost pana F. o osvědčení FO s odůvodněním, že bylo zjištěno bezpečnostní riziko na základě podkladů zpravodajské služby. Pan F. chce nahlédnout do celého bezpečnostního svazku, aby zjistil konkrétní skutečnosti svědčící proti němu. NBÚ mu zpřístupní svazek s výjimkou části obsahující utajované informace (zprávu ZS). Pan F. namítá porušení práva na spravedlivý proces. Bylo by třeba doložit: obsah svazku a jeho utajovanou část, rozhodnutí o zamítnutí, žádost o nahlédnutí.
+
+**2. Právní otázka.** Smí NBÚ podle § 89c odepřít účastníku přístup k té části bezpečnostního svazku, která obsahuje utajovanou informaci, aniž by tím porušil právo na spravedlivý proces — a jak je tento deficit kompenzován?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89c — právo nahlížet do svazku a činit výpisy s výjimkou části obsahující utajovanou informaci; zvláštní opatření pro nevidomé (přečtení, zvukový záznam, průvodce).
+- *Související ustanovení téhož zákona:* § 133 (soudní přezkum s plným přístupem soudu k utajeným podkladům), § 124 (bezpečnostní svazek), § 89 odst. 3 (nediskriminace), § 122 (odůvodnění rozhodnutí).
+- *Související předpisy:* čl. 6 EÚLP, čl. 38 a 47 Listiny základních práv EU; čl. 36 a 38 LZPS; zákon č. 198/2009 Sb. (nevidomí).
+- *Judikatura:* Ústavní soud Pl. ÚS 11/04 a Pl. ÚS 41/02 (citováno) — omezení přístupu musí být proporcionální a soud musí mít plný přístup k utajeným podkladům; nosný závěr: deficit účastníkova přístupu je kompenzován plnou kognicí soudu (§ 133).
+
+**4. Subsumpce.** Svazek obsahuje utajovanou část (zprávu ZS) — tu § 89c z nahlížení vylučuje. Účastník má přístup k ostatním částem a může činit výpisy. Omezení je tedy zákonné. Ústavní konformita je zajištěna tím, že soud ve správním přezkumu (§ 133) má k utajeným podkladům plný přístup a posuzuje zákonnost rozhodnutí v plném rozsahu.
+
+**5. Řešení.** NBÚ postupuje správně, odepře-li přístup pouze k utajované části; ostatní svazek zpřístupní. Námitka porušení spravedlivého procesu je řešitelná až v rámci soudního přezkumu, kde soud nahlíží i do utajené části. Praktický krok pro pana F.: podat žalobu (§ 133) a spoléhat na plnou kognici soudu, který ověří, zda utajené podklady zamítnutí odůvodňují.
+
+**6. Varianty.** (a) Pokud by svazek žádnou utajovanou informaci neobsahoval, účastník by měl přístup k celému svazku. (b) Pokud by účastník byl nevidomý, NBÚ by mu obsah svazku přečetl, na požádání umožnil zvukový záznam a přístup průvodci (za týchž podmínek, tj. mimo utajenou část).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Odepření přístupu k utajené části znemožňuje obhajobu, a je proto protiústavní."* Neobstojí absolutně — ÚS (Pl. ÚS 11/04) připouští proporcionální omezení kompenzované plným přístupem soudu (§ 133).
+- *Protiargument 2: „Účastník nemá právo na výpisy ze svazku."* Neobstojí — § 89c výslovně přiznává právo činit si ze svazku výpisy (mimo utajenou část).
+- *Slabé místo:* rozsah „utajované části" určuje NBÚ; nadměrné utajení může fakticky vyprázdnit právo na nahlížení — korektivem je soudní přezkum a test proporcionality.
+
+#### H. Praktický závěr
+
+§ 89c přiznává účastníku a jeho zástupci právo nahlížet do bezpečnostního svazku a činit výpisy, s výjimkou části obsahující utajovanou informaci. Tento deficit je ústavně kompenzován plnou kognicí soudu (§ 133). Pro nevidomé platí zvláštní opatření (přečtení, zvukový záznam, průvodce).
+
+**Checklist (advokát / účastník / NBÚ / soud):**
+- [ ] Byl účastníku zpřístupněn svazek mimo utajovanou část?
+- [ ] Mohl si činit výpisy?
+- [ ] Bylo odepření omezeno jen na skutečně utajované informace (proporcionalita)?
+- [ ] Byla u nevidomého zajištěna zvláštní opatření (přečtení, zvukový záznam, průvodce)?
+
+**Typicky rozhodné důkazy / podklady:** bezpečnostní svazek s vyznačením utajované části, rozhodnutí o zamítnutí/zrušení, žádost o nahlédnutí, doklad o zdravotním postižení (u nevidomých).
 
 ---
 
@@ -565,6 +1034,42 @@ Speciální opatření pro **nevidomé**: čtení obsahu, zvukový záznam, př�
 
 Odst. 2 brání tomu, aby táž úřední osoba rozhodovala v opravném stupni. Vychází ze zásady, že **přezkum musí být nezávislý** — projevuje se to i v složení rozkladové komise (§ 130 odst. 3 — většina členů z jiných orgánů státu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní G. zjistí, že vyšetřovatel vedoucí její bezpečnostní pohovor je bývalý spolužák jejího bývalého manžela, s nímž je ve sporu, a má tak zájem na výsledku řízení. O této skutečnosti se dozví 1. září. Námitku podjatosti však podá až 30. září. Současně chce namítnout i podjatost ředitele Úřadu, který bude rozhodovat o jejím rozkladu. Bylo by třeba doložit: datum, kdy se o úřední osobě a důvodu podjatosti dozvěděla, obsah námitky (proti komu, v čem důvod, jaké důkazy), záznam o úřední osobě ve svazku.
+
+**2. Právní otázka.** Byla námitka podjatosti vyšetřovatele podaná 30. září včasná ve smyslu § 90 odst. 3 (15denní lhůta od 1. září), a lze podle § 90 odst. 7 namítat podjatost ředitele Úřadu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 — vyloučení úřední osoby pro poměr k věci/účastníku (odst. 1), pro účast na jiném stupni (odst. 2); 15denní prekluzivní lhůta a náležitosti námitky (odst. 3); neuplatnitelnost vůči řediteli (odst. 7); obdobné užití na znalce a tlumočníky (odst. 8).
+- *Související ustanovení téhož zákona:* § 89a (záznam o úřední osobě), § 130 (rozkladová komise), § 131 (rozhodnutí ředitele o rozkladu), § 105 (pohovor), § 106 (znalec).
+- *Související předpisy:* § 14 SŘ (obdoba úpravy podjatosti, byť SŘ se neaplikuje); § 11 zákona č. 254/2019 Sb., o znalcích; čl. 36 LZPS (nestranný orgán).
+- *Judikatura:* NSS 2 As 83/2008 (citováno) — účastník má právo znát úřední osobu, jejíž podjatost může namítat; postačí sdělení jmen těsně před pohovorem.
+
+**4. Subsumpce.** O úřední osobě a důvodu podjatosti se paní G. dozvěděla 1. září; 15denní lhůta (odst. 3) uplynula 16. září. Námitka podaná 30. září je opožděná — k později podané námitce se nepřihlíží (prekluze). Podjatost ředitele Úřadu nelze namítat vůbec (odst. 7); ředitel je z režimu vyloučení vyňat, nestrannost v opravném stupni zajišťuje složení rozkladové komise (§ 130).
+
+**5. Řešení.** K opožděné námitce vůči vyšetřovateli NBÚ nepřihlédne. Vůči řediteli Úřadu námitka podjatosti není přípustná. Paní G. však může v žalobě (§ 133) zpochybnit nestrannost řízení jako celku, zejména pokud podjatost vyšetřovatele reálně ovlivnila výsledek. Praktický krok: námitku podjatosti vždy podat neprodleně po zjištění, s konkrétními důvody a důkazy (jinak je bez účinku).
+
+**6. Varianty.** (a) Pokud by paní G. podala námitku do 16. září se všemi náležitostmi, nadřízený by o vyloučení rozhodl usnesením (odst. 6) a určil jinou úřední osobu (odst. 5). (b) Pokud by šlo o podjatost znalce (§ 106), uplatnil by se odst. 8 (obdobné užití odst. 1 a 3 až 6).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Námitku podjatosti lze podat kdykoli během řízení."* Neobstojí — odst. 3 stanoví 15denní subjektivní lhůtu od zjištění úřední osoby; po jejím marném uplynutí se nepřihlíží (prekluze).
+- *Protiargument 2: „Podjatost ředitele Úřadu je namítatelná jako u každé úřední osoby."* Neobstojí — odst. 7 ředitele výslovně vyjímá; nestrannost zajišťuje rozkladová komise (§ 130).
+- *Slabé místo:* vynětí ředitele z režimu podjatosti (odst. 7) je doktrinálně sporné a vyvolává ústavněprávní pochybnosti; obrana účastníka spočívá až v soudním přezkumu.
+
+#### H. Praktický závěr
+
+§ 90 upravuje vyloučení úřední osoby pro poměr k věci či pro účast na jiném stupni. Námitku podjatosti je nutno podat do 15 dnů od zjištění úřední osoby a s konkrétními náležitostmi, jinak se k ní nepřihlíží. Vůči řediteli Úřadu podjatost namítat nelze; úprava se obdobně užije na znalce a tlumočníky.
+
+**Checklist (advokát / účastník / NBÚ):**
+- [ ] Byla zjištěna identita úřední osoby (§ 89a) jako předpoklad námitky?
+- [ ] Je námitka podána do 15 dnů od zjištění (odst. 3)?
+- [ ] Obsahuje námitka: proti komu směřuje, v čem je důvod, jaké důkazy?
+- [ ] Nesměřuje proti řediteli Úřadu (odst. 7) — případně proti znalci/tlumočníku (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o úřední osobě ve svazku, doklad o dni zjištění důvodu podjatosti, obsah námitky, usnesení nadřízeného o vyloučení.
+
 ---
 
 ### § 92 — Účastník řízení
@@ -590,6 +1095,42 @@ Odst. 2 brání tomu, aby táž úřední osoba rozhodovala v opravném stupni. 
 3. **Držitel veřejné listiny** v řízení o zrušení platnosti.
 
 Smyslem této restrikce je **ochrana neveřejnosti řízení** (§ 89 odst. 4) a soukromí prověřovaného. Tato úprava je významným odklonem od správního řádu a má ústavněprávní opodstatnění (čl. 36 LZPS — právo na spravedlivý proces se vztahuje primárně na prověřovaného, nikoli na zaměstnavatele nebo třetí osoby).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel (orgán státu) podá za svého zaměstnance pana H. žádost o osvědčení FO. V průběhu řízení NBÚ zjistí u pana H. bezpečnostní riziko a hodlá žádost zamítnout. Zaměstnavatel se domáhá postavení účastníka řízení, chce nahlížet do svazku a podat rozklad, neboť tvrdí, že má na výsledku „zájem". Bylo by třeba doložit: kdo žádost podal a pro koho, předmět řízení, projev zájmu zaměstnavatele.
+
+**2. Právní otázka.** Je zaměstnavatel, který podal žádost o osvědčení FO za svého zaměstnance, účastníkem bezpečnostního řízení podle § 92, nebo je okruh účastníků uzavřený a omezený jen na prověřovanou fyzickou osobu (a vyjmenované subjekty)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 — taxativní okruh účastníků: fyzická osoba žádající o osvědčení/doklad (a osoba prověřovaná pro orgán EU/mez. organizaci) (písm. a)), podnikatel (písm. b)), držitel veřejné listiny v řízení o zrušení (písm. c)).
+- *Související ustanovení téhož zákona:* § 93 odst. 1 písm. c) (osoba prověřovaná na žádost orgánu EU), § 89 odst. 4 (neveřejnost), § 89c (nahlížení), § 125 a násl. (rozklad), § 93 odst. 3 (uvědomění odpovědné osoby — není účastenstvím).
+- *Související předpisy:* § 27 SŘ (širší pojetí účastníků a „dotčených osob" — zde vyloučeno); čl. 36 LZPS (spravedlivý proces prověřovaného).
+- *Judikatura:* k uzavřenému okruhu účastníků zvláštních řízení soudy dovozují, že rozšiřování okruhu nad zákonné vymezení je nepřípustné; nosný závěr: zájem zaměstnavatele na výsledku nezakládá účastenství.
+
+**4. Subsumpce.** Účastníkem v řízení o žádosti o osvědčení FO je podle § 92 písm. a) prověřovaná fyzická osoba (pan H.), nikoli zaměstnavatel. Okruh účastníků je uzavřený a vyčerpávající — neexistují vedlejší účastníci ani „dotčené osoby" jako podle § 27 SŘ. Zaměstnavatel (odpovědná osoba) je pouze uvědomován (§ 93 odst. 3), což není účastenství.
+
+**5. Řešení.** NBÚ nepřizná zaměstnavateli postavení účastníka; jeho zájem na výsledku účastenství nezakládá. Zaměstnavatel proto nemůže nahlížet do svazku ani podat rozklad — to přísluší jen panu H. Praktický krok: práva v řízení (nahlížení, rozklad, žaloba) uplatňuje sám prověřovaný; zaměstnavatel může působit jen mimo řízení (např. doložením zdůvodnění přístupu dle § 94 odst. 2 písm. f)).
+
+**6. Varianty.** (a) V řízení o žádosti podnikatele (§ 96) je účastníkem podnikatel sám (písm. b)) — tam je „zaměstnavatel" účastníkem z titulu vlastní žádosti. (b) V řízení o zrušení platnosti veřejné listiny je účastníkem její držitel (písm. c)), nikoli ten, pro koho činnost vykonává.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Zaměstnavatel má zájem na výsledku, a je proto dotčenou osobou/účastníkem."* Neobstojí — § 92 nezná kategorii dotčené osoby (na rozdíl od § 27 SŘ); okruh je taxativní.
+- *Protiargument 2: „Uvědomění odpovědné osoby (§ 93 odst. 3) zakládá účastenství."* Neobstojí — jde pouze o informační povinnost Úřadu, nikoli o přiznání procesních práv účastníka.
+- *Slabé místo:* úzké pojetí účastníka může znevýhodnit zaměstnavatele, jenž nese důsledky zamítnutí; to je však vyváženo ochranou neveřejnosti a soukromí prověřovaného (čl. 36 LZPS).
+
+#### H. Praktický závěr
+
+§ 92 vymezuje účastníky bezpečnostního řízení taxativně: prověřovanou fyzickou osobu, podnikatele a držitele veřejné listiny v řízení o zrušení. Vedlejší účastníci ani dotčené osoby zde neexistují; zaměstnavatel není účastníkem, byť je o řízení uvědomován.
+
+**Checklist (advokát / účastník / NBÚ):**
+- [ ] Jde o žádost FO (§ 94/99) — účastníkem je prověřovaná osoba (písm. a))?
+- [ ] Jde o žádost podnikatele (§ 96) — účastníkem je podnikatel (písm. b))?
+- [ ] Jde o zrušení platnosti — účastníkem je držitel listiny (písm. c))?
+- [ ] Nedomáhá se účastenství subjekt mimo taxativní okruh (zaměstnavatel, třetí osoba)?
+
+**Typicky rozhodné důkazy / podklady:** podaná žádost s vyznačením, kdo a pro koho ji podává, vymezení předmětu řízení, doklad o uvědomění odpovědné osoby (§ 93 odst. 3).
 
 ---
 
@@ -620,6 +1161,42 @@ Smyslem této restrikce je **ochrana neveřejnosti řízení** (§ 89 odst. 4) a
 § 92b ukládá procesní způsobilost v rozsahu hmotné svéprávnosti — opatrovník je nutný v rozsahu, v jakém je svéprávnost omezena. § 92d podrobně upravuje ustanovení opatrovníka, s **respektováním vůle účastníka** projevené v předběžném prohlášení (§ 38 a násl. OZ) — moderní úprava odrážející novelu OZ účinnou od r. 2014.
 
 > **Praktický význam pro podnikatele:** § 92a stanoví, že úkony za podnikatele činí **odpovědná osoba** (§ 2 písm. e) ZOUI). U právnických osob to je statutární orgán nebo jeho člen, u fyzických osob – podnikatelů pak fyzická osoba sama. Tato úprava odráží § 161 a 164 OZ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pana I., který je v důsledku duševní poruchy omezen ve svéprávnosti, má být prověřen pro výkon citlivé činnosti. Současně podnikatel-akciová společnost zmocní k zastupování v řízení o osvědčení podnikatele advokáta. Advokát chce za podnikatele absolvovat i bezpečnostní pohovor a zmocnit substituta bez výslovného zmocnění. Pan I. nemá zákonného zástupce. Bylo by třeba doložit: rozhodnutí o omezení svéprávnosti pana I., plnou moc advokáta, případné předběžné prohlášení pana I.
+
+**2. Právní otázka.** (a) Kdo zastupuje pana I. omezeného ve svéprávnosti a jak se zohlední jeho vůle; (b) smí advokát podnikatele absolvovat za něj osobní úkon (pohovor) a zmocnit substituta bez výslovného dovolení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92a–92f — zastoupení účastníka: úkony za podnikatele činí odpovědná osoba (§ 92a); procesní způsobilost v rozsahu svéprávnosti (§ 92b); tři typy zástupců (§ 92c); opatrovník s respektem k vůli účastníka (§ 92d); jeden zmocněnec, zákaz zastoupení u osobních úkonů, substituce jen s dovolením (§ 92e).
+- *Související ustanovení téhož zákona:* § 105 (pohovor — osobní úkon), § 95, § 97 (dotazník), § 89 odst. 3 (nediskriminace), § 92d odst. 2 (ustanovení opatrovníka).
+- *Související předpisy:* § 30, § 38 a násl. (předběžné prohlášení), § 57, § 161, § 164, § 471, § 858 zákona č. 89/2012 Sb., občanského zákoníku.
+- *Judikatura:* k zastoupení u osobních úkonů soudy zdůrazňují nezastupitelnost projevu, který musí učinit účastník osobně; nosný závěr: u pohovoru nelze účastníka nahradit zmocněncem.
+
+**4. Subsumpce.** Pan I. má procesní způsobilost jen v rozsahu své svéprávnosti (§ 92b); v rozsahu omezení je nutný opatrovník (§ 92d), přičemž se respektuje jeho vůle (předběžné prohlášení dle § 38 OZ). Advokát podnikatele je zmocněncem (§ 92c, 92e), ale u pohovoru (§ 105) jde o osobní úkon, který musí učinit účastník (resp. odpovědná osoba podnikatele) sám — zastoupení je vyloučeno. Substituce vyžaduje výslovné dovolení v plné moci (§ 92e odst. 3).
+
+**5. Řešení.** Panu I. NBÚ ustanoví opatrovníka v rozsahu omezení svéprávnosti a zohlední jeho vyjádřenou vůli. Advokát nemůže za podnikatele absolvovat bezpečnostní pohovor (osobní úkon) a nesmí zmocnit substituta bez výslovného dovolení. Praktický krok: ověřit rozsah svéprávnosti a existenci předběžného prohlášení; do plné moci zahrnout výslovné dovolení substituce, je-li žádoucí.
+
+**6. Varianty.** (a) Pokud by pan I. byl plně svéprávný, opatrovník by nebyl nutný a jednal by sám. (b) Pokud by plná moc výslovně dovolovala substituci, mohl by advokát zmocnit dalšího zástupce (vyjma osobních úkonů).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Zmocněnec může absolvovat pohovor za účastníka."* Neobstojí — § 92e vylučuje zastoupení u osobních úkonů (pohovor dle § 105, dotazník dle § 95/97).
+- *Protiargument 2: „Substituce je možná i bez výslovného dovolení."* Neobstojí — § 92e odst. 3 vyžaduje výslovné dovolení substituce v plné moci.
+- *Slabé místo:* zjištění aktuálního rozsahu svéprávnosti a respektování vůle podle předběžného prohlášení (§ 38 OZ) klade na Úřad zvýšené nároky; jejich opomenutí může vést k vadě řízení (§ 89 odst. 3).
+
+#### H. Praktický závěr
+
+§ 92a–92f upravují zastoupení: za podnikatele jedná odpovědná osoba, procesní způsobilost odpovídá svéprávnosti, k dispozici jsou tři typy zástupců (zákonný, opatrovník, zmocněnec). Účastník může mít jen jednoho zmocněnce; u osobních úkonů (pohovor, dotazník) je zastoupení vyloučeno a substituce vyžaduje výslovné dovolení.
+
+**Checklist (advokát / účastník / NBÚ):**
+- [ ] Odpovídá procesní způsobilost rozsahu svéprávnosti (§ 92b)? Je třeba opatrovník (§ 92d)?
+- [ ] Byla respektována vůle účastníka (předběžné prohlášení, § 38 OZ)?
+- [ ] Má účastník jen jednoho zmocněnce a obsahuje plná moc dovolení substituce (§ 92e)?
+- [ ] Činí osobní úkony (pohovor, dotazník) účastník sám, nikoli zástupce?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o svéprávnosti, listina o ustanovení opatrovníka, plná moc (vč. dovolení substituce), předběžné prohlášení účastníka.
 
 ---
 
@@ -665,6 +1242,42 @@ Tato úprava odráží spolupráci ČR v rámci NATO a EU. Žádost orgánu EU (
 #### Zpětvzetí žádosti
 
 Účastník může žádost vzít zpět (odst. 4), **s výjimkou** období od vydání rozhodnutí Úřadu do zahájení řízení o rozkladu a po vydání rozhodnutí o rozkladu. Toto časové omezení zabraňuje **manipulaci s opravným prostředkem** — účastník si nemůže „vybírat", v jaké fázi řízení odpadne tak, aby vyhověl jeho zájmu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel (s. r. o.) doručí NBÚ žádost o vydání osvědčení podnikatele dne 10. března, ale správní poplatek zaplatí až 25. března. Současně fyzická osoba pan J. doručí žádost o osvědčení FO dne 10. března. Po vydání nepříznivého rozhodnutí (zamítnutí) chce pan J. vzít žádost zpět, aby zabránil negativním důsledkům. Bylo by třeba doložit: data doručení žádostí, doklad o zaplacení poplatku, fázi řízení v okamžiku zpětvzetí.
+
+**2. Právní otázka.** Kdy je zahájeno řízení o žádosti podnikatele podle § 96 (doručení žádosti nebo zaplacení poplatku?) a může pan J. vzít žádost o osvědčení FO zpět po vydání zamítavého rozhodnutí Úřadu (§ 93 odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 — čtyři způsoby zahájení řízení (žádost FO/doklad bez poplatku (a)), žádost podnikatele + poplatek (b)), žádost orgánu EU/mez. organizace (c)), oznámení o zahájení řízení o zrušení (d)); zpětvzetí žádosti s časovým omezením (odst. 4).
+- *Související ustanovení téhož zákona:* § 94, § 96, § 99 (žádosti), § 101 (zrušení), § 121 a násl. (rozhodnutí), § 125 a násl. (rozklad), § 93 odst. 3 (uvědomění odpovědné osoby).
+- *Související předpisy:* zákon č. 634/2004 Sb., o správních poplatcích (poplatek za osvědčení podnikatele); spolupráce s NATO/EU (§ 137, § 138).
+- *Judikatura:* k zahájení řízení vázanému na poplatek soudy dovozují, že účinky zahájení nastávají až splněním obou podmínek (doručení + poplatek); nosný závěr: zpětvzetí návrhu nelze zneužít k manipulaci s opravným prostředkem.
+
+**4. Subsumpce.** Řízení o žádosti podnikatele je podle § 93 odst. 1 písm. b) zahájeno až dnem, kdy je doručena žádost A zaplacen poplatek — tedy 25. března (nikoli 10. března). U pana J. platí, že žádost lze vzít zpět (odst. 4), avšak nikoli v době od vydání rozhodnutí Úřadu do zahájení řízení o rozkladu a po vydání rozhodnutí o rozkladu — po vydání zamítavého rozhodnutí je tedy zpětvzetí vyloučeno.
+
+**5. Řízení.** Řízení podnikatele počíná 25. března (relevantní pro běh lhůt dle § 117). Pan J. nemůže žádost po vydání zamítavého rozhodnutí vzít zpět; musí proti rozhodnutí podat rozklad (§ 125). Praktický krok: podnikatel hradí poplatek současně s podáním, aby neoddálil zahájení; účastník zvažuje zpětvzetí pouze před vydáním rozhodnutí.
+
+**6. Varianty.** (a) U žádosti FO (§ 94) nebo o doklad (§ 99) je řízení zahájeno již doručením, bez poplatku (písm. a)). (b) Jde-li o řízení o zrušení platnosti (písm. d)), je zahájeno doručením oznámení držiteli a Úřad uvědomí i odpovědnou osobu (odst. 3) — zde žádné zpětvzetí nepřichází v úvahu (řízení je *ex officio*).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Řízení podnikatele je zahájeno již doručením žádosti."* Neobstojí — § 93 odst. 1 písm. b) vyžaduje kumulativně doručení žádosti i zaplacení poplatku.
+- *Protiargument 2: „Žádost lze vzít zpět kdykoli."* Neobstojí — odst. 4 vylučuje zpětvzetí od vydání rozhodnutí do zahájení rozkladu a po rozhodnutí o rozkladu (zákaz manipulace).
+- *Slabé místo:* okamžik „zahájení řízení o rozkladu" může být v praxi nejasný; v tomto mezidobí je zpětvzetí vyloučeno, což je třeba účastníku jasně sdělit.
+
+#### H. Praktický závěr
+
+§ 93 stanoví čtyři způsoby zahájení řízení; u podnikatele je rozhodující doručení žádosti i zaplacení poplatku. Žádost lze vzít zpět, avšak nikoli v období od vydání rozhodnutí do zahájení rozkladu a po rozhodnutí o rozkladu. U řízení o zrušení platnosti se zahajuje *ex officio* a uvědomuje se i odpovědná osoba.
+
+**Checklist (advokát / účastník / NBÚ):**
+- [ ] Jde o žádost s poplatkem (§ 96) — je zaplacen (písm. b))?
+- [ ] Bylo potvrzeno přijetí žádosti na žádost účastníka (odst. 2)?
+- [ ] U zrušení platnosti: byla uvědoměna i odpovědná osoba (odst. 3)?
+- [ ] Není zpětvzetí podáno v zakázaném mezidobí (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o doručení žádosti, doklad o zaplacení správního poplatku, oznámení o zahájení řízení o zrušení, projev zpětvzetí s datem.
 
 ---
 
@@ -735,6 +1348,42 @@ Klíčovými přílohami jsou: dotazník v elektronické podobě (e-formulář N
 
 Tato úprava zajišťuje kontinuitu prověřeného statusu a koresponduje s lhůtami pro provedení řízení podle § 117 odst. 1.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan K. je držitelem osvědčení FO pro stupeň Tajné, jehož platnost uplyne 30. listopadu. Aby měl přístup k UI nepřetržitě, musí požádat o nové osvědčení včas. Žádost však podá až 1. října (necelé dva měsíce před koncem). Současně v žádosti neuvede zdůvodnění nutnosti přístupu potvrzené odpovědnou osobou a nepřiloží prohlášení o zproštění mlčenlivosti správce daně. Bylo by třeba doložit: datum platnosti dosavadního osvědčení, datum podání žádosti, kompletnost příloh.
+
+**2. Právní otázka.** Byla žádost pana K. o nové osvědčení FO pro stupeň Tajné podána včas (§ 94 odst. 3 — předstih 7 měsíců) a obsahuje všechny náležitosti a přílohy (odst. 1 a 2), zejména prohlášení o zproštění mlčenlivosti správce daně a zdůvodnění přístupu od odpovědné osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 — náležitosti žádosti FO (zdůvodnění nutnosti přístupu, souhlas, prohlášení o pravdivosti — odst. 1); šest typů příloh (odst. 2); lhůty pro renewal (odst. 3); trvání důvodu přístupu po celou dobu řízení (odst. 7).
+- *Související ustanovení téhož zákona:* § 95 (dotazník FO), § 113 odst. 1 písm. h) (nepravdivost), § 117 odst. 1 (lhůty řízení), § 69 odst. 1 písm. b) (místo/funkce), § 13 odst. 2 (cizinec).
+- *Související předpisy:* § 52 odst. 2 zákona č. 280/2009 Sb., daňového řádu (zproštění mlčenlivosti správce daně); čl. 6 a 9 nařízení (EU) 2016/679 (GDPR — souhlas); prováděcí vyhláška NBÚ (rozsah příloh).
+- *Judikatura:* NSS 8 Ad 6/2019 (citováno) — § 94 stanoví minimální tříměsíční lhůtu (Důvěrné) pro podání žádosti o nové osvědčení před uplynutím předchozího; nosný závěr: lhůta zajišťuje nepřerušený přístup k UI.
+
+**4. Subsumpce.** Pro stupeň Tajné je podle § 94 odst. 3 písm. b) předepsán předstih nejméně 7 měsíců před uplynutím platnosti (do 30. dubna). Žádost podaná 1. října je opožděná — nezaručuje nepřetržitý přístup. Chybějící prohlášení o zproštění mlčenlivosti správce daně (odst. 2 písm. e)) a zdůvodnění přístupu od odpovědné osoby (odst. 2 písm. f)) jsou vady žádosti, k jejichž odstranění bude pan K. vyzván (§ 102).
+
+**5. Řešení.** Opožděné podání nezpůsobuje neplatnost žádosti, ale ohrožuje kontinuitu přístupu — po 30. listopadu může nastat období bez platného osvědčení. Pan K. musí doplnit chybějící přílohy (prohlášení správce daně, zdůvodnění odpovědné osoby), jinak hrozí zastavení řízení. Praktický krok: žádost o renewal podávat se zákonným předstihem (7 měsíců u Tajné) a kompletní.
+
+**6. Varianty.** (a) Pro stupeň Důvěrné by postačoval předstih 3 měsíce, pro Přísně tajné by se vyžadovalo 10 měsíců (odst. 3). (b) Pokud by šlo o žádost orgánu EU/mezinárodní organizace o osvědčení státního občana ČR (§ 93 odst. 1 písm. c)), postupovalo by se podle odst. 2 až 5 obdobně (odst. 6).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Opožděná žádost o renewal je neplatná."* Neobstojí — opožděnost neplatnost nezpůsobuje, jen ohrožuje nepřetržitost přístupu; řízení proběhne.
+- *Protiargument 2: „Prohlášení o zproštění mlčenlivosti správce daně není povinnou přílohou."* Neobstojí — odst. 2 písm. e) je výslovně vyžaduje pro ověření daňových údajů.
+- *Slabé místo:* rozsah příloh a doložení správnosti údajů určuje prováděcí vyhláška; bez její znalosti nelze posoudit úplnost žádosti — riziko výzvy k odstranění vad (§ 102).
+
+#### H. Praktický závěr
+
+§ 94 vyžaduje, aby žádost FO obsahovala zdůvodnění nutnosti přístupu, souhlas s řízením a prohlášení o pravdivosti, spolu se šesti přílohami (vč. dotazníku, prohlášení o zproštění mlčenlivosti správce daně a zdůvodnění od odpovědné osoby). Žádost o renewal je nutno podat s předstihem 3/7/10 měsíců podle stupně utajení a důvod přístupu musí trvat po celé řízení.
+
+**Checklist (advokát / žadatel / odpovědná osoba / NBÚ):**
+- [ ] Obsahuje žádost zdůvodnění přístupu, souhlas a prohlášení o pravdivosti (odst. 1)?
+- [ ] Jsou přiloženy všechny přílohy dle odst. 2 (dotazník, prohlášení správce daně, zdůvodnění odpovědné osoby)?
+- [ ] Je u renewalu dodržen předstih dle stupně (3/7/10 měsíců, odst. 3)?
+- [ ] Trvá důvod přístupu po celou dobu řízení (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** žádost s datem doručení, dotazník FO, prohlášení o zproštění mlčenlivosti správce daně, zdůvodnění přístupu potvrzené odpovědnou osobou/bezpečnostním ředitelem, doklad o platnosti dosavadního osvědčení.
+
 ---
 
 ### § 95 — Dotazník fyzické osoby
@@ -758,6 +1407,42 @@ Dotazník je **klíčovým podkladem** prověřování. Obsahuje nejen identifik
 #### Ústavněprávní rozměr
 
 Rozsah dotazníku byl opakovaně předmětem ústavního přezkumu. ÚS opakovaně judikoval, že rozsah dotazu je legitimní, pokud je **proporcionální** k cíli (ochrana státního tajemství) — viz Pl. ÚS 11/04. Pro důvěru účastníka v zákonnost zpracování je důležitý institut **bezpečnostního svazku** (§ 124) a omezení nakládání s údaji.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní L. vyplňuje dotazník fyzické osoby k žádosti o osvědčení FO. V položce o kontaktech s cizinci (písm. j)) a o vazbách na cizí zpravodajské služby (písm. i)) některé skutečnosti vědomě zatají; v položce o užívání návykových látek (písm. k)) uvede nepravdivé údaje. NBÚ při šetření zjistí rozpor. Bylo by třeba obstarat: vyplněný dotazník, podklady z šetření (zprávy ZS, výpovědi svědků), srovnání tvrzení v dotazníku se zjištěným stavem.
+
+**2. Právní otázka.** Jaké důsledky má, pokud žadatelka v dotazníku fyzické osoby podle § 95 uvede nepravdivé nebo neúplné údaje v bezpečnostně významných položkách, a je rozsah dotazníku ústavně přípustný z hlediska práva na soukromí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95 — 19 položek dotazníku FO, vč. bezpečnostně významné anamnézy (vazby na cizí ZS (i)), kontakty s cizinci (j)), návykové látky a léčba (k)–m)), majetkové poměry (n)), údaje rodinných příslušníků (q)).
+- *Související ustanovení téhož zákona:* § 94 (žádost a dotazník jako příloha), § 14 (bezpečnostní rizika a rozhodné období), § 113 odst. 1 písm. h) (nepravdivost/neúplnost údajů), § 124 (bezpečnostní svazek), § 105 (pohovor).
+- *Související předpisy:* čl. 10 LZPS (ochrana soukromí); nařízení (EU) 2016/679 (GDPR); prováděcí vyhláška NBÚ (forma dotazníku).
+- *Judikatura:* Ústavní soud Pl. ÚS 11/04 (citováno) — rozsah dotazu je legitimní, je-li proporcionální k cíli (ochrana utajovaných informací); nosný závěr: invaze do soukromí je přípustná, sleduje-li legitimní bezpečnostní cíl a je přiměřená.
+
+**4. Subsumpce.** Položky i), j), k)–m) patří mezi bezpečnostně nejvýznamnější; vědomé zatajení vazeb na cizí ZS a nepravdivé údaje o návykových látkách naplňují skutkovou podstatu uvedení nepravdivých/neúplných údajů (§ 113 odst. 1 písm. h)). Rozsah dotazníku je ústavně přípustný (proporcionalita dle Pl. ÚS 11/04). Zjištěný rozpor je důvodem pro postup vedoucí k zastavení řízení, popř. k závěru o bezpečnostním riziku.
+
+**5. Řešení.** NBÚ konfrontuje rozpory zpravidla při pohovoru (§ 105); zjištění vědomé nepravdivosti v klíčových položkách vede k zastavení řízení podle § 113 odst. 1 písm. h), případně k závěru o existenci bezpečnostního rizika (§ 14). Údaje jsou chráněny v bezpečnostním svazku (§ 124). Praktický krok pro žadatele: vyplňovat dotazník pravdivě a úplně; zatajení je rizikovější než přiznání samotné okolnosti.
+
+**6. Varianty.** (a) Pokud by nepřesnost byla nevýznamná a neúmyslná (administrativní chyba), nešlo by zpravidla o důvod zastavení, ale o výzvu k doplnění. (b) U dotazníku k dokladu (§ 100) by se některé položky (zejm. q) — rodinní příslušníci) nevyplňovaly (užší předmět prověření).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Dotazník nepřípustně zasahuje do soukromí, a je proto protiústavní."* Neobstojí — ÚS (Pl. ÚS 11/04) potvrdil legitimitu a proporcionalitu rozsahu dotazu ve vztahu k ochraně UI.
+- *Protiargument 2: „Zatajení okolnosti je výhodnější než její přiznání."* Neobstojí — vědomá nepravdivost/neúplnost je samostatným důvodem zastavení (§ 113 odst. 1 písm. h)) a podkopává důvěryhodnost žadatele.
+- *Slabé místo:* hranice mezi vědomým zatajením a neúmyslnou nepřesností je skutkově sporná; rozhodný je úmysl a významnost položky, což vyžaduje pečlivé dokazování.
+
+#### H. Praktický závěr
+
+§ 95 zakotvuje rozsáhlý dotazník FO (19 položek) tvořící bezpečnostně významnou anamnézu žadatele. Jeho rozsah je ústavně přípustný (proporcionalita). Nepravdivé či neúplné údaje v rozhodných položkách jsou důvodem zastavení řízení (§ 113) a údaje jsou chráněny v bezpečnostním svazku.
+
+**Checklist (advokát / žadatel / NBÚ):**
+- [ ] Jsou vyplněny všechny rozhodné položky (zejm. i), j), k)–m), n), q))?
+- [ ] Jsou údaje pravdivé a úplné (riziko § 113 odst. 1 písm. h))?
+- [ ] Pokrývá dotazník rozhodné období (10 let / od 15 let dle § 14)?
+- [ ] Jsou citlivé údaje zpracovány v souladu s GDPR a chráněny ve svazku (§ 124)?
+
+**Typicky rozhodné důkazy / podklady:** vyplněný dotazník FO, zprávy zpravodajských služeb, protokol o pohovoru, podklady k ověření jednotlivých položek (návykové látky, majetek, kontakty).
 
 ---
 
@@ -794,6 +1479,42 @@ Musí být průběžně aktualizována — neaktualizace je přestupkem podle §
 
 Lhůty jsou o ~4 měsíce delší než u fyzické osoby — odpovídá to časové náročnosti šetření u podnikatele (§ 117 odst. 2).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost GAMA žádá o vydání osvědčení podnikatele pro stupeň Tajné, aby mohla plnit zakázku s přístupem k UI. V dotazníku podnikatele (§ 97) zatají akcionáře s podílem 15 %, který je napojen na zahraniční subjekt; bezpečnostní dokumentaci (§ 98) předloží neaktualizovanou, neodpovídající skutečnému systému ochrany UI. Bylo by třeba obstarat: výpis z obchodního rejstříku a evidence skutečných majitelů, účetní závěrky za 5 let, dotazník podnikatele, bezpečnostní dokumentaci a její srovnání se skutečným stavem.
+
+**2. Právní otázka.** Splňuje žádost podnikatele dokumentační požadavky § 96–98 (zejména úplnost údajů o akcionářích s podílem ≥ 10 % a aktuálnost bezpečnostní dokumentace), a jaké důsledky má zatajení vlastnické struktury a předložení neaktualizované dokumentace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96–98 — žádost podnikatele (zdůvodnění přístupu, stupeň a forma výskytu UI), dotazník podnikatele (18 položek vč. akcionářů ≥ 10 %, účetních závěrek za 5 let, smluv s přístupem k UI), bezpečnostní dokumentace (systém ochrany UI, analýza hrozeb).
+- *Související ustanovení téhož zákona:* § 16 (podmínky podnikatele), § 93 odst. 1 písm. b) (zahájení + poplatek), § 117 odst. 2 (lhůty), § 154 odst. 1 písm. b) (přestupek za neaktualizaci dokumentace), § 113 (zastavení řízení).
+- *Související předpisy:* zákon č. 37/2021 Sb., o evidenci skutečných majitelů; zákon č. 90/2012 Sb., o obchodních korporacích; zákon č. 634/2004 Sb., o správních poplatcích.
+- *Judikatura:* k prověřování vlastnické struktury podnikatele soudy akcentují nutnost zjištění skutečného majitele a kontrolního řetězce; nosný závěr: zatajení rozhodného vlastnického vztahu zpochybňuje bezpečnostní spolehlivost podnikatele.
+
+**4. Subsumpce.** Akcionář s podílem 15 % spadá pod povinně uváděné údaje (≥ 10 %) v dotazníku podnikatele (§ 97) — jeho zatajení je neúplností údajů. Neaktualizovaná bezpečnostní dokumentace (§ 98) neodpovídá zákonnému požadavku na popis skutečného systému ochrany UI; neaktualizace je navíc přestupkem podle § 154 odst. 1 písm. b). Žádost tedy nesplňuje dokumentační požadavky a je důvod k zastavení řízení (§ 113), popř. k závěru o riziku.
+
+**5. Řešení.** NBÚ vyzve k doplnění a aktualizaci; přetrvá-li zatajení vlastnické struktury, je to silný indikátor bezpečnostního rizika vedoucí k zamítnutí, případně k zastavení řízení. Neaktualizace dokumentace zakládá i přestupkovou odpovědnost (§ 154). Praktický krok: podnikatel doloží úplný kontrolní řetězec až po skutečného majitele a průběžně aktualizuje bezpečnostní dokumentaci.
+
+**6. Varianty.** (a) Pokud by podíl akcionáře byl pod 10 %, údaj by se v dotazníku povinně neuváděl. (b) Pro stupeň Důvěrné by platil kratší předstih renewalu (7 měsíců) než pro Tajné (9) či Přísně tajné (11) — § 96 odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Údaje o akcionářích jsou veřejné, podnikatel je nemusí uvádět v dotazníku."* Neobstojí — § 97 vyžaduje jejich uvedení (vlastnický a kontrolní řetězec); veřejná dostupnost povinnost neruší.
+- *Protiargument 2: „Bezpečnostní dokumentace je formalita."* Neobstojí — § 98 vyžaduje, aby věcně odpovídala systému ochrany UI; neaktualizace je přestupkem (§ 154 odst. 1 písm. b)).
+- *Slabé místo:* zjištění skutečného majitele přes složité řetězce může být náročné; nedostatečné prověření vlastnické struktury oslabuje závěr o spolehlivosti podnikatele.
+
+#### H. Praktický závěr
+
+Pro podnikatele platí náročnější dokumentační režim než pro FO: žádost (§ 96), dotazník podnikatele s 18 položkami (§ 97, vč. akcionářů ≥ 10 % a účetních závěrek za 5 let) a bezpečnostní dokumentace (§ 98) popisující skutečný systém ochrany UI, kterou je nutno průběžně aktualizovat. Lhůty pro renewal jsou delší než u FO (7/9/11 měsíců).
+
+**Checklist (advokát / podnikatel / NBÚ):**
+- [ ] Jsou v dotazníku uvedeni akcionáři s podílem ≥ 10 % a celý kontrolní řetězec (§ 97)?
+- [ ] Jsou doloženy účetní závěrky za 5 let a smlouvy s přístupem k UI?
+- [ ] Odpovídá bezpečnostní dokumentace skutečnému systému ochrany UI a je aktualizovaná (§ 98)?
+- [ ] Je u renewalu dodržen předstih dle stupně (7/9/11 měsíců, § 96 odst. 3) a zaplacen poplatek (§ 93)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku a evidence skutečných majitelů, dotazník podnikatele, účetní závěrky za 5 let, bezpečnostní dokumentace, doklad o zaplacení poplatku.
+
 ---
 
 ### § 99, § 100 — Žádost o doklad a dotazník
@@ -820,6 +1541,42 @@ Důvodem je užší předmět prověření bezpečnostní způsobilosti — nevy
 #### Lhůta pro renewal dokladu
 
 Podle § 99 odst. 3 musí žadatel požádat o nový doklad **nejméně 5 měsíců** před koncem platnosti dosavadního. Lhůta řízení je 75 dnů (§ 117 odst. 3) — pětiměsíční předstih tedy poskytuje dostatečnou rezervu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Technik bezpečnostní agentury vykonává obsluhu rentgenového zařízení na letišti (citlivá činnost podle nařízení vlády vydaného k § 80) a je držitelem dokladu o bezpečnostní způsobilosti pro stupeň „Vyhrazené". Platnost dokladu končí 1. 10. 2026. Zaměstnavatel jej včas neupozorní; technik podá novou žádost o doklad teprve 15. 7. 2026, tj. necelé 3 měsíce před koncem platnosti. Důkazy: stávající doklad s vyznačenou dobou platnosti, datum podání nové žádosti, vyplněný redukovaný dotazník podle § 100.
+
+**2. Právní otázka.** Zakládá nedodržení pětiměsíčního předstihu podle § 99 odst. 3 nějaký negativní následek pro žadatele, a hrozí přerušení výkonu citlivé činnosti mezi koncem staré a vydáním nové platnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 (náležitosti žádosti o doklad, pětiměsíční předstih) a § 100 (redukovaný dotazník odkazující na § 95 odst. 1 písm. a) až p), r), s)).
+- *Související ustanovení téhož zákona:* § 117 odst. 3 (lhůta řízení o dokladu 75 dnů); § 109 (redukovaný rozsah šetření u dokladu); § 95 (úplný dotazník FO, z něhož se přebírá podmnožina položek); § 87 odst. 1 písm. a) (odevzdání neplatného dokladu).
+- *Související předpisy:* nařízení vlády o citlivých činnostech (§ 80); zákon č. 110/2019 Sb. ve vztahu k osobním údajům v dotazníku.
+- *Judikatura:* obecný závěr správních soudů, že lhůta typu „požádej s předstihem" je lhůtou pořádkovou, jejíž zmeškání samo o sobě nezpůsobuje zánik práva, nestanoví-li zákon jinak.
+
+**4. Subsumpce.** Žádost obsahuje předepsané náležitosti (§ 99 odst. 2) a redukovaný dotazník (§ 100), takže formálně je bezvadná. Pětiměsíční předstih (§ 99 odst. 3) splněn není. Zákon však k jeho nedodržení neváže odepření vydání ani zastavení řízení — jde o doporučení chránící plynulou návaznost. Riziko spočívá pouze ve faktickém prodlení: 75denní lhůta řízení (§ 117 odst. 3) se počítá od zahájení a může přesáhnout 1. 10. 2026.
+
+**5. Řešení.** Úřad žádost projedná; doklad není vydán „automaticky", musí proběhnout řízení v rámci 75 dnů. Pokud nové řízení neskončí do konce platnosti dosavadního dokladu, technik nesmí ode dne zániku platnosti citlivou činnost vykonávat, dokud nezíská nový doklad — kontinuita oprávnění není zákonem překlenuta. Praktický krok: zaměstnavatel jej dočasně přeřadí na činnost, jež citlivou činnost nevyžaduje. Alternativní výklad, podle něhož by stará platnost trvala až do rozhodnutí o nové žádosti, nemá v zákoně oporu.
+
+**6. Varianty.** (a) Žádost podaná 5 měsíců předem — řízení proběhne s rezervou a kontinuita oprávnění je zajištěna. (b) Žadatel v dotazníku zatají dříve uložený zákaz činnosti — Úřad doklad nevydá pro nesplnění podmínek spolehlivosti (§ 84) a uplatní se postup podle § 121 odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „pětiměsíční lhůta je závazná podmínka přípustnosti žádosti": neobstojí — § 99 odst. 3 neformuluje následek zmeškání, a contrario k § 102/§ 113 nejde o důvod odstranění vad ani zastavení; jde o lhůtu pořádkovou.
+- Protiargument „doklad lze prodloužit jako za krizového stavu (§ 80a)": prodloužení ze zákona nastává jen za vyhlášeného krizového stavu, nikoli při běžném prodlení žadatele — mimo krizový stav je nepoužitelný.
+- Slabé místo: konkrétní obsah redukovaného dotazníku závisí na aktuálním znění § 95 a prováděcí vyhlášce; vždy je nutné ověřit platné číslování položek.
+
+#### H. Praktický závěr
+
+V praxi je § 99/§ 100 ustanovením o náležitostech žádosti o doklad a o redukovaném dotazníku; klíčové je hlídat pětiměsíční předstih, aby nevznikla mezera v oprávnění.
+
+**Checklist (advokát / žadatel / odpovědná osoba / Úřad):**
+- [ ] Zkontrolovat datum konce platnosti dosavadního dokladu a podat žádost nejméně 5 měsíců předem (§ 99 odst. 3).
+- [ ] Vyplnit redukovaný dotazník dle § 100 (položky § 95 odst. 1 písm. a–p, r, s) — bez údajů rodinných příslušníků.
+- [ ] Doložit zdůvodnění výkonu citlivé činnosti odpovědnou osobou a přílohy podle § 99 odst. 2.
+- [ ] Při hrozící mezeře zajistit dočasné přeřazení mimo citlivou činnost do vydání nového dokladu.
+
+**Typicky rozhodné důkazy / podklady:** stávající doklad s dobou platnosti, datum podání žádosti, vyplněný dotazník, zdůvodnění odpovědné osoby, případné přílohy (doklady cizince, fotografie).
 
 ---
 
@@ -852,6 +1609,42 @@ Důležitá procesní odchylka: řízení o zrušení **nelze přerušit ani zas
 
 Toto pravidlo zajišťuje, že **otázka zrušení platnosti musí být meritorně rozhodnuta** — bezpečnostní orgán nesmí ponechat věc v limbu. Tato úprava se výrazně liší od standardního správního řízení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Držitel osvědčení fyzické osoby pro stupeň „Tajné" je obviněn z trestného činu zpronevěry (§ 206 tr. zákoníku) v souvislosti se správou svěřených prostředků. Jeho zaměstnavatel jako odpovědná osoba tuto skutečnost oznámí Úřadu podle § 86. Úřad zahájí řízení o zrušení platnosti osvědčení. Účastník navrhuje řízení přerušit do skončení trestního řízení a posléze žádá o jeho zastavení, neboť dosud nebyl pravomocně odsouzen. Důkazy: usnesení o zahájení trestního stíhání, oznámení odpovědné osoby, výsledky šetření zpravodajské služby k majetkovým poměrům.
+
+**2. Právní otázka.** Může Úřad řízení o zrušení platnosti osvědčení přerušit (do skončení trestního řízení) nebo zastavit, dovolává-li se účastník presumpce neviny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 101 odst. 1 (zahájení při důvodné pochybnosti), odst. 2 (obligatorní zrušení, přestal-li držitel splňovat podmínky), odst. 3 (zákaz přerušení a zastavení s úzkou výjimkou).
+- *Související ustanovení téhož zákona:* § 12, § 16, § 81 (podmínky vydání jednotlivých listin); § 14 (bezpečnostní rizika); § 112, § 113 (jinak obecně přípustné přerušení a zastavení); § 110 (průběžné prověřování); § 86, § 67, § 138c (oznamovací povinnosti).
+- *Související předpisy:* trestní řád (presumpce neviny vs. samostatné správní posouzení rizika); SŘ subsidiárně (§ 134 ZOUI).
+- *Judikatura:* setrvalý závěr NSS, že bezpečnostní řízení je samostatné a pravděpodobnostní — Úřad nemusí vyčkat pravomocného odsouzení, postačí důvodná pochybnost o spolehlivosti či existence bezpečnostního rizika.
+
+**4. Subsumpce.** Trestní stíhání zakládá „důvodnou pochybnost" ve smyslu odst. 1, takže zahájení řízení je namístě. Odst. 3 výslovně vylučuje přerušení podle § 112 i zastavení podle § 113, s jedinou výjimkou písm. i) (smrt) a j) (odpadnutí důvodu/předmětu). Návrh účastníka na přerušení do skončení trestního řízení tak nelze vyhovět; věc musí být meritorně rozhodnuta.
+
+**5. Řešení.** Úřad řízení nepřeruší ani nezastaví a posoudí samostatně, zda dané jednání zakládá bezpečnostní riziko (§ 14) bez ohledu na výsledek trestního řízení. Shledá-li, že podmínky již nejsou splněny, platnost osvědčení obligatorně zruší (odst. 2 — „zruší", bez diskrece). Procesní krok: vydá rozhodnutí podle § 121 odst. 3, proti němuž je rozklad bez odkladného účinku (§ 126 odst. 4). Alternativa — neshledá-li riziko, řízení skončí potvrzením trvání platnosti.
+
+**6. Varianty.** (a) Účastník v průběhu řízení zemře — pak se uplatní výjimka odst. 3 ve spojení s § 113 odst. 1 písm. i) a řízení se zastaví. (b) Trestní stíhání je zastaveno a žádná jiná pochybnost nepřetrvává — odpadl důvod řízení (§ 113 odst. 1 písm. j)), což odst. 3 jako jediný „zastavovací" důvod připouští.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument presumpcí neviny: neutralizovatelný odkazem na samostatnost a pravděpodobnostní povahu bezpečnostního řízení — Úřad nezkoumá vinu, nýbrž bezpečnostní spolehlivost a riziko (§ 14), k čemuž nepotřebuje pravomocné odsouzení.
+- Protiargument „bez přerušení hrozí předčasné, nepodložené zrušení": riziko se neutralizuje řádným dokazováním (pohovor § 105, šetření § 107) a soudním přezkumem (§ 133); nemožnost přerušit nutí Úřad zjistit stav věci, nikoli rozhodnout nahodile.
+- Slabé místo: pojem „důvodná pochybnost" je neurčitý; rozhodnutí musí být přesvědčivě odůvodněno, aby obstálo v přezkumu (§ 122 odst. 3 — odkaz na utajené podklady).
+
+#### H. Praktický závěr
+
+§ 101 je nástrojem dynamické bezpečnostní reflexe: jakmile vznikne důvodná pochybnost, Úřad zahájí řízení, které musí — až na smrt a odpadnutí důvodu — vždy meritorně skončit; přestal-li držitel splňovat podmínky, zrušení je povinné.
+
+**Checklist (Úřad / odpovědná osoba / držitel / advokát):**
+- [ ] Identifikovat zdroj důvodné pochybnosti (trestní řízení, oznámení § 86/§ 67/§ 138c, výsledek šetření) a zahájit řízení podle odst. 1.
+- [ ] Ověřit, že nejde o nepřípustný návrh na přerušení/zastavení — připustit jen § 113 odst. 1 písm. i) a j) (odst. 3).
+- [ ] Posoudit trvání podmínek samostatně podle § 12/§ 16/§ 81 a § 14, nezávisle na trestním řízení.
+- [ ] Při ztrátě podmínek vydat obligatorní rozhodnutí o zrušení (§ 121 odst. 3) a poučit o rozkladu bez odkladného účinku.
+
+**Typicky rozhodné důkazy / podklady:** oznámení odpovědné osoby, usnesení o zahájení trestního stíhání, zprávy o výsledcích šetření zpravodajských služeb/policie, protokol o pohovoru, dosavadní bezpečnostní svazek.
+
 ---
 
 ### § 102 a § 103 — Odstranění nedostatků a součinnost účastníka
@@ -881,6 +1674,42 @@ Toto pravidlo zajišťuje, že **otázka zrušení platnosti musí být meritorn
 3. **Průběžně** oznamovat změny údajů.
 
 Důsledkem nesoučinnosti je možnost zastavení řízení (§ 113 odst. 1 písm. e) a h)) nebo zjištění negativní okolnosti (§ 84 odst. 2 písm. c) u dokladu).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel žádá o osvědčení podnikatele pro stupeň „Důvěrné" (§ 96). Žádost neobsahuje přílohu bezpečnostní dokumentace a v dotazníku chybí údaje o jednom z členů statutárního orgánu. Úřad nedostatky na místě neodstraní a písemně vyzve podnikatele, aby je doplnil ve 30denní lhůtě (§ 102). Současně si podle § 103 odst. 1 vyžádá upřesnění vlastnické struktury. Podnikatel reaguje až 40. den. V mezidobí se navíc změní osoba odpovědného zástupce, kterou podnikatel Úřadu neoznámí. Důkazy: výzva s doručenkou, datum doplnění, výpis z OR dokládající změnu.
+
+**2. Právní otázka.** Jaký je následek doplnění žádosti po marném uplynutí 30denní lhůty podle § 102 a porušení průběžné oznamovací povinnosti podle § 103 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 102 (pomoc Úřadu při odstranění formálních vad, 30denní lhůta, poučení o § 113 odst. 1 písm. c)); § 103 (výzva k upřesnění 14/30 dnů, povinnost součinnosti, průběžné hlášení změn).
+- *Související ustanovení téhož zákona:* § 94, § 96, § 99 (náležitosti žádostí); § 113 odst. 1 písm. c), e), h) (zastavení); § 112 odst. 1 písm. b) (přerušení po výzvě); § 84 odst. 2 písm. c) (negativní okolnost u dokladu); prováděcí předpis k § 103 odst. 3 (rozsah hlášení změn).
+- *Související předpisy:* § 4 odst. 2 SŘ (vstřícnost, poučovací povinnost) — § 102 je její projev.
+- *Judikatura:* obecný závěr, že u kvalifikovaných lhůt k odstranění vad žádosti vede marné uplynutí k zastavení řízení, byl-li účastník řádně poučen o následcích.
+
+**4. Subsumpce.** Žádost trpí formálními (chybějící příloha) i obsahovými (chybějící údaj) nedostatky → aktivuje se § 102. Lhůta 30 dnů je závazná; doplnění 40. den je opožděné. Protože výzva obsahovala poučení o § 113 odst. 1 písm. c), je naplněn důvod zastavení. Neoznámení změny odpovědné osoby porušuje § 103 odst. 3, byť konkrétní rozsah hlášení limituje prováděcí předpis.
+
+**5. Řízení/řešení.** Úřad mohl po výzvě řízení přerušit (§ 112 odst. 1 písm. b)) — pak by lhůty řízení neběžely. Při opožděném doplnění je oprávněn řízení zastavit pro neodstranění vad (§ 113 odst. 1 písm. c)); proti tomuto usnesení je rozklad přípustný (není v taxativním výčtu § 113 odst. 3), neboť jde o posouzení procesní soustavnosti. Pokud Úřad neshledá vady fatálními a podnikatel je v podstatě doplní, může řízení vést dál; opožděné hlášení změny odpovědné osoby pak řeší výzvou podle § 103 odst. 1.
+
+**6. Varianty.** (a) Podnikatel doplní ve lhůtě a změnu oznámí — řízení pokračuje bez následků. (b) Vady jsou neodstranitelné (chybí zákonný předpoklad, nikoli jen doklad) — výzva podle § 102 nemá smysl a řízení může být zastaveno z jiného důvodu.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „§ 102 ukládá Úřadu pomoci, takže nelze zastavit": neutralizace — pomoc se týká odstranitelných formálních vad; není-li reakce ve lhůtě i přes poučení, zastavení podle § 113 odst. 1 písm. c) je legitimní.
+- Protiargument proti zastavení pro opožděnost o jediný den: riziko tvrdosti se zmírňuje institutem prominutí zmeškání (§ 119 odst. 6) a možností přerušení místo zastavení.
+- Slabé místo: rozsah průběžné oznamovací povinnosti (§ 103 odst. 3) je delegován na prováděcí předpis; bez jeho znění nelze spolehlivě určit, které změny je nutné hlásit.
+
+#### H. Praktický závěr
+
+§ 102 a § 103 tvoří součinnostní osu řízení: Úřad vstřícně pomáhá odstranit formální vady, účastník je povinen reagovat na výzvy (14/30 dnů), poskytovat součinnost a průběžně hlásit změny; sankcí za selhání je přerušení, popř. zastavení řízení.
+
+**Checklist (advokát / žadatel / Úřad):**
+- [ ] Po obdržení výzvy podle § 102/§ 103 hlídat lhůtu (30, resp. 14/30 dnů) a doplnit vše požadované.
+- [ ] Ověřit, že výzva obsahuje poučení o následcích podle § 113 odst. 1 písm. c) — jinak nelze zastavit.
+- [ ] Průběžně Úřadu hlásit změny údajů (§ 103 odst. 3) v rozsahu prováděcího předpisu.
+- [ ] Zvážit přerušení řízení (§ 112 odst. 1 písm. b)) namísto zastavení, je-li doplnění reálné.
+
+**Typicky rozhodné důkazy / podklady:** výzva s doručenkou a poučením, datum doplnění, doplněné přílohy a dotazníky, výpis z obchodního rejstříku k prokázání změn, prováděcí vyhláška k rozsahu hlášení.
 
 ---
 
@@ -916,6 +1745,42 @@ Důsledkem nesoučinnosti je možnost zastavení řízení (§ 113 odst. 1 písm
 
 - Svědek má **nárok na náhradu prokázaných výdajů a ušlého výdělku** (odst. 5) — lhůta 5 dnů;
 - Lze požadovat **písemné vyjádření** namísto výpovědi (odst. 4) — typicky u svědků v zahraničí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení o vydání osvědčení FO pro stupeň „Tajné" vznikne pochybnost o tom, zda žadatel udržuje styky s osobou napojenou na cizí zpravodajskou službu. Úřad chce vyslechnout jako svědka bývalého kolegu žadatele, který o těchto stycích může vědět. Kolega je zároveň činný v jedné ze zpravodajských služeb, která ve věci provádí šetření podle § 107. Vedle toho chce Úřad vyslechnout manželku žadatele. Důkazy: předvolání svědků, protokoly o výslechu, návrh na náhradu výdajů.
+
+**2. Právní otázka.** Lze jako svědka vyslechnout příslušníka zpravodajské služby podílející se na řízení a může manželka žadatele odepřít výpověď?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 odst. 1 (povinnost svědčit, poučení, právo odepřít výpověď osoby blízké a při nebezpečí trestního stíhání), odst. 6 (zákaz výslechu příslušníka policie/zpravodajské služby podílejícího se na řízení), odst. 7 (svědectvím nelze nahrazovat úkony § 107–109), odst. 5 (náhrada výdajů, lhůta 5 dnů).
+- *Související ustanovení téhož zákona:* § 105 odst. 5 a 6 (protokol — použije se obdobně); § 107–§ 109 (úkony/šetření); § 115, § 116 (předvedení, pořádková pokuta); § 124 (zařazení protokolu do svazku).
+- *Související předpisy:* § 55 SŘ a § 100 odst. 1 tr. řádu (právo odepřít výpověď osoby blízké) — analogie; zákon o cestovních náhradách (§ 104 odst. 5).
+- *Judikatura:* ustálený závěr (srov. § 107), že zpravodajské služby poskytují pouze výsledky šetření, nikoli podklady — proto svědecký výslech jejich příslušníků nesmí tuto bariéru obejít.
+
+**4. Subsumpce.** Kolega jako příslušník zpravodajské služby podílející se na řízení spadá pod zákaz odst. 6 — nesmí být vyslechnut, neboť informace mají plynout výhradně cestou zprávy o výsledcích šetření (odst. 7, § 107 odst. 5). Manželka je osobou blízkou ve smyslu odst. 1 in fine — má právo výpověď odepřít, o čemž musí být poučena (odst. 2).
+
+**5. Řešení.** Úřad od výslechu příslušníka zpravodajské služby upustí a vyžádá si informace cestou § 107. Manželku předvolá, poučí o právu odepřít výpověď; využije-li ho, nelze ji k výpovědi nutit ani pokutovat (§ 116 dopadá jen na bezdůvodné odmítnutí). Z případné výpovědi svědka se vyhotoví protokol (odst. 3 ve spojení s § 105 odst. 5 a 6) a založí do svazku. Alternativně lze u svědka v zahraničí požadovat písemné vyjádření (odst. 4).
+
+**6. Varianty.** (a) Kolega již ve věci žádné šetření neprovádí a není příslušníkem podílejícím se na řízení — zákaz odst. 6 nedopadá a vyslechnut být může. (b) Svědek bez vztahu k účastníkovi bezdůvodně odmítne vypovídat — hrozí pořádková pokuta do 50 000 Kč (§ 116) a předvedení (§ 115).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „výpověď příslušníka služby je cennější než suchá zpráva o výsledcích": neutralizace — odst. 6 a 7 i judikatura k § 107 chrání operativní zdroje; obcházení výslechem by zpřístupnilo podklady, k nimž ani ředitel Úřadu nemá přezkumný přístup.
+- Protiargument „odepření výpovědi osoby blízké maří zjištění stavu": riziko se kompenzuje jinými důkazy (pohovor s účastníkem § 105, šetření § 107); právo odepřít výpověď je ústavně zakotvený standard.
+- Slabé místo: hranice „podílení se na řízení" u příslušníka služby může být sporná; je třeba doložit, zda a jak se na konkrétním řízení podílel.
+
+#### H. Praktický závěr
+
+§ 104 přejímá standardní úpravu svědka, přidává však bezpečnostní filtry: zákaz výslechu osob vázaných mlčenlivostí o UI a příslušníků služeb podílejících se na řízení, a zákaz nahrazovat svědectvím šetření podle § 107–109.
+
+**Checklist (Úřad / advokát / svědek):**
+- [ ] Před výslechem zjistit totožnost a poučit svědka o povinnosti vypovídat pravdivě, o právu odepřít výpověď a o následcích (§ 104 odst. 1 a 2).
+- [ ] Ověřit, že svědek není vyloučen (mlčenlivost o UI; příslušník policie/služby podílející se na řízení — odst. 6).
+- [ ] Nesnažit se svědectvím nahradit šetření podle § 107–109 (odst. 7).
+- [ ] Vyhotovit protokol (odst. 3, § 105 odst. 5 a 6) a poučit o 5denní lhůtě k uplatnění náhrady (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** předvolání s doručenkou, protokol o výslechu (podepsaný na každé straně), případné písemné vyjádření svědka, vyúčtování náhrad, zpráva o výsledcích šetření podle § 107.
 
 ---
 
@@ -958,6 +1823,42 @@ Pohovor je **klíčový dokazovací prostředek** bezpečnostního řízení, je
 
 > **Praktický rozměr:** Pohovor v praxi NBÚ trvá typicky několik hodin a pokrývá životopis, kontakty, finanční situaci, vztah k cizí moci, osobní postoje. Výpověď účastníka je porovnávána s podklady dotazníku a šetřením zpravodajských služeb. Diskrepance mohou vést ke zjištění bezpečnostního rizika podle § 14.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel usiluje o osvědčení FO pro stupeň „Přísně tajné". Úřad jej proto podle § 105 odst. 1 obligatorně předvolá k pohovoru. K pohovoru se žadatel dostaví se svým advokátem, který v jeho průběhu opakovaně vstupuje do odpovědí a doplňuje je. Úřad chce položit otázky k rozporu mezi dotazníkem a zprávou zpravodajské služby o stycích žadatele. Žadatel požádá o pořízení zvukového záznamu. Důkazy: předvolání s pětidenním předstihem, poučení podle odst. 4, protokol o pohovoru, zvukový záznam.
+
+**2. Právní otázka.** Smí advokát zasahovat do průběhu pohovoru a může účastník vynutit pořízení zvukového záznamu pohovoru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 105 odst. 1 (obligatorní pohovor u „Přísně tajné"), odst. 2 (pětidenní předstih předvolání), odst. 3 (osobní výpověď, zákaz zásahů zástupce), odst. 4 (předchozí poučení), odst. 6 (protokol, podpis na každé straně, záznam se souhlasem nebo na žádost), odst. 7 (zákaz sdělování UI), odst. 8 (náhrada písemným vyjádřením u dlouhodobě v zahraničí).
+- *Související ustanovení téhož zákona:* § 14 (bezpečnostní rizika hodnocená i z pohovoru); § 92a–92f (zastoupení); § 113 odst. 1 písm. d) (zastavení při opakovaném nedostavení); § 124 (záznam jako součást svazku); § 116 (následky nepravdivé výpovědi).
+- *Související předpisy:* SŘ subsidiárně (§ 134) — úprava výslechu účastníka je však speciální.
+- *Judikatura:* NSS 1 As 51/2018 — pohovor je důležitou součástí řízení; provádí se, vyskytnou-li se skutečnosti, jež je třeba objasnit, a u „přísně tajné" vždy; jeho cílem je potvrdit či vyvrátit informace o žadateli.
+
+**4. Subsumpce.** U stupně „Přísně tajné" je pohovor obligatorní (odst. 1). Podle odst. 3 je účastník povinen vypovídat osobně a advokát nesmí do průběhu zasahovat — zásahy advokáta jsou tedy nepřípustné. Pořízení zvukového záznamu je podle odst. 6 obligatorní, požádá-li o ně účastník; jeho žádosti musí Úřad vyhovět. Při pohovoru nesmějí být sdělovány UI (odst. 7), proto rozpor se zprávou služby lze tematizovat jen v neutajované rovině.
+
+**5. Řešení.** Úřad advokáta upozorní, že do pohovoru nesmí zasahovat (může být přítomen, ale pasivně); pořídí zvukový záznam, jak účastník požádal, a založí jej do svazku (§ 124). Otázky formuluje tak, aby nezpřístupnil utajené podklady. Z pohovoru vyhotoví protokol podepsaný na každé straně (odst. 6). Diskrepance mezi výpovědí a podklady může vést ke zjištění bezpečnostního rizika (§ 14). Alternativa u žadatele dlouhodobě v zahraničí — náhrada pohovoru písemným vyjádřením (odst. 8).
+
+**6. Varianty.** (a) Žádost o osvědčení pro „Důvěrné" bez jakýchkoli pochybností — pohovor není povinný a Úřad jej nemusí provést. (b) Účastník se opakovaně bez závažných důvodů nedostaví k pohovoru — řízení lze zastavit (§ 113 odst. 1 písm. d)).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „zákaz zásahů advokáta porušuje právo na právní pomoc": neutralizace — právo na zastoupení zůstává (advokát je přítomen, radí mimo protokolovaný úkon), omezení míří jen na osobní povahu výpovědi, jejímž smyslem je posouzení osobnosti žadatele.
+- Protiargument „bez záznamu nelze ověřit férovost pohovoru": riziko se odstraňuje právě tím, že na žádost účastníka je záznam obligatorní (odst. 6) a protokol podepisuje na každé straně.
+- Slabé místo: hranice mezi přípustným objasňováním a nepřípustným sdělením UI (odst. 7) je v praxi citlivá; nevhodně položená otázka může zatížit řízení vadou.
+
+#### H. Praktický závěr
+
+Pohovor je klíčovým osobním důkazním prostředkem bezpečnostního řízení: u „Přísně tajné" povinný, vždy osobní (bez zásahů zástupce), se zákazem sdělování UI a s právem účastníka na obligatorní záznam; slouží k posouzení osobnosti a ověření údajů.
+
+**Checklist (Úřad / advokát / účastník):**
+- [ ] Předvolat písemně nejméně 5 dnů předem a předem poučit o významu, způsobu a následcích (odst. 2 a 4).
+- [ ] U stupně „Přísně tajné" provést pohovor vždy (odst. 1).
+- [ ] Zajistit osobní výpověď účastníka; advokát nesmí do průběhu zasahovat (odst. 3).
+- [ ] Na žádost účastníka pořídit zvukový/obrazový záznam a založit jej do svazku (odst. 6, § 124); nesdělovat UI (odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** předvolání s doručenkou, písemné poučení, protokol o pohovoru (podpis na každé straně), zvukový/obrazový záznam, dotazník a zprávy o výsledcích šetření pro porovnání.
+
 ---
 
 ### § 106 — Znalec
@@ -979,6 +1880,42 @@ Standardní úprava znaleckého dokazování podle zákona č. 254/2019 Sb., o z
 - **Lingvistický nebo grafologický posudek** v ojedinělých případech.
 
 **Náklady hradí Úřad** — zajištění rovnosti a možnosti účinného obhájení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při pohovoru (§ 105) vznikne podezření, že žadatel o osvědčení pro „Tajné" trpí závislostí na hazardních hrách, což by mohlo zakládat bezpečnostní riziko ovlivnitelnosti (§ 14 odst. 4). Úřad zvažuje, zda si k posouzení osobnostních charakteristik a míry závislosti opatří znalecký posudek z oboru psychologie/psychiatrie. Žadatel namítá, že náklady posudku by měl nést sám a že proti ustanovení znalce hodlá podat rozklad. Důkazy: protokol o pohovoru, výsledky šetření o majetkových poměrech, návrh usnesení o ustanovení znalce.
+
+**2. Právní otázka.** Kdo hradí náklady znaleckého posudku v bezpečnostním řízení a lze proti usnesení o ustanovení znalce podat rozklad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 106 odst. 1 (ustanovení znalce při potřebě odborného posouzení), odst. 2 (náklady hradí Úřad), odst. 3 (usnesení se doručí znalci, účastník se vhodně informuje, rozklad není přípustný).
+- *Související ustanovení téhož zákona:* § 14 odst. 4 písm. c) a § 84 odst. 3 písm. c) (osobnostní charakteristiky/závislost jako riziko); § 14 odst. 3 písm. b), § 84 odst. 2 písm. b) (majetkové poměry); § 105 (pohovor jako zdroj pochybnosti); § 124 (posudek do svazku).
+- *Související předpisy:* zákon č. 254/2019 Sb., o znalcích, znaleckých kancelářích a znaleckých ústavech (procesní rámec znaleckého dokazování).
+- *Judikatura:* obecný požadavek, že znalecký posudek slouží k posouzení odborných otázek, nikoli otázek právních; právní hodnocení rizika náleží Úřadu.
+
+**4. Subsumpce.** Posouzení míry závislosti a osobnostních rysů je odbornou (psychologickou/psychiatrickou) otázkou důležitou pro rozhodnutí → naplněn předpoklad odst. 1. Náklady podle odst. 2 nese Úřad, nikoli žadatel — to zaručuje rovnost a možnost účinné obhajoby. Proti usnesení o ustanovení znalce není podle odst. 3 rozklad přípustný; námitky lze uplatnit až v rozkladu proti meritornímu rozhodnutí.
+
+**5. Řešení.** Úřad ustanoví znalce usnesením, jež doručí znalci a o němž vhodným způsobem informuje účastníka; náklady uhradí ze svého rozpočtu (odst. 2). Rozklad žadatele proti ustanovení znalce by byl nepřípustný (odst. 3). Posudek se stane podkladem hodnocení rizika podle § 14; samotný právní závěr o existenci rizika učiní Úřad, nikoli znalec. Posudek se založí do bezpečnostního svazku (§ 124). Alternativa — postačují-li jiné důkazy, Úřad znalce neustanoví.
+
+**6. Varianty.** (a) Otázka je čistě právní (např. výklad podmínek § 14) — znalecký posudek je nepřípustný, neboť právní hodnocení nelze delegovat na znalce. (b) Účastník si sám předloží posudek — Úřad jej hodnotí jako listinný důkaz, není však „znalcem ustanoveným" ve smyslu § 106.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „náklady má nést žadatel, neboť posudek je v jeho zájmu": neutralizace — odst. 2 jednoznačně ukládá náklady Úřadu; opačný výklad by znevýhodnil nemajetné žadatele a narušil rovnost zbraní.
+- Protiargument „vyloučení rozkladu proti ustanovení znalce krátí obranu": riziko se kompenzuje tím, že námitky proti posudku i osobě znalce lze plně uplatnit v rozkladu proti konečnému rozhodnutí a v soudním přezkumu (§ 133).
+- Slabé místo: hrozí, že posudek odpoví i na právní otázku (existence rizika); Úřad musí převzít jen skutkové/odborné závěry a právní hodnocení provést sám.
+
+#### H. Praktický závěr
+
+§ 106 přejímá standardní znalecké dokazování (zák. č. 254/2019 Sb.) s dvěma specifiky: náklady vždy hradí Úřad a proti usnesení o ustanovení znalce není rozklad přípustný. Typicky jde o psychologické/psychiatrické a ekonomické posudky k rizikům podle § 14 a § 84.
+
+**Checklist (Úřad / advokát / žadatel):**
+- [ ] Identifikovat odbornou (nikoli právní) otázku vyžadující posudek (osobnost, závislost, majetkové poměry).
+- [ ] Ustanovit znalce usnesením, doručit znalci a vhodně informovat účastníka (odst. 3); náklady hradí Úřad (odst. 2).
+- [ ] Nepřipustit rozklad proti usnesení o ustanovení znalce; námitky směřovat do rozkladu proti meritu.
+- [ ] Z posudku převzít odborné závěry, právní hodnocení rizika provést samostatně; posudek založit do svazku (§ 124).
+
+**Typicky rozhodné důkazy / podklady:** usnesení o ustanovení znalce, znalecký posudek, podklady předané znalci (protokol o pohovoru, výsledky šetření), doklad o úhradě nákladů Úřadem.
 
 ---
 
@@ -1028,6 +1965,42 @@ Pokud informace nepostačují, Úřad **vyžádá písemný souhlas** účastní
 
 Úřad může pro účely získání informace **poskytnout** orgánu státu, PO nebo podnikající FO **potřebné osobní údaje** vztahující se k vyžádané informaci. Toto je významná legalita zpracování osobních údajů ve smyslu čl. 6 odst. 1 písm. e) GDPR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o osvědčení FO pro stupeň „Důvěrné" je prověřován pouze úkony podle § 107 odst. 1 (dotaz u zaměstnavatele a orgánů státu). Informace však nepostačují k objasnění jeho zahraničních styků. Úřad chce přejít na rozšířené šetření zpravodajské služby k žadateli a osobám s ním žijícím v domácnosti (úroveň odpovídající stupni „Tajné"). Žadatel váhá, zda udělit písemný souhlas. Důkazy: spis s nedostatečnými informacemi, žádost Úřadu o šetření s vymezením okolností, písemný souhlas/nesouhlas žadatele.
+
+**2. Právní otázka.** Může Úřad provést šetření vyššího stupně bez souhlasu účastníka, a jaký je následek odepření souhlasu podle § 107 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 107 odst. 1–3 (stupňovaný rozsah úkonů: Důvěrné → Tajné → Přísně tajné), odst. 4 (přechod na vyšší šetření jen s písemným souhlasem a po poučení), odst. 5 (zpravodajské služby/policie poskytují jen výsledky šetření); § 108 (úkony u podnikatele, vstup do objektů); § 109 (redukované šetření u dokladu); § 111 (poskytnutí osobních údajů informačnímu zdroji).
+- *Související ustanovení téhož zákona:* § 113 odst. 1 písm. e) (zastavení při neudělení souhlasu); § 117 odst. 4, 5, 7 (lhůty šetření a navázání lhůty na stupeň, k němuž byl dán souhlas); § 124 (zařazení zpráv do svazku); § 14 (hodnocení rizik).
+- *Související předpisy:* čl. 6 odst. 1 písm. e) GDPR (právní základ zpracování při § 111); zákony o zpravodajských službách.
+- *Judikatura:* NSS 5 A 37/2010 — zpravodajské služby poskytují podle § 107 pouze výsledky šetření, nikoli celé spisy; Úřad nemá mechanismus přezkumu jejich činnosti, poznatky pouze shromažďuje a v souhrnu vyhodnocuje z hlediska rizik.
+
+**4. Subsumpce.** Stupeň „Důvěrné" připouští jen úkony odst. 1; šetření zpravodajské služby k osobám v domácnosti je úkonem úrovně „Tajné" (odst. 2). Přechod na něj je podle odst. 4 podmíněn písemným souhlasem účastníka a předchozím poučením o následcích. Bez souhlasu Úřad rozšířené šetření provést nesmí; nesouhlas naplňuje důvod zastavení podle § 113 odst. 1 písm. e).
+
+**5. Řešení.** Úřad žadatele písemně vyzve k souhlasu a poučí jej, že bez něj nelze stav věci objasnit a řízení bude zastaveno (§ 113 odst. 1 písm. e)). Udělí-li souhlas, vztáhnou se na řízení lhůty stupně, k němuž byl dán (§ 117 odst. 7), a Úřad ve své žádosti vymezí okolnosti šetření (odst. 4 in fine). Služby vrátí jen výsledky šetření (odst. 5), které Úřad zahrne do svazku a vyhodnotí z hlediska § 14. Neudělí-li souhlas, Úřad řízení zastaví.
+
+**6. Varianty.** (a) Šlo by o žádost podnikatele (§ 108) — Úřad by mohl vstupovat do objektů podnikatele (§ 108 odst. 4), což je invazivnější pravomoc. (b) Šlo by o doklad (§ 109) — rozsah šetření je redukovaný a další úkony § 107 jen se souhlasem účastníka.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „Úřad by měl mít výsledky šetření i s podklady, aby je mohl přezkoumat": neutralizace — podle § 107 odst. 5 a judikatury NSS 5 A 37/2010 služby poskytují jen výsledky; ochrana zdrojů převažuje a soudní přezkum se děje na úrovni hodnocení rizik, nikoli přezkumu činnosti služeb.
+- Protiargument „podmínka souhlasu je formální, vždy se vynutí pod hrozbou zastavení": riziko nátlaku se zmírňuje poučovací povinností a tím, že důsledkem je „pouze" zastavení (nevydání), nikoli sankce; žadatel disponuje svým řízením.
+- Slabé místo: § 111 dovoluje poskytnout osobní údaje informačnímu zdroji — je nutné dbát zásady minimalizace podle GDPR a poskytnout jen údaje nezbytné k vyžádané informaci.
+
+#### H. Praktický závěr
+
+§ 107–§ 111 tvoří jádro dokazování: rozsah šetření se stupňuje podle stupně utajení, přechod na vyšší úroveň vyžaduje písemný souhlas účastníka (jinak zastavení), zpravodajské služby a policie poskytují jen výsledky šetření a Úřad smí informačnímu zdroji předat nezbytné osobní údaje.
+
+**Checklist (Úřad / advokát / účastník):**
+- [ ] Určit stupeň utajení a jemu odpovídající rozsah úkonů (§ 107 odst. 1–3).
+- [ ] Před přechodem na vyšší šetření vyžádat písemný souhlas a poučit o následcích neudělení (odst. 4; § 113 odst. 1 písm. e)).
+- [ ] V žádosti službě/policii přesně vymezit okolnosti šetření (odst. 4 in fine); očekávat jen výsledky, nikoli podklady (odst. 5).
+- [ ] Při poskytnutí údajů informačnímu zdroji (§ 111) předat jen nezbytné osobní údaje (GDPR).
+
+**Typicky rozhodné důkazy / podklady:** žádost o šetření s vymezením okolností, písemný souhlas účastníka, zprávy o výsledcích šetření zpravodajských služeb/policie, dotaz a odpovědi orgánů státu/zaměstnavatele, případný protokol o vstupu do objektu podnikatele (§ 108).
+
 ---
 
 ### § 110 — Průběžné prověřování
@@ -1050,6 +2023,42 @@ Pokud informace nepostačují, Úřad **vyžádá písemný souhlas** účastní
 § 110 zakotvuje princip **dynamického prověřování**: i po vydání osvědčení Úřad pokračuje v monitorování splnění podmínek. Tato úprava plně koresponduje s § 81 odst. 3, § 12 odst. 3 a § 16 odst. 3, jež vyžadují **trvalé splnění podmínek**.
 
 Konkretizací průběžného prověřování je oznamovací povinnost odpovědných osob (§ 67, § 86, § 138c) a tok informací mezi NBÚ a zpravodajskými službami (§ 138 odst. 3 — měsíční seznamy).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Držitel osvědčení FO pro stupeň „Tajné" platného do roku 2029 si tři roky po vydání osvědčení vezme úvěr přesahující jeho příjmy a dostane se do exekuce. Zpravodajská služba na základě měsíčního seznamu (§ 138 odst. 3) upozorní Úřad na rapidní zhoršení majetkových poměrů. Úřad chce ověřit, zda držitel i nadále splňuje podmínky, a vyžaduje od něj součinnost (předložení přehledu závazků). Držitel odmítá s tím, že jeho osvědčení je platné a Úřad nemá důvod jej znovu prověřovat. Důkazy: oznámení služby, výpis z exekučního rejstříku, výzva k součinnosti.
+
+**2. Právní otázka.** Je Úřad oprávněn prověřovat držitele po dobu platnosti osvědčení a je držitel povinen poskytnout součinnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 110 odst. 1 (průběžné prověřování za pomoci úkonů řízení po dobu platnosti listiny), odst. 2 (povinnost součinnosti FO/podnikatele).
+- *Související ustanovení téhož zákona:* § 101 odst. 2 (obligatorní zrušení platnosti při ztrátě podmínek); § 81 odst. 3, § 12 odst. 3, § 16 odst. 3 (požadavek trvalého splnění podmínek); § 14 (rizika, vč. majetkových); § 67, § 86, § 138c (oznamovací povinnosti); § 138 odst. 3 (měsíční seznamy); § 107 (úkony užité při prověřování).
+- *Související předpisy:* zákony o zpravodajských službách (zdroj poznatků); GDPR (zpracování údajů).
+- *Judikatura:* NSS 15 A 23/2022 — Úřad je podle § 110 odst. 1 povinen po dobu platnosti osvědčení prověřovat, zda osoba podmínky splňuje, a podle § 101 odst. 2 platnost zruší, přestala-li je splňovat.
+
+**4. Subsumpce.** Skutečnost, že osvědčení je platné, nevylučuje prověřování — § 110 odst. 1 zakládá jeho zákonný podklad právě po dobu platnosti. Zhoršení majetkových poměrů je relevantní okolností (§ 14 odst. 3 písm. b)). Držitel je podle odst. 2 povinen poskytnout nezbytnou součinnost; jeho odmítnutí je porušením této povinnosti.
+
+**5. Řešení.** Úřad zahájí prověřování za pomoci úkonů řízení (§ 107) a vyzve držitele k součinnosti (§ 110 odst. 2 ve spojení s § 103 odst. 1). Trvá-li odmítání a nelze-li stav objasnit, Úřad zahájí řízení o zrušení platnosti (§ 101) a případně dovodí nesoučinnost; shledá-li ztrátu podmínek, platnost obligatorně zruší (§ 101 odst. 2). Procesní krok: rozhodnutí podle § 121 odst. 3, rozklad bez odkladného účinku. Alternativa — držitel doloží, že závazky řádně splácí a riziko ovlivnitelnosti není dáno; platnost trvá.
+
+**6. Varianty.** (a) Jde o osvědčení podnikatele a Úřad prověřuje před vydáním osvědčení pro cizí moc podle § 57 — § 110 odst. 1 to výslovně umožňuje. (b) Držitel sám aktivně oznámí změnu poměrů — projev plnění oznamovacích povinností, jež může vyznít v jeho prospěch při hodnocení spolehlivosti.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „platné osvědčení vytváří legitimní očekávání, že se prověřování neopakuje": neutralizace — § 81 odst. 3/§ 12 odst. 3 vyžadují trvalé splnění podmínek; legitimní očekávání se vztahuje jen k jejich nepřetržitému plnění, nikoli k imunitě vůči kontrole.
+- Protiargument „povinnost součinnosti je neurčitá": riziko se zmírňuje tím, že se postupuje obdobně podle § 103 odst. 1 (písemná výzva, lhůty); rozsah požadavku musí být nezbytný k ověření konkrétní pochybnosti.
+- Slabé místo: hranice mezi legitimním průběžným prověřováním a šikanózním opakováním kontrol; Úřad musí mít konkrétní indicii (oznámení, seznam služby), nikoli prověřovat bezdůvodně.
+
+#### H. Praktický závěr
+
+§ 110 zakotvuje dynamické prověřování po celou dobu platnosti listiny: Úřad smí kdykoli ověřit trvání podmínek za pomoci úkonů řízení a držitel je povinen poskytnout součinnost; ztráta podmínek vede přes § 101 ke zrušení platnosti.
+
+**Checklist (Úřad / držitel / odpovědná osoba):**
+- [ ] Reagovat na indicie (oznámení § 67/§ 86/§ 138c, měsíční seznamy § 138 odst. 3) zahájením prověřování podle § 110 odst. 1.
+- [ ] Vyzvat držitele k součinnosti obdobně podle § 103 odst. 1; vymezit, co a proč je nezbytné.
+- [ ] Při zjištění ztráty podmínek navázat řízením o zrušení platnosti (§ 101) a obligatorně zrušit (§ 101 odst. 2).
+- [ ] Držitel: poskytnout součinnost a aktivně hlásit změny, aby předešel zjištění nesoučinnosti.
+
+**Typicky rozhodné důkazy / podklady:** oznámení zpravodajské služby/odpovědné osoby, výpisy z exekučního/insolvenčního rejstříku, výzva k součinnosti s doručenkou, doklady o majetkových poměrech, zprávy o výsledcích úkonů podle § 107.
 
 ---
 
@@ -1097,6 +2106,42 @@ Konkretizací průběžného prověřování je oznamovací povinnost odpovědn�
 - **Lhůty řízení neběží** (odst. 6) — chrání Úřad před překročením prekluzivní lhůty z důvodů mimo jeho ovládání;
 - **Proti usnesení o přerušení není rozklad přípustný** (odst. 4) — procesní úspora;
 - Úřad pokračuje **jakmile pominou překážky** (odst. 5).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení o vydání osvědčení FO pro stupeň „Tajné" probíhá současně proti žadateli trestní řízení pro podezření z trestného činu, jehož posouzení je významné pro otázku spolehlivosti. Úřad zároveň ustanovil znalce k psychologickému posudku a vyzval žadatele k doplnění dotazníku. Žadatel mezitím požádá o přerušení řízení na 90 dnů z důvodu dlouhodobé hospitalizace. Lhůta řízení podle § 117 plyne a blíží se jejímu konci. Důkazy: usnesení o zahájení trestního stíhání, usnesení o ustanovení znalce, výzva k doplnění, žádost o přerušení s lékařskou zprávou.
+
+**2. Právní otázka.** Které z uvedených okolností zakládají důvod přerušení řízení podle § 112 a na jak dlouho lze řízení přerušit k žádosti účastníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 112 odst. 1 písm. a) (prejudiciální řízení), písm. b) (výzva k odstranění vad/doplnění, předvolání k pohovoru), písm. f) (ustanovení znalce), písm. e) (žádost účastníka, nejdéle 60 dnů, nejvýše dvakrát); odst. 4 (rozklad nepřípustný); odst. 6 (lhůty § 117 a § 131 odst. 6 neběží).
+- *Související ustanovení téhož zákona:* § 102, § 103 (výzvy); § 106 (znalec); § 105 (pohovor); § 117 (lhůty řízení); § 113 (zastavení); § 138 odst. 2 (odepření nahlédnutí — fakultativní přerušení dle odst. 2).
+- *Související předpisy:* trestní řád (prejudiciální otázka); SŘ subsidiárně.
+- *Judikatura:* obecný princip, že po dobu přerušení neběží procesní lhůty a že přerušení je nástrojem k odstranění překážky, nikoli k vyhnutí se rozhodnutí.
+
+**4. Subsumpce.** Trestní řízení řešící otázku významnou pro rozhodnutí naplňuje písm. a). Ustanovení znalce naplňuje písm. f). Výzva k doplnění dotazníku naplňuje písm. b). Žádost o přerušení z důvodu hospitalizace spadá pod písm. e), avšak nejdéle na 60 dnů (nikoli 90) a nejvýše dvakrát. Po dobu přerušení lhůty § 117 neběží (odst. 6).
+
+**5. Řešení.** Úřad řízení přeruší usnesením; vícero důvodů může působit souběžně. K žádosti účastníka vyhoví nejvýše na 60 dnů (žadatelův požadavek na 90 dnů zkrátí), s tím, že tuto žádost lze podat nejvýše dvakrát. Proti usnesení o přerušení není rozklad přípustný (odst. 4). Po dobu přerušení činí Úřad a účastník úkony k odstranění překážky a lhůty § 117 neběží (odst. 6), takže Úřad není ohrožen jejich marným uplynutím. V řízení pokračuje, jakmile překážky pominou (odst. 5).
+
+**6. Varianty.** (a) Žadatel by žádal o přerušení potřetí — návrhu nelze podle písm. e) vyhovět (limit dvakrát). (b) Účastník odepře nahlédnutí podle § 138 odst. 2 — Úřad může (nemusí) řízení přerušit podle § 112 odst. 2 (fakultativně).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „přerušení slouží k oddálení nepříznivého rozhodnutí": neutralizace — důvody jsou taxativní, žádost účastníka je limitována (60 dnů, dvakrát) a po odpadnutí překážky Úřad pokračuje; institut chrání zjištění stavu, nikoli prodlení.
+- Protiargument „nepřípustnost rozkladu proti přerušení krátí obranu": riziko se kompenzuje tím, že jde o procesní mezitímní úkon bez újmy na meritu; vady přerušení lze namítat v rozkladu proti konečnému rozhodnutí.
+- Slabé místo: u písm. a) je nutné prokázat, že jiné řízení skutečně řeší otázku „významnou" pro rozhodnutí; jinak by přerušení bylo nedůvodné.
+
+#### H. Praktický závěr
+
+§ 112 stanoví taxativně šest důvodů (obligatorního) přerušení a jeden fakultativní (odepření nahlédnutí); po dobu přerušení neběží lhůty řízení a proti usnesení není rozklad přípustný. Žádost účastníka o přerušení je limitována 60 dny a lze ji podat nejvýše dvakrát.
+
+**Checklist (Úřad / advokát / účastník):**
+- [ ] Posoudit, zda je dán některý z taxativních důvodů přerušení (§ 112 odst. 1 písm. a–f).
+- [ ] U žádosti účastníka hlídat limit 60 dnů a maximálně dvojí využití (písm. e).
+- [ ] Vydat usnesení o přerušení (rozklad nepřípustný, odst. 4) a po dobu přerušení činit úkony k odstranění překážky (odst. 5).
+- [ ] Sledovat, že lhůty § 117 a § 131 odst. 6 po dobu přerušení neběží (odst. 6), a po pominutí překážky pokračovat.
+
+**Typicky rozhodné důkazy / podklady:** usnesení o ustanovení znalce, doklad o probíhajícím prejudiciálním řízení, výzva k doplnění/odstranění vad, žádost účastníka o přerušení s odůvodněním (např. lékařská zpráva), usnesení o přerušení a vyrozumění o pokračování.
 
 ---
 
@@ -1154,6 +2199,42 @@ Zákonodárce zakotvuje **uzavřený katalog** deseti důvodů zastavení říze
 
 Proti usnesení o zastavení **podle určitých písmen** (a, b, e, f, g, i, j) **není rozklad přípustný** (odst. 3). Tyto případy jsou natolik jednoznačné, že opravný prostředek nemá smysl. Naopak proti zastavení podle písm. c), d) a h) **rozklad přípustný je** — zde je vyšší riziko pochybení v hodnocení procesní soustavnosti.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o osvědčení FO pro stupeň „Tajné" je při pohovoru (§ 105) konfrontován s neutajenou informací, že v dotazníku zamlčel dlouhodobý pobyt v zahraničí a styk s konkrétní osobou. Žadatel popře pravdivost informace, ač ji Úřad doloží z více zdrojů; k dalším otázkám poskytuje vyhýbavé a neúplné odpovědi a posléze se podruhé bez omluvy nedostaví k pokračování pohovoru. Důkazy: dotazník, protokol o pohovoru zachycující rozpory, zprávy o výsledcích šetření, doklady o dvojím předvolání.
+
+**2. Právní otázka.** Zakládá nepravdivá a neúplná výpověď spolu s opětovným nedostavením k pohovoru důvod zastavení řízení a je proti takovému usnesení přípustný rozklad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113 odst. 1 písm. d) (opětovné nedostavení k pohovoru bez závažných důvodů), písm. h) (nepravdivá/neúplná výpověď nebo nesoučinnost, nelze-li rozhodnout); odst. 3 (taxativní výčet, proti kterým písmenům rozklad není přípustný — d) a h) tam nejsou).
+- *Související ustanovení téhož zákona:* § 105 (pohovor, povinnost vypovídat pravdivě), § 104 (svědek); § 14 (zatajení významných skutečností jako riziko); § 116 (pořádková pokuta); § 89 (zásady řízení); § 121 odst. 2 (rozhodnutí o nevydání jako alternativa zastavení).
+- *Související předpisy:* SŘ subsidiárně; trestní řád (presumpce neviny se na samostatné bezpečnostní hodnocení nevztahuje).
+- *Judikatura:* NSS 8 Azs 204/2021 — podle § 113 odst. 1 písm. h) Úřad zastaví řízení, podal-li účastník nepravdivou nebo neúplnou výpověď; účastník je povinen vypovídat pravdivě a v plném rozsahu, neboť zájem na ochraně UI je vysoký a osobní okolnosti lze jen obtížně zjistit jinak.
+
+**4. Subsumpce.** Zamlčení a popírání doloženého pobytu a styku naplňuje znak „nepravdivé nebo neúplné výpovědi" (písm. h)); vyhýbavé odpovědi navíc znemožňují rozhodnout na základě daného stavu. Opětovné nedostavení k pohovoru bez omluvy se závažnými důvody naplňuje písm. d). Oba důvody nejsou ve výčtu odst. 3, takže proti usnesení o zastavení je rozklad přípustný.
+
+**5. Řešení.** Úřad může řízení zastavit podle § 113 odst. 1 písm. h) (případně i písm. d)); proti usnesení je rozklad přípustný, neboť hodnocení procesní soustavnosti nese vyšší riziko pochybení. Alternativně, jsou-li již zjištěny okolnosti zakládající bezpečnostní riziko (zatajení významné skutečnosti — § 14), může Úřad namísto zastavení vydat rozhodnutí o nevydání osvědčení podle § 121 odst. 2; to bývá pro stát „silnější", neboť obsahuje meritorní závěr o riziku. Praktický krok: pečlivě protokolovat rozpory.
+
+**6. Varianty.** (a) Žadatel vzal žádost zpět (písm. a)) — pak rozklad přípustný není (odst. 3). (b) Žadatel se dlouhodobě zdržoval v zahraničí, takže stav nelze zjistit (písm. g)) — i zde je rozklad vyloučen (odst. 3), na rozdíl od písm. d) a h).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument presumpcí neviny a právem nevypovídat: neutralizace — NSS 8 Azs 204/2021 dovozuje povinnost vypovídat pravdivě a úplně; právo odepřít výpověď má svědek (§ 104), nikoli účastník v pohovoru, jehož smyslem je posouzení jeho osobnosti.
+- Protiargument „zastavení je tvrdší než meritorní rozhodnutí, ač chybí závěr o riziku": riziko se řeší volbou mezi § 113 a § 121 odst. 2 podle toho, zda je stav věci dostatečně zjištěn; u zatajení významné skutečnosti je vhodnější rozhodnutí o nevydání.
+- Slabé místo: posouzení „opětovnosti" a „závažných důvodů" nedostavení je skutkové; je třeba doložit řádné předvolání a absenci omluvy.
+
+#### H. Praktický závěr
+
+§ 113 obsahuje taxativní katalog deseti důvodů zastavení; u části z nich (a, b, e, f, g, i, j) je rozklad vyloučen, u procesně citlivých (c, d, h) přípustný. Nepravdivá/neúplná výpověď a opětovné nedostavení k pohovoru patří mezi přezkoumatelné důvody.
+
+**Checklist (Úřad / advokát / účastník):**
+- [ ] Identifikovat konkrétní písmeno § 113 odst. 1 a ověřit, zda proti němu je podle odst. 3 rozklad přípustný.
+- [ ] U písm. h) doložit nepravdivost/neúplnost výpovědi a nemožnost rozhodnout (protokoly, zprávy o šetření).
+- [ ] Zvážit alternativu rozhodnutí o nevydání (§ 121 odst. 2), je-li zjištěno bezpečnostní riziko podle § 14.
+- [ ] U písm. d) doložit opětovné předvolání a absenci omluvy se závažnými důvody.
+
+**Typicky rozhodné důkazy / podklady:** dotazník, protokoly o pohovoru zachycující rozpory, zprávy o výsledcích šetření, doklady o předvoláních a doručení, případné zpětvzetí žádosti či oznámení odpovědné osoby (§ 67/§ 86).
+
 ---
 
 ### § 114–§ 116 — Předvolání, předvedení, pořádková pokuta
@@ -1184,6 +2265,42 @@ Diferenciace pořádkových pokut **(50 000 Kč × 500 000 Kč)** odráží **r�
 - **Orgán státu, PO, podnikající FO** — pokuta do 500 000 Kč, kumulativní strop 1 000 000 Kč.
 
 Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesoučinnost **paralyzuje proces** prověřování a je obtížně sankcionovatelná jinou cestou.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad si v řízení o osvědčení FO vyžádá od zaměstnavatele žadatele a od jedné právnické osoby informace podle § 107 odst. 6 (lhůta 30 dnů, bezúplatně). Zaměstnavatel reaguje, právnická osoba však informaci neposkytne ani po opakované urgenci, čímž blokuje zjištění stavu věci. Současně se svědek opakovaně bez omluvy nedostaví k výslechu, ač je jeho výpověď pro řízení nezbytná. Důkazy: žádosti o informace s doručenkami, urgence, doklady o dvojím předvolání svědka.
+
+**2. Právní otázka.** Jakými donucovacími prostředky disponuje Úřad vůči nesoučinné právnické osobě a vůči svědku, který se opakovaně nedostaví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 114 (písemné předvolání osob, jejichž účast je nutná); § 115 (předvedení svědka, který se opětovně bez omluvy nedostaví, na jeho náklady); § 116 odst. 1 písm. a) (pořádková pokuta do 50 000 Kč fyzické osobě), písm. b) (do 500 000 Kč orgánu státu/PO/podnikající FO za neposkytnutí informací podle § 117 odst. 6).
+- *Související ustanovení téhož zákona:* § 117 odst. 6 (povinnost poskytnout informace bezplatně do 30 dnů); § 104 (svědek); § 105 (pohovor); § 113 odst. 1 písm. d) (zastavení při nedostavení účastníka).
+- *Související předpisy:* SŘ subsidiárně (obecné pořádkové instituty), exekuční úprava pro vymáhání uložené pokuty.
+- *Judikatura:* obecný princip přiměřenosti pořádkových opatření — pokuta i předvedení musí být nezbytné a odpovídat závažnosti maření postupu.
+
+**4. Subsumpce.** Právnická osoba neposkytnutím informací podle § 117 odst. 6 naplňuje znak § 116 odst. 1 písm. b) — hrozí pokuta až 500 000 Kč (vyšší než u FO, neboť institucionální nesoučinnost paralyzuje proces). Svědek, který se opětovně bez náležité omluvy nedostaví a bez jehož účasti nelze řízení provádět, naplňuje předpoklad předvedení podle § 115; bezdůvodné odmítání lze sankcionovat pokutou do 50 000 Kč podle § 116 odst. 1 písm. a).
+
+**5. Řešení.** Vůči právnické osobě Úřad uloží pořádkovou pokutu podle § 116 odst. 1 písm. b) (kumulativně až do 1 000 000 Kč) a může opakovat výzvu; cílem je vynutit poskytnutí informace, nikoli jen sankce. Svědka Úřad po druhém marném předvolání nechá předvést na jeho náklady (§ 115) a/nebo uloží pořádkovou pokutu (§ 116 odst. 1 písm. a)). Praktický krok: pečlivě doložit doručení předvolání a absenci omluvy. Alternativa — u svědka v zahraničí lze místo výslechu požadovat písemné vyjádření (§ 104 odst. 4).
+
+**6. Varianty.** (a) Nesoučinný je sám účastník (nikoli svědek) — namísto předvedení nastupuje zastavení řízení (§ 113 odst. 1 písm. d)), neboť účastníka nelze k pohovoru předvést. (b) Informaci neposkytne fyzická osoba (nikoli orgán/PO) — uplatní se nižší pokuta podle písm. a) do 50 000 Kč.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „pokuta 500 000 Kč je nepřiměřená": neutralizace — jde o horní hranici; výše se stanoví podle závažnosti a opakování nesoučinnosti, přičemž institucionální blokace řízení je typově závažnější než selhání jednotlivce.
+- Protiargument „svědka nelze nutit k výpovědi předvedením": neutralizace — předvedení zajišťuje jen účast (dostavení se), nikoli obsah výpovědi; právo odepřít výpověď (§ 104 odst. 1) zůstává nedotčeno.
+- Slabé místo: před uložením pokuty/předvedením je nutné prokázat řádné doručení předvolání/výzvy a bezdůvodnost nedostavení; jinak opatření neobstojí.
+
+#### H. Praktický závěr
+
+§ 114–§ 116 poskytují Úřadu nástroje k zajištění průběhu řízení: písemné předvolání, předvedení nedostavivšího se svědka na jeho náklady a pořádkové pokuty odstupňované podle subjektu (50 000 Kč pro FO, 500 000 Kč pro orgán státu/PO/podnikající FO).
+
+**Checklist (Úřad / svědek / informační zdroj):**
+- [ ] Předvolat písemně a doložit doručení; uvést, jaké jsou následky nedostavení (§ 114, § 104 odst. 1).
+- [ ] Při opětovném nedostavení svědka zvážit předvedení na jeho náklady (§ 115).
+- [ ] Při nesoučinnosti uložit pořádkovou pokutu ve správné výši dle subjektu (§ 116 odst. 1 písm. a/b).
+- [ ] U účastníka (nikoli svědka) místo donucení uplatnit zastavení řízení (§ 113 odst. 1 písm. d)).
+
+**Typicky rozhodné důkazy / podklady:** předvolání a výzvy s doručenkami, doklady o opětovném nedostavení a absenci omluvy, žádosti o informace podle § 117 odst. 6, usnesení o pořádkové pokutě/předvedení.
 
 ---
 
@@ -1260,6 +2377,42 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 
 > **Praktický dopad:** Lhůty u stupně Přísně tajné dosahují 15 měsíců (9 + 6); u podnikatele pro Přísně tajné až 16 měsíců (10 + 6). Tyto délky reflektují náročnost důkladného prověření a jsou předmětem opakované kritiky ze strany podnikatelské sféry. Důsledkem je v praxi tvorba „rezervních" osvědčení a žádost o renewal v dostatečném předstihu (§ 94 odst. 3, § 96 odst. 3).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o osvědčení FO pro stupeň „Přísně tajné" podá žádost. Řízení vyžaduje šetření zpravodajské služby k prostředí žadatele (§ 107 odst. 3) i k osobám v domácnosti. Zpravodajská služba zprávu nezašle ve lhůtě 6 měsíců (§ 117 odst. 4 písm. b)) pro mimořádnou složitost prostředí. Lhůta Úřadu pro vydání úkonu podle § 121 činí 9 měsíců (§ 117 odst. 1 písm. c)) a blíží se k jejímu konci, aniž má Úřad podklady. Důkazy: datum zahájení řízení, žádost o šetření, oznámení služby o nedodržení lhůty (§ 118 odst. 1).
+
+**2. Právní otázka.** Co se stane, nedodrží-li zpravodajská služba lhůtu pro šetření, a může Úřad překročit svou lhůtu pro vydání úkonu podle § 121?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 117 odst. 1 písm. c) (9 měsíců pro „Přísně tajné" — FO), odst. 4 písm. b) (6 měsíců pro šetření zpravodajské služby), odst. 7 (navázání lhůt na stupeň, k němuž byl dán souhlas), odst. 8 (neběh za krizového stavu), odst. 9 (běh lhůt po kasaci podle § 131 odst. 6).
+- *Související ustanovení téhož zákona:* § 118 odst. 1 a 3 (oznámení o nedodržení lhůty službou a možnost ředitele prodloužit lhůtu nejvýše dvakrát); § 120 odst. 5 (neběh při doručování do zahraničí); § 112 odst. 6 (neběh při přerušení); § 121 (úkon, k jehož provedení lhůta běží).
+- *Související předpisy:* SŘS (žaloba na nečinnost při nedodržení lhůty); zákon č. 240/2000 Sb., krizový zákon (krizový stav — odst. 8).
+- *Judikatura:* obecný závěr, že lhůty k provedení řízení jsou pořádkové; jejich překročení nezakládá fikci rozhodnutí, nýbrž může vést k ochraně proti nečinnosti.
+
+**4. Subsumpce.** Lhůta služby pro šetření „Přísně tajné" činí 6 měsíců (odst. 4 písm. b)); její nedodržení neukončuje řízení, ale aktivuje oznamovací povinnost služby podle § 118 odst. 1. Lhůta Úřadu pro úkon podle § 121 je 9 měsíců (odst. 1 písm. c)). Nemůže-li Úřad pro chybějící podklady ve lhůtě rozhodnout, je na místě postup podle § 118 odst. 3 (prodloužení ředitelem).
+
+**5. Řešení.** Po oznámení služby (§ 118 odst. 1) ředitel Úřadu lhůtu přiměřeně, nejvýše však dvakrát, prodlouží a žadatele o tom s uvedením důvodů písemně vyrozumí (§ 118 odst. 3); jednorázové prodloužení nesmí přesáhnout dobu stanovenou pro provedení řízení (§ 118 odst. 4). Lhůty navíc neběží po dobu krizového stavu (odst. 8) ani při doručování do zahraničí (§ 120 odst. 5) či za přerušení (§ 112 odst. 6). Marné uplynutí všech lhůt by žadatele opravňovalo k žalobě na nečinnost (§ 79 SŘS). Alternativa — služba zprávu dodá v prodloužené lhůtě a Úřad rozhodne.
+
+**6. Varianty.** (a) Žadatel udělí souhlas s úkony vyššího stupně podle § 107 odst. 4 — na řízení se vztáhnou lhůty stupně, k němuž byl souhlas dán (odst. 7). (b) Po dobu řízení je vyhlášen krizový stav — lhůty podle odst. 1 až 6 neběží (odst. 8) a délka řízení se tím prodlouží bez ohrožení Úřadu.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „překročením lhůty vzniká nárok na vydání osvědčení (fikce)": neutralizace — lhůty § 117 jsou pořádkové; jejich marné uplynutí nezakládá fikci pozitivního rozhodnutí, pouze otevírá ochranu proti nečinnosti. Bezpečnostní osvědčení nelze přiznat mlčky.
+- Protiargument proti délce řízení (až 15–16 měsíců): riziko se zmírňuje včasným podáním žádosti (§ 94 odst. 3, § 96 odst. 3) a tvorbou „rezervních" osvědčení; délka odráží náročnost prověření a je zákonem aprobovaná.
+- Slabé místo: prodloužení ředitelem (§ 118 odst. 3) je vázáno na oznámení služby/zdroje a limity (dvakrát, jednorázově do délky řízení); bez splnění těchto podmínek je prodloužení vadné.
+
+#### H. Praktický závěr
+
+§ 117 zakotvuje diferencovanou matrici lhůt pro jednotlivá řízení (FO 2/6/9 měsíců, podnikatel 6/8/10 měsíců, doklad 75 dnů) i pro šetření služeb; lhůty jsou pořádkové, neběží za krizového stavu, při doručování do zahraničí a při přerušení, a ředitel je může (po oznámení) nejvýše dvakrát prodloužit.
+
+**Checklist (Úřad / žadatel / advokát):**
+- [ ] Určit správnou lhůtu podle typu řízení a stupně utajení (§ 117 odst. 1–3) a lhůty šetření (odst. 4 a 5).
+- [ ] Při hrozícím nedodržení vyžádat oznámení služby/zdroje a postupovat podle § 118 odst. 3 (prodloužení ředitelem, max. dvakrát).
+- [ ] Sledovat stavy neběhu lhůt (krizový stav — odst. 8; zahraničí — § 120 odst. 5; přerušení — § 112 odst. 6).
+- [ ] Žadatel: podat žádost s dostatečným předstihem a zvážit obranu žalobou na nečinnost při marném uplynutí lhůt.
+
+**Typicky rozhodné důkazy / podklady:** datum zahájení řízení, žádosti o šetření a jejich doručení, oznámení služby/zdroje o nedodržení lhůty (§ 118 odst. 1 a 2), vyrozumění o prodloužení lhůty ředitelem, doklady o doručování do zahraničí.
+
 ---
 
 ### § 118–§ 119 — Prodloužení a počítání lhůt
@@ -1284,6 +2437,42 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 - V téže lhůtě musí účastník provést zmeškaný úkon;
 - Možnost odkladu účinků;
 - Proti usnesení o prominutí **nelze podat rozklad** (odst. 7).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o osvědčení FO pro stupeň „Tajné" se v průběhu řízení dostane do nemocnice na déletrvající léčbu a zmešká lhůtu k doplnění dotazníku, k níž byl vyzván podle § 103. Po propuštění z nemocnice zjistí, že Úřad mezitím řízení přerušil a vyzval jej znovu. Žadatel chce zmeškání lhůty omluvit a zmeškaný úkon dodatečně provést. Důkazy: lékařská zpráva o hospitalizaci, výzva s doručenkou, datum pominutí překážky, žádost o prominutí zmeškání.
+
+**2. Právní otázka.** Za jakých podmínek a v jaké lhůtě lze v bezpečnostním řízení prominout zmeškání úkonu a je proti rozhodnutí o prominutí přípustný rozklad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118 (oznámení o nedodržení lhůt službou/zdrojem a prodloužení lhůty ředitelem); § 119 odst. 6 (prominutí zmeškání úkonu — žádost do 5 dnů od pominutí příčiny, v téže lhůtě provedení zmeškaného úkonu, možnost odkladu účinků), odst. 7 (proti usnesení o prominutí není rozklad přípustný).
+- *Související ustanovení téhož zákona:* § 103 (výzva k doplnění); § 112 (přerušení); § 117 (lhůty řízení); § 126 odst. 3 (prominutí zmeškání rozkladu — paralelní institut).
+- *Související předpisy:* § 41 SŘ (navrácení v předešlý stav) — § 119 odst. 6 je jeho speciální obdobou.
+- *Judikatura:* obecný požadavek, že prominutí zmeškání předpokládá závažnou, na vůli účastníka nezávislou překážku a včasné podání žádosti.
+
+**4. Subsumpce.** Hospitalizace je závažnou překážkou bránící účasti/úkonu. Žádost o prominutí musí být podána do 5 dnů od pominutí příčiny (od propuštění z nemocnice) a v téže lhůtě je nutné dodatečně provést zmeškaný úkon (doplnit dotazník). Proti usnesení o prominutí není rozklad přípustný (odst. 7).
+
+**5. Řešení.** Žadatel ve lhůtě 5 dnů od propuštění podá žádost o prominutí zmeškání a současně doplní dotazník; doloží překážku lékařskou zprávou. Úřad zmeškání promine, jsou-li podmínky splněny, případně odloží účinky zmeškaného úkonu. Proti usnesení o prominutí rozklad není přípustný (odst. 7), což platí pro obě strany. Souběžně, nemohou-li zdroje/služby dodržet lhůty, ředitel postupuje podle § 118 odst. 3 (prodloužení). Alternativa — žádost podaná po 5 dnech je opožděná a prominout nelze.
+
+**6. Varianty.** (a) Překážkou je zaviněná nedbalost žadatele (zapomněl) — nejde o závažný důvod a prominutí není namístě. (b) Zmeškán je rozklad (nikoli úkon v řízení) — uplatní se paralelní institut § 126 odst. 3 (15 dnů od pominutí překážky).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „pětidenní lhůta k prominutí je nepřiměřeně krátká": neutralizace — lhůta počíná až od pominutí příčiny a koresponduje s potřebou rychlosti bezpečnostního řízení; její krátkost je kompenzována tím, že běží od odpadnutí překážky.
+- Protiargument „vyloučení rozkladu proti prominutí krátí druhou stranu": riziko je nízké — jde o procesní mezitímní rozhodnutí; jeho dopady se projeví v meritu, jež přezkoumatelné je.
+- Slabé místo: nutnost provést zmeškaný úkon v téže 5denní lhůtě je přísná; pouhá žádost bez současného úkonu nestačí.
+
+#### H. Praktický závěr
+
+§ 118 řeší prodlužování lhůt ze strany Úřadu po oznámení služby/zdroje; § 119 odst. 6 zakotvuje prominutí zmeškání úkonu (žádost i provedení úkonu do 5 dnů od pominutí příčiny) s vyloučením rozkladu (odst. 7).
+
+**Checklist (advokát / účastník / Úřad):**
+- [ ] Při překážce na straně účastníka podat žádost o prominutí do 5 dnů od jejího pominutí a současně provést zmeškaný úkon (§ 119 odst. 6).
+- [ ] Doložit závažnost a nezaviněnost překážky (např. lékařská zpráva).
+- [ ] Vzít na vědomí, že proti usnesení o prominutí není rozklad přípustný (odst. 7).
+- [ ] Při nedodržení lhůt zdroji/službou aktivovat oznámení a prodloužení ředitelem (§ 118).
+
+**Typicky rozhodné důkazy / podklady:** doklad o překážce (lékařská zpráva), výzva s doručenkou prokazující zmeškanou lhůtu, žádost o prominutí s datem podání, doklad o dodatečném provedení úkonu, oznámení služby/zdroje o nedodržení lhůty (§ 118).
 
 ---
 
@@ -1331,6 +2520,42 @@ Nepřevzata zásilka po 10 dnech uložení se považuje za doručenou (odst. 3) 
 
 Možné u **osob neznámého pobytu** nebo osob, jimž se prokazatelně nedaří doručovat (odst. 8). Vyvěšení na úřední desce **plus internetové zveřejnění** — 15denní lhůta.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad doručuje rozhodnutí o nevydání osvědčení FO žadateli, který má zvoleného advokáta (zástupce). Rozhodnutí doručí pouze žadateli (nikoli advokátovi). Žadatel je navíc v době doručování dlouhodobě pracovně v zahraničí ve státním zájmu; zásilku zaslanou na jeho českou adresu si nevyzvedne ve lhůtě uložení. Důkazy: plná moc advokáta, doručenka s vyznačeným uložením, doklad o pobytu v zahraničí.
+
+**2. Právní otázka.** Je doručení rozhodnutí pouze žadateli (a nikoli zástupci) účinné pro běh lhůty k rozkladu a uplatní se fikce doručení, je-li žadatel prokazatelně v zahraničí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 120 odst. 1 (doručuje se zástupci; u osobních úkonů též účastníku; doručování zastoupenému nemá účinky pro běh lhůt), odst. 3 (fikce doručení po 10 dnech uložení), odst. 4 (místo doručení FO; možnost adresy v zahraničí při pobytu ve státním zájmu), odst. 5 (při doručování do zahraničí lhůty neběží), odst. 8 (veřejná vyhláška).
+- *Související ustanovení téhož zákona:* § 92a–92f (zastoupení); § 126 (lhůta k rozkladu); § 117 (lhůty řízení); § 105, § 104 (osobní úkony, u nichž se doručuje i účastníku).
+- *Související předpisy:* zákon č. 300/2008 Sb. (datové schránky); zákon č. 29/2000 Sb. (poštovní licence); SŘ subsidiárně.
+- *Judikatura:* obecný princip, že je-li účastník zastoupen, doručuje se zástupci a doručení jen účastníku nemá účinky pro běh lhůt (s výjimkou osobních úkonů).
+
+**4. Subsumpce.** Žadatel má zástupce, proto se rozhodnutí mělo doručit advokátovi; doručení jen žadateli podle § 120 odst. 1 nemá účinky pro běh lhůty k rozkladu (nejde o osobní úkon). Současně, je-li písemnost doručována adresátu do zahraničí, lhůty podle zákona neběží (odst. 5). Fikce uložení (odst. 3) se uplatní u doručování v ČR, avšak její účinky na běh lhůt jsou v dané situaci modifikovány zastoupením a pobytem v zahraničí.
+
+**5. Řešení.** Lhůta k rozkladu žadateli nezačala běžet, neboť rozhodnutí nebylo doručeno zástupci (§ 120 odst. 1). Úřad musí doručit advokátovi; teprve tím počne běžet lhůta podle § 126. Vada doručení by jinak založila důvod pro prominutí zmeškání nebo pro úspěšnou obranu proti počítání lhůty. U pobytu v zahraničí ve státním zájmu lze jako místo doručení určit i adresu v zahraničí (odst. 4) a po dobu doručování do zahraničí lhůty neběží (odst. 5). Alternativa — u osob neznámého pobytu by se doručovalo veřejnou vyhláškou (odst. 8).
+
+**6. Varianty.** (a) Jde o osobní úkon (např. předvolání k pohovoru podle § 105) — pak se doručuje i účastníku, nejen zástupci (odst. 1). (b) Žadatel odepře písemnost převzít — uplatní se fikce doručení dnem odepření (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „doručení účastníku je dostatečné, advokát se o rozhodnutí dozví": neutralizace — § 120 odst. 1 výslovně stanoví, že doručování zastoupenému nemá účinky pro běh lhůt; rozhodné je doručení zástupci, jinak by byla zkrácena procesní práva.
+- Protiargument „fikce doručení (odst. 3) běh lhůty spustila": riziko se odstraňuje tím, že u zastoupeného účastníka a u doručování do zahraničí (odst. 5) jsou účinky modifikovány; fikce sama nepřekoná pravidlo o doručení zástupci.
+- Slabé místo: posouzení, zda jde o „osobní úkon" (u nějž se doručuje i účastníku), může být sporné; je třeba odlišit procesní písemnosti od úkonů osobní povahy.
+
+#### H. Praktický závěr
+
+§ 120 upravuje pět doručovacích cest (úřední osoby, datová schránka, pošta, MZV, bezpečnostní ředitel), fikci uložení po 10 dnech, doručování zástupci (bez účinků pro běh lhůt u zastoupeného, s výjimkou osobních úkonů), neběh lhůt při doručování do zahraničí a doručování veřejnou vyhláškou.
+
+**Checklist (Úřad / advokát / účastník):**
+- [ ] Je-li účastník zastoupen, doručit písemnost zástupci; u osobních úkonů též účastníku (§ 120 odst. 1).
+- [ ] Ověřit, zda doručení mělo účinky pro běh lhůt (doručení jen zastoupenému je nemá).
+- [ ] U pobytu v zahraničí ve státním zájmu zvážit adresu v zahraničí (odst. 4) a vzít v potaz neběh lhůt (odst. 5).
+- [ ] U osob neznámého pobytu doručovat veřejnou vyhláškou (odst. 8) s vyvěšením na úřední desce i na internetu (odst. 9).
+
+**Typicky rozhodné důkazy / podklady:** plná moc/doklad o zastoupení, doručenky (vč. vyznačení uložení či odepření), doklad o pobytu v zahraničí ve státním zájmu, záznam o vyvěšení veřejné vyhlášky.
+
 ---
 
 ### § 121–§ 123a — Rozhodnutí
@@ -1365,6 +2590,42 @@ Standardně: výrok, odůvodnění, poučení, označení Úřadu, datum, razít
 
 Úřad rozhoduje **usnesením** ve specifických případech (procesní rozhodnutí). Některá usnesení se pouze **poznamenají do bezpečnostního svazku** (procedurální zjednodušení) — nabývají právní moci tímto poznamenáním a Úřad je může změnit novým usnesením.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad nevydá žadateli osvědčení FO pro stupeň „Tajné", neboť ze zpráv zpravodajské služby plyne bezpečnostní riziko spočívající ve stycích žadatele s cizí mocí. Podstatná část podkladů je utajována stupněm „Tajné". Rozhodnutí o nevydání obsahuje v odůvodnění pouze odkaz na utajované podklady a jejich stupeň utajení; věcné důvody nejsou rozvedeny. Žadatel namítá, že rozhodnutí je nepřezkoumatelné pro nedostatek důvodů. Důkazy: rozhodnutí o nevydání, zprávy o výsledcích šetření, bezpečnostní svazek.
+
+**2. Právní otázka.** Je rozhodnutí o nevydání osvědčení, jehož odůvodnění odkazuje jen na utajované podklady, dostatečně odůvodněné a slučitelné s právem na spravedlivý proces?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 121 odst. 1 (vyhovění bez písemného rozhodnutí — „silent grant"), odst. 2 (rozhodnutí o nevydání), odst. 3 (rozhodnutí o zrušení platnosti); § 122 odst. 3 (odůvodnění při utajených podkladech — pouze odkaz a stupeň utajení), odst. 2 a 5 (náležitosti rozhodnutí); § 123a (usnesení, poznámka do svazku).
+- *Související ustanovení téhož zákona:* § 124 (bezpečnostní svazek); § 14 (bezpečnostní rizika); § 107 odst. 5 (služby poskytují jen výsledky); § 133 (soudní přezkum s plným přístupem soudu k podkladům).
+- *Související předpisy:* čl. 36 odst. 1 a 2 Listiny (právo na soudní ochranu); SŘ (obecné náležitosti rozhodnutí) subsidiárně.
+- *Judikatura:* Ústavní soud Pl. ÚS 41/02 — omezení odůvodnění při utajených podkladech je proporcionální za podmínky, že soud má v rámci přezkumu plný přístup k podkladům.
+
+**4. Subsumpce.** Protože podklady jsou utajované, § 122 odst. 3 dovoluje uvést v odůvodnění pouze odkaz na ně a jejich stupeň utajení; úvahy Úřadu se uvedou jen v neutajeném rozsahu. Rozhodnutí tedy není nepřezkoumatelné jen proto, že neobsahuje utajené důvody — zákon tuto redukci výslovně připouští. Záruka spravedlivého procesu je zajištěna na úrovni soudního přezkumu (§ 133), kde má soud plný přístup k podkladům.
+
+**5. Řešení.** Námitka nepřezkoumatelnosti neobstojí: rozhodnutí odpovídá § 122 odst. 3 a ústavní konformitu potvrdil Pl. ÚS 41/02. Účastník se brání žalobou (§ 133); soud — na rozdíl od účastníka — přezkoumá i utajené podklady. Úřad zakládá rozhodnutí i podklady do bezpečnostního svazku (§ 124). Praktický krok: v neutajené části odůvodnění uvést alespoň typ rizika a právní rámec. Alternativa — jsou-li některé důvody neutajené, je nutné je v odůvodnění rozvést.
+
+**6. Varianty.** (a) Úřad žádosti vyhoví — nevydává písemné rozhodnutí, jen osvědčení (§ 121 odst. 1); chybí tedy „přezkoumatelné" rozhodnutí, což je výhodné pro žadatele. (b) Podklady nejsou utajené — pak musí být odůvodnění plně rozvedeno podle obecných náležitostí (§ 122 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „odkaz na utajené podklady činí rozhodnutí nepřezkoumatelným a porušuje rovnost zbraní": neutralizace — Pl. ÚS 41/02 shledal úpravu proporcionální za podmínky plného přístupu soudu k podkladům; deficit informovanosti účastníka je vyvážen kontrolou nezávislého soudu.
+- Protiargument „silent grant (odst. 1) brání přezkumu vyhovujícího rozhodnutí": riziko je teoretické — vyhovění je pro adresáta příznivé; absence písemného rozhodnutí mu neškodí.
+- Slabé místo: hranice mezi tím, co lze a nelze v odůvodnění uvést, je citlivá; přílišná stručnost neutajené části může reálně ztížit obranu i soudní přezkum.
+
+#### H. Praktický závěr
+
+§ 121–§ 123a upravují formy aktů Úřadu: vyhovění bez písemného rozhodnutí (silent grant), rozhodnutí o nevydání a o zrušení platnosti, specifické odůvodnění při utajených podkladech (jen odkaz a stupeň utajení — § 122 odst. 3, ústavně aprobováno Pl. ÚS 41/02) a usnesení s poznámkou do svazku (§ 123a).
+
+**Checklist (Úřad / advokát / účastník):**
+- [ ] Při vyhovění nevydávat písemné rozhodnutí, vydat listinu a kopii založit do svazku (§ 121 odst. 1, § 124).
+- [ ] Při nevydání/zrušení vydat rozhodnutí s náležitostmi § 122; jsou-li podklady utajené, odůvodnit odkazem a stupněm utajení (odst. 3).
+- [ ] V neutajené části odůvodnění rozvést vše, co utajeno není.
+- [ ] Účastníka poučit o obraně žalobou (§ 133), v níž má soud plný přístup k utajeným podkladům.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o nevydání/zrušení, zprávy o výsledcích šetření (utajené), bezpečnostní svazek s evidencí podkladů, doklad o stupni utajení podkladů.
+
 ---
 
 ### § 124 — Bezpečnostní svazek
@@ -1396,6 +2657,42 @@ Bezpečnostní svazek je **specifickou formou správního spisu**, jež se v ně
 #### Vztah k GDPR
 
 Bezpečnostní svazek je předmětem zpracování osobních údajů. Pravomocí Úřadu zpracovávat tyto údaje vychází z čl. 6 odst. 1 písm. e) a čl. 9 odst. 2 písm. g) GDPR a zákona č. 110/2019 Sb., o zpracování osobních údajů. Účinky GDPR jsou významně omezeny ve smyslu čl. 23 GDPR (omezení práv subjektu údajů z důvodu národní bezpečnosti).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý žadatel, jemuž Úřad před šesti lety nevydal osvědčení, podá podle zákona č. 106/1999 Sb. žádost o poskytnutí kopie svého bezpečnostního svazku, aby zjistil, jaké informace o něm Úřad vede. Souběžně orgány činné v trestním řízení požádají ředitele Úřadu o zproštění mlčenlivosti zaměstnance NBÚ, který řízení vedl, pro potřeby trestního řízení proti třetí osobě. Důkazy: žádost podle InfZ, žádost orgánů činných v trestním řízení, soupis součástí svazku s daty vložení.
+
+**2. Právní otázka.** Podléhá bezpečnostní svazek režimu svobodného přístupu k informacím a za jakých podmínek lze zaměstnance Úřadu zprostit mlčenlivosti o jeho obsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124 odst. 1 (obsah a členění svazku na utajovanou a neutajovanou část, soupis součástí), odst. 2 (vedení a vyřazení po 11 letech od posledního pravomocného rozhodnutí), odst. 3 (využití jen pro účely zákona, vyloučení z InfZ), odst. 4 (trvalá mlčenlivost zaměstnanců), odst. 5 (zproštění mlčenlivosti ředitelem pro orgány činné v trestním řízení).
+- *Související ustanovení téhož zákona:* § 89c (nahlížení do svazku v řízení); § 121, § 122 (rozhodnutí zakládaná do svazku); § 138 odst. 2 (nahlížení do spisu).
+- *Související předpisy:* zákon č. 106/1999 Sb. (InfZ — z něhož je svazek vyloučen); zákon č. 110/2019 Sb. a čl. 6 odst. 1 písm. e), čl. 9 odst. 2 písm. g) a čl. 23 GDPR (zpracování údajů a omezení práv subjektu z důvodu národní bezpečnosti); trestní řád.
+- *Judikatura:* obecný závěr, že přístup k podkladům bezpečnostního řízení je omezen ve prospěch ochrany utajovaných informací a že tato omezení jsou vyvážena soudním přezkumem.
+
+**4. Subsumpce.** Údaje ve svazku se podle odst. 3 využívají jen pro účely tohoto zákona a neposkytují se podle InfZ — žádosti podle zákona č. 106/1999 Sb. tedy nelze vyhovět. Zproštění mlčenlivosti zaměstnance je podle odst. 5 možné pouze na žádost orgánů činných v trestním řízení a pouze v potřebném rozsahu, a to rozhodnutím ředitele Úřadu.
+
+**5. Řešení.** Žádost podle InfZ Úřad odmítne s odkazem na § 124 odst. 3 (vyloučení z režimu InfZ). Žádosti orgánů činných v trestním řízení ředitel může vyhovět zproštěním mlčenlivosti zaměstnance v rozsahu nezbytném pro trestní řízení (odst. 5) — jde o jedinou zákonnou výjimku z jinak trvalé mlčenlivosti (odst. 4). Svazek se vede s vnitřním členěním a soupisem součástí (odst. 1) a vyřazuje se nejdříve po 11 letech od posledního pravomocného rozhodnutí (odst. 2). Alternativa — nejde-li o orgán činný v trestním řízení, zproštění mlčenlivosti přípustné není.
+
+**6. Varianty.** (a) Subjekt údajů uplatní práva podle GDPR (přístup, oprava) — výkon těchto práv je významně omezen podle čl. 23 GDPR z důvodu národní bezpečnosti. (b) Od posledního pravomocného rozhodnutí ještě neuplynulo 11 let — svazek nelze vyřadit; u zpravodajských služeb běží lhůta „nejdříve" 11 let rovněž.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „vyloučení z InfZ porušuje právo na informace": neutralizace — § 124 odst. 3 je zákonné omezení odůvodněné ochranou UI a národní bezpečnosti; přístup k vlastním údajům je řešen v rámci řízení (nahlížení § 89c) a soudního přezkumu, nikoli cestou InfZ.
+- Protiargument „11letá lhůta uchovávání je nepřiměřená vůči GDPR": riziko se neutralizuje odkazem na čl. 23 a čl. 9 odst. 2 písm. g) GDPR; delší lhůta odráží potřebu kontinuity bezpečnostní agendy a navazujících řízení.
+- Slabé místo: zproštění mlčenlivosti je vázáno výhradně na orgány činné v trestním řízení; pro jiné účely (civilní, správní) chybí zákonný mechanismus, což může komplikovat součinnost.
+
+#### H. Praktický závěr
+
+§ 124 konstruuje bezpečnostní svazek jako správní spis sui generis: členěný na utajovanou a neutajovanou část, se soupisem součástí, vyřazovaný až po 11 letech, vyloučený z režimu InfZ, s trvalou mlčenlivostí zaměstnanců prolomitelnou jen řediteli pro orgány činné v trestním řízení.
+
+**Checklist (Úřad / orgán činný v trestním řízení / subjekt údajů):**
+- [ ] Vést svazek s vnitřním členěním a soupisem všech součástí s daty vložení (§ 124 odst. 1).
+- [ ] Odmítnout poskytnutí údajů ze svazku podle InfZ (odst. 3); přístup řešit v rámci řízení (§ 89c).
+- [ ] Zproštění mlčenlivosti zaměstnance povolit jen na žádost orgánů činných v trestním řízení a jen v potřebném rozsahu (odst. 5).
+- [ ] Vyřadit svazek nejdříve po 11 letech od posledního pravomocného rozhodnutí (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** soupis součástí svazku s daty vložení, spisová značka, žádost podle InfZ a rozhodnutí o jejím odmítnutí, žádost orgánů činných v trestním řízení a rozhodnutí ředitele o zproštění mlčenlivosti.
 
 ---
 
@@ -1430,6 +2727,42 @@ Bezpečnostní řízení **nezná odvolání** v běžném smyslu — jediným o
 
 Rozklad musí obsahovat: identifikační údaje účastníka, označení napadeného rozhodnutí, návrh na rozhodnutí, **vymezení rozporu s právními předpisy nebo nesprávnosti**. **Nelze napadat pouze odůvodnění** (odst. 3) — odráží zásadu, že opravný prostředek je nástrojem revize výroku, nikoli kosmetické úpravy textu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad zruší platnost osvědčení FO pro stupeň „Tajné" držiteli, který okamžitě podá rozklad. Protože rozklad proti zrušení platnosti nemá odkladný účinek (§ 126 odst. 4), držitel ode dne zrušení nesmí vykonávat funkci vyžadující přístup k UI; zaměstnavatel jej proto převede na jiné místo. V rozkladu držitel napadá výhradně odůvodnění rozhodnutí, výrok nikoli. Poučení v rozhodnutí přitom bylo neúplné. Důkazy: rozhodnutí o zrušení s vadným poučením, rozklad, doklad o převedení zaměstnance.
+
+**2. Právní otázka.** Lze rozkladem napadat jen odůvodnění rozhodnutí, jakou lhůtu má držitel při vadném poučení a má rozklad odkladný účinek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125 (právo podat rozklad, možnost vzdát se jej); § 126 odst. 1 (15denní lhůta), odst. 2 (3 měsíce při vadném poučení), odst. 4 (vyloučení odkladného účinku u rozkladu proti zrušení platnosti); § 127 (náležitosti rozkladu; odst. 3 — nelze napadat jen odůvodnění).
+- *Související ustanovení téhož zákona:* § 130 (rozkladová komise); § 131 (rozhodnutí ředitele o rozkladu); § 121 odst. 3 (rozhodnutí o zrušení platnosti); § 119 odst. 6/§ 126 odst. 3 (prominutí zmeškání).
+- *Související předpisy:* § 152 SŘ (rozklad proti rozhodnutí ústředního správního orgánu) — analogie; § 82 odst. 2 SŘ (zákaz napadat jen odůvodnění) — obdoba.
+- *Judikatura:* obecný závěr, že opravný prostředek směřuje proti výroku rozhodnutí; samotné odůvodnění zpravidla napadat nelze.
+
+**4. Subsumpce.** Rozklad směřující výhradně proti odůvodnění je podle § 127 odst. 3 nepřípustný v této části — opravný prostředek je nástrojem revize výroku. Lhůta k rozkladu je 15 dnů (odst. 1), avšak při neúplném poučení činí 3 měsíce (odst. 2), což svědčí ve prospěch držitele. Rozklad proti zrušení platnosti nemá odkladný účinek (odst. 4), takže ztráta oprávnění nastává bez ohledu na jeho podání.
+
+**5. Řešení.** Vzhledem k vadnému poučení má držitel na rozklad 3 měsíce (§ 126 odst. 2); rozklad však musí směřovat proti výroku, nikoli jen proti odůvodnění (§ 127 odst. 3) — jinak by byl v této části neúspěšný. Odkladný účinek rozklad nemá (odst. 4), takže okamžité převedení zaměstnance je nevyhnutelným důsledkem; ochranu poskytne až případné zrušení napadeného rozhodnutí ředitelem (§ 131 odst. 5) s obnovou platnosti (§ 132). Alternativa — držitel se rozkladu platně vzdá (§ 125), čímž rozhodnutí nabude právní moci.
+
+**6. Varianty.** (a) Jde o rozklad proti nevydání osvědčení (nikoli zrušení platnosti) — i ten se podává do 15 dnů, otázka odkladného účinku je však bezpředmětná, neboť žadatel oprávnění dosud neměl. (b) Poučení bylo správné — lhůta činí 15 dnů a její zmeškání lze prominout jen ze závažných důvodů (§ 126 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „vyloučení odkladného účinku je nepřiměřeně tvrdé": neutralizace — okamžitá ztráta oprávnění chrání zájmy státu na ochraně UI; tvrdost je vyvážena možností rychlého zrušení rozhodnutí ředitelem (§ 131 odst. 5) a obnovou platnosti se zachováním původní doby (§ 132).
+- Protiargument „nelze-li napadat odůvodnění, je rozklad oslaben": neutralizace — smyslem rozkladu je revize výroku; vady odůvodnění lze namítat v rámci napadení výroku a v soudním přezkumu (§ 133).
+- Slabé místo: rozlišení, zda rozklad směřuje proti výroku či jen proti odůvodnění, bývá v praxi nejasné; je vhodné formulovat petit i důvody tak, aby zpochybnost nevznikla.
+
+#### H. Praktický závěr
+
+§ 125–§ 127 zakotvují rozklad jako jediný řádný opravný prostředek (o němž rozhoduje ředitel): lhůta 15 dnů (3 měsíce při vadném poučení), bez odkladného účinku u zrušení platnosti, s tím, že rozkladem nelze napadat pouze odůvodnění.
+
+**Checklist (advokát / účastník / Úřad):**
+- [ ] Podat rozklad do 15 dnů; při chybném/neúplném poučení využít lhůtu 3 měsíce (§ 126 odst. 1 a 2).
+- [ ] Formulovat rozklad proti výroku (vymezit rozpor s předpisy/nesprávnost), nikoli jen proti odůvodnění (§ 127 odst. 3).
+- [ ] Počítat s tím, že rozklad proti zrušení platnosti nemá odkladný účinek (§ 126 odst. 4) — zajistit dočasné přeřazení.
+- [ ] Zvážit, zda se práva na rozklad vzdát (§ 125), či nikoli.
+
+**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí s poučením, rozklad s vymezením vad výroku, doklad o doručení rozhodnutí (počátek lhůty), případné vzdání se práva na rozklad, doklad o převedení zaměstnance.
+
 ---
 
 ### § 128–§ 129 — Postup před rozhodnutím ředitele
@@ -1456,6 +2789,42 @@ Rozklad musí obsahovat: identifikační údaje účastníka, označení napaden
 2. **Plné vyhovění rozkladu** (§ 129) — Úřad sám uznal pochybení; ekonomie procesu.
 
 Proti **oběma** těmto rozhodnutím **lze podat (nový) rozklad** — zajištěn dvojinstanční přezkum.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník podá rozklad proti rozhodnutí o nevydání osvědčení FO. V mezidobí Úřad zjistí, že napadené rozhodnutí trpí zjevnou vadou (opomněl významný podklad svědčící ve prospěch žadatele), a rozkladu chce vyhovět v plném rozsahu. V jiné věci týž žadatel podá rozklad, který je však zjevně opožděný o měsíc, aniž by zmeškání bylo prominuto. Důkazy: napadené rozhodnutí, rozklad s datem podání, doklad o doručení původního rozhodnutí.
+
+**2. Právní otázka.** Může o rozkladu rozhodnout Úřad sám (bez ředitele), vyhovuje-li mu v plném rozsahu nebo je-li rozklad opožděný či nepřípustný, a je proti tomu opravný prostředek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 128 odst. 1 (Úřad rozklad zamítne bez podpisu ředitele, nelze-li jej podat (písm. a) nebo byl-li opožděný a zmeškání nebylo prominuto (písm. b)); § 129 odst. 1 (Úřad sám rozkladu vyhoví v plném rozsahu a napadené rozhodnutí zruší).
+- *Související ustanovení téhož zákona:* § 130, § 131 (rozhodnutí ředitele na základě návrhu rozkladové komise — pro ostatní případy); § 126 (lhůty a přípustnost rozkladu); § 132 (obnova platnosti po vyhovění); § 125 (právo na rozklad — i proti rozhodnutí podle § 128/§ 129).
+- *Související předpisy:* § 88 a § 152 SŘ (autoremedura a rozklad) — analogie; SŘS pro navazující soudní přezkum.
+- *Judikatura:* obecný princip procesní ekonomie — orgán prvního stupně může sám napravit pochybení (autoremedura), aniž věc postupuje nadřízenému/řediteli.
+
+**4. Subsumpce.** Vyhovuje-li Úřad rozkladu v plném rozsahu, naplňuje § 129 odst. 1 — rozhodne sám a napadené rozhodnutí zruší, bez podpisu ředitele. Je-li rozklad zjevně opožděný a zmeškání nebylo prominuto, naplňuje § 128 odst. 1 písm. b) — Úřad jej sám zamítne. V obou případech jde o zkrácený postup; proti těmto rozhodnutím však lze podat (nový) rozklad, takže dvojinstančnost zůstává zachována.
+
+**5. Řešení.** V první věci Úřad sám rozkladu vyhoví v plném rozsahu a napadené rozhodnutí zruší (§ 129 odst. 1); jde-li o zrušení platnosti, navázalo by zrušení napadeného rozhodnutí na obnovu platnosti (§ 132). Ve druhé věci Úřad rozklad sám zamítne pro opožděnost (§ 128 odst. 1 písm. b)). Proti oběma rozhodnutím lze podat nový rozklad (o němž už rozhoduje ředitel). Alternativa — vyhovuje-li Úřad jen zčásti, zkrácený postup podle § 129 nelze využít a věc se předkládá rozkladové komisi a řediteli (§ 130, § 131).
+
+**6. Varianty.** (a) Úřad by chtěl rozkladu vyhovět jen částečně — § 129 odst. 1 to neumožňuje; musí proběhnout standardní postup přes komisi a ředitele. (b) Zmeškání rozkladu bylo prominuto (§ 126 odst. 3) — pak nelze rozklad zamítnout pro opožděnost podle § 128 odst. 1 písm. b).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „rozhodnutí Úřadu o vlastním rozkladu porušuje zásadu, že nikdo nemá rozhodovat ve své věci": neutralizace — proti rozhodnutí podle § 128/§ 129 je přípustný nový rozklad, o němž rozhoduje ředitel na základě nezávislé rozkladové komise (§ 130); dvojinstančnost je zachována.
+- Protiargument „plné vyhovění bez ředitele oslabuje kontrolu": riziko je nízké — vyhovění je pro účastníka příznivé; ekonomie procesu převažuje a případné pochybení lze napadnout novým rozkladem.
+- Slabé místo: posouzení „plného rozsahu" vyhovění (§ 129) a „opožděnosti/nepřípustnosti" (§ 128) musí být jednoznačné; v hraničních případech je bezpečnější standardní postup přes ředitele.
+
+#### H. Praktický závěr
+
+§ 128–§ 129 zavádějí dva zkrácené postupy, kdy o rozkladu rozhoduje Úřad sám bez podpisu ředitele: zamítnutí pro nepřípustnost/opožděnost (§ 128) a plné vyhovění s autoremedurou (§ 129); proti oběma je přípustný nový rozklad.
+
+**Checklist (Úřad / advokát / účastník):**
+- [ ] Ověřit, zda lze rozklad podat a zda byl včasný; při nepřípustnosti/opožděnosti zamítnout podle § 128 odst. 1 (bez ředitele).
+- [ ] Vyhovuje-li Úřad v plném rozsahu, zrušit napadené rozhodnutí sám podle § 129 odst. 1.
+- [ ] Při částečném vyhovění předložit věc rozkladové komisi a řediteli (§ 130, § 131).
+- [ ] Poučit účastníka, že proti rozhodnutí podle § 128/§ 129 lze podat nový rozklad.
+
+**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí, rozklad s datem podání, doklad o doručení původního rozhodnutí (běh lhůty), případné rozhodnutí o prominutí zmeškání, podklad zakládající plné vyhovění.
 
 ---
 
@@ -1505,6 +2874,42 @@ Rozkladová komise **nerozhoduje** — jen **navrhuje** rozhodnutí řediteli. �
 #### Speciální složení u řízení podle § 140 odst. 1 písm. a)
 
 V řízení o rozkladu proti rozhodnutí **zpravodajské služby** se nepoužije pravidlo o většině z mimoúřadních zaměstnanců (odst. 3 in fine) — pochopitelně, neboť řízení vede zpravodajská služba, nikoli NBÚ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** O rozkladu proti rozhodnutí o nevydání osvědčení FO má rozhodovat ředitel Úřadu na základě návrhu rozkladové komise. Účastník namítá, že jeden z členů komise byl v minulosti jeho přímým nadřízeným a má vůči němu osobní zaujatost, a že komise nebyla řádně složena, neboť většinu jejích členů netvořili zaměstnanci mimo NBÚ. Důkazy: jmenovací akty členů komise, doklad o dřívějším pracovním vztahu člena a účastníka, zápis o jednání komise a usnášeníschopnosti.
+
+**2. Právní otázka.** Jak se řeší podjatost člena rozkladové komise a je porušením zákona, netvoří-li většinu komise zaměstnanci mimo NBÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 130 odst. 2 (složení: min. 5 členů, většina právníků, osvědčení FO, občanství ČR, funkční období 5 let, usnášeníschopnost), odst. 3 (většina členů ze státních orgánů mimo NBÚ; výjimka u řízení podle § 140 odst. 1 písm. a)), odst. 6 (o podjatosti člena rozhoduje ředitel usnesením bez rozkladu; vyloučení člena při pochybnostech o nepodjatosti).
+- *Související ustanovení téhož zákona:* § 90 odst. 1 (důvody podjatosti); § 131 (rozhodnutí ředitele na základě návrhu komise); § 140 odst. 1 písm. a) (řízení u zpravodajských služeb — výjimka ze složení); § 128, § 129 (případy bez komise).
+- *Související předpisy:* § 14 SŘ (podjatost úředních osob) — analogie; čl. 36 odst. 1 Listiny (nestranné rozhodování).
+- *Judikatura:* NSS 10 A 60/2016 — podle důvodové zprávy k § 130 rozhoduje ředitel až na základě doporučení poradního orgánu složeného nejen z pracovníků Úřadu, ale zejména z odborníků z jiných úřadů, čímž se zajišťuje nestranné posouzení věci.
+
+**4. Subsumpce.** Dřívější vztah nadřízenosti zakládá pochybnost o nepodjatosti člena ve smyslu § 90 odst. 1; o ní rozhoduje ředitel usnesením (§ 130 odst. 6) a zaujatého člena z projednávání vyloučí. Požadavek většiny členů ze státních orgánů mimo NBÚ (odst. 3) je zárukou vnější perspektivy; jeho nesplnění (mimo výjimku podle § 140 odst. 1 písm. a)) je vadou složení komise. Komise je usnášeníschopná při účasti nadpoloviční většiny členů.
+
+**5. Řešení.** Ředitel rozhodne usnesením o podjatosti namítaného člena a v případě pochybností jej z projednávání rozkladu vyloučí (§ 130 odst. 6); proti tomuto usnesení není rozklad přípustný. Není-li dodržen požadavek většiny členů mimo NBÚ (odst. 3) a nejde o řízení podle § 140 odst. 1 písm. a), je třeba složení komise napravit, jinak hrozí vada řízení namítnutelná v soudním přezkumu. Komise návrh přijímá nadpoloviční většinou přítomných při usnášeníschopnosti. Ředitel není návrhem komise vázán, fakticky jej však obvykle přebírá. Alternativa — člen se sám vzdá funkce (§ 130 odst. 4 písm. c).
+
+**6. Varianty.** (a) Jde o rozklad proti rozhodnutí zpravodajské služby (§ 140 odst. 1 písm. a)) — pravidlo o většině z mimoúřadních zaměstnanců se neuplatní (odst. 3 in fine). (b) Komise není usnášeníschopná (účastní se méně než polovina) — nemůže přijmout návrh a jednání je třeba odročit.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „komise jen navrhuje, takže její vady nemají vliv": neutralizace — návrh komise je klíčovým podkladem rozhodnutí ředitele; vadné složení či podjatost člena mohou zatížit celé rozkladové řízení a obstojí jako námitka v přezkumu.
+- Protiargument „vyloučení rozkladu proti usnesení o podjatosti krátí obranu": riziko je nízké — jde o procesní rozhodnutí; nestrannost je zajištěna i tím, že většinu komise tvoří odborníci mimo NBÚ a věc přezkoumá soud (§ 133).
+- Slabé místo: u řízení podle § 140 odst. 1 písm. a) odpadá záruka většiny členů mimo NBÚ; nestrannost je zde nutno dovozovat z jiných prvků složení komise.
+
+#### H. Praktický závěr
+
+§ 130 zřizuje rozkladovou komisi jako poradní orgán ředitele se strukturálními zárukami nestrannosti (min. 5 členů, většina právníků, většina ze státních orgánů mimo NBÚ, osvědčení FO, občanství ČR, funkční období 5 let); o podjatosti člena rozhoduje ředitel usnesením bez možnosti rozkladu.
+
+**Checklist (ředitel / člen komise / účastník):**
+- [ ] Zajistit zákonné složení komise: min. 5 členů, většina s právnickým magisterským vzděláním, většina ze státních orgánů mimo NBÚ (§ 130 odst. 2 a 3).
+- [ ] Ověřit, že členové jsou držiteli osvědčení FO a občany ČR; sledovat usnášeníschopnost (nadpoloviční většina).
+- [ ] Při pochybnosti o nepodjatosti člena rozhodnout usnesením a člena vyloučit (odst. 6).
+- [ ] U řízení podle § 140 odst. 1 písm. a) vzít v potaz výjimku ze složení (odst. 3 in fine).
+
+**Typicky rozhodné důkazy / podklady:** jmenovací akty členů komise, doklady o vzdělání a osvědčení FO členů, námitka podjatosti a usnesení ředitele o ní, zápis o jednání komise a o usnášeníschopnosti, návrh komise předložený řediteli.
 
 ---
 
@@ -1574,6 +2979,42 @@ V případě kasačního rozhodnutí (odst. 6) **právní názor ředitele** je 
 
 Ředitel rozhoduje **do 3 měsíců** od doručení rozkladu. Toto je rozhodná lhůta — její nedodržení nezakládá fikci rozhodnutí, ale **legitimuje žalobu na nečinnost** (§ 79 a násl. zákona č. 150/2002 Sb., SŘS).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ředitel Úřadu rozhoduje o rozkladu proti rozhodnutí o nevydání osvědčení FO. Zjistí, že napadené rozhodnutí bylo vydáno v rozporu s právními předpisy (Úřad nesprávně vyhodnotil podklad svědčící ve prospěch žadatele). Ředitel proto rozhodnutí zruší a věc vrátí Úřadu k novému projednání s vysloveným závazným právním názorem. V mezidobí ovšem ředitel překročí tříměsíční lhůtu pro rozhodnutí o rozkladu. Důkazy: rozklad, napadené rozhodnutí, datum doručení rozkladu, rozhodnutí ředitele s právním názorem.
+
+**2. Právní otázka.** Jaké jsou možné výroky ředitele o rozkladu, je pro Úřad závazný právní názor ředitele a jaký je následek překročení tříměsíční lhůty podle § 131 odst. 9?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 131 odst. 1–3 (zastavení řízení o rozkladu z taxativních důvodů), odst. 5 (plné vyhovění u zrušení platnosti — zrušení napadeného rozhodnutí), odst. 6 (kasace — zrušení a vrácení k novému projednání pro rozpor s předpisy/nesprávnost nebo pro nové skutečnosti), odst. 7 (zamítnutí a potvrzení), odst. 8 (závazný právní názor), odst. 9 (rozhodnutí do 3 měsíců).
+- *Související ustanovení téhož zákona:* § 130 (rozkladová komise); § 132 (obnova platnosti po zrušení napadeného rozhodnutí); § 117 odst. 9 (běh lhůt po kasaci podle § 131 odst. 6); § 133 (soudní přezkum).
+- *Související předpisy:* § 90 SŘ (rozhodnutí odvolacího orgánu) — analogie; § 79 a násl. SŘS (žaloba na nečinnost); § 78 SŘS (soudní přezkum).
+- *Judikatura:* obecný princip, že kasační rozhodnutí s vázaností právním názorem zajišťuje efektivitu opravného prostředku a že lhůty k rozhodnutí jsou pořádkové, jejich překročení otevírá ochranu proti nečinnosti.
+
+**4. Subsumpce.** Rozpor napadeného rozhodnutí s právními předpisy naplňuje § 131 odst. 6 písm. a) — ředitel rozhodnutí zruší a věc vrátí k novému projednání. Podle odst. 8 vysloví závazný právní názor, jímž je Úřad při novém projednání vázán, nestane-li se bezpředmětným změnou právního/skutkového stavu. Překročení tříměsíční lhůty (odst. 9) nezakládá fikci rozhodnutí, ale legitimuje žalobu na nečinnost.
+
+**5. Řešení.** Ředitel zruší napadené rozhodnutí a vrátí věc Úřadu (§ 131 odst. 6) s vysloveným právním názorem, jímž je Úřad vázán (odst. 8); po kasaci běží lhůty řízení znovu ode dne doručení rozhodnutí účastníkovi (§ 117 odst. 9). Překročení tříměsíční lhůty (odst. 9) neznamená automatické vyhovění rozkladu — účastník se může bránit žalobou na nečinnost (§ 79 SŘS). Proti rozhodnutí ředitele o rozkladu se brání žalobou ve správním soudnictví (§ 133). Alternativa — neshledá-li ředitel důvod pro postup podle odst. 1–6, rozklad zamítne a rozhodnutí potvrdí (odst. 7).
+
+**6. Varianty.** (a) Rozklad proti zrušení platnosti, jemuž ředitel plně vyhoví (odst. 5) — napadené rozhodnutí zruší a platnost se obnoví podle § 132 se zachovanou původní dobou. (b) Účastník vzal rozklad zpět nebo zemřel — ředitel řízení o rozkladu zastaví (odst. 2 a 3) usnesením, jež se pouze poznamená do bezpečnostního svazku.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument „překročení tříměsíční lhůty má vést k vydání osvědčení (fikce)": neutralizace — odst. 9 je lhůtou pořádkovou; její nedodržení nezakládá fikci pozitivního rozhodnutí, pouze otevírá žalobu na nečinnost (§ 79 SŘS). Bezpečnostní osvědčení nelze přiznat mlčením.
+- Protiargument „závazný právní názor ředitele svazuje Úřad i při změně okolností": neutralizace — odst. 8 sám stanoví, že názor se nepoužije, stane-li se vlivem změny právního stavu nebo skutkových okolností bezpředmětným; vázanost tedy není absolutní.
+- Slabé místo: hranice mezi „zrušením a vrácením" (odst. 6) a „plným zrušením" (odst. 5) je dána typem napadeného rozhodnutí (nevydání vs. zrušení platnosti); záměna výroku by byla vadou.
+
+#### H. Praktický závěr
+
+§ 131 vymezuje výroky ředitele o rozkladu: zastavení řízení o rozkladu (odst. 1–3), zrušení napadeného rozhodnutí (plné — odst. 5, nebo s vrácením a závazným právním názorem — odst. 6 a 8), či zamítnutí a potvrzení (odst. 7); rozhoduje do 3 měsíců (odst. 9), přičemž jde o lhůtu pořádkovou.
+
+**Checklist (ředitel / Úřad / advokát / účastník):**
+- [ ] Zvolit správný výrok podle povahy věci (zastavení dle odst. 1–3; zrušení dle odst. 5 nebo 6; zamítnutí dle odst. 7).
+- [ ] Při kasaci (odst. 6) vyslovit závazný právní názor (odst. 8) a počítat s novým během lhůt (§ 117 odst. 9).
+- [ ] Rozhodnout do 3 měsíců od doručení rozkladu (odst. 9); při prodlení očekávat žalobu na nečinnost (§ 79 SŘS).
+- [ ] Účastníka poučit o obraně žalobou ve správním soudnictví (§ 133); u zrušení platnosti vzít v potaz obnovu platnosti (§ 132).
+
+**Typicky rozhodné důkazy / podklady:** rozklad a napadené rozhodnutí, datum doručení rozkladu (běh tříměsíční lhůty), návrh rozkladové komise, rozhodnutí ředitele s vysloveným právním názorem, doklad o doručení kasačního rozhodnutí účastníkovi (§ 117 odst. 9).
+
 ---
 
 ### § 132 — Obnova platnosti veřejné listiny
@@ -1585,6 +3026,43 @@ V případě kasačního rozhodnutí (odst. 6) **právní názor ředitele** je 
 **Výklad:**
 
 Zásadní účinek úspěšného rozkladu: **platnost se obnoví**, s **zachovanou původní dobou platnosti**. Není tedy potřeba nové vydání — administrativní úspora a praktické zajištění kontinuity oprávnění držitele.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Řediteli Úřadu byl podán rozklad proti rozhodnutí o zrušení platnosti osvědčení fyzické osoby J. Ředitel rozkladu vyhoví a napadené rozhodnutí o zrušení platnosti zruší (§ 131 odst. 5). J, který musel po zrušení platnosti odevzdat své osvědčení podle § 66 odst. 1 písm. b), požaduje, aby mu bylo vráceno, a aby mohl opět vykonávat činnost vyžadující přístup k UI. Vzniká spor, zda mu má být vydáno nové osvědčení s novou dobou platnosti, nebo se obnoví původní. Účastníci: J (držitel/účastník řízení), NBÚ (ředitel Úřadu). Důkazy: rozhodnutí ředitele o rozkladu, doklad o odevzdání původního osvědčení, evidence platnosti.
+
+**2. Právní otázka.** Jaké jsou účinky úspěšného rozkladu na zrušené osvědčení — obnoví se původní osvědčení se zachovanou dobou platnosti, nebo je třeba vydat nové?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 132 ZOUI — dnem právní moci rozhodnutí o rozkladu (dle § 129 odst. 1 anebo § 131 odst. 5 nebo 6) se platnost zrušeného osvědčení/dokladu obnoví; současně se účastníkovi vrátí odevzdané osvědčení/doklad a doba platnosti zůstává zachována.
+- *Související ustanovení téhož zákona:* § 131 odst. 5 a 6 (zrušení napadeného rozhodnutí ředitelem), § 129 odst. 1 (rozhodnutí o rozkladu), § 66 odst. 1 písm. b), § 68 písm. a), § 87 odst. 1 písm. a) (odevzdání osvědčení/dokladu), § 133 (soudní přezkum).
+- *Související předpisy:* správní řád (právní moc rozhodnutí); prováděcí vyhláška k vydávání veřejných listin.
+- *Judikatura:* zde primárně výklad účinků pravomocného rozhodnutí; obecně k restituci právního stavu po zrušení vadného rozhodnutí.
+
+**4. Subsumpce.** Vyhověl-li ředitel rozkladu a zrušil rozhodnutí o zrušení platnosti (§ 131 odst. 5), nastává ex lege účinek dle § 132: dnem právní moci se platnost zrušeného osvědčení obnoví. Nejde o vydání nového osvědčení, nýbrž o obnovení původního — „doba platnosti zůstává zachována". Současně Úřad vrátí J jeho dříve odevzdané osvědčení. Znaky jsou naplněny: existuje kvalifikované rozhodnutí o rozkladu a předtím odevzdané osvědčení.
+
+**5. Řešení.** Úřad spolu s rozhodnutím o rozkladu zašle J zpět jeho původní osvědčení; jeho platnost se obnoví dnem právní moci se zachovanou původní dobou platnosti. J tedy pokračuje v oprávnění bez nutnosti nového řízení o vydání. Praktický krok: ověřit den nabytí právní moci (od něj se obnova odvíjí) a fyzické vrácení listiny. Riziko: nesprávné vydání „nového" osvědčení s novou dobou platnosti by bylo v rozporu s § 132 (zkrácení/prodloužení doby oproti původní).
+
+**6. Varianty.** (a) Pokud by ředitel rozhodnutí zrušil a věc vrátil (§ 131 odst. 6), uplatní se obnova rovněž; navazuje však další řízení. (b) Pokud by původní doba platnosti mezitím marně uplynula, obnova by se týkala listiny, jejíž doba platnosti zůstává zachována — fakticky bez dalšího efektu, je-li již po jejím konci; pak je namístě nová žádost.
+
+#### G. Protiargumenty a rizika
+
+- **„Po úspěšném rozkladu je třeba vydat nové osvědčení s novou platností."** Nesprávné — § 132 stanoví obnovu původního osvědčení se zachovanou dobou platnosti, nikoli vydání nového. Neutralizace: odkaz na výslovné znění „doba platnosti zůstává zachována".
+- **„Obnova nastává až faktickým vrácením listiny."** Nepřesné — obnova nastává ex lege dnem právní moci rozhodnutí o rozkladu; vrácení listiny je navazujícím administrativním úkonem. Riziko: prodlení s fyzickým vrácením nesmí být vykládáno jako odklad obnovy.
+- **Slabé místo:** zachovaná (nikoli prodloužená) doba platnosti znamená, že po delším řízení může držiteli zbývat jen krátká doba platnosti. Doporučení: včas zvážit podání nové žádosti, blíží-li se konec původní platnosti.
+
+#### H. Praktický závěr
+
+§ 132 zajišťuje kontinuitu oprávnění: úspěšný rozklad (dle § 129 odst. 1, § 131 odst. 5 nebo 6) obnovuje platnost zrušeného osvědčení/dokladu ex lege dnem právní moci, se zachovanou původní dobou platnosti, a držiteli se vrací odevzdaná listina. Není namístě vydávat novou listinu s novou platností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o rozhodnutí o rozkladu podle § 129 odst. 1 anebo § 131 odst. 5 nebo 6?
+- [ ] Bylo původní osvědčení/doklad dříve odevzdáno (§ 66 odst. 1 písm. b), § 68 písm. a), § 87 odst. 1 písm. a)?
+- [ ] Byla obnova navázána na den nabytí právní moci rozhodnutí (ex lege)?
+- [ ] Vrátil Úřad účastníkovi odevzdanou listinu spolu s rozhodnutím o rozkladu?
+- [ ] Byla zachována původní doba platnosti (nikoli stanovena nová)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí ředitele o rozkladu s doložkou právní moci, doklad o dřívějším odevzdání osvědčení/dokladu, evidence doby platnosti, záznam o vrácení listiny účastníkovi.
 
 ---
 
@@ -1629,6 +3107,43 @@ Při soudním přezkumu **soud má přístup k utajeným podkladům**, ale úča
 
 Tato úprava byla opakovaně předmětem ústavněprávních a evropskoprávních sporů. ESLP a NSS v případech jako *Regner v. Česká republika* (2017) shledali úpravu konformní s čl. 6 EÚLP **za podmínky**, že soud má účinný přístup k podkladům a může je věcně přezkoumat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Řediteli Úřadu byl zamítnut rozklad a potvrzeno nevydání osvědčení fyzické osoby pro stupeň Tajné; rozhodnutí se opírá o utajovanou část bezpečnostního svazku, jejíž obsah nebyl účastníkovi I zpřístupněn a v odůvodnění je na ni pouze odkázáno. I podá správní žalobu. V soudním řízení Úřad označí okolnosti, k nimž podle něj nelze zprostit mlčenlivosti, a navrhne oddělení částí spisu. Účastníci: I (žalobce), NBÚ (žalovaný), správní soud (předseda senátu rozhodující o oddělení spisu). Důkazy: napadené rozhodnutí ředitele, bezpečnostní svazek (utajovaná i neutajovaná část), označení okolností Úřadem.
+
+**2. Právní otázka.** Je rozhodnutí ředitele přezkoumatelné, je-li odůvodněno odkazem na utajované informace, a jak soud zachází s utajovanou částí spisu při zachování práva na spravedlivý proces?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 133 ZOUI — přípustnost žaloby proti vyjmenovaným rozhodnutím ředitele (odst. 1), modifikace dokazování s ohledem na mlčenlivost o UI (odst. 2), oddělení utajovaných částí spisu předsedou senátu a vyloučení účastníka z nahlížení do nich (odst. 3).
+- *Související ustanovení téhož zákona:* § 131 (rozhodnutí ředitele o rozkladu — předmět přezkumu), § 89c (nahlížení do svazku), § 124 (bezpečnostní svazek), § 134 (subsidiarita).
+- *Související předpisy:* zákon č. 150/2002 Sb., soudní řád správní (pozn. 42 — žaloba, dokazování, nahlížení); čl. 6 EÚLP a čl. 36 a 38 Listiny (právo na spravedlivý proces a soudní ochranu).
+- *Judikatura:* NSS 5 A 45/2022 — 57 (soud „supluje" procesní aktivitu oslabeného účastníka a přezkoumá rozhodnutí i nad rámec žalobních námitek; žalovaný nemusí v rozhodnutí uvádět utajované důvody, postačí odkaz); ÚS II.ÚS 1392/11 (podmínky vyloučení částí spisu z nahlížení); ESLP *Regner proti České republice* (2017) — konformita s čl. 6 EÚLP za podmínky účinného soudního přezkumu.
+
+**4. Subsumpce.** Napadené rozhodnutí ředitele patří mezi rozhodnutí přezkoumatelná dle § 133 odst. 1 (potvrzení nevydání v rozkladu dle § 131). Skutečnost, že odůvodnění odkazuje na utajované informace, není sama o sobě vadou — dle ustálené judikatury žalovaný nemusí utajované důvody v rozhodnutí rozvádět, postačí odkaz. Soud má přístup k utajované části spisu, účastník nikoli (odst. 3); o oddělení částí rozhoduje předseda senátu, je-li dáno ohrožení činnosti zpravodajských služeb nebo policie. Aby bylo šetřeno právo na spravedlivý proces, soud zvýšeně přezkoumá rozhodnutí i nad rámec námitek a „supluje" oslabenou pozici účastníka.
+
+**5. Řešení.** Soud žalobu věcně projedná; vyžádá si kompletní spis včetně utajované části, do níž I nenahlíží. Předseda senátu rozhodne o oddělení těch částí, jejichž zpřístupnění by ohrozilo činnost zpravodajských služeb nebo policie. Soud aktivně přezkoumá zákonnost rozhodnutí ředitele, zda utajované podklady skutečně odůvodňují závěr o bezpečnostním riziku, a zváží poskytnutí alespoň anonymizovaných či agregovaných údajů I. Praktický krok pro I: namítat nepřezkoumatelnost a nedostatečnost podkladů; spoléhat na zesílenou přezkumnou roli soudu. Riziko: omezená možnost kontradiktorně reagovat na utajované důvody.
+
+**6. Varianty.** (a) Pokud by Úřad neoznačil okolnosti, k nimž nelze zprostit mlčenlivosti, nebo by oddělení nebylo důvodné, neměl by soud k oddělení přistoupit a účastník by získal širší přístup. (b) Pokud by šlo o rozhodnutí nespadající do výčtu § 133 odst. 1, žaloba by byla nepřípustná.
+
+#### G. Protiargumenty a rizika
+
+- **„Rozhodnutí je nepřezkoumatelné, protože neuvádí konkrétní důvody."** Nepřesné — podle NSS žalovaný nemusí utajované důvody v rozhodnutí rozvádět, postačí odkaz; přezkoumatelnost zajišťuje přístup soudu k utajované části spisu. Neutralizace: poukázat na zesílenou přezkumnou roli soudu.
+- **„Vyloučení účastníka z nahlížení porušuje čl. 6 EÚLP."** Nepřesné — ESLP (*Regner*) i ÚS aprobují úpravu za podmínky účinného soudního přezkumu a možnosti soudu poskytnout alespoň anonymizované údaje. Riziko: ochrana je nepřímá, realizovaná soudem, nikoli kontradikcí stran.
+- **Slabé místo:** asymetrie přístupu k podkladům oslabuje rovnost zbraní; účinnost ochrany závisí na aktivitě soudu. Doporučení: explicitně se dovolávat povinnosti soudu přezkoumat věc i nad rámec námitek a zvážit anonymizované zpřístupnění.
+
+#### H. Praktický závěr
+
+§ 133 umožňuje soudní přezkum vyjmenovaných rozhodnutí ředitele s tím, že soud má přístup k utajovaným podkladům, účastník nikoli; ústavní konformita je zajištěna zesílenou přezkumnou rolí soudu (NSS, ÚS, ESLP *Regner*). Klíčové je správné určení přípustnosti žaloby a režimu oddělení spisu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá napadené rozhodnutí ředitele do výčtu přezkoumatelných rozhodnutí dle § 133 odst. 1?
+- [ ] Označil Úřad okolnosti, k nimž tvrdí, že nelze zprostit mlčenlivosti (odst. 3)?
+- [ ] Rozhodl předseda senátu o oddělení částí spisu a je oddělení důvodné (ohrožení činnosti služeb/policie)?
+- [ ] Přezkoumal soud rozhodnutí i nad rámec žalobních námitek (oslabená pozice účastníka)?
+- [ ] Zvážil soud poskytnutí alespoň anonymizovaných či agregovaných údajů účastníkovi?
+
+**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí ředitele a jeho odůvodnění, kompletní bezpečnostní svazek (utajovaná i neutajovaná část), označení okolností Úřadem, žaloba a procesní návrhy stran.
+
 ---
 
 ### § 134 — Subsidiarita
@@ -1640,6 +3155,43 @@ Tato úprava byla opakovaně předmětem ústavněprávních a evropskoprávníc
 **Výklad:**
 
 § 134 zakotvuje **vnitřní subsidiaritu** — pro řízení o rozkladu se přiměřeně použijí ustanovení o řízení v prvním stupni. To zaručuje koherenci procesní úpravy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení o rozkladu proti rozhodnutí o nevydání osvědčení vznikne procesní otázka, kterou ustanovení o rozkladu (§ 125 až 132) výslovně neupravují — konkrétně způsob doručování písemnosti účastníkovi, který se zdržuje v zahraničí, a běh lhůt. Ředitel Úřadu, resp. rozkladová komise, hledá použitelné pravidlo. Účastníci: účastník řízení (rozkladatel), NBÚ (ředitel a rozkladová komise). Důkazy: spis o rozkladu, doklady o pobytu účastníka, dosavadní procesní úkony.
+
+**2. Právní otázka.** Podle jakého ustanovení se postupuje v otázce, kterou úprava řízení o rozkladu (§ 125 až 132) výslovně neřeší?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 134 ZOUI — subsidiární použití ustanovení § 89 až 124 pro řízení o rozkladu, není-li v § 125 až 132 stanoveno jinak.
+- *Související ustanovení téhož zákona:* § 120 (doručování), § 117–119 (lhůty, jejich prodloužení a počítání), § 89 až 124 obecně (řízení v prvním stupni), § 125 až 132 (zvláštní úprava rozkladu).
+- *Související předpisy:* správní řád (zákon č. 500/2004 Sb.) — subsidiárně až za ustanoveními ZOUI (viz § 159); použije se teprve tam, kde mlčí i § 89 až 124.
+- *Judikatura:* obecné zásady k aplikaci subsidiárních ustanovení (lex specialis derogat legi generali, postupné vrstvení úprav).
+
+**4. Subsumpce.** Protože otázka doručování a lhůt není v § 125 až 132 (zvláštní úprava rozkladu) řešena, nastupuje subsidiárně úprava řízení v prvním stupni podle § 89 až 124 — zde zejména § 120 (doručování) a § 117 až 119 (lhůty). Teprve pokud by mlčela i tato úprava, použil by se subsidiárně správní řád (§ 159). Vzniká tak třístupňová hierarchie: (i) § 125–132, (ii) § 89–124, (iii) správní řád.
+
+**5. Řešení.** Ředitel, resp. rozkladová komise, použije pro doručování § 120 a pro běh lhůt § 117 až 119 (obdobně, skrze § 134). Postup se tedy řídí pravidly prvostupňového řízení, není-li pro rozklad stanoveno jinak. Praktický krok: nejprve ověřit, zda úpravu neobsahují § 125–132 (přednost), poté sáhnout k § 89–124. Riziko: nesprávné přeskočení vrstvy (přímá aplikace správního řádu tam, kde řešení nabízí § 89–124) je vadou řízení.
+
+**6. Varianty.** (a) Pokud by konkrétní otázku výslovně upravovala některá z norem § 125 až 132, subsidiarita by se neuplatnila a postupovalo by se podle zvláštní úpravy. (b) Pokud by mlčely jak § 125–132, tak § 89–124, nastoupil by subsidiárně správní řád dle § 159.
+
+#### G. Protiargumenty a rizika
+
+- **„V řízení o rozkladu se přímo použije správní řád."** Nepřesné — § 134 nejprve odkazuje na § 89 až 124 (prvostupňové řízení); správní řád nastupuje až za nimi (§ 159). Neutralizace: respektovat pořadí vrstev úpravy.
+- **„Ustanovení o prvním stupni nelze v rozkladu použít, jde o jiné řízení."** Nesprávné — § 134 výslovně přikazuje jejich obdobné použití, čímž zajišťuje koherenci. Riziko: „obdobné" použití vyžaduje přizpůsobení specifikům rozkladu.
+- **Slabé místo:** identifikace, zda zvláštní úprava (§ 125–132) danou otázku „řeší jinak", může být sporná; chybné posouzení vede k aplikaci nesprávného pravidla. Doporučení: pečlivě porovnat zvláštní a obecnou úpravu.
+
+#### H. Praktický závěr
+
+§ 134 zakládá vnitřní subsidiaritu: v řízení o rozkladu se obdobně použijí ustanovení o prvostupňovém řízení (§ 89 až 124), neupravují-li věc zvláštní ustanovení o rozkladu (§ 125 až 132); teprve poté nastupuje správní řád. Vzniká třístupňová hierarchie pravidel.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Upravují danou procesní otázku zvláštní ustanovení o rozkladu (§ 125 až 132)?
+- [ ] Pokud ne, nabízí řešení obecná úprava prvostupňového řízení (§ 89 až 124)?
+- [ ] Je obecné ustanovení použito „obdobně", tj. s přizpůsobením specifikům rozkladu?
+- [ ] Nastupuje správní řád teprve tam, kde mlčí i § 89 až 124 (§ 159)?
+- [ ] Nebyla přeskočena některá vrstva hierarchie úpravy?
+
+**Typicky rozhodné důkazy / podklady:** spis o rozkladu, srovnání zvláštní (§ 125–132) a obecné (§ 89–124) úpravy k dané otázce, doklady o procesních úkonech (doručení, lhůty).
 
 ---
 
@@ -1654,6 +3206,43 @@ Tato úprava byla opakovaně předmětem ústavněprávních a evropskoprávníc
 **Výklad:**
 
 § 135 deleguje **NBÚ** pravomoc upravit prováděcí vyhláškou (viz též § 158) detaily formulářů a procesních postupů. Aktuální prováděcí vyhláška je vyhláška NBÚ č. 363/2011 Sb., o personální bezpečnosti a o bezpečnostní způsobilosti, ve znění pozdějších předpisů (resp. její nástupkyně).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** NBÚ v prováděcí vyhlášce stanoví rozsah údajů dotazníku fyzické osoby tak, že požaduje i údaje, které jdou nad rámec mezí naznačených v § 135 a v zákonných ustanoveních o dotazníku. Žadatel H namítá, že vyhláška překračuje zákonné zmocnění (jde *ultra vires*) a požadované údaje není povinen uvádět. Účastníci: NBÚ (autor vyhlášky a správní orgán), H (žadatel-účastník řízení). Důkazy: text vyhlášky, znění § 135 a souvisejících zákonných ustanovení, dotazníkový formulář.
+
+**2. Právní otázka.** Může prováděcí vyhláška NBÚ rozšířit rozsah požadovaných údajů nad rámec zákonného zmocnění podle § 135, a je takové ustanovení vyhlášky pro žadatele závazné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 135 ZOUI — zmocnění k vydání prováděcího právního předpisu pro vzory a rozsah žádostí, dotazníků a písemností a další taxativně vymezené okruhy.
+- *Související ustanovení téhož zákona:* § 158 (zmocňovací ustanovení), § 94–95 a § 99–100 (žádosti a dotazníky, jejichž detaily vyhláška upravuje), § 6 a § 11 (rámec podmínek přístupu k UI).
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (meze podzákonné normotvorby — jen na základě a v mezích zákona); vyhláška NBÚ č. 363/2011 Sb. (resp. její nástupkyně); zákon č. 110/2019 Sb. (zpracování osobních údajů — proporcionalita rozsahu).
+- *Judikatura:* judikatura ÚS k zákazu překročení zákonného zmocnění podzákonným předpisem (akty *ultra vires* nejsou závazné); zásada, že podzákonný předpis nesmí ukládat povinnosti nad rámec zákona.
+
+**4. Subsumpce.** Zmocnění v § 135 je rámcové a taxativní — vyhláška může stanovit „rozsah údajů dotazníku" a „rozsah a formu písemností", avšak jen v mezích zákona (čl. 79 odst. 3 Ústavy). Pokud vyhláška ukládá povinnost poskytnout údaje nad rámec toho, co zákon předpokládá, jde o překročení zmocnění (*ultra vires*). Taková část vyhlášky není pro adresáta závazná a soud k ní v konkrétním řízení nepřihlédne (incidentní kontrola).
+
+**5. Řešení.** Je nutné porovnat napadené ustanovení vyhlášky se zákonným zmocněním (§ 135) a s ustanoveními o dotaznících. Překračuje-li vyhláška zmocnění, žadatel H není povinen sporné údaje uvádět a jejich neuvedení nelze klást k tíži; v soudním přezkumu lze namítat nezákonnost vyhlášky incidentně. Drží-li se naopak vyhláška v mezích zmocnění a rozsah údajů je proporcionální účelu (ověření bezpečnostní spolehlivosti), je závazná. Praktický krok: identifikovat konkrétní položku a zmocňovací oporu.
+
+**6. Varianty.** (a) Pokud by sporné údaje měly oporu přímo v zákoně (např. v § 95), nešlo by o překročení zmocnění a povinnost by trvala. (b) Pokud by vyhláška jen upřesnila formu formuláře beze změny rozsahu povinností, námitka *ultra vires* by neobstála.
+
+#### G. Protiargumenty a rizika
+
+- **„Vyhláška NBÚ je závazná bez dalšího."** Nepřesné — podzákonný předpis je závazný jen v mezích zákonného zmocnění (čl. 79 odst. 3 Ústavy); část překračující zmocnění závazná není. Neutralizace: incidentní kontrola zákonnosti vyhlášky v konkrétním řízení.
+- **„Rozsah dotazníku je čistě věcí NBÚ."** Nepřesné — rozsah musí mít zákonnou oporu a být proporcionální účelu prověření; nadměrný zásah do soukromí je napadnutelný. Riziko: hranice proporcionality je výkladově citlivá.
+- **Slabé místo:** běžnému žadateli chybí nástroj abstraktní kontroly vyhlášky; brání se až incidentně v rámci přezkumu rozhodnutí. Doporučení: námitku *ultra vires* uplatnit v řízení a posléze v žalobě.
+
+#### H. Praktický závěr
+
+§ 135 zmocňuje NBÚ k vydání prováděcí vyhlášky upravující vzory a rozsah žádostí, dotazníků a písemností, avšak jen v mezích zákona; ustanovení vyhlášky překračující zmocnění nejsou závazná. Klíčové je porovnání vyhlášky se zákonným zmocněním a s ústavními mezemi podzákonné normotvorby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá obsah vyhlášky do některého z taxativních okruhů zmocnění dle § 135?
+- [ ] Nepřekračuje vyhláška zákonné zmocnění (čl. 79 odst. 3 Ústavy)?
+- [ ] Je požadovaný rozsah údajů proporcionální účelu bezpečnostního prověření?
+- [ ] Lze případnou nezákonnost vyhlášky namítnout incidentně v přezkumu rozhodnutí?
+- [ ] Má sporný požadavek oporu i přímo v zákoně (např. § 95), nejen ve vyhlášce?
+
+**Typicky rozhodné důkazy / podklady:** text prováděcí vyhlášky a její zmocňovací ustanovení, znění § 135 a souvisejících paragrafů o dotaznících, dotazníkový formulář, odůvodnění účelu požadovaných údajů.
 
 ---
 
@@ -1703,6 +3292,43 @@ Tato úprava poskytuje **parlamentní vliv** na obsazování klíčové bezpečn
 Zaměstnanci NBÚ podléhají **zákoníku práce** a Platovému řádu Úřadu, který vydává ředitel po schválení **rozpočtovým výborem PS**. Tato úprava odchýlí pracovněprávní vztahy NBÚ od režimu **státní služby** (zákon č. 234/2014 Sb.) — to je dáno zvláštní povahou bezpečnostních úkolů Úřadu. Schválení Platového řádu PS zaručuje parlamentní kontrolu nad rozpočtovým dopadem.
 
 > **Praktický rozměr:** NBÚ má cca 350–400 zaměstnanců (před převedením kyberagendy na NÚKIB v r. 2017 měl přes 500). Roční rozpočet se pohybuje v řádu nižších stovek milionů Kč. Ředitel je zpravidla z profesního prostředí zpravodajských služeb nebo bezpečnostního aparátu Ministerstva obrany.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vláda hodlá odvolat ředitele NBÚ G v reakci na medializovaný bezpečnostní incident. Učiní tak usnesením vlády, aniž věc předem projedná ve výboru Poslanecké sněmovny příslušném ve věcech bezpečnosti. G namítá, že odvolání je vadné pro absenci projednání, a dále zpochybňuje, komu je vlastně odpovědný. Účastníci: vláda (jmenující a odvolávající orgán), G (ředitel NBÚ), výbor PS, předseda vlády. Důkazy: usnesení vlády o odvolání, jednací podklady, doklad o (ne)projednání ve výboru.
+
+**2. Právní otázka.** Je k jmenování a odvolání ředitele NBÚ nutné předchozí projednání ve výboru PS jako podmínka platnosti, a komu je ředitel odpovědný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 136 ZOUI — postavení NBÚ jako ústředního správního úřadu (odst. 1), jmenování a odvolání ředitele vládou po projednání ve výboru PS (odst. 2), odpovědnost ředitele předsedovi vlády nebo pověřenému členu vlády (odst. 3), platový režim zaměstnanců (odst. 4).
+- *Související ustanovení téhož zákona:* § 137 (působnost NBÚ vykonávaná pod vedením ředitele), § 145 (parlamentní kontrola NBÚ), § 131 (ředitel jako orgán rozhodující o rozkladu — význam funkce).
+- *Související předpisy:* zákon č. 2/1969 Sb., kompetenční zákon (NBÚ jako ústřední orgán státní správy); zákon č. 234/2014 Sb., o státní službě (z jehož režimu jsou zaměstnanci NBÚ vyňati); zákoník práce a Platový řád Úřadu.
+- *Judikatura:* obecná judikatura k povaze „projednání" jako konzultace (nikoli souhlasu) a k důsledkům jejího opomenutí pro platnost aktu jmenování/odvolání.
+
+**4. Subsumpce.** Jmenování i odvolání ředitele provádí vláda „po projednání ve výboru" (odst. 2). „Projednání" je politická konzultace, nikoli souhlas — vláda jím není vázána co do výsledku, avšak procesně má proběhnout. Opomenutí projednání je vadou procesu; jeho právní následek (zda způsobuje neplatnost odvolání) je sporný — převažuje názor, že jde o pořádkovou podmínku, jejíž nedodržení nečiní akt automaticky neplatným, je-li jinak v pravomoci vlády. Odpovědnost ředitele směřuje k předsedovi vlády nebo pověřenému členu vlády (odst. 3).
+
+**5. Řešení.** Odvolání ředitele je v pravomoci vlády; absence projednání ve výboru PS je procesním pochybením, které je vhodné napravit dodatečným projednáním, samo o sobě však zpravidla nezakládá neplatnost odvolacího aktu (jde o konzultativní, nikoli schvalovací prvek). Odpovědnost G je vůči předsedovi vlády, resp. pověřenému členu vlády. Praktický krok: doložit proběhnutí projednání pro vyloučení sporu. Riziko: politizace funkce a oslabení nezávislosti úřadu.
+
+**6. Varianty.** (a) Pokud by zákon vyžadoval „souhlas" výboru (a nikoli jen „projednání"), absence souhlasu by činila akt vadným v silnějším smyslu. (b) Pokud by šlo o vydání Platového řádu Úřadu, vyžadovalo by se schválení rozpočtovým výborem PS (odst. 4) — zde jde o schvalovací, nikoli konzultativní prvek.
+
+#### G. Protiargumenty a rizika
+
+- **„Bez souhlasu výboru PS nelze ředitele odvolat."** Nepřesné — zákon vyžaduje „projednání", tj. konzultaci, nikoli souhlas; vláda jím není vázána. Neutralizace: odlišit „projednání" od „souhlasu" a poukázat na pravomoc vlády.
+- **„Ředitel NBÚ je odpovědný Poslanecké sněmovně."** Nesprávné — odpovědnost směřuje k předsedovi vlády nebo pověřenému členu vlády (odst. 3); PS vykonává pouze kontrolu (§ 145). Riziko: záměna kontroly a odpovědnosti.
+- **Slabé místo:** zákon výslovně neupravuje následek opomenutí projednání, což vyvolává výkladovou nejistotu o platnosti odvolání. Doporučení: projednání vždy provést a zdokumentovat, aby spor nevznikl.
+
+#### H. Praktický závěr
+
+§ 136 zakotvuje NBÚ jako ústřední správní úřad a vymezuje postavení ředitele: jmenuje a odvolává jej vláda po (konzultativním) projednání ve výboru PS, ředitel je odpovědný předsedovi vlády nebo pověřenému členu vlády a zaměstnanci podléhají zákoníku práce a Platovému řádu schválenému rozpočtovým výborem PS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Provádí jmenování/odvolání ředitele vláda (nikoli jiný orgán)?
+- [ ] Proběhlo (a je doloženo) projednání ve výboru PS příslušném ve věcech bezpečnosti?
+- [ ] Je správně určen adresát odpovědnosti ředitele (předseda vlády / pověřený člen vlády)?
+- [ ] Byl Platový řád Úřadu schválen rozpočtovým výborem PS (odst. 4)?
+- [ ] Není zaměňována kontrola PS (§ 145) s odpovědností ředitele (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády o jmenování/odvolání, zápis o projednání ve výboru PS, Platový řád Úřadu a doklad o jeho schválení, vnitřní předpisy NBÚ.
 
 ---
 
@@ -1773,6 +3399,43 @@ NBÚ vede **ústřední registr** utajovaných informací — primárně meziná
 #### Veřejně přístupný seznam (písm. l))
 
 NBÚ zveřejňuje seznam osvědčení a dokladů na svých internetových stránkách. Tato úprava (vložená pozdější novelou) zajišťuje **transparentnost** systému a usnadňuje ověření platnosti veřejné listiny třetími osobami. Současně jde o citlivou agendu, neboť **identifikuje osoby s přístupem k UI** — proto jsou zveřejňovány **pouze určité kategorie** (§ 60a — bezpečnostní oprávnění, § 80a — krizová situace).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bezpečnostní úřad spojeneckého státu NATO požádá NBÚ, aby provedl úkony bezpečnostního řízení vůči občanu ČR F, který je v daném státě prověřován pro přístup k utajovaným informacím NATO. Současně jiný orgán státu ČR žádá NBÚ o schválení zřízení vlastního registru utajovaných informací podle § 60b. Účastníci: bezpečnostní úřad cizí moci (žadatel o úkony), F (osoba prověřovaná v cizině), orgán státu ČR (žadatel o registr), NBÚ. Důkazy: žádost cizího bezpečnostního úřadu, mezinárodní smlouva o ochraně UI, dokumentace ke zřízení registru.
+
+**2. Právní otázka.** Je NBÚ oprávněn provádět úkony řízení k osobě prověřované cizím bezpečnostním úřadem a schvalovat zřízení registru UI u orgánu státu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 137 ZOUI — katalog působnosti NBÚ, zejm. plnění úkolů v souladu se závazky z členství v EU a NATO a provádění úkonů řízení k osobě prověřované cizím státem (písm. c), vedení ústředního registru a schvalování zřízení registrů (písm. d), mezinárodní spolupráce (písm. c, e, f).
+- *Související ustanovení téhož zákona:* § 60b (registry u orgánů státu, právnických osob a podnikatelů), § 138 (oprávnění NBÚ k získávání informací), § 137a (působnost NÚKIB — odlišení), § 140 odst. 1 písm. a) a § 141 odst. 1 (výjimky z rozhodovací působnosti NBÚ).
+- *Související předpisy:* mezinárodní smlouvy o vzájemné ochraně utajovaných informací; bezpečnostní pravidla NATO (NATO Security Committee) a EU; zákon č. 2/1969 Sb. (postavení NBÚ jako ústředního správního úřadu).
+- *Judikatura:* zde primárně výklad kompetencí; obecně k závaznosti mezinárodních smluv (čl. 10 Ústavy) pro výkon působnosti orgánu.
+
+**4. Subsumpce.** Provedení úkonů řízení k osobě F prověřované cizím bezpečnostním úřadem členského státu NATO výslovně spadá pod § 137 písm. c) (NBÚ jako národní bezpečnostní úřad — NSA — provádí úkony na žádost cizího úřadu). Schválení zřízení registru UI u orgánu státu spadá pod § 137 písm. d) (NBÚ schvaluje zřízení registrů v orgánech státu, u PO dle § 60b a u podnikatelů). Obě žádosti tedy odpovídají zákonné působnosti NBÚ.
+
+**5. Řešení.** NBÚ na žádost cizího bezpečnostního úřadu provede úkony řízení vůči F v rozsahu daném mezinárodní smlouvou a § 137 písm. c) (k tomu využije oprávnění dle § 138). Žádost orgánu státu o zřízení registru NBÚ posoudí a při splnění podmínek § 60b schválí (písm. d). Praktický krok: ověřit existenci a rozsah mezinárodní smlouvy a kategorii registru. Riziko: překročení rámce smlouvy při poskytování informací cizímu úřadu.
+
+**6. Varianty.** (a) Pokud by šlo o rozhodnutí o žádosti příslušníka zpravodajské služby nebo vybraného policisty, NBÚ by nebyl příslušný (výjimky dle § 140 odst. 1 a § 141 odst. 1). (b) Pokud by žádost směřovala k certifikaci informačního systému registru, příslušným by byl NÚKIB (§ 137a).
+
+#### G. Protiargumenty a rizika
+
+- **„NBÚ nemůže prověřovat osobu pro cizí stát."** Nesprávné — § 137 písm. c) výslovně zakládá oprávnění provádět úkony řízení k osobě prověřované cizím bezpečnostním úřadem členského státu NATO/EU nebo smluvního státu. Neutralizace: odkaz na roli NBÚ jako NSA a na mezinárodní smlouvu.
+- **„Registr UI si může orgán zřídit sám bez NBÚ."** Nesprávné — zřízení registru u orgánu státu, PO dle § 60b a podnikatelů schvaluje NBÚ (písm. d). Riziko: provoz neschváleného registru je porušením předpisů o ochraně UI.
+- **Slabé místo:** katalog působnosti je rozsáhlý a po roce 2017 se překrývá s NÚKIB v technické oblasti; nesprávné podřazení může vést k podání u nepříslušného úřadu. Doporučení: u technicko-certifikační agendy ověřit hranici vůči § 137a.
+
+#### H. Praktický závěr
+
+§ 137 vymezuje NBÚ jako ústřední správní úřad pro ochranu UI a bezpečnostní způsobilost s rozhodovací, kontrolní, mezinárodní, registrační a normotvornou působností; vystupuje jako národní bezpečnostní úřad (NSA) ve vztahu k NATO a EU. Klíčové je odlišení od působnosti NÚKIB (§ 137a) a výjimek dle § 140 a § 141.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá věc do některé z položek působnosti NBÚ dle § 137 (rozhodování, kontrola, mezinárodní spolupráce, registry, standardy)?
+- [ ] Nejde o výjimku svěřenou zpravodajské službě (§ 140 odst. 1) nebo MV (§ 141 odst. 1)?
+- [ ] U mezinárodní spolupráce: existuje a pokrývá daný úkon příslušná mezinárodní smlouva nebo závazek z členství v EU/NATO?
+- [ ] U registru UI: byla podána žádost o schválení jeho zřízení dle písm. d) a § 60b?
+- [ ] Nejde o technicko-certifikační agendu spadající pod NÚKIB (§ 137a)?
+
+**Typicky rozhodné důkazy / podklady:** žádost (FO/podnikatele/cizího úřadu), mezinárodní smlouva o ochraně UI, dokumentace ke zřízení registru, podklady řízení dle § 138, případně Věstník NBÚ a bezpečnostní standardy.
 
 ---
 
@@ -1846,6 +3509,43 @@ Tato střediska jsou pokračováním obdobných středisek dříve provozovanýc
 #### Národní šifrové algoritmy (písm. g))
 
 NÚKIB **vyvíjí a schvaluje národní šifrové algoritmy** — klíčový atribut suverénní kryptografie ČR. Tato kompetence je rovněž svěřena ve smyslu závazků v rámci NATO a EU (kompatibilita národních systémů se spojeneckými systémy).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán státu hodlá uvést do provozu nový informační systém, v němž bude nakládat s utajovanou informací stupně Důvěrné, a komunikační systém pro přenos těchto informací. Odpovědná osoba se obrátí na NBÚ s žádostí o certifikaci informačního systému a schválení projektu bezpečnosti komunikačního systému. NBÚ žádost odmítne s tím, že není věcně příslušný. Účastníci: orgán státu (žadatel), NBÚ (odmítající), NÚKIB (věcně příslušný úřad). Důkazy: žádost o certifikaci, dokumentace IS a komunikačního systému, sdělení NBÚ o nepříslušnosti.
+
+**2. Právní otázka.** Který úřad je věcně příslušný k certifikaci informačního systému a ke schválení projektu bezpečnosti komunikačního systému pro nakládání s UI?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 137a ZOUI — působnost NÚKIB, zejm. certifikace a akreditace informačního systému a schvalování projektu bezpečnosti komunikačního systému (písm. e), kryptografická ochrana (písm. f, g), bezpečnostní standardy (písm. j), ukládání správních trestů (písm. k).
+- *Související ustanovení téhož zákona:* § 137 (působnost NBÚ — bez certifikace IS), § 138 odst. 6 (oprávnění NÚKIB), § 34 a násl. (certifikace a provoz IS/komunikačních systémů), § 156 (rozdělení projednávací pravomoci za přestupky).
+- *Související předpisy:* zákon č. 205/2017 Sb. (vznik NÚKIB vyčleněním z NBÚ od 1. 8. 2017); zákon č. 181/2014 Sb., o kybernetické bezpečnosti; prováděcí vyhlášky o bezpečnosti informačních a komunikačních systémů.
+- *Judikatura:* zde primárně kompetenční výklad; obecně k důsledkům rozhodnutí věcně nepříslušného orgánu (nicotnost/zrušitelnost).
+
+**4. Subsumpce.** Certifikace a akreditace informačního systému a schválení projektu bezpečnosti komunikačního systému spadají výslovně do působnosti NÚKIB podle § 137a písm. e), nikoli NBÚ (§ 137 ponechává NBÚ jen certifikaci „technického prostředku" dle písm. g). Po vyčlenění agendy zákonem č. 205/2017 Sb. je věcně příslušným úřadem NÚKIB. Odmítnutí NBÚ pro nepříslušnost je tedy správné a žadatel se musí obrátit na NÚKIB.
+
+**5. Řešení.** Orgán státu podá žádost o certifikaci/akreditaci IS a schválení projektu bezpečnosti komunikačního systému u NÚKIB. NÚKIB provede certifikaci podle § 137a písm. e) a navazujících ustanovení o provozu systémů. Praktický krok: rozlišit, co spadá pod NBÚ (personální bezpečnost, bezpečnostní řízení, certifikace technických prostředků jiných než IS) a co pod NÚKIB (IS, komunikační systémy, kryptografie). Riziko: rozhodnutí věcně nepříslušného úřadu by mohlo být stiženo vadou.
+
+**6. Varianty.** (a) Pokud by orgán žádal o vydání osvědčení fyzické osoby pro obsluhu systému, byl by příslušný NBÚ (§ 137), neboť personální bezpečnost zůstala NBÚ. (b) Pokud by šlo o zkoušku zvláštní odborné způsobilosti pracovníka kryptografické ochrany, příslušný by byl NÚKIB podle § 137a písm. a).
+
+#### G. Protiargumenty a rizika
+
+- **„Veškerá bezpečnost UI je v gesci NBÚ."** Nesprávné — od roku 2017 je kybernetická a kryptografická agenda (certifikace IS, komunikačních systémů, kryptografie) svěřena NÚKIB (§ 137a); NBÚ si ponechal personální a administrativní bezpečnost. Neutralizace: odkaz na zákon č. 205/2017 Sb. a dělbu působnosti.
+- **„Certifikaci technického prostředku provádí vždy NÚKIB."** Nepřesné — certifikace „technického prostředku" (jiného než IS) zůstává NBÚ (§ 137 písm. g), zatímco certifikace IS a kryptografických prostředků náleží NÚKIB (§ 137a písm. e). Riziko: záměna kategorií vede k podání u nesprávného úřadu.
+- **Slabé místo:** hranice mezi „technickým prostředkem" (NBÚ) a „informačním systémem/kryptografickým prostředkem" (NÚKIB) může být v konkrétním případě nejasná. Doporučení: při pochybnostech ověřit příslušnost dotazem u obou úřadů před podáním žádosti.
+
+#### H. Praktický závěr
+
+§ 137a vymezuje působnost NÚKIB jako úřadu pro kybernetickou a informační bezpečnost (certifikace IS, komunikačních systémů, kryptografie, zkoušky zvláštní odborné způsobilosti) po jeho vyčlenění z NBÚ v roce 2017. Klíčové je správné rozlišení působnosti NBÚ vs. NÚKIB.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se věc certifikace/akreditace IS, komunikačního systému nebo kryptografie (→ NÚKIB) nebo personální bezpečnosti a technických prostředků jiných než IS (→ NBÚ)?
+- [ ] Je žádost podána u věcně příslušného úřadu (§ 137a vs. § 137)?
+- [ ] Jde o zkoušku zvláštní odborné způsobilosti (→ NÚKIB, písm. a)?
+- [ ] Není namístě přizvání NÚKIB ke kontrole NBÚ dle § 143 odst. 5?
+- [ ] Odpovídá uložení sankce rozdělení projednávací pravomoci dle § 156?
+
+**Typicky rozhodné důkazy / podklady:** žádost o certifikaci/akreditaci, technická a bezpečnostní dokumentace IS/komunikačního systému, sdělení úřadu o (ne)příslušnosti, doklady o vydaných certifikátech.
 
 ---
 
@@ -1934,6 +3634,43 @@ Tato pravidelná synchronizace zaručuje **aktuálnost informací** ve všech re
 
 Odst. 6 zakotvuje obdobnou (ale užší) sadu pravomocí pro NÚKIB — v rozsahu jeho působnosti podle § 137a.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** NBÚ vede bezpečnostní řízení o žádosti fyzické osoby E o vydání osvědčení stupně Tajné. K ověření bezúhonnosti a možných rizik si vyžádá opis z evidence Rejstříku trestů a opis z evidence přestupků, dále nahlédnutí do trestního spisu vedeného u soudu, v němž E figuruje jako svědek, a informace od zpravodajské služby získané jejími postupy. Soud (resp. orgán vedoucí spis) odmítne nahlížení s odůvodněním ohrožení důležitého zájmu probíhajícího řízení. Účastníci: NBÚ (oprávněný orgán), E (účastník řízení), soud/zpravodajská služba (dožádané orgány). Důkazy: žádost a dotazník FO, opisy z RT a evidence přestupků, sdělení o odmítnutí nahlížení.
+
+**2. Právní otázka.** V jakém rozsahu je NBÚ oprávněn získávat informace pro účely řízení a může dožádaný orgán (soud, zpravodajská služba) nahlížení odmítnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 138 ZOUI — oprávnění NBÚ zpracovávat osobní údaje a vést evidence (odst. 1 písm. a, b, i), vyžadovat informace, opisy z RT a evidence přestupků a nahlížet do spisů (odst. 1 písm. c–f), možnost odmítnutí nahlížení a vyloučení svazku dle § 124 (odst. 2), pravidelný informační tok (odst. 3).
+- *Související ustanovení téhož zákona:* § 107 a násl. (úkony v řízení), § 124 (bezpečnostní svazek vyloučený z nahlížení), § 13–14 (bezpečnostní rizika), § 140 a § 141 (paralelní oprávnění zpravodajských služeb a MV).
+- *Související předpisy:* zákon č. 269/1994 Sb., o Rejstříku trestů (opisy a výpisy); zvláštní zákony o zpravodajských službách (postupy dle pozn. 43); zákon č. 110/2019 Sb., o zpracování osobních údajů (rámec pro odst. 1 písm. a).
+- *Judikatura:* II.ÚS 1392/11 a 5 A 45/2022 — k omezenému přístupu účastníka k utajované části svazku a k roli soudu při přezkumu; obecně k zákonnosti zpracování osobních údajů orgánem veřejné moci.
+
+**4. Subsumpce.** NBÚ je při plnění úkolů oprávněn zpracovávat osobní údaje v rozsahu nezbytném pro řízení (odst. 1 písm. a), vyžádat opisy z RT a evidence přestupků (písm. e) a nahlížet do trestních a soudních spisů (písm. f). Odmítnutí nahlížení je předvídáno v odst. 2 — zpravodajská služba může nahlížení do svých spisů odmítnout vždy; jiný orgán veřejné moci může odmítnout, pokud by zpřístupnění ohrozilo jeho důležitý zájem, s tím, že po odpadnutí důvodu spis zpřístupní. Bezpečnostní svazek dle § 124 je z nahlížení vyloučen zcela.
+
+**5. Řešení.** NBÚ získá opisy z RT a evidence přestupků a vyžádá nahlížení do trestního spisu. Odmítne-li soud nahlížení z důvodu ohrožení důležitého zájmu (odst. 2), NBÚ je povinen to respektovat; po odpadnutí důvodu mu soud spis zpřístupní. Informace zpravodajské služby získané jejími postupy NBÚ využije pro řízení (písm. d), avšak nahlížení do spisů zpravodajské služby může být odmítnuto. NBÚ na podkladě dostupných informací posoudí bezpečnostní rizika E (§ 14) a rozhodne. Procesně: zpracování osobních údajů jen v nezbytném rozsahu.
+
+**6. Varianty.** (a) Pokud by požadovaná informace byla obsažena v bezpečnostním svazku dle § 124, NBÚ by do něj nahlížet nemohl (vyloučení v odst. 2). (b) Pokud by šlo o oprávnění NÚKIB, uplatnil by se užší katalog dle odst. 6 (zpracování údajů, evidence, certifikační spisy), nikoli plný katalog NBÚ.
+
+#### G. Protiargumenty a rizika
+
+- **„NBÚ si může vyžádat a nahlédnout do čehokoli."** Nesprávné — odst. 2 umožňuje odmítnutí nahlížení (vždy u zpravodajské služby, jinde při ohrožení důležitého zájmu) a vylučuje svazek dle § 124; navíc zpracování osobních údajů je vázáno na nezbytnost. Neutralizace: respektovat zákonné limity a vyloučení.
+- **„Odmítnutím nahlížení soudem je řízení zmařeno."** Nesprávné — po odpadnutí důvodu se spis zpřístupní; do té doby NBÚ vychází z jinak dostupných podkladů, případně řízení procesně ošetří. Riziko: prodlení může ovlivnit lhůty řízení.
+- **Slabé místo:** rozsáhlé zpracování osobních údajů a omezený přístup účastníka k utajované části vyvolávají napětí s právem na spravedlivý proces; ústavně je akceptováno jen za podmínky účinného soudního přezkumu. Doporučení: dbát na přezkoumatelnost a minimalizaci zpracování.
+
+#### H. Praktický závěr
+
+§ 138 vymezuje operační repertoár NBÚ pro získávání, zpracování a sdílení informací (a v užším rozsahu NÚKIB dle odst. 6); klíčové jsou limity nahlížení (odst. 2), vyloučení svazku dle § 124 a vázanost zpracování osobních údajů na nezbytnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se získávání informací o konkrétní oprávnění v odst. 1 (písm. a–l)?
+- [ ] Je zpracování osobních údajů omezeno na rozsah nezbytný pro řízení (odst. 1 písm. a)?
+- [ ] Bylo respektováno případné odmítnutí nahlížení (odst. 2) a vyloučení svazku dle § 124?
+- [ ] Jde-li o NÚKIB, pohybuje se v užším katalogu dle odst. 6?
+- [ ] Je zajištěn pravidelný informační tok dle odst. 3 vůči dotčeným složkám?
+
+**Typicky rozhodné důkazy / podklady:** žádost a dotazník FO, opisy z RT a evidence přestupků, výpisy z trestních/soudních spisů, sdělení o odmítnutí nahlížení, doklad o rozsahu a účelu zpracování osobních údajů.
+
 ---
 
 ### § 138b — Spolupráce NBÚ a NÚKIB
@@ -1945,6 +3682,43 @@ Odst. 6 zakotvuje obdobnou (ale užší) sadu pravomocí pro NÚKIB — v rozsah
 **Výklad:**
 
 Toto ustanovení zaručuje **informační kontinuitu** mezi oběma úřady navzdory jejich oddělení. NÚKIB předá NBÚ oznámení o porušeních pravidel ochrany IT systémů, kryptografického materiálu a souvisejících záležitostí. Tato úprava je nezbytná pro **jednotnou bezpečnostní reflexi** — NBÚ je primárním rozhodovacím orgánem v personální bezpečnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** NÚKIB obdrží od odpovědné osoby orgánu státu oznámení podle § 43 odst. 2, že došlo k porušení ochrany utajované informace v komunikačním systému (kompromitace kryptografického klíče v důsledku selhání obsluhy). Oznámení se týká i konkrétní fyzické osoby — držitele osvědčení, jež bylo původcem incidentu. NÚKIB řeší technickou stránku, ale zvažuje, zda a kdy věc předat NBÚ. Účastníci: NÚKIB (příjemce oznámení), NBÚ (orgán personální bezpečnosti), původce incidentu (FO). Důkazy: oznámení dle § 43 odst. 2, technický rozbor incidentu, evidence osvědčení dotčené FO.
+
+**2. Právní otázka.** Má NÚKIB povinnost předat NBÚ oznámení, které obdržel podle § 43 odst. 2, a v jaké lhůtě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 138b ZOUI — povinnost NÚKIB předat NBÚ bez zbytečného odkladu oznámení obdržená podle § 34 odst. 6, § 43 odst. 2 nebo § 69 odst. 1 písm. f) a h).
+- *Související ustanovení téhož zákona:* § 137 a § 137a (rozdělení působnosti NBÚ/NÚKIB), § 138 odst. 6 (oprávnění NÚKIB), § 138c (oznamovací povinnost dalších orgánů), § 101 a § 14 (možné navazující řízení o zrušení platnosti pro bezpečnostní riziko).
+- *Související předpisy:* zákon č. 181/2014 Sb., o kybernetické bezpečnosti (gesce NÚKIB); prováděcí vyhlášky k administrativní a kryptografické bezpečnosti.
+- *Judikatura:* zde primárně výklad kompetenčního ustanovení; obecně judikatura k povinnosti součinnosti mezi správními orgány.
+
+**4. Subsumpce.** Oznámení podle § 43 odst. 2 je jedním z taxativně vyjmenovaných oznámení v § 138b. Tím vzniká NÚKIB povinnost předat je NBÚ „bez zbytečného odkladu". Povinnost je objektivní a nezávisí na uvážení NÚKIB; technické řešení incidentu NÚKIB nezbavuje předávací povinnosti. NBÚ jako primární orgán personální bezpečnosti pak posoudí dopad do osvědčení dotčené FO.
+
+**5. Řešení.** NÚKIB předá oznámení NBÚ bez zbytečného odkladu (souběžně s řešením technické stránky). NBÚ na základě předaného oznámení posoudí, zda jednání dotčené FO nezakládá bezpečnostní riziko a důvod k zahájení řízení o zrušení platnosti osvědčení (§ 101 ve spojení s § 14). Praktický krok: nastavit interní mechanismus NÚKIB pro identifikaci oznámení spadajících pod § 138b a jejich rutinní postoupení NBÚ. Riziko: prodlení v předání oslabuje včasnou personálně-bezpečnostní reakci.
+
+**6. Varianty.** (a) Pokud by NÚKIB obdržel oznámení podle jiného ustanovení, než vyjmenovává § 138b, předávací povinnost dle tohoto paragrafu by nevznikla (byť by mohla plynout odjinud). (b) Pokud by stejné okolnosti zjistil některý z orgánů dle § 138c (MV, policie, GIBS aj.), platila by samostatná oznamovací povinnost těchto orgánů vůči NBÚ.
+
+#### G. Protiargumenty a rizika
+
+- **„NÚKIB si incident vyřeší sám, NBÚ informovat nemusí."** Nesprávné — § 138b ukládá předání bez zbytečného odkladu; technické řešení a personálně-bezpečnostní posouzení jsou dvě různé roviny v gesci dvou úřadů. Neutralizace: odkaz na taxativní výčet a účel ustanovení.
+- **„Předání lze odložit do uzavření technického šetření."** Nesprávné — standard „bez zbytečného odkladu" vyžaduje předání, jakmile je to objektivně možné, nikoli až po skončení vlastního šetření. Riziko: prodlení může zmařit včasné řízení dle § 101.
+- **Slabé místo:** § 138b nestanoví výslovnou sankci za nepředání; vynutitelnost se opírá o mezirezortní součinnost a kontrolu. Doporučení: zakotvit postup interním předpisem a dokumentovat okamžik předání.
+
+#### H. Praktický závěr
+
+§ 138b zajišťuje, že vybraná oznámení (dle § 34 odst. 6, § 43 odst. 2, § 69 odst. 1 písm. f, h), která obdrží NÚKIB, se bez zbytečného odkladu dostanou k NBÚ jako primárnímu orgánu personální bezpečnosti. Slouží k propojení kybernetické a personální roviny po rozdělení úřadů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o oznámení obdržené NÚKIB podle některého z ustanovení vyjmenovaných v § 138b?
+- [ ] Bylo oznámení předáno NBÚ bez zbytečného odkladu?
+- [ ] Posoudil NBÚ dopad oznámení do platnosti osvědčení dotčené osoby (§ 101, § 14)?
+- [ ] Probíhá technické řešení NÚKIB souběžně, aniž brání předání?
+- [ ] Existuje interní postup NÚKIB pro identifikaci a postoupení těchto oznámení?
+
+**Typicky rozhodné důkazy / podklady:** samotné oznámení dle § 34 odst. 6 / § 43 odst. 2 / § 69 odst. 1 písm. f, h, technický rozbor incidentu, záznam o předání NBÚ, evidence osvědčení dotčené osoby.
 
 ---
 
@@ -1966,6 +3740,43 @@ Toto ustanovení zaručuje **informační kontinuitu** mezi oběma úřady navzd
 
 Tyto orgány **neprodleně** informují NBÚ o okolnostech indikujících, že držitel přestal splňovat podmínky. Tato úprava reflektuje koncept **horizontální spolupráce** v bezpečnostní oblasti a předchází situacím, kdy by jeden bezpečnostní orgán věděl o problémech držitele, ale jiný (rozhodující) nikoli.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Generální inspekce bezpečnostních sborů (GIBS) vede prověřování příslušníka policejního sboru D — držitele osvědčení fyzické osoby stupně Tajné — pro podezření z přijetí úplatku a z předlužení vedoucího k tíživé finanční situaci. GIBS tyto okolnosti zjistí, ale neoznámí je NBÚ s odůvodněním, že probíhá vlastní šetření. Účastníci: GIBS (orgán se zjištěním), NBÚ (rozhodující orgán o platnosti osvědčení), D (držitel osvědčení). Důkazy: spisový materiál GIBS, doklady o zadlužení D, evidence osvědčení FO D.
+
+**2. Právní otázka.** Měla GIBS povinnost neprodleně oznámit NBÚ okolnosti nasvědčující tomu, že D přestal splňovat podmínky pro vydání osvědčení, a může toto oznámení odložit kvůli vlastnímu šetření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 138c ZOUI — oznamovací povinnost MV, policie, GIBS, GŘC a Vojenské policie vůči NBÚ o okolnostech nasvědčujících ztrátě splnění podmínek pro vydání veřejné listiny.
+- *Související ustanovení téhož zákona:* § 140 odst. 3 (obdobná, avšak diskreční povinnost zpravodajských služeb „neohrozí-li to zájem služby"), § 101 a § 14 (zrušení platnosti osvědčení pro bezpečnostní riziko), § 13–14 (bezpečnostní rizika včetně ekonomické závislosti a chování ovlivnitelnosti), § 138 (informační tok mezi orgány).
+- *Související předpisy:* zákon č. 341/2011 Sb., o GIBS; zákon č. 273/2008 Sb., o Policii ČR; zákon č. 250/2016 Sb. (přestupky) — pro případ porušení povinností.
+- *Judikatura:* judikatura NSS k bezpečnostním rizikům dle § 14 (ekonomická situace a ovlivnitelnost jako riziko); obecně k povinnosti orgánů sdílet bezpečnostně významné informace.
+
+**4. Subsumpce.** Znak „okolnosti nasvědčující tomu, že držitel přestal splňovat podmínky" je naplněn (podezření z korupce a předlužení — typická bezpečnostní rizika dle § 14). Adresátem oznamovací povinnosti je GIBS (jeden z pěti vyjmenovaných orgánů). Povinnost je formulována jako „neprodleně" a — na rozdíl od § 140 odst. 3 u zpravodajských služeb — neobsahuje výhradu „neohrozí-li to zájem". GIBS proto nemá diskreci oznámení odložit kvůli vlastnímu šetření; obojí (vlastní šetření i oznámení NBÚ) může probíhat souběžně.
+
+**5. Řešení.** GIBS je povinna neprodleně oznámit zjištěné okolnosti NBÚ; vlastní šetření ji této povinnosti nezbavuje. NBÚ na základě oznámení posoudí, zda zahájí řízení o zrušení platnosti osvědčení D (§ 101) pro bezpečnostní riziko (§ 14 — ekonomická závislost, ovlivnitelnost). Praktický krok: GIBS zašle NBÚ informaci v rozsahu nezbytném k posouzení, aniž by zmařila vlastní řízení. Riziko prodlení: nečinnost orgánu může vést k tomu, že rizikový držitel nadále nakládá s UI.
+
+**6. Varianty.** (a) Pokud by stejné okolnosti zjistila zpravodajská služba, mohla by oznámení odložit, „ohrozilo-li by to zájem služby" (§ 140 odst. 3) — odlišný režim. (b) Pokud by se okolnosti týkaly příslušníka, o jehož osvědčení rozhoduje sama MV podle § 141, řešila by je MV ve své působnosti.
+
+#### G. Protiargumenty a rizika
+
+- **„Oznámení lze odložit do skončení vlastního šetření GIBS."** Nesprávné — § 138c ukládá oznámení „neprodleně" a bez výhrady zájmu (na rozdíl od § 140 odst. 3); souběh řízení je přípustný. Neutralizace: odlišit režim § 138c od diskrečního § 140 odst. 3.
+- **„Pouhé podezření nestačí, je třeba prokázané porušení."** Nesprávné — zákon váže povinnost na „okolnosti nasvědčující" ztrátě podmínek, tedy na nižší míru jistoty než prokázání. Riziko: nadužití by mohlo vést k oznamování bagatelních okolností.
+- **Slabé místo:** zákon nestanoví výslovnou sankci přímo za porušení oznamovací povinnosti orgánem; vynutitelnost se opírá o služební a politickou odpovědnost. Doporučení: dbát na řádné interní postupy orgánů a dokumentaci splnění povinnosti.
+
+#### H. Praktický závěr
+
+§ 138c rozšiřuje dohled nad držiteli veřejných listin na pět dalších bezpečnostních složek (MV, policie, GIBS, GŘC, Vojenská policie), které musí neprodleně a bez výhrady oznámit NBÚ okolnosti nasvědčující ztrátě podmínek. Slouží k včasnému zahájení řízení o zrušení platnosti (§ 101).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je orgán jedním z vyjmenovaných (MV, policie, GIBS, GŘC, Vojenská policie)?
+- [ ] Jde o okolnosti nasvědčující tomu, že držitel přestal splňovat podmínky (typicky riziko dle § 14)?
+- [ ] Bylo oznámení NBÚ učiněno neprodleně (bez výhrady „zájmu", na rozdíl od § 140 odst. 3)?
+- [ ] Zvažuje NBÚ na základě oznámení zahájení řízení o zrušení platnosti (§ 101)?
+- [ ] Probíhá vlastní šetření orgánu souběžně, aniž brání oznámení?
+
+**Typicky rozhodné důkazy / podklady:** spisový materiál orgánu, který riziko zjistil, doklady o bezpečnostním riziku (např. o zadlužení, trestním stíhání), evidence osvědčení dotčeného držitele, záznam o splnění oznamovací povinnosti.
+
 ---
 
 ### § 139 — Katalog oblastí UI
@@ -1979,6 +3790,43 @@ Tyto orgány **neprodleně** informují NBÚ o okolnostech indikujících, že d
 § 139 deleguje **vládě** pravomoc stanovit **katalog oblastí UI** — komplexní seznam typů informací, jejichž zařazení podléhá utajení. Aktuální nařízení vlády navazuje na zrušenou úpravu (nařízení č. 246/1998 Sb.) — nyní je relevantní nařízení vlády č. 522/2005 Sb., kterým se stanoví seznam utajovaných informací.
 
 Katalog umožňuje **klasifikaci konkrétní informace** podle vlastnosti, kterou má, do předem definovaných kategorií se stanoveným stupněm utajení. Bez zařazení do katalogu nelze informaci utajit (§ 22 ZOUI).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vedoucí odboru ministerstva chce utajit interní analytický materiál o vyjednávací strategii státu ve sporu se soukromým investorem a označí jej stupněm Důvěrné. Adresát (investor) v navazujícím sporu namítá, že informace nespadá do žádné položky vládního katalogu oblastí UI, a tudíž byla utajena nezákonně. Účastníci: ministerstvo (původce klasifikace), investor (adresát namítající nezákonnost), případně NBÚ (kontrolní orgán). Důkazy: samotný dokument a jeho klasifikační doložka, příslušné nařízení vlády (katalog) a porovnání obsahu s jeho položkami.
+
+**2. Právní otázka.** Lze informaci platně utajit, neodpovídá-li žádné položce vládního katalogu oblastí UI vydaného podle § 139?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 139 ZOUI — zmocnění vlády stanovit nařízením katalog oblastí UI a stupně utajení, kterými lze informaci klasifikovat.
+- *Související ustanovení téhož zákona:* § 22 (podmínky utajení informace — vázanost na katalog), § 4 (stupně utajení), § 137 a § 137a (bezpečnostní standardy NBÚ/NÚKIB), § 143–144 (kontrola a opatření k nápravě, včetně změny/zrušení stupně utajení).
+- *Související předpisy:* nařízení vlády č. 522/2005 Sb., kterým se stanoví seznam utajovaných informací, ve znění pozdějších předpisů; zákon č. 106/1999 Sb., o svobodném přístupu k informacím (vztah utajení a práva na informace).
+- *Judikatura:* judikatura NSS k přezkumu zákonnosti utajení a k povinnosti správního orgánu odůvodnit zařazení informace do utajení; obecně zásada, že utajení musí mít zákonný a katalogový podklad.
+
+**4. Subsumpce.** Utajit lze pouze informaci, která naplňuje znaky podle § 22 a zároveň spadá do některé položky katalogu stanoveného nařízením vlády podle § 139. Pokud obsah dokumentu neodpovídá žádné položce katalogu, chybí materiální podklad klasifikace a utajení je nezákonné. Posouzení je tedy dvoufázové: (i) existuje odpovídající položka katalogu? (ii) je u ní stanoven stupeň utajení, který byl použit?
+
+**5. Řešení.** Je nutné porovnat obsah dokumentu s aktuálním katalogem (nař. vlády č. 522/2005 Sb.). Pokud informace pod žádnou položku nespadá, klasifikace je vadná; náprava spočívá ve zrušení stupně utajení (v rámci kontroly NBÚ dle § 144 nebo postupem původce). Pokud naopak informace odpovídá některé položce a zvolený stupeň je v jejím rozpětí, je utajení po právu a investorova námitka neobstojí. Praktický krok: vyžádat klasifikační odůvodnění a doložit katalogovou položku. Riziko: nesprávně použitý vyšší stupeň utajení, než katalog připouští.
+
+**6. Varianty.** (a) Pokud by informace odpovídala položce katalogu, ale byla klasifikována vyšším stupněm, než položka umožňuje, šlo by o vadu v rozsahu stupně, nikoli o úplnou nezákonnost utajení. (b) Pokud by katalog danou oblast nově zařadil až po vzniku dokumentu, je rozhodný stav v době klasifikace, resp. její revize.
+
+#### G. Protiargumenty a rizika
+
+- **„Původce může utajit cokoli podle vlastního uvážení."** Nesprávné — utajení je vázáno na katalog vlády (§ 139) a podmínky § 22; mimo katalog nelze informaci platně utajit. Neutralizace: odkaz na taxativní povahu katalogu.
+- **„Námitka nezákonnosti utajení nepřísluší adresátovi, ale jen NBÚ."** Nesprávné — zákonnost utajení je přezkoumatelná a může být relevantní i v jiných řízeních (např. dle InfZ); adresát se jí může dovolat. Riziko: přístup k samotnému obsahu může být omezen utajením.
+- **Slabé místo:** katalog je rámcový a výklad jeho položek může být sporný; hranice mezi „spadá/nespadá" bývá nejasná. Doporučení: argumentovat konkrétní položkou katalogu a jejím účelem, nikoli obecně.
+
+#### H. Praktický závěr
+
+§ 139 podmiňuje veškeré utajení existencí vládního katalogu oblastí UI; bez zařazení do katalogu (a v jím stanoveném stupni) nelze informaci platně utajit. Klíčové je porovnání obsahu dokumentu s aktuálním nařízením vlády a kontrola správnosti stupně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá obsah informace pod konkrétní položku katalogu oblastí UI (nař. vlády)?
+- [ ] Odpovídá použitý stupeň utajení rozpětí stanovenému u dané položky?
+- [ ] Jsou splněny i obecné podmínky utajení podle § 22?
+- [ ] Není namístě zrušení/změna stupně utajení (postupem původce nebo dle § 144)?
+- [ ] Je klasifikace doložitelně odůvodněna (pro případný přezkum)?
+
+**Typicky rozhodné důkazy / podklady:** samotný utajovaný dokument s klasifikační doložkou, aktuální znění nařízení vlády (katalog), klasifikační odůvodnění původce, případný protokol o kontrole NBÚ.
 
 ---
 
@@ -2081,6 +3929,43 @@ Zpravodajské služby jsou v rámci úkolů podle ZOUI oprávněny k **dvanácti
 
 Toto **ústavně i kompetenčně neobvyklé** ustanovení dovoluje zpravodajské službě používat při ochraně UI **zvláštní postupy** v oblasti administrativní, fyzické, IT bezpečnosti a kryptografické ochrany. Postupy stanoví vláda na návrh zpravodajské služby. **Vyloučeno** je použití u UI EU a NATO a UI vyžadujících zvláštní režim — zde platí mezinárodní pravidla. Toto ustanovení reflektuje praktické potřeby operativy a obsahuje vyvažující pojistku — vláda jako schvalující orgán a stanovisko NBÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Uchazeč C se uchází o přijetí do služebního poměru u Bezpečnostní informační služby na pozici operativního pracovníka. Není držitelem osvědčení fyzické osoby vydaného NBÚ. BIS v rámci přijímacího řízení provede vlastní bezpečnostní řízení a v jeho průběhu při nahlížení do spisu jiného orgánu veřejné moci je jí nahlížení odmítnuto z důvodu ohrožení důležitého zájmu tohoto orgánu. Účastníci: C (uchazeč), BIS (v postavení Úřadu, odpovědná osoba v postavení ředitele Úřadu), jiný orgán veřejné moci (vedoucí spis). Důkazy: žádost a dotazník FO, podklady šetření BIS, sdělení o odmítnutí nahlížení.
+
+**2. Právní otázka.** Je k řízení o žádosti C příslušná BIS (nikoli NBÚ) a jak má BIS procesně reagovat na odmítnutí nahlížení do spisu jiného orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 140 ZOUI — rozhodování zpravodajských služeb o žádosti vlastních příslušníků/zaměstnanců/uchazečů (odst. 1 písm. a), postavení Úřadu (odst. 2), odmítnutí nahlížení (odst. 5), možnost přerušit/zastavit řízení usnesením (odst. 9), oprávnění (odst. 4).
+- *Související ustanovení téhož zákona:* § 5 (příslušnost mezi zpravodajskými službami odkazem na zákon č. 153/1994 Sb.), § 112 (přerušení řízení — přiměřeně dle odst. 8), § 124 (bezpečnostní svazek vyloučený z nahlížení), § 137 (působnost NBÚ, z níž je tato kategorie vyňata).
+- *Související předpisy:* zákon č. 153/1994 Sb., o zpravodajských službách (příslušnost dle § 5); zákon č. 154/1994 Sb. (BIS); zákon č. 361/2003 Sb. (služební poměr); zvláštní zákony k použití zpravodajských prostředků (odst. 4 písm. a).
+- *Judikatura:* ESLP *Regner proti České republice* (2017) — konformita omezeného přístupu k utajovaným podkladům s čl. 6 EÚLP za podmínky účinného soudního přezkumu; II.ÚS 1392/11.
+
+**4. Subsumpce.** C je „uchazečem o přijetí do služebního poměru", který není držitelem osvědčení FO vydaného NBÚ — naplněn znak odst. 1 písm. a), takže k řízení je příslušná BIS, jež má postavení Úřadu (odst. 2). Odmítnutí nahlížení do spisu jiného orgánu z důvodu ohrožení důležitého zájmu je předvídáno v odst. 5. Na takovou situaci reaguje odst. 9 písm. a): BIS může řízení usnesením přerušit, je-li jí odmítnuto nahlížení do spisu podle odst. 5. Přiměřeně se použije § 112 (odst. 8).
+
+**5. Řešení.** Řízení o žádosti C vede BIS. Je-li jí odmítnuto nahlížení do spisu jiného orgánu (odst. 5) a tato překážka brání řádnému posouzení, může BIS řízení usnesením přerušit (odst. 9 písm. a) do odpadnutí důvodu odmítnutí. Po zpřístupnění spisu řízení pokračuje a BIS rozhodne o vydání/nevydání osvědčení FO. Pokud by odpadl důvod řízení pro nepříslušnost (např. by se ukázalo, že C již drží osvědčení) a žádost by nebyla vzata zpět, BIS řízení zastaví (odst. 9 písm. b). Soudní přezkum se řídí obecným režimem; účinná ochrana je zajištěna i při omezeném přístupu k podkladům.
+
+**6. Varianty.** (a) Pokud by C již byl držitelem osvědčení FO alespoň pro požadovaný stupeň, BIS by o žádosti nerozhodovala (výjimka v odst. 1) a uplatnil by se režim NBÚ. (b) Pokud by šlo o vojáka v aktivní záloze u Vojenského zpravodajství, příslušné by bylo Vojenské zpravodajství (odst. 1 a § 5 zákona č. 153/1994 Sb.).
+
+#### G. Protiargumenty a rizika
+
+- **„Příslušníky zpravodajských služeb musí prověřovat nezávislý NBÚ."** Nesprávné — § 140 svěřuje řízení samotné zpravodajské službě právě k ochraně operativních zájmů a identity příslušníků; jde o záměrnou výjimku z působnosti NBÚ. Neutralizace: odkaz na účel úpravy a na soudní přezkum jako vnější pojistku.
+- **„Odmítnutí nahlížení znemožňuje rozhodnout a žádost je třeba zamítnout."** Nesprávné — zákon nabízí procesní řešení: přerušení řízení (odst. 9 písm. a) do odpadnutí překážky, nikoli automatické zamítnutí. Riziko: nesprávně zvolený procesní postup je vadou řízení.
+- **Slabé místo:** koncentrace rozhodování i přezkumu uvnitř služby oslabuje vnější dohled a kontradiktornost; ESLP ji aprobuje jen za podmínky účinného soudního přezkumu. Doporučení: dbát na přezkoumatelnost a možnost soudní ochrany.
+
+#### H. Praktický závěr
+
+§ 140 přiznává zpravodajským službám postavení Úřadu pro bezpečnostní řízení vlastních osob, se širokým katalogem operativních oprávnění a vlastními procesními nástroji (přerušení/zastavení řízení). Klíčové je správné určení příslušnosti a procesní reakce na odmítnutí nahlížení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o příslušníka, zaměstnance nebo uchazeče zpravodajské služby, který není držitelem osvědčení FO pro požadovaný stupeň (odst. 1 písm. a)?
+- [ ] Je dána příslušnost konkrétní služby (BIS/ÚZSI/Vojenské zpravodajství) dle § 5 zákona č. 153/1994 Sb. (odst. 2)?
+- [ ] Bylo při odmítnutí nahlížení (odst. 5) zvoleno správné procesní řešení — přerušení dle odst. 9 písm. a)?
+- [ ] Byla splněna oznamovací povinnost vůči NBÚ, neohrozí-li to zájem služby (odst. 3)?
+- [ ] Je u zvláštních postupů dle odst. 10 dáno schválení vlády a stanovisko NBÚ/NÚKIB?
+
+**Typicky rozhodné důkazy / podklady:** žádost a dotazník FO, podklady šetření zpravodajské služby, sdělení o odmítnutí nahlížení do spisu, usnesení o přerušení/zastavení řízení, rozhodnutí o vydání/nevydání osvědčení.
+
 ---
 
 ### § 141 — Ministerstvo vnitra a policie
@@ -2149,6 +4034,43 @@ MV provádí **na žádost NBÚ** opatření k **evidenční ochraně osobních 
 
 MV má **7 pravomocí** analogických pravomocem NBÚ, ale v užším rozsahu. **Policie** se podílí v rámci své zákonné působnosti na plnění úkolů MV (odst. 7) a provádí úkony v řízení na žádost NBÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Příslušník Policie ČR B je zařazen do operativního útvaru zaměřeného na organizovaný zločin a ministr vnitra jej vybral jako příslušníka, u něhož je v zájmu plnění závažných úkolů policie namístě zvláštní režim. B podá žádost o osvědčení fyzické osoby pro stupeň Tajné; současně B požaduje, aby jeho totožnost a údaje o jeho vozidle byly chráněny před vyhledáním v běžných evidencích. Účastníci: B (žadatel a příslušník policie), Ministerstvo vnitra (rozhoduje v postavení Úřadu), ministr vnitra (v postavení ředitele Úřadu), policie (poskytuje stanovisko a součinnost). Důkazy: rozhodnutí ministra o výběru B, žádost a dotazník FO, stanovisko policie k bezpečnostní spolehlivosti.
+
+**2. Právní otázka.** Je k řízení o žádosti B příslušné Ministerstvo vnitra (nikoli NBÚ) a v jakém rozsahu může MV zajistit evidenční ochranu osobních údajů B a jeho blízkých?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 141 ZOUI — rozhodování MV o žádosti vybraných příslušníků policie (odst. 1), postavení MV jako Úřadu a ministra jako ředitele (odst. 2), evidenční ochrana osobních údajů držitele a blízkých osob a vozidla (odst. 3), pravomoci MV (odst. 4), součinnost policie (odst. 7, 8).
+- *Související ustanovení téhož zákona:* § 140 (analogický režim zpravodajských služeb), § 137 (působnost NBÚ — z níž je tato kategorie vyňata), § 143 odst. 4 (vyloučení kontroly NBÚ u případů dle § 141), § 59 odst. 3 (souhlas ministra), § 124 (bezpečnostní svazek).
+- *Související předpisy:* zákon č. 273/2008 Sb., o Policii ČR; zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů; evidenční zákony (registr obyvatel, registr vozidel) ohledně evidenční ochrany.
+- *Judikatura:* obecná judikatura k bezpečnostnímu řízení (přiměřeně i pro řízení vedené MV), zejm. k odůvodňování rozhodnutí s utajovaným podkladem (II.ÚS 1392/11).
+
+**4. Subsumpce.** B je „příslušníkem policie vybraným v zájmu plnění závažných úkolů policie ministrem vnitra" — naplněn znak odst. 1, čímž je k řízení příslušné MV (nikoli NBÚ). MV vystupuje v postavení Úřadu a ministr v postavení ředitele (odst. 2). Žádost o evidenční ochranu spadá pod odst. 3 — MV provádí na žádost NBÚ (resp. ve své působnosti) opatření k evidenční ochraně údajů B i jeho blízkých a vozidla. Procesně se přiměřeně použijí ustanovení o řízení (skrze postavení Úřadu).
+
+**5. Řešení.** Řízení o žádosti B vede MV; vyžádá si stanovisko policie k bezpečnostní spolehlivosti (odst. 4 písm. e) a rozhodne o vydání či nevydání osvědčení. Současně zajistí evidenční ochranu (cover protection) údajů B, jeho manžela/partnera, dětí, rodičů či osob ve společné domácnosti a údajů o vozidlech (odst. 3), k čemuž je správce příslušného informačního systému povinen poskytnout součinnost (odst. 9). Soudní přezkum rozhodnutí MV se řídí § 133 obdobně. Riziko: chybné vedení řízení NBÚ namísto MV by zakládalo nepříslušnost.
+
+**6. Varianty.** (a) Pokud by B již byl držitelem osvědčení FO alespoň pro požadovaný stupeň, MV by o jeho žádosti nerozhodovalo (výjimka v odst. 1) a uplatnil by se režim NBÚ. (b) Pokud by šlo o příslušníka zpravodajské služby, příslušnou by byla daná zpravodajská služba podle § 140, nikoli MV.
+
+#### G. Protiargumenty a rizika
+
+- **„O každém policistovi rozhoduje MV."** Nesprávné — MV rozhoduje jen o vybraných příslušnících v zájmu plnění závažných úkolů policie a nikoli o těch, kdo už mají osvědčení pro požadovaný stupeň; jinak je příslušný NBÚ. Neutralizace: doložit akt výběru ministrem.
+- **„Evidenční ochrana se týká jen samotného příslušníka."** Nesprávné — odst. 3 výslovně zahrnuje manžela/partnera, děti, rodiče, osoby ve společné domácnosti a vozidla. Riziko: opomenutí blízkých osob oslabuje ochranu identity.
+- **Slabé místo:** vyloučení kontroly NBÚ (§ 143 odst. 4) snižuje vnější dohled nad řízeními MV; náprava se opírá o soudní přezkum (§ 133). Doporučení: dbát na řádné odůvodnění a využití opravných prostředků.
+
+#### H. Praktický závěr
+
+§ 141 zřizuje třetí samostatný kanál bezpečnostního řízení — Ministerstvo vnitra pro vybrané příslušníky policie — s postavením Úřadu, s pravomocí evidenční ochrany identity příslušníka a jeho blízkých a se součinností policie. Klíčové je správné určení příslušnosti (MV vs. NBÚ).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o příslušníka policie vybraného ministrem vnitra v zájmu plnění závažných úkolů policie (odst. 1)?
+- [ ] Není dán důvod výjimky (příslušník již drží osvědčení pro požadovaný stupeň → příslušný NBÚ)?
+- [ ] Vystupuje MV v postavení Úřadu a ministr v postavení ředitele (odst. 2)?
+- [ ] Byla zajištěna evidenční ochrana údajů držitele, blízkých osob a vozidla (odst. 3)?
+- [ ] Bylo vyžádáno stanovisko policie k bezpečnostní spolehlivosti (odst. 4 písm. e)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí ministra o výběru příslušníka, žádost a dotazník FO, stanovisko policie, doklady o evidenční ochraně, rozhodnutí MV a jeho odůvodnění.
+
 ---
 
 ### § 142 — Nález ztracené veřejné listiny
@@ -2172,6 +4094,43 @@ MV má **7 pravomocí** analogických pravomocem NBÚ, ale v užším rozsahu. *
 #### Fikce oprávnění (odst. 2)
 
 Důležitá legální fikce: příslušník policie nebo zaměstnanec ZÚ se **považuje za oprávněného k přístupu k UI** v rozsahu nezbytně nutném pro sepsání záznamu a doručení NBÚ. Bez této fikce by hrozilo, že manipulace s nalezenou UI sama o sobě porušuje povinnosti dle § 6, § 11 ZOUI.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan najde na lavičce v parku zalepenou obálku s razítkem „Důvěrné" obsahující písemnost s utajovanou informací a vedle ní osvědčení fyzické osoby na jméno A. Odevzdá nález na nejbližší obvodní oddělení policie. Sloužící policista obálku otevře jen v rozsahu nutném k identifikaci a sepíše záznam o odevzdání. Účastníci: nálezce (občan), policie (orgán přijímající nález), NBÚ (orgán, jemuž se nález předá), původce informace, A (držitel osvědčení). Důkazy: záznam o odevzdání s údaji nálezce a okolnostmi nálezu, sama písemnost a osvědčení, předávací protokol policie → NBÚ.
+
+**2. Právní otázka.** Jak má policie naložit s nalezenou utajovanou písemností a osvědčením, a dopustí se policista porušení ochrany UI tím, že se s nalezenou UI seznámí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 142 ZOUI — postup při odevzdání nalezené písemnosti (§ 65 odst. 1) nebo dokladu (§ 87 odst. 2): sepsání záznamu, předání NBÚ, doručení původci/držiteli (odst. 1); fikce oprávnění k přístupu k UI pro policistu/zaměstnance ZÚ (odst. 2).
+- *Související ustanovení téhož zákona:* § 65 odst. 1 (povinnost odevzdat nalezenou písemnost — sankcionováno u FO dle § 148 odst. 1 písm. b), § 87 odst. 2 (nalezený doklad), § 6 a § 11 (obecné podmínky přístupu k UI), § 148 odst. 1 písm. b) (přestupek neodevzdání nálezu).
+- *Související předpisy:* zákon č. 273/2008 Sb., o Policii ČR (úkony policie); občanský zákoník (nález) se zde neuplatní v části nakládání s UI — má přednost veřejnoprávní režim.
+- *Judikatura:* zde primárně výklad zákonné fikce; obecná zásada, že seznámení s UI v mezích zákonné fikce není porušením ochrany UI.
+
+**4. Subsumpce.** Nalezení a odevzdání spadá pod § 65 odst. 1 (písemnost) a § 142 (procedura). Policie sepíše záznam (totožnost nálezce, okolnosti nálezu) a předá nález NBÚ; NBÚ doručí UI původci a osvědčení A. Klíčová je fikce odst. 2: policista se „považuje za oprávněného k přístupu k UI v rozsahu nezbytně nutném" pro sepsání záznamu a doručení — tj. nedopouští se přestupku ani trestného činu, omezí-li se na nezbytný rozsah. Překročení tohoto rozsahu (např. detailní čtení a kopírování obsahu nad rámec identifikace) by fikci opustilo.
+
+**5. Řešení.** Policista sepíše záznam o odevzdání, nález co nejméně otevře (jen k identifikaci) a obálku s písemností i osvědčení předá NBÚ; NBÚ zajistí doručení původci a A. Nálezce, který nález odevzdal, jedná správně; naopak ten, kdo by nález neodevzdal, by se dopustil přestupku dle § 148 odst. 1 písm. b). Praktické kroky policie: bezpečné uložení do předání NBÚ, zákaz rozšiřování obsahu. Riziko: nepřiměřené seznámení policisty s obsahem nad rámec fikce.
+
+**6. Varianty.** (a) Pokud by nález přijal přímo zastupitelský úřad ČR v zahraničí, postupuje obdobně a předá nález NBÚ prostřednictvím stanoveného kanálu. (b) Pokud by šlo o doklad podle § 87 odst. 2 (bezpečnostní způsobilost), aplikuje se stejný režim; doklad se doručí tomu, na koho byl vydán.
+
+#### G. Protiargumenty a rizika
+
+- **„Policista porušil ochranu UI tím, že obálku otevřel."** Nesprávné — odst. 2 zakládá fikci oprávnění v nezbytném rozsahu; seznámení nutné k sepsání záznamu a doručení je beztrestné. Neutralizace: doložit, že rozsah seznámení nepřekročil nezbytnou míru.
+- **„Nálezce má na nález právo jako na věc nalezenou dle občanského zákoníku."** Nesprávné — UI podléhá veřejnoprávnímu režimu; nálezce ji musí odevzdat (§ 65 odst. 1), jinak je odpovědný za přestupek. Riziko: laik si není povinnosti vědom.
+- **Slabé místo:** hranice „nezbytně nutného rozsahu" je neostrá; nadměrné seznámení policisty by fikci opustilo. Doporučení: postup zdokumentovat tak, aby byl zřejmý minimální rozsah manipulace.
+
+#### H. Praktický závěr
+
+§ 142 řeší osud nalezené utajované písemnosti a osvědčení/dokladu: sepsání záznamu, předání NBÚ a doručení původci/držiteli, přičemž policista nebo zaměstnanec ZÚ je zákonnou fikcí kryt pro nezbytné seznámení s UI. Neodevzdání nálezu je přestupkem dle § 148 odst. 1 písm. b).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl o odevzdání nálezu sepsán záznam s totožností nálezce a okolnostmi nálezu?
+- [ ] Byla nalezená písemnost/doklad předána NBÚ (policií nebo ZÚ)?
+- [ ] Omezilo se seznámení policisty/zaměstnance ZÚ s UI na nezbytně nutný rozsah (odst. 2)?
+- [ ] Zajistil NBÚ doručení UI původci a osvědčení/dokladu držiteli?
+- [ ] Nepřichází u nálezce v úvahu odpovědnost za neodevzdání (§ 148 odst. 1 písm. b)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o odevzdání nálezu, předávací protokol policie/ZÚ → NBÚ, samotná nalezená UI a osvědčení/doklad, dokumentace o rozsahu manipulace s UI.
 
 ---
 
@@ -2224,6 +4183,43 @@ Kontrolní pracovníci mají **automatický přístup k UI** v rozsahu provádě
 
 V případě kontrol zasahujících do působnosti NÚKIB (kybernetická bezpečnost, IT systémy, kryptografie) je **přizván zástupce NÚKIB** — princip mezirezortní spolupráce.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** NBÚ zahájí u orgánu státu (ministerstvo) plánovanou kontrolu dodržování předpisů o ochraně UI. Součástí kontrolovaného úseku je provoz informačního systému nakládajícího s UI. Ministerstvo namítá, že kontrolní pracovník nemá přístup do utajovaného serverového sálu, a dále že IT část nemůže NBÚ vůbec kontrolovat, neboť spadá pod NÚKIB. Účastníci: NBÚ (kontrolní orgán), ministerstvo (kontrolovaná osoba), NÚKIB (přizvaný orgán). Důkazy: pověření ke kontrole, osvědčení FO kontrolního pracovníka, dokumentace IS.
+
+**2. Právní otázka.** Má kontrolní pracovník NBÚ přístup k UI v rozsahu kontroly a jak se vymezí jeho pravomoc vůči působnosti NÚKIB u kontroly IT systému?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 143 ZOUI — předmět kontroly a okruh kontrolovaných osob (odst. 1), přístup kontrolních pracovníků k UI na základě osvědčení FO (odst. 2), účast cizí moci (odst. 3), vyloučení zpravodajských služeb a MV (odst. 4), přizvání NÚKIB u kybernetické agendy (odst. 5).
+- *Související ustanovení téhož zákona:* § 144 (opatření k nápravě), § 137 a § 137a (rozdělení působnosti NBÚ/NÚKIB), § 141 (vyloučení MV u vybraných policistů).
+- *Související předpisy:* zákon č. 255/2012 Sb., o kontrole (kontrolní řád) — subsidiárně; zákon č. 181/2014 Sb., o kybernetické bezpečnosti.
+- *Judikatura:* obecná judikatura NSS k oprávnění kontrolního orgánu vstupovat do prostor kontrolované osoby a k mezím kontroly.
+
+**4. Subsumpce.** Ministerstvo je „orgánem státu", tedy kontrolovanou osobou dle odst. 1. Kontrolní pracovník, prokáže-li se platným osvědčením FO pro příslušný stupeň, má přístup k UI „v rozsahu prováděné kontroly" (odst. 2) — tedy i do utajovaného serverového sálu, je-li předmětem kontroly. Námitka o výlučné působnosti NÚKIB je částečně důvodná: zasahuje-li kontrola do kybernetické působnosti NÚKIB, musí být přizván jeho zástupce (odst. 5), avšak kontrola NBÚ tím není vyloučena (vyloučení dle odst. 4 se týká jen zpravodajských služeb a MV podle § 141).
+
+**5. Řešení.** NBÚ provede kontrolu; kontrolní pracovník se prokáže osvědčením FO a získá přístup do utajovaných prostor v rozsahu kontroly. Pro IT/kybernetickou část přizve NBÚ zástupce NÚKIB (odst. 5), který poskytne odbornou účast. Námitku ministerstva o nepřípustnosti přístupu nelze akceptovat — přístup je zákonný (odst. 2). Zjistí-li se nedostatky, navazují opatření podle § 144. Procesně se postupuje podle kontrolního řádu (protokol, námitky).
+
+**6. Varianty.** (a) Pokud by šlo o činnost zpravodajské služby nebo o případy MV podle § 141, kontrola NBÚ by byla vyloučena (odst. 4) a uplatnily by se jiné kontrolní režimy. (b) Pokud by kontrolovaná UI byla poskytnuta ČR cizí mocí (NATO/EU), mohl by se kontroly účastnit i úřad cizí moci (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- **„IT systémy kontroluje výlučně NÚKIB, NBÚ tam nemá co dělat."** Nesprávné — § 143 odst. 5 stanoví přizvání NÚKIB, nikoli vyloučení NBÚ; kontrola dodržování předpisů o ochraně UI zůstává v gesci NBÚ. Neutralizace: odlišit odbornou účast NÚKIB od vyloučení působnosti.
+- **„Kontrolní pracovník potřebuje zvláštní povolení pro přístup k UI."** Nesprávné — postačí platné osvědčení FO pro příslušný stupeň (odst. 2); zvláštní souhlas se nevyžaduje. Riziko: pracovník musí mít osvědčení skutečně pro daný stupeň utajení.
+- **Slabé místo:** hranice vyloučení dle odst. 4 — chybné podřazení agendy pod „činnost zpravodajských služeb" by mohlo kontrolu nezákonně zablokovat. Doporučení: pečlivě vymezit, zda jde o vyloučenou činnost, nebo o běžnou kontrolovanou osobu.
+
+#### H. Praktický závěr
+
+§ 143 zakládá širokou kontrolní pravomoc NBÚ nad orgány státu, právnickými osobami dle § 60b, podnikateli a fyzickými osobami; kontrolní pracovník má přístup k UI dle osvědčení FO, u kybernetické agendy se přizve NÚKIB a vyloučeny jsou jen zpravodajské služby a MV dle § 141.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je kontrolovaný subjekt osobou dle odst. 1 (orgán státu, PO dle § 60b, podnikatel, FO)?
+- [ ] Prokázal se kontrolní pracovník platným osvědčením FO pro příslušný stupeň (odst. 2)?
+- [ ] Zasahuje kontrola do působnosti NÚKIB — byl přizván jeho zástupce (odst. 5)?
+- [ ] Nejde o vyloučenou činnost zpravodajských služeb nebo MV dle § 141 (odst. 4)?
+- [ ] Účastní se (oprávněně) kontroly úřad cizí moci u UI poskytnutých ČR (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** pověření ke kontrole, osvědčení FO kontrolního pracovníka, protokol o kontrole, dokumentace kontrolovaného úseku (IS, fyzická bezpečnost), doklad o přizvání NÚKIB.
+
 ---
 
 ### § 144 — Opatření k nápravě
@@ -2256,6 +4252,43 @@ Náklady hradí **kontrolovaná osoba** — princip *polluter pays*. Toto je san
 #### Povinnost součinnosti (odst. 3)
 
 **Erga omnes** povinnost — *každý* je povinen vyhovět pokynům kontrolního pracovníka. Nesplnění je přestupkem podle § 155b (do 500 000 Kč).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při kontrole u podnikatele Z (držitele osvědčení podnikatele) zjistí kontrolní pracovníci NBÚ, že utajované dokumenty stupně Důvěrné jsou uloženy v běžné neuzamčené kanceláři bez certifikovaného úložiště a že část dokumentů byla nesprávně označena stupněm Vyhrazené, ač jejich obsah odpovídá Důvěrné. Kontrolní pracovníci na místě dokumenty odejmou a uloží Z ve lhůtě zřídit certifikované úložiště. Z odmítá vydat dokumenty s tím, že jde o jeho majetek. Účastníci: NBÚ (kontrolní pracovníci), Z (kontrolovaná osoba). Důkazy: protokol o kontrole, fotodokumentace uložení, potvrzení o odejmutí UI, klasifikační rozbor dokumentů.
+
+**2. Právní otázka.** Byli kontrolní pracovníci oprávněni dokumenty na místě odejmout a změnit/označit stupeň utajení, kdo nese náklady opatření a má Z povinnost vydání strpět?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 144 ZOUI — neodkladná opatření k ochraně UI (odejmutí UI, zrušení/změna nebo označení stupně utajení, lhůta k odstranění nedostatků; odst. 1), náklady na vrub kontrolované osoby (odst. 2), povinnost každého vyhovět pokynům (odst. 3).
+- *Související ustanovení téhož zákona:* § 143 (kontrolní pravomoci a přístup k UI), § 21 a § 24 (zpracovávání a ukládání UI), § 4 a násl. (stupně utajení a klasifikace), § 155b (přestupek nesoučinnosti).
+- *Související předpisy:* zákon č. 255/2012 Sb., o kontrole (kontrolní řád) — subsidiárně; prováděcí vyhláška o fyzické bezpečnosti (požadavky na úložiště).
+- *Judikatura:* obecná judikatura NSS ke kontrolním zajišťovacím opatřením (přiměřenost a nezbytnost zásahu).
+
+**4. Subsumpce.** Znak „zjištění porušení právních předpisů v oblasti ochrany UI" je naplněn (nedostatečné fyzické zabezpečení a chybná klasifikace). Tím vzniká oprávnění přijmout neodkladná opatření: odejmutí UI (k zajištění ochrany), opravu klasifikace (změna stupně utajení) a uložení lhůty k nápravě. O odejmutí se vydá potvrzení. Povinnost Z strpět opatření plyne z odst. 3 (povinnost každého vyhovět pokynům); odmítnutí zakládá přestupek dle § 155b. Námitka „vlastnictví dokumentu" je nerozhodná — režim UI je veřejnoprávní a odejmutí je zajišťovacím, nikoli vyvlastňovacím opatřením.
+
+**5. Řešení.** Kontrolní pracovníci oprávněně dokumenty odeberou (s potvrzením), provedou změnu označení stupně utajení a uloží Z lhůtu ke zřízení certifikovaného úložiště; náklady (např. přemístění, přebalení, zřízení úložiště) nese Z (odst. 2). Odmítne-li Z součinnost, zahájí NBÚ řízení o přestupku podle § 155b. Procesně se opatření zaznamenají do protokolu o kontrole; proti kontrolním zjištěním lze podat námitky podle kontrolního řádu. Vrácení odejmuté UI nastane po odpadnutí důvodu (zřízení úložiště).
+
+**6. Varianty.** (a) Pokud by šlo o informace bez reálného ohrožení a postačovalo by uložení lhůty k nápravě, odejmutí by mohlo být nepřiměřené; opatření musí být nezbytné. (b) Pokud by Z aktivně bránil výkonu kontroly (např. znemožnil vstup), kromě § 155b by mohlo jít i o závažnější narušení s dopadem do platnosti osvědčení podnikatele.
+
+#### G. Protiargumenty a rizika
+
+- **„Odejmutí dokumentů je zásah do vlastnictví bez náhrady."** Nesprávné — jde o veřejnoprávní zajišťovací opatření k ochraně UI, nikoli o odnětí vlastnictví; po nápravě se UI vrací. Neutralizace: odlišit zajištění od vyvlastnění a doložit dočasnost.
+- **„Náklady má nést stát, který opatření nařídil."** Nesprávné — odst. 2 výslovně ukládá náklady kontrolované osobě (princip *polluter pays*). Riziko: výše nákladů musí být doložitelná a přiměřená.
+- **Slabé místo:** přiměřenost opatření — nadměrné odejmutí tam, kde stačila lhůta k nápravě, je napadnutelné. Doporučení: opatření odůvodnit nezbytností a rozsah omezit na nezbytnou míru.
+
+#### H. Praktický závěr
+
+§ 144 dává kontrolním pracovníkům silné nástroje k okamžité ochraně UI (odejmutí, oprava klasifikace, lhůta k nápravě) na náklady kontrolované osoby; součinnost je vynutitelná přestupkem dle § 155b. Klíčem je nezbytnost a řádná dokumentace opatření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo zjištěno konkrétní porušení předpisů o ochraně UI odůvodňující neodkladné opatření?
+- [ ] Je zvolené opatření (odejmutí / změna stupně / lhůta) nezbytné a přiměřené?
+- [ ] Bylo o odejmutí UI vydáno kontrolované osobě potvrzení?
+- [ ] Jsou náklady opatření vyčísleny a uloženy kontrolované osobě (odst. 2)?
+- [ ] Byla kontrolovaná osoba poučena o povinnosti součinnosti a o sankci dle § 155b?
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole a kontrolní zjištění, potvrzení o odejmutí UI, fotodokumentace stavu zabezpečení, klasifikační rozbor dokumentů, doklady o nákladech opatření.
 
 ---
 
@@ -2316,6 +4349,43 @@ Kontrolní orgán **nesmí**:
 
 Toto omezení je projevem **dělby moci** — parlament kontroluje, ale nevykonává správu. Stejnou logiku najdeme u kontrolních orgánů pro zpravodajské služby.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po volbách se v Poslanecké sněmovně ustaví nový zvláštní kontrolní orgán ke kontrole NBÚ. Jeden poslanecký klub namítá, že není v orgánu zastoupen, a zároveň člen orgánu z opozice požaduje přístup do objektů NBÚ bez doprovodu a nahlížení do personálních spisů zaměstnanců, aby prověřil podezření z protekčního obsazování míst. Účastníci: PS (zřizovatel orgánu), kontrolní orgán a jeho členové, ředitel NBÚ. Důkazy: usnesení PS o zřízení a obsazení orgánu, žádost člena o vstup, vnitřní předpisy NBÚ.
+
+**2. Právní otázka.** Je obsazení orgánu v souladu s požadavkem zastoupení každého klubu a lichého počtu (odst. 2) a kam až sahají oprávnění člena při vstupu do objektů a nahlížení (odst. 4 a 5) s ohledem na zákaz dle odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 145 ZOUI — zřízení kontrolního orgánu, jeho složení (nejméně 7 členů, lichý počet, zastoupení každého klubu), oprávnění vstupu (odst. 4) a předkládání informací ředitelem (odst. 5), zákaz zásahu do personálních a řídicích pravomocí (odst. 6).
+- *Související ustanovení téhož zákona:* § 146 a § 147 (reakce na zjištěné nedostatky a výjimka z mlčenlivosti), § 137 (působnost NBÚ, jejíž výkon je kontrolován), § 124 (bezpečnostní svazek).
+- *Související předpisy:* zákon č. 90/1995 Sb., o jednacím řádu PS (přiměřená aplikace na jednání orgánu a práva členů, vyloučení kontrolního řádu); čl. 31 a 32 Ústavy (kontrolní funkce komor); zákony č. 154/1994 Sb. a č. 289/2005 Sb. jako analogie pro zpravodajské služby.
+- *Judikatura:* ústavní zásada dělby moci a zákazu zásahů moci zákonodárné do moci výkonné (obecná judikatura ÚS k vztahu parlamentní kontroly a exekutivy).
+
+**4. Subsumpce.** Požadavek odst. 2 (zastoupení každého klubu, lichý počet) je kogentní — pokud usnesení PS některý klub vynechá, je obsazení v rozporu se zákonem. Oprávnění vstupu (odst. 4) je vázáno na doprovod ředitele nebo pověřeného zaměstnance — vstup bez doprovodu zákon nepřipouští. Požadavek člena na nahlížení do personálních spisů naráží na odst. 6 (zákaz zasahovat do personálních pravomocí a nahrazovat řídicí činnost) — kontrola se soustředí na zákonnost a hospodaření, nikoli na personální rozhodování.
+
+**5. Řešení.** PS musí orgán obsadit tak, aby byl zastoupen každý klub a počet byl lichý; nesplnění je nutno napravit změnou usnesení. Člen orgánu vstupuje do objektů NBÚ pouze s doprovodem (odst. 4); samostatný vstup nelze vynutit. Personální agendu nemůže orgán řídit ani nahrazovat (odst. 6) — může však požadovat předkládané podklady (odst. 5) a v případě podezření na porušení zákona postupovat podle § 146. Protekční obsazování míst lze adresovat jen cestou vysvětlení a oznámení (§ 146), nikoli přímým zásahem.
+
+**6. Varianty.** (a) Pokud by vznikl nový klub až v průběhu volebního období, je třeba dosadit jeho zástupce a případně upravit počet, aby zůstal lichý. (b) Pokud by orgán požadoval vnitřní předpisy a návrh rozpočtu NBÚ, jde o oprávněný požadavek dle odst. 5 písm. c) a e), jemuž musí ředitel vyhovět.
+
+#### G. Protiargumenty a rizika
+
+- **„Člen orgánu má jako poslanec právo na neomezený přístup do NBÚ."** Nesprávné — odst. 4 podmiňuje vstup doprovodem ředitele nebo pověřené osoby; jde o bezpečnostní pojistku, nikoli o omezení mandátu. Neutralizace: odkaz na text odst. 4.
+- **„Orgán může prošetřit a napravit personální rozhodnutí NBÚ."** Nesprávné — odst. 6 to výslovně zakazuje; nápravu personálních pochybení řeší ředitel, resp. vláda. Riziko: překročení mantinelu vede ke kompetenčnímu sporu.
+- **Slabé místo:** zákon nestanoví výslovnou sankci za vadné obsazení orgánu (vynechání klubu); náprava je čistě parlamentně-politická. Doporučení: vady obsazení řešit procedurálně v PS, nikoli soudně.
+
+#### H. Praktický závěr
+
+§ 145 zřizuje pluralitně obsazený parlamentní kontrolní orgán s právem vstupu (s doprovodem) a na informace od ředitele, avšak bez práva zasahovat do personálního a řídicího vedení NBÚ. Hranicí kontroly je dělba moci (odst. 6).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je orgán obsazen tak, že je zastoupen každý klub a počet členů je lichý (min. 7)?
+- [ ] Jsou členy výhradně poslanci PS?
+- [ ] Probíhá vstup do objektů NBÚ s doprovodem ředitele nebo pověřeného zaměstnance (odst. 4)?
+- [ ] Předkládá ředitel požadované informace dle odst. 5 (zpráva o činnosti, o řízeních, rozpočet, vnitřní předpisy)?
+- [ ] Nepřekračuje orgán zákaz zásahu do personálních a řídicích pravomocí (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** usnesení PS o zřízení a obsazení orgánu, doklad o příslušnosti členů k poslaneckým klubům, žádosti o vstup a záznamy o doprovodu, předkládané zprávy a vnitřní předpisy NBÚ.
+
 ---
 
 ### § 146–§ 147 — Reakce na zjištěné nedostatky
@@ -2344,6 +4414,43 @@ Kontrolní orgán má **dvojí reakční nástroj**:
 § 147 stanoví, že **mlčenlivost** poslanců **se nevztahuje** na oznamování podle § 146 odst. 2. Toto je **klíčová výjimka** — bez ní by oznamovací povinnost byla buď nesplnitelná, nebo by vedla k konfliktu s ústavní imunitou.
 
 Mimo tento případ jsou členové kontrolního orgánu vázáni přísnou mlčenlivostí, neboť pracují s utajovanými informacemi nejvyšších stupňů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zvláštní kontrolní orgán PS při kontrole NBÚ zjistí, že v sérii bezpečnostních řízení o žádostech fyzických osob z téhož resortu byla soustavně překračována zákonná lhůta a v několika případech bylo rozhodnuto o nevydání osvědčení bez řádného odůvodnění odkazem na utajovanou část svazku, ač pro to nebyl podklad. Účastníci: kontrolní orgán PS (kontrolující), ředitel NBÚ (vysvětlující), předseda vlády (adresát oznámení), dotčení žadatelé. Důkazy: předložené zprávy o jednotlivých řízeních (§ 145 odst. 5), spisová dokumentace, vysvětlení ředitele.
+
+**2. Právní otázka.** Za jakých podmínek a vůči komu může kontrolní orgán reagovat na zjištěné vady — a brání mu v oznámení povinnost mlčenlivosti, vázne-li na zjištěných skutečnostech utajení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 146 ZOUI — oprávnění požadovat vysvětlení od ředitele (odst. 1) a povinnost oznámit porušení zákona řediteli a předsedovi vlády (odst. 2); § 147 — výjimka z mlčenlivosti pro oznámení podle § 146 odst. 2.
+- *Související ustanovení téhož zákona:* § 145 (zřízení a pravomoci kontrolního orgánu, omezení dle odst. 6 — nezasahovat do personálních a řídicích pravomocí), § 133 (soudní přezkum jako paralelní ochrana práv žadatelů), § 124 (bezpečnostní svazek).
+- *Související předpisy:* zákon č. 90/1995 Sb., o jednacím řádu PS (procesní rámec jednání orgánu a mlčenlivost členů); čl. 23 a 24 jednacího řádu; obecná úprava parlamentní kontroly bezpečnostních složek.
+- *Judikatura:* judikatura ÚS a NSS k povinnosti řádně odůvodnit rozhodnutí v bezpečnostním řízení (II.ÚS 1392/11; 5 A 45/2022) je relevantní pro posouzení, zda „vady řízení" existují.
+
+**4. Subsumpce.** Znak „má za to, že rozhodovací činnost je stižena vadami" je naplněn zjištěními kontrolního orgánu — vzniká oprávnění požadovat vysvětlení (odst. 1). Zjistí-li orgán „porušení zákona zaměstnancem Úřadu", vzniká povinnost oznámit je řediteli a předsedovi vlády (odst. 2). Protože oznámení může obsahovat utajované skutečnosti, aplikuje se § 147 — mlčenlivost se na toto oznámení nevztahuje. Naopak omezení § 145 odst. 6 brání tomu, aby orgán sám nařídil personální postih nebo nahradil rozhodnutí ředitele.
+
+**5. Řešení.** Kontrolní orgán nejprve vyžádá vysvětlení ředitele (odst. 1). Potvrdí-li se porušení zákona, podá oznámení řediteli NBÚ a předsedovi vlády (odst. 2), přičemž je podle § 147 zproštěn mlčenlivosti pouze v rozsahu tohoto oznámení; ostatní utajované skutečnosti nadále chrání. Orgán nesmí sám zjednat nápravu v jednotlivých řízeních (to je věcí opravných prostředků a soudního přezkumu) ani nařídit kárný postih zaměstnance — k tomu je příslušný ředitel, resp. vláda. Praktickým výstupem je politický a kontrolní tlak, nikoli přímý zásah do správního řízení.
+
+**6. Varianty.** (a) Pokud by zjištění nedosahovalo „porušení zákona", ale šlo jen o pochybnosti, omezí se orgán na vyžádání vysvětlení (odst. 1) bez oznamovací povinnosti. (b) Pokud by člen orgánu zveřejnil utajované zjištění nad rámec oznámení podle § 146 odst. 2 (např. médiím), výjimka z mlčenlivosti by se neuplatnila a šlo by o porušení mlčenlivosti.
+
+#### G. Protiargumenty a rizika
+
+- **„Kontrolní orgán může přímo zrušit vadné rozhodnutí NBÚ."** Nesprávné — § 145 odst. 6 výslovně zakazuje nahrazovat řídicí a personální činnost; nápravu zjednává opravný systém (rozklad, soud). Neutralizace: odlišit politickou kontrolu od správního přezkumu.
+- **„Mlčenlivost brání jakémukoli oznámení."** Nesprávné — § 147 prolamuje mlčenlivost právě pro oznámení podle § 146 odst. 2; bez toho by kontrola byla bezzubá. Riziko: výjimka je úzká, kryje pouze toto konkrétní oznámení.
+- **Slabé místo:** kontrola je primárně politická a postrádá vynucovací nástroje vůči jednotlivým rozhodnutím; reálná ochrana práv žadatele se odehrává až v soudním přezkumu (§ 133). Doporučení: dotčeným žadatelům paralelně doporučit správní žalobu.
+
+#### H. Praktický závěr
+
+§ 146 a § 147 vytvářejí reakční mechanismus parlamentní kontroly: vysvětlení od ředitele a kvalifikované oznámení řediteli a premiérovi, k němuž se neuplatní mlčenlivost. Kontrola je politická, nenahrazuje opravné prostředky ani soudní přezkum.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pouhé pochybnosti (→ vysvětlení dle § 146 odst. 1), nebo o porušení zákona zaměstnancem (→ oznámení dle odst. 2)?
+- [ ] Směřuje oznámení správně řediteli Úřadu i předsedovi vlády?
+- [ ] Pohybuje se zveřejnění utajovaných skutečností v mezích výjimky § 147 (jen oznámení dle § 146 odst. 2)?
+- [ ] Nepřekračuje orgán zákaz zasahovat do personálních a řídicích pravomocí (§ 145 odst. 6)?
+- [ ] Je dotčeným osobám zajištěna ochrana cestou opravných prostředků a soudu (§ 133)?
+
+**Typicky rozhodné důkazy / podklady:** zprávy předkládané ředitelem (§ 145 odst. 5), spisy jednotlivých řízení, písemné vysvětlení ředitele, zápis z jednání kontrolního orgánu, text oznámení předsedovi vlády.
 
 ---
 
@@ -2438,6 +4545,43 @@ Tato úprava obrací obvyklý princip přestupkového práva (které se zaměřu
 
 **Maximum 5 milionů Kč** je výrazem **mimořádné společenské závažnosti** ochrany UI. Pokuta v této výši je srovnatelná s nejvyššími sankcemi za přestupky podle GDPR a překračuje typické sankce za přestupky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý zaměstnanec ministerstva Y, který v rámci svého služebního zařazení získal přístup k informaci stupně Tajné, po odchodu ze zaměstnání sdělí investigativnímu novináři obsah utajované analýzy o slabinách kritické infrastruktury. K informaci se přitom dostal legálně v době výkonu funkce. Účastníci: Y (fyzická osoba — pachatel), novinář (příjemce, sám může být neoprávněnou osobou), NBÚ (správní orgán). Důkazy: záznam o seznámení Y s konkrétní informací (§ 21), publikovaný článek a jeho obsahová shoda s utajovaným dokumentem, výpověď, případně komunikace mezi Y a novinářem.
+
+**2. Právní otázka.** Dopustil se Y přestupku podle § 148 odst. 1 písm. c) (porušení povinnosti zachovávat mlčenlivost o utajované informaci), případně písm. d) (umožnění přístupu k UI neoprávněné osobě), a v jaké sazbě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 148 odst. 1 písm. c) ZOUI — porušení mlčenlivosti o UI; sazba do 5 000 000 Kč podle odst. 4 písm. e). Podle odst. 3 se přestupku písm. c) dopustí též návodce nebo pomocník.
+- *Související ustanovení téhož zákona:* § 6 a § 11 (podmínky přístupu k UI), § 58 (poučení a povinnost mlčenlivosti), § 65 odst. 1 (odevzdání nalezené písemnosti — písm. b), § 57 odst. 1 (osvědčení pro cizí moc).
+- *Související předpisy:* § 317 a násl. trestního zákoníku (ohrožení utajované informace) — možný souběh s trestným činem; je-li naplněna skutková podstata trestného činu, přestupkové řízení ustupuje zásadě subsidiarity správního trestání (zákaz dvojího postihu); zákon č. 250/2016 Sb.
+- *Judikatura:* judikatura k zásadě *ne bis in idem* (vztah přestupku a trestného činu); NSS opakovaně dovodil, že povinnost mlčenlivosti trvá i po skončení služebního/pracovního poměru.
+
+**4. Subsumpce.** Znak „fyzická osoba" je naplněn (postih nevyžaduje, aby pachatel byl stále držitelem osvědčení; rozhodný je legální vznik přístupu a trvající povinnost mlčenlivosti podle § 65 odst. 2). Znak „poruší povinnost zachovávat mlčenlivost o utajované informaci" je naplněn sdělením obsahu novináři. Forma zavinění: zpravidelně úmysl. Sporné: zda intenzita jednání a stupeň utajení (Tajné) nepřekračují hranici přestupku a nezakládají trestný čin podle § 317 TZ — pak má přednost trestní postih.
+
+**5. Řešení.** Prvotně je nutné posoudit, zda nejde o trestný čin (ohrožení utajované informace). Pokud ano, věc se odevzdá orgánům činným v trestním řízení a přestupkové řízení se nevede (subsidiarita). Pokud jednání intenzitou nedosahuje trestného činu, NBÚ uloží pokutu v sazbě do 5 000 000 Kč; zohlední stupeň utajení, rozsah zveřejnění a následky. Lze postihnout i novináře jako neoprávněnou osobu pouze tehdy, naplní-li sám některou podstatu — jinak jej chrání svoboda projevu (čl. 17 Listiny), což může vést k poměřování zájmů.
+
+**6. Varianty.** (a) Pokud by Y informaci nesdělil, ale pouze umožnil novináři nahlédnout do dokumentu, šlo by o písm. d) (umožnění přístupu neoprávněné osobě), rovněž do 5 000 000 Kč, a navíc by byl trestný i pokus (odst. 2). (b) Pokud by jiná osoba Y k prozrazení navedla, byl by tento návodce postižitelný podle odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- **„Povinnost mlčenlivosti zanikla skončením zaměstnání."** Nesprávné — povinnost zachovávat mlčenlivost o UI trvá i po zániku služebního/pracovního poměru a po zániku platnosti osvědčení (§ 65 odst. 2 ZOUI). Neutralizace: odkaz na trvalou povahu povinnosti.
+- **„Šlo o whistleblowing ve veřejném zájmu."** Ochrana oznamovatelů (zákon č. 171/2023 Sb.) se zásadně nevztahuje na úmyslné prozrazení utajovaných informací; veřejný zájem se poměřuje, ale ochrana UI má silné ústavní zakotvení. Riziko: hranice je citlivá a může být předmětem sporu.
+- **Slabé místo:** souběh přestupku a trestného činu — chybné vedení přestupkového řízení tam, kde mělo být trestní (nebo naopak), vede ke zrušení rozhodnutí pro porušení *ne bis in idem*. Doporučení: nejprve vyjasnit trestněprávní rovinu.
+
+#### H. Praktický závěr
+
+§ 148 je základním sankčním ustanovením pro fyzické osoby; nejzávažnější podstaty (písm. c, d, j) dosahují 5 000 000 Kč, u písm. d, i, j je trestný i pokus a u písm. b, c i návodce a pomocník. Vždy nejprve posoudit, zda jednání není trestným činem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Které z dvanácti písmen odst. 1 odpovídá skutku a jaká je k němu sazba podle odst. 4?
+- [ ] Nejde o trestný čin (zejm. § 317 TZ) — má přednost trestní postih (ne bis in idem)?
+- [ ] Trvá povinnost mlčenlivosti i po zániku poměru/osvědčení (§ 65 odst. 2)?
+- [ ] Je u daného písmene trestný pokus (odst. 2) nebo návodce/pomocník (odst. 3)?
+- [ ] Jsou prokázány znaky včetně formy zavinění (úmysl/nedbalost)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o seznámení s konkrétní UI (§ 21), bezpečnostní poučení (§ 58), obsahová analýza zveřejněného materiálu, výpovědi, komunikace pachatele s příjemcem, doklad o stupni utajení informace.
+
 ---
 
 ### § 149 — Přestupky fyzické osoby s přístupem k UI
@@ -2488,6 +4632,43 @@ Tato úprava obrací obvyklý princip přestupkového práva (které se zaměřu
 
 Specifikum: u některých přestupků je trestný také **organizátor** (kromě návodce a pomocníka). To přibližuje úpravu trestněprávní akcesoritě (§ 24 trestního zákoníku).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně X, držitelka osvědčení fyzické osoby pro stupeň Důvěrné, zpracovává analytický materiál klasifikovaný jako Důvěrné. Aby práci dokončila o víkendu doma, odešle si dokument z certifikovaného pracovního informačního systému na svůj soukromý e-mail a uloží jej na domácí počítač, který není certifikován ani akreditován NÚKIB. Kontrolou NBÚ je únik zjištěn. Účastníci: X (pachatelka přestupku), NBÚ (správní orgán projednávající přestupek), původce informace (orgán státu, jehož informace byla kompromitována). Důkazy: výpis z auditních logů certifikovaného IS o exportu souboru, e-mailová komunikace, forenzní obraz domácího počítače, osvědčení FO X a její bezpečnostní poučení (§ 58).
+
+**2. Právní otázka.** Naplnila X skutkovou podstatu přestupku podle § 149 odst. 1 písm. g) (nakládání s UI v informačním systému, který není certifikován/akreditován NÚKIB), případně písm. f) (nesplnění požadavků na zpracovávání nebo ukládání UI podle § 24 odst. 5 nebo 6)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 149 odst. 1 písm. g) ZOUI — přestupek fyzické osoby s přístupem k UI spočívající v nakládání s UI v necertifikovaném/neakreditovaném IS; sazba do 500 000 Kč podle odst. 3 písm. a).
+- *Související ustanovení téhož zákona:* § 24 odst. 5 a 6 (požadavky na zpracovávání a ukládání UI), § 34 a násl. (certifikace IS náleží NÚKIB — viz § 137a), § 6 a § 11 (podmínky přístupu k UI), § 148 odst. 1 písm. d) (umožnění přístupu neoprávněné osobě — možný souběh, je-li domácí PC sdílen).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky (forma zavinění, polehčující okolnosti, ukládání pokut); zákon č. 181/2014 Sb., o kybernetické bezpečnosti (pokud jde i o významný IS).
+- *Judikatura:* obecně judikatura NSS ke správnímu trestání zdůrazňuje, že výše pokuty musí být odůvodněna kritérii povahy a závažnosti přestupku a poměrů pachatele; u přestupků na úseku ochrany UI soudy akceptují přísnější přístup vzhledem k chráněnému zájmu (bezpečnost státu).
+
+**4. Subsumpce.** Znak „fyzická osoba, která má přístup k UI" je naplněn (X je držitelkou osvědčení FO). Znak „nakládá s utajovanou informací v informačním systému, který není certifikován nebo akreditován NÚKIB" je naplněn uložením a otevřením souboru Důvěrné na domácím PC. Forma zavinění: nejméně nedbalost (X věděla nebo měla vědět z bezpečnostního poučení, že domácí PC nesplňuje požadavky); přestupek lze spáchat i z nedbalosti, není-li požadován úmysl. Sporné může být, zda fakticky došlo i k „umožnění přístupu neoprávněné osobě" (§ 148 odst. 1 písm. d) — to vyžaduje prokázat reálnou dostupnost informace dalšímu uživateli PC.
+
+**5. Řešení.** NBÚ zahájí přestupkové řízení a uloží pokutu v rámci sazby do 500 000 Kč; konkrétní výši odstupňuje dle stupně utajení, rozsahu skutečného úniku a dosavadní bezúhonnosti X. Procesně: opatření důkazů (logy, forenzní analýza), poučení o právu nevypovídat, posouzení polehčujících okolností (doznání, náprava). Paralelně NBÚ posoudí, zda jednání nezakládá bezpečnostní riziko vedoucí ke zrušení platnosti osvědčení FO podle § 101 ve spojení s § 14 (porušení režimu nakládání s UI je typickým rizikem). Alternativní výklad: je-li prokázán úmysl zpřístupnit informaci třetí osobě, postih se přesouvá k závažnějším podstatám § 148.
+
+**6. Varianty.** (a) Pokud by X uložila dokument do schváleného, ale pouze pro nižší stupeň certifikovaného systému, šlo by spíše o přestupek písm. f) nebo o souběh; výsledek (sazba 500 000 Kč) zůstává obdobný. (b) Pokud by X jednala jako organizátor či navedla kolegu, aby tak učinil, uplatní se rozšířená odpovědnost podle § 149 odst. 2 (trestnost organizátora, návodce a pomocníka u písm. g)).
+
+#### G. Protiargumenty a rizika
+
+- **„Šlo o jednorázové selhání bez reálné škody."** Absence prokázaného úniku k cizí osobě je polehčující okolností pro výši pokuty, nikoli důvodem beztrestnosti — přestupek je ohrožovací, dokonán již samotným nakládáním v necertifikovaném IS. Neutralizace: argumentovat polehčujícími okolnostmi pro snížení sankce, nikoli pro zproštění.
+- **„X nevěděla, že domácí PC nesmí použít."** Neznalost technických požadavků neomlouvá u držitele osvědčení, který prošel bezpečnostním poučením podle § 58; navíc postačí nedbalost. Riziko pro obhajobu: bezpečnostní poučení bývá zdokumentováno podpisem.
+- **Slabé místo:** hranice mezi § 149 písm. g) a § 148 písm. d) a i) je v praxi neostrá; nesprávná kvalifikace může vést ke zrušení rozhodnutí. Doporučení: pečlivě odlišit „nakládání v necertifikovaném IS" (149/g) od „umožnění přístupu neoprávněné osobě" (148/d) podle toho, zda byla informace fakticky zpřístupněna třetí osobě.
+
+#### H. Praktický závěr
+
+§ 149 sankcionuje porušení technicko-organizačních pravidel správy UI fyzickou osobou s přístupem; klíčové je správné určení skutkové podstaty (a tím i sazby 500 000 / 1 000 000 Kč) a formy zavinění. Vždy zvážit souběh s § 148 a navazující bezpečnostní řízení o zrušení osvědčení (§ 101).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pachatel fyzickou osobou s přístupem k UI (držitel osvědčení/oprávnění)?
+- [ ] Která konkrétní povinnost (§ 21, § 24, § 36, § 41 atd.) byla porušena a které písmeno odst. 1 jí odpovídá?
+- [ ] Odpovídá uložená sazba (500 000 / 1 000 000 Kč) zvolenému písmenu podle odst. 3?
+- [ ] Jde o písmeno, u něhož je podle odst. 2 trestný i organizátor, návodce nebo pomocník?
+- [ ] Není namístě souběh s § 148 nebo zahájení řízení o zrušení platnosti osvědčení (§ 101)?
+
+**Typicky rozhodné důkazy / podklady:** auditní logy IS, forenzní analýza nosičů, e-mailová a jiná komunikace, osvědčení FO a doklad o bezpečnostním poučení, protokol o kontrole NBÚ/NÚKIB, vyjádření původce informace.
+
 ---
 
 ### § 150–§ 152 — Přestupky držitelů veřejných listin
@@ -2521,6 +4702,43 @@ Specifikum: u některých přestupků je trestný také **organizátor** (kromě
 Pokuty jsou **nízké (30–50 tisíc Kč)** — odráží to **administrativní charakter** těchto přestupků a zásadu proporcionality.
 
 Pozoruhodný je § 151 (přestupky držitele oznámení) — jde o nejnižší pokutu (30 000 Kč), neboť oznámení podle § 6 je nejlehčí formou seznámení s UI (stupeň Vyhrazené).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Držitel osvědčení fyzické osoby stupně Tajné (zaměstnanec orgánu státu) ukončí pracovní poměr; tím podle § 56 odst. 1 zaniká důvod jeho přístupu k UI a osvědčení pozbývá platnosti (resp. má být odevzdáno). Zaměstnanec si však plastovou kartu osvědčení ponechá „na památku" a neodevzdá ji odpovědné osobě. Současně mu o měsíc později z odložené tašky zmizí stará plastová karta osvědčení, aniž to komukoli oznámí. NBÚ tyto skutečnosti zjistí při následné kontrole orgánu státu. Důkazy: personální spis (datum skončení poměru), předávací protokol (resp. jeho absence), evidence vydaných a odevzdaných osvědčení, výpověď odpovědné osoby a samotného držitele.
+
+**2. Právní otázka.** Naplnil držitel skutkové podstaty přestupku podle § 150 odst. 1 písm. a) (neodevzdání neplatného osvědčení podle § 66 odst. 1 písm. b)) a písm. b) (neoznámení ztráty osvědčení podle § 66 odst. 1 písm. c)), a lze obě sankcionovat samostatně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 150 odst. 1 písm. a) a b) ZOUI — formální přestupky držitele osvědčení FO (pokuta do 50 000 Kč podle odst. 2).
+- *Související ustanovení téhož zákona:* § 66 odst. 1 (povinnosti držitele osvědčení — odevzdání, oznámení ztráty, oznámení změny údajů), na nějž blanketní dispozice § 150 odkazuje; § 56 (zánik platnosti osvědčení); § 156 (příslušnost NBÚ k projednání); § 159 in fine (subsidiarita správního řádu).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich (zánik odpovědnosti, polehčující okolnosti, zásada „in dubio mitius"); zákon č. 500/2004 Sb., správní řád.
+- *Judikatura:* k povaze formálních přestupků platí obecný závěr správních soudů, že u ohrožovacích (formálních) deliktů se materiální stránka presumuje a nedosažení škodlivého následku je toliko polehčující okolností (nosný závěr ustálené judikatury NSS k materiálnímu znaku přestupku).
+
+**4. Subsumpce.** Znak „je držitelem osvědčení FO" je splněn. U písm. a) je splněn znak „neodevzdá neplatné osvědčení" — platnost zanikla skončením poměru (§ 56), povinnost odevzdat plyne z § 66 odst. 1 písm. b), držitel ji nesplnil. U písm. b) je splněn znak „neoznámí ztrátu" — karta zmizela, oznámení nebylo učiněno. Sporné může být zavinění u písm. b): zda šlo o ztrátu, již držitel zaregistroval (pak je dáno minimálně nedbalostní opomenutí oznámit), či zda o ztrátě prokazatelně nevěděl (pak chybí subjektivní stránka).
+
+**5. Řešení.** Jde o dva samostatné skutky (odevzdání vs. oznámení ztráty), které lze projednat ve společném řízení a uložit úhrnnou sankci do 50 000 Kč (absorpční zásada podle zákona č. 250/2016 Sb.). NBÚ zahájí řízení z moci úřední; pravděpodobným výsledkem je pokuta při dolní hranici, neboť nedošlo k vyzrazení UI (administrativní charakter, viz výklad). Procesně: zajistit předávací protokoly a evidenci, vyslechnout odpovědnou osobu i držitele, posoudit zavinění u ztráty. Riziko: pokud držitel prokáže, že kartu fyzicky odevzdal, jen není o tom záznam, odpadá písm. a).
+
+**6. Varianty.** (i) Kdyby šlo o oznámení podle § 6 (stupeň Vyhrazené), aplikoval by se § 151 s pokutou jen do 30 000 Kč. (ii) Kdyby držitel neodevzdal osvědčení a navíc je úmyslně použil k pokusu o přístup k UI po zániku oprávnění, vykročil by mimo formální rámec § 150 do závažnějších podstat (§ 148) a potenciálně do trestněprávní roviny (ohrožení utajované informace).
+
+#### G. Protiargumenty a rizika
+
+- **„Materiální stránka chybí, šlo o bagatelní opomenutí."** Protiargument zní, že neodevzdaná karta nikoho neohrozila. Neutralizace: u formálních přestupků se škodlivost presumuje již v ohrožení evidenční kázně a kontrolovatelnosti oběhu veřejných listin; absence následku je polehčující okolností, nikoli důvodem beztrestnosti. Nízká sazba (50 000 Kč) tuto proporcionalitu již zohledňuje.
+- **Zánik odpovědnosti / běh promlčecí doby.** Riziko, že NBÚ zahájí řízení po uplynutí promlčecí doby podle zákona č. 250/2016 Sb. Nutno hlídat počátek běhu (u písm. a) ode dne marného uplynutí lhůty k odevzdání).
+- **Slabé místo:** prokázání subjektivní stránky u ztráty (písm. b) — bez důkazu, že držitel o ztrátě věděl a vědomě ji neohlásil, hrozí zproštění; spis musí obsahovat časovou osu a vědomostní prvek.
+
+#### H. Praktický závěr
+
+V praxi jde o nejmírnější segment sankčního katalogu: drobné formální povinnosti držitelů jednotlivých typů oprávnění (osvědčení FO — § 150; oznámení podle § 6 — § 151; doklad o bezpečnostní způsobilosti — § 152) s pokutami 30 000–50 000 Kč. Dispozice jsou blanketní a odkazují na § 66 odst. 1 (a obdobné povinnostní normy), proto je nutné vždy ověřit konkrétní porušenou povinnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat typ oprávnění (osvědčení FO → § 150; oznámení § 6 → § 151; doklad → § 152) a tomu odpovídající sazbu.
+- [ ] Ověřit konkrétní porušenou povinnost odkazem na § 66 odst. 1 (odevzdání / oznámení ztráty / oznámení změny údajů).
+- [ ] Doložit zánik platnosti listiny (§ 56) a marné uplynutí lhůty k odevzdání.
+- [ ] Posoudit zavinění (zejm. u neoznámení ztráty) a běh promlčecí doby podle zák. č. 250/2016 Sb.
+- [ ] Zohlednit absenci vyzrazení UI jako polehčující okolnost při výměře pokuty.
+
+**Typicky rozhodné důkazy / podklady:** osvědčení (resp. jeho kopie a evidence), předávací/odevzdací protokoly, personální spis s datem zániku oprávnění, oznámení (či jeho absence) o ztrátě/odcizení/poškození, výpovědi odpovědné osoby a držitele, protokol o kontrole NBÚ.
 
 ---
 
@@ -2641,6 +4859,43 @@ Pozoruhodný je § 151 (přestupky držitele oznámení) — jde o nejnižší p
 - **Nejčastěji** sankcionované přestupky: nevedení evidencí, nesprávné vyznačení stupně utajení, IT systémy bez certifikace;
 - **Nejzávažnější**: kryptografické porušení (písm. v–y, z).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel — držitel osvědčení podnikatele formy „bez přístupu z technického prostředku", avšak fakticky s přístupem k UI stupně Důvěrné — provozuje informační systém zpracovávající UI, který nebyl certifikován NÚKIB ani písemně schválen do provozu odpovědnou osobou (§ 153 odst. 1 písm. s)). Současně nevede přehled míst/funkcí, na nichž se nakládá s UI (§ 69 odst. 1 písm. b), tj. § 153 odst. 2 písm. g)), a u objektu se zabezpečenou oblastí kategorie Vyhrazené nezajistil ostrahu podle § 28 odst. 2 (§ 153 odst. 1 písm. a)). NBÚ a NÚKIB při koordinované kontrole vše zjistí. Důkazy: certifikační dokumentace IS (resp. její absence), provozní deník, bezpečnostní dokumentace podnikatele, projekt fyzické bezpečnosti, výslechy bezpečnostního ředitele.
+
+**2. Právní otázka.** Který z úřadů (NBÚ či NÚKIB) je příslušný k projednání jednotlivých dílčích přestupků a do jaké sankční skupiny (300 000 / 500 000 / 1 000 000 Kč) každý spadá; lze je sloučit a uložit jednu úhrnnou pokutu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 153 ZOUI — nejrozsáhlejší katalog (38 skutkových podstat), tříúrovňová sazba podle odst. 3.
+- *Související ustanovení téhož zákona:* hmotněprávní normy, na něž dispozice odkazují — § 28 (ostraha), § 34 (certifikace/schválení IS), § 69 odst. 1 (evidence a přehledy), § 36 (BPS); dále § 156 (rozdělení příslušnosti NBÚ/NÚKIB), § 137 a § 137a (působnost obou úřadů), § 159 (subsidiarita SŘ).
+- *Související předpisy:* zákon č. 250/2016 Sb. (společné řízení, absorpční zásada, materiální znak); správní řád (§ 500/2004 Sb.); prováděcí vyhlášky o fyzické bezpečnosti a o kybernetické bezpečnosti.
+- *Judikatura:* k souběhu správních deliktů a úhrnné sankci platí ustálený závěr NSS, že při souběhu více deliktů téhož pachatele se ukládá sankce podle zásady absorpce (pokuta za nejpřísněji postižitelný delikt, k ostatním se přihlédne jako k přitěžující okolnosti).
+
+**4. Subsumpce.** Provoz necertifikovaného IS naplňuje § 153 odst. 1 písm. s) — sankční skupina do 1 000 000 Kč; věcně i procesně spadá pod NÚKIB (§ 156). Absence přehledu míst/funkcí naplňuje § 153 odst. 2 písm. g) — skupina do 300 000 Kč, projednává NBÚ. Nezajištění ostrahy Vyhrazené naplňuje § 153 odst. 1 písm. a) — skupina do 300 000 Kč, projednává NBÚ. Sporné může být, zda u IS šlo skutečně o systém zpracovávající UI ve smyslu § 34 (otázka, zda data byla UI), a zda u objektu vznikla „zabezpečená oblast kategorie Vyhrazené" ve smyslu § 28 odst. 2.
+
+**5. Řešení.** Vzniká procesní bifurkace: NÚKIB vede řízení o písm. s) (IS), NBÚ o písm. a) a odst. 2 písm. g). Každý úřad uloží pokutu v rámci své příslušnosti; v rámci řízení NBÚ se uplatní absorpční zásada mezi dvěma jím projednávanými skutky (úhrnná pokuta do 300 000 Kč). Sankce NÚKIB a NBÚ jsou ukládány v samostatných řízeních a sčítají se fakticky (nejde o jeden delikt, ale o odlišné kompetenční okruhy). Procesně doporučeno: koordinovat kontrolní zjištění, přesně oddělit skutky a podřadit je pod správnou sazbu. Riziko: nesprávné určení příslušnosti vede k nicotnosti/zrušení rozhodnutí pro nepříslušnost.
+
+**6. Varianty.** (i) Kdyby IS byl certifikován, ale podnikatel by nezavedl dodatečné nutné bezpečnostní funkce a neoznámil to NÚKIB (§ 34 odst. 4, druhá alternativa písm. s)), zůstává příslušnost u NÚKIB. (ii) Kdyby šlo o pouhé nesprávné vyznačení náležitostí UI původcem podle § 21 odst. 1 (§ 153 odst. 1 písm. p)), spadalo by to do nejpřísnější skupiny (1 mil. Kč), ale projednával by NBÚ.
+
+#### G. Protiargumenty a rizika
+
+- **„Jde o jediný komplexní stav, má být uložena jen jedna pokuta."** Protiargument proti štěpení na NBÚ/NÚKIB. Neutralizace: § 156 dělí příslušnost taxativně podle výčtu písmen; jde o samostatné skutkové podstaty, nikoli jeden trvající delikt — sčítání řízení je zákonný důsledek kompetenční dělby, nikoli dvojí postih téhož (ne bis in idem se neuplatní, jde-li o odlišné skutky).
+- **Riziko nepříslušnosti.** Záměna příslušného úřadu (např. NBÚ projedná písm. s) spadající pod NÚKIB) zakládá vadu řízení vedoucí ke zrušení rozhodnutí. Nutno mechanicky odčítat výčet v § 156.
+- **Slabé místo:** prokázání, že data v IS byla skutečně UI a že objekt naplňoval definici zabezpečené oblasti — bez znaleckého/odborného posouzení a bezpečnostní dokumentace hrozí, že některé znaky zůstanou neprokázány; spis musí obsahovat klasifikaci dat a projekt fyzické bezpečnosti.
+
+#### H. Praktický závěr
+
+§ 153 je páteří sankčního katalogu vůči podnikatelům, právnickým osobám podle § 60b a orgánům státu — pokrývá v podstatě celý komplex povinností při nakládání s UI (fyzická ostraha, evidence, vyznačování stupňů, IT a kryptografie). Klíčové je správné podřazení skutku pod jednu ze tří sankčních skupin (300 000 / 500 000 / 1 000 000 Kč podle odst. 3) a určení příslušného úřadu podle § 156.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pro každý dílčí skutek identifikovat konkrétní písmeno odst. 1 nebo 2 a odpovídající sazbu podle odst. 3.
+- [ ] Určit příslušný úřad podle § 156 (NÚKIB: odst. 1 písm. b) a s) až z), odst. 2 písm. f) a j); jinak NBÚ).
+- [ ] Při souběhu více skutků téhož úřadu aplikovat absorpční zásadu (zák. č. 250/2016 Sb.).
+- [ ] Doložit naplnění odkazované hmotněprávní povinnosti (§ 28, § 34, § 69 atd.) a materiální znak.
+- [ ] Vyloučit dvojí postih téhož skutku, ale připustit paralelní řízení NBÚ a NÚKIB u odlišných skutků.
+
+**Typicky rozhodné důkazy / podklady:** certifikační/akreditační dokumentace IS a komunikačních systémů, bezpečnostní dokumentace podnikatele, projekt fyzické bezpečnosti, evidence a přehledy podle § 69, jmenovací akty bezpečnostního ředitele, kryptografická provozní dokumentace, protokoly z kontroly NBÚ a NÚKIB.
+
 ---
 
 ### § 153a — Přestupek zadavatele veřejné zakázky
@@ -2658,6 +4913,43 @@ Pozoruhodný je § 151 (přestupky držitele oznámení) — jde o nejnižší p
 § 153a (vložený novelou) sankcionuje zadavatele veřejné zakázky obsahující UI za neoznámení **stanovené skutečnosti** Úřadu. Pokuta 2 000 000 Kč odpovídá závažnosti rizik plynoucích z neinformovanosti NBÚ o vznikajících bezpečnostních vztazích v rámci VZ.
 
 Souvisí to s § 29 a § 192 zákona č. 134/2016 Sb., o zadávání veřejných zakázek — výjimky pro zakázky obsahující UI.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán státu jako zadavatel zadává veřejnou zakázku na dodávku IT řešení, jejíž plnění bude vyžadovat přístup dodavatele k UI stupně Důvěrné. Podle § 69 odst. 1 písm. r) měl tuto skutečnost (vznik vztahu zakládajícího přístup k UI v rámci VZ) oznámit NBÚ. Zadavatel to opomene a smlouvu uzavře s dodavatelem, který sice osvědčení podnikatele má, ale NBÚ o vzniku konkrétního přístupového vztahu není informován. Při kontrole zadávacího řízení se opomenutí odhalí. Důkazy: zadávací dokumentace, smlouva, korespondence s NBÚ (resp. její absence), interní evidence zadavatele.
+
+**2. Právní otázka.** Naplnil zadavatel skutkovou podstatu přestupku podle § 153a odst. 1 (neoznámení skutečnosti podle § 69 odst. 1 písm. r) Úřadu), a vztahuje se na něj sankce do 2 000 000 Kč i tehdy, jde-li o orgán státu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 153a ZOUI — jediná skutková podstata (neoznámení), nejvyšší sazba do 2 000 000 Kč.
+- *Související ustanovení téhož zákona:* § 69 odst. 1 písm. r) a § 69 odst. 3 (oznamovací povinnost zadavatele), na něž dispozice odkazuje; § 156 (projednává NBÚ); § 159 (subsidiarita SŘ).
+- *Související předpisy:* zákon č. 134/2016 Sb., o zadávání veřejných zakázek, zejm. § 29 a § 192 (výjimky pro zakázky obsahující UI nebo s bezpečnostními aspekty); zákon č. 250/2016 Sb.
+- *Judikatura:* k oznamovacím (notifikačním) deliktům platí, že jde o delikt ohrožovací, dokonaný marným uplynutím lhůty k oznámení bez ohledu na vznik konkrétní škody (obecný nosný závěr judikatury správních soudů k povinnosti oznámení).
+
+**4. Subsumpce.** Znak „zadavatel veřejné zakázky podle § 69 odst. 1 písm. r) a § 69 odst. 3" je splněn — jde o orgán státu zadávající VZ s přístupem k UI. Znak „neoznámí Úřadu skutečnost podle § 69 odst. 1 písm. r)" je splněn marným uplynutím lhůty. Sporné může být, zda konkrétní zakázka spadala pod § 69 odst. 1 písm. r) (tj. zda skutečně zakládala přístup k UI ve smyslu zákona) — to je klíčový předběžný znak.
+
+**5. Řízení.** NBÚ zahájí řízení z moci úřední, uloží pokutu v rámci sazby do 2 000 000 Kč; výměra zohlední závažnost (stupeň UI, rozsah zakázky, zda hrozilo reálné ohrožení). Sankce dopadá i na orgán státu (zákon nerozlišuje). Procesně: prokázat existenci oznamovací povinnosti a její nesplnění; posoudit polehčující okolnosti (dodatečné oznámení, absence následku). Riziko: spornost, zda zakázka opravdu zakládala přístup k UI — pokud ne, povinnost nevznikla a přestupek odpadá.
+
+**6. Varianty.** (i) Kdyby zadavatel skutečnost oznámil opožděně, avšak ještě před zahájením kontroly, šlo by stále o dokonaný přestupek, ale s výraznou polehčující okolností. (ii) Kdyby přístup k UI ve VZ vůbec nevznikl (zakázka bezpečnostní aspekt neměla), povinnost podle § 69 odst. 1 písm. r) by se neaktivovala a § 153a by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- **„Vysoká sazba 2 mil. Kč je nepřiměřená pro pouhé neoznámení."** Protiargument k proporcionalitě. Neutralizace: sazba odráží závažnost rizika plynoucího z neinformovanosti NBÚ o vznikajících bezpečnostních vztazích ve VZ (Úřad nemůže vykonávat dohled, o němž neví); jde o horní hranici, výměra se individualizuje podle závažnosti.
+- **Spornost vzniku oznamovací povinnosti.** Pokud je sporné, zda zakázka zakládala přístup k UI, je sporný i samotný základ deliktu. Nutno vyjasnit předběžnou otázku klasifikace.
+- **Slabé místo:** vazba na § 69 odst. 1 písm. r) a odst. 3 — dispozice je úzká a obtížně doložitelná bez přesné zadávací dokumentace; chybějící podklad o povaze plnění může vést k zproštění.
+
+#### H. Praktický závěr
+
+§ 153a je úzký, ale sankčně přísný (až 2 000 000 Kč) speciální přestupek navázaný na zadávání veřejných zakázek obsahujících UI. Jeho smyslem je zajistit, aby NBÚ měl přehled o bezpečnostních vztazích vznikajících v rámci VZ. Aplikuje se vždy ve spojení se zákonem o zadávání veřejných zakázek (zejm. § 29 a § 192 zák. č. 134/2016 Sb.).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda zakázka zakládala přístup k UI a vznikla tak oznamovací povinnost podle § 69 odst. 1 písm. r) a odst. 3.
+- [ ] Doložit nesplnění oznámení vůči Úřadu a běh lhůty.
+- [ ] Zohlednit případné dodatečné (opožděné) oznámení jako polehčující okolnost.
+- [ ] Příslušnost k projednání: NBÚ (§ 156).
+- [ ] Posoudit součinnost s režimem zákona č. 134/2016 Sb. (výjimky § 29, § 192).
+
+**Typicky rozhodné důkazy / podklady:** zadávací dokumentace a smlouva, klasifikace plnění z hlediska UI, korespondence se NBÚ (oznámení či jeho absence), interní evidence zadavatele o bezpečnostních aspektech VZ.
 
 ---
 
@@ -2692,6 +4984,43 @@ Souvisí to s § 29 a § 192 zákona č. 134/2016 Sb., o zadávání veřejných
 #### Nejvyšší pokuty
 
 **5 milionů Kč** za neoprávněné poskytnutí UI zahraničnímu partneru je nejvyšší sankcí v ZOUI — odpovídá to závažnosti **úniku UI mimo ČR** a podporuje mezinárodní bezpečnostní spolehlivost ČR.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Český podnikatel — držitel osvědčení podnikatele a účastník mezinárodního obranného projektu — poskytne zahraničnímu partnerovi UI stupně Tajné, aniž byly splněny podmínky § 73 písm. a) (povolení k poskytování UI mezi organizací a zahraničním partnerem mimo území ČR). Současně vyveze do téhož státu certifikovaný kryptografický prostředek bez povolení NÚKIB (§ 154 odst. 1 písm. e)). Jednatel se hájí tím, že šlo o spojeneckou spolupráci v rámci NATO. NBÚ a NÚKIB zahájí řízení. Důkazy: smlouva o spolupráci, předávací protokoly UI, celní a vývozní dokumentace, povolení (resp. jejich absence), certifikát krypto-prostředku.
+
+**2. Právní otázka.** Naplnil podnikatel přestupky podle § 154 odst. 1 písm. d) (neoprávněné poskytnutí UI stupně Tajné zahraničnímu partneru — sazba do 5 000 000 Kč) a písm. e) (nepovolený vývoz krypto-prostředku — do 5 000 000 Kč), a vylučuje příslušnost k poskytování v rámci NATO protiprávnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 154 ZOUI — specifické přestupky podnikatele s přístupem k UI, třístupňová sazba (300 000 / 1 000 000 / 5 000 000 Kč), nejvyšší sankce v ZOUI.
+- *Související ustanovení téhož zákona:* § 73 (poskytování UI zahraničnímu partneru), § 56 odst. 2 (předání/odevzdání UI), § 98 (aktualizace bezpečnostní dokumentace podnikatele), § 15a (prohlášení podnikatele); § 156 (vývoz krypto — písm. e) projednává NÚKIB, ostatní NBÚ); § 159.
+- *Související předpisy:* zákon č. 250/2016 Sb.; právní rámec mezinárodních bezpečnostních smluv (NATO Security Policy, dohody o vzájemné ochraně UI); celní a vývozní předpisy.
+- *Judikatura:* k vývozním a poskytovacím deliktům platí, že existence spojeneckého rámce sama o sobě nenahrazuje zákonem vyžadované národní povolení; nosný závěr: mezinárodní spolupráce probíhá v mezích vnitrostátní úpravy, nestanoví-li přímo aplikovatelná mezinárodní smlouva jinak.
+
+**4. Subsumpce.** Znak „podnikatel s přístupem k UI" je splněn. U písm. d) je splněn znak „poskytne UI stupně Tajné zahraničnímu partneru v rozporu s § 73 písm. a)" — povolení nebylo vydáno. U písm. e) je splněn znak „vyveze certifikovaný kryptografický prostředek bez povolení NÚKIB". Sporné: zda existovala přímo aplikovatelná mezinárodní smlouva, která by národní povolení nahrazovala (pokud ano, mohla by vyloučit protiprávnost); důkazní břemeno existence takové smlouvy a jejího dopadu nese podnikatel.
+
+**5. Řešení.** Oba skutky jsou samostatné a sankčně nejtěžší (až 5 mil. Kč každý). Písm. e) projednává NÚKIB (§ 156), písm. d) NBÚ — opět procesní bifurkace. Obrana „NATO spolupráce" zpravidla neobstojí, neboť ZOUI a navazující systém povolování právě realizují mezinárodní závazky a vyžadují národní povolení; spolupráce nezbavuje povinnosti opatřit povolení podle § 73, resp. vývozní povolení NÚKIB. Výsledek: vysoké pokuty u dolní až střední části sazby podle míry ohrožení a toho, zda UI fakticky unikla mimo spojenecký okruh. Riziko: prokáže-li podnikatel přímou aplikovatelnost konkrétní mezinárodní smlouvy nahrazující povolení, protiprávnost odpadá.
+
+**6. Varianty.** (i) Kdyby šlo o UI stupně Vyhrazené poskytnutou v rozporu s § 73 písm. b) (§ 154 odst. 1 písm. c)), klesla by sazba na 1 000 000 Kč. (ii) Kdyby podnikatel pouze neaktualizoval bezpečnostní dokumentaci (§ 98, písm. b)) nebo nepředal UI při zániku platnosti (§ 56 odst. 2, písm. a)), šlo by o sazbu 1 000 000 Kč a příslušný by byl NBÚ.
+
+#### G. Protiargumenty a rizika
+
+- **„Šlo o spojeneckou spolupráci, tedy oprávněné poskytnutí."** Nejsilnější obrana. Neutralizace: spojenecký rámec nezakládá automatické povolení; ZOUI vyžaduje národní povolení podle § 73, resp. vývozní povolení NÚKIB, a právě jím se mezinárodní závazky provádějí. Bez přímo aplikovatelné smlouvy nahrazující povolení obrana neobstojí.
+- **Procesní bifurkace NBÚ/NÚKIB.** Riziko nesprávného určení příslušnosti u písm. e) (vývoz krypto — NÚKIB) vs. písm. d) (UI — NBÚ); chyba vede ke zrušení rozhodnutí pro nepříslušnost.
+- **Slabé místo:** prokázání úniku UI mimo dovolený okruh a subjektivní stránky — pokud podnikatel jednal v dobré víře na základě (byť mylného) výkladu spojeneckých dohod, je to relevantní pro výměru, nikoli pro vinu; spis musí obsahovat povolovací stav a komunikaci s úřady.
+
+#### H. Praktický závěr
+
+§ 154 obsahuje sankčně nejtěžší přestupky ZOUI (až 5 000 000 Kč) — neoprávněné poskytnutí UI vyšších stupňů zahraničnímu partnerovi a nepovolený vývoz certifikovaného kryptografického prostředku. Odráží mimořádnou závažnost úniku UI mimo ČR a chrání mezinárodní bezpečnostní spolehlivost státu. Pozor na rozdělení příslušnosti: vývoz krypto-prostředku (písm. e)) projednává NÚKIB, ostatní NBÚ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit skutek do správné sazby (300 000 / 1 000 000 / 5 000 000 Kč podle odst. 2) podle stupně UI a typu jednání.
+- [ ] Určit příslušnost: NÚKIB pro vývoz krypto (písm. e)), jinak NBÚ (§ 156).
+- [ ] Ověřit existenci/absenci povolení podle § 73 (poskytnutí UI) a vývozního povolení NÚKIB (krypto).
+- [ ] Posoudit obranu odkazem na mezinárodní smlouvu — jen přímo aplikovatelná smlouva může nahradit národní povolení.
+- [ ] Zjistit, zda UI fakticky unikla mimo dovolený okruh (vliv na výměru).
+
+**Typicky rozhodné důkazy / podklady:** smlouvy o mezinárodní spolupráci, povolení podle § 73 a vývozní povolení NÚKIB (či jejich absence), předávací protokoly UI, celní/vývozní dokumentace ke krypto-prostředku, certifikát prostředku, prohlášení podnikatele podle § 15a, bezpečnostní dokumentace podnikatele.
 
 ---
 
@@ -2740,6 +5069,43 @@ Souvisí to s § 29 a § 192 zákona č. 134/2016 Sb., o zadávání veřejných
 
 Toto je významná specifika oproti obecné úpravě přestupků (zákon č. 250/2016 Sb., § 47), kde lze za opakování zpřísnit sankci v rámci obecných pravidel. Zde je **opakování přímo skutkovou podstatou** s minimální sankcí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel — držitel osvědčení podnikatele — třikrát během jednoho roku opomene oznámit NBÚ změnu údaje uvedeného v § 97 písm. a) až c) (např. opakované změny v osobě statutárního orgánu a sídla), tj. opakovaně poruší § 68 písm. c) (§ 155 odst. 1 písm. c)). První přestupek byl pravomocně potrestán pokutou 20 000 Kč; druhého a třetího se dopustí během 12 měsíců od právní moci tohoto rozhodnutí. NBÚ zahájí nové řízení a zvažuje aplikaci § 155 odst. 3. Důkazy: obchodní rejstřík (data změn), evidence oznámení NBÚ, předchozí pravomocné rozhodnutí o pokutě, žádost podnikatele.
+
+**2. Právní otázka.** Je naplněn znak „opakovaně" podle § 155 odst. 3 (spáchání stejného přestupku do 12 měsíců od právní moci předchozího rozhodnutí), a aplikuje se tím zvláštní sazba 10 000–70 000 Kč s minimem namísto obecné sazby do 50 000 Kč podle odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 155 odst. 1 písm. c), odst. 2 písm. a) a zejm. odst. 3 ZOUI — zvláštní institut opakovaného přestupku s pevnou sazbou 10 000–70 000 Kč a vlastní legální definicí opakování.
+- *Související ustanovení téhož zákona:* § 68 (povinnosti držitele osvědčení podnikatele), § 97 a § 98 (údaje v žádosti a dokumentaci), na něž dispozice odkazuje; § 156 (projednává NBÚ); § 159.
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky, zejm. § 47 (obecná úprava recidivy) — vůči němuž je § 155 odst. 3 ZOUI úpravou speciální (lex specialis).
+- *Judikatura:* k recidivě platí, že pro aplikaci přísnější (opakovací) sazby musí být předchozí rozhodnutí pravomocné a běh 12měsíční lhůty musí být počítán od právní moci, nikoli od spáchání či oznámení (nosný výkladový závěr k institutu opakování).
+
+**4. Subsumpce.** Znak „držitel osvědčení podnikatele" splněn. Znak základní podstaty písm. c) (neoznámení změny údaje podle § 68 písm. c)) splněn u druhého i třetího jednání. Znak „opakovaně" podle odst. 3: vyžaduje (i) předchozí pravomocné odsouzení za stejný přestupek a (ii) spáchání nového do 12 měsíců od právní moci. Oboje je splněno u druhého jednání (spácháno v rámci 12 měsíců od právní moci prvního rozhodnutí). Sporné může být, zda jde o „stejný přestupek" (tatáž skutková podstata písm. c)) a přesné datum nabytí právní moci prvního rozhodnutí.
+
+**5. Řešení.** Na druhé a třetí jednání se aplikuje zvláštní sazba odst. 3 (10 000–70 000 Kč) s povinným minimem 10 000 Kč — správní orgán nesmí klesnout pod minimum ani uložit napomenutí. NBÚ zahájí řízení; pokud byla obě nová jednání spáchána, lze je projednat ve společném řízení a uložit úhrnnou sankci v rámci zvláštní sazby. Procesně: doložit právní moc prvního rozhodnutí a totožnost skutkové podstaty. Riziko: pokud první rozhodnutí nenabylo právní moci nebo šlo o jinou podstatu (např. písm. d) místo c)), zvláštní sazba se neuplatní a vrací se obecná sazba do 50 000 Kč.
+
+**6. Varianty.** (i) Kdyby nové jednání bylo spácháno až 13. měsíc po právní moci prvního rozhodnutí, znak „opakovaně" by nebyl naplněn a aplikovala by se obecná sazba do 50 000 Kč. (ii) Kdyby šlo o nezabezpečení ochrany UI při zániku platnosti osvědčení (§ 56 odst. 2, písm. g)), sazba by činila 100 000 Kč podle odst. 2 písm. b) a institut opakování (odst. 3) by se neuplatnil (odst. 3 dopadá jen na písm. c), d) a f)).
+
+#### G. Protiargumenty a rizika
+
+- **„Stanovení minima pokuty je nepřiměřeně tvrdé u bagatelního opomenutí."** Protiargument k proporcionalitě minimální sazby 10 000 Kč. Neutralizace: minimum je vědomá zákonodárcova reakce na recidivu — opakované porušování téže povinnosti svědčí o systémovém selhání, jež odůvodňuje zpřísnění; jde o lex specialis k § 47 zák. č. 250/2016 Sb.
+- **Spornost běhu 12měsíční lhůty.** Riziko nesprávného počítání lhůty (od spáchání či oznámení místo od právní moci). Nutno přesně doložit datum právní moci prvního rozhodnutí.
+- **Slabé místo:** totožnost „stejného přestupku" — odst. 3 dopadá jen na taxativně vyjmenovaná písm. c), d), f); zaměnitelnost s jinými písmeny může vést k nesprávné aplikaci přísnější sazby a následnému zrušení rozhodnutí.
+
+#### H. Praktický závěr
+
+§ 155 sankcionuje formální povinnosti držitele osvědčení podnikatele (odevzdání, oznámení ztrát, oznámení změn údajů) zpravidla nízkými pokutami (50 000–100 000 Kč). Jeho specifikem je odst. 3 — zvláštní institut opakovaného přestupku s pevnou sazbou 10 000–70 000 Kč včetně minima a vlastní legální definicí opakování (12 měsíců od právní moci). Tento institut je lex specialis vůči obecné úpravě recidivy v zákoně č. 250/2016 Sb.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat konkrétní porušenou povinnost podle § 68 a zařadit do sazby odst. 2 (50 000 / 100 000 Kč).
+- [ ] U písm. c), d) nebo f) ověřit, zda nejde o opakování podle odst. 3 (předchozí pravomocné rozhodnutí + spáchání do 12 měsíců od právní moci).
+- [ ] Při opakování aplikovat zvláštní sazbu 10 000–70 000 Kč včetně povinného minima.
+- [ ] Doložit přesné datum nabytí právní moci předchozího rozhodnutí a totožnost skutkové podstaty.
+- [ ] Příslušnost k projednání: NBÚ (§ 156).
+
+**Typicky rozhodné důkazy / podklady:** osvědčení podnikatele a evidence oznámení vůči NBÚ, výpis z obchodního rejstříku (data změn údajů), předchozí pravomocné rozhodnutí o pokutě s doložkou právní moci, žádost a bezpečnostní dokumentace podnikatele.
+
 ---
 
 ### § 155a — Přestupky PO a podnikající FO
@@ -2770,6 +5136,43 @@ Toto je významná specifika oproti obecné úpravě přestupků (zákon č. 250
 
 Pokud subjekt **sám neoprávněně** přistupuje k UI nebo umožní výkon citlivé činnosti, dopouští se přestupku obdobně jako u § 148 odst. 1 písm. i) (FO). Tato úprava zachycuje **právnické osoby a podnikatele** v paralelní rovině.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Právnická osoba (obchodní společnost) je subdodavatelem v projektu, který vyžaduje přístup k UI stupně Důvěrné. Společnost si zajistí přístup svých zaměstnanců k UI Důvěrné, aniž sama splňuje podmínky § 15 písm. b) nebo § 57 odst. 1 (tj. nemá příslušné osvědčení podnikatele ani uznané oprávnění cizí moci), a navíc umožní výkon citlivé činnosti pracovníkovi, který není držitelem platného dokladu o bezpečnostní způsobilosti. NBÚ při kontrole zjistí oba stavy. Důkazy: smlouva a projektová dokumentace, evidence osvědčení/dokladů zaměstnanců, doklad o (ne)existenci osvědčení podnikatele, výslechy odpovědné osoby.
+
+**2. Právní otázka.** Naplnila PO současně přestupky podle § 155a odst. 1 písm. a) (umožnění citlivé činnosti osobě bez dokladu — sazba do 1 000 000 Kč) a písm. c) (zajištění přístupu k UI Důvěrné bez splnění podmínek — do 1 000 000 Kč), a jde o vztah k paralelní úpravě FO podle § 148 odst. 1 písm. i)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 155a ZOUI — přestupky PO a podnikající FO za umožnění citlivé činnosti a za neoprávněný přístup k UI; sazba 500 000 Kč (písm. b) / 1 000 000 Kč (písm. a, c).
+- *Související ustanovení téhož zákona:* § 15 a § 57 odst. 1 (podmínky přístupu k UI), § 15a (prohlášení podnikatele), § 80 a násl. (citlivá činnost a doklad o bezpečnostní způsobilosti); § 148 odst. 1 písm. i) (paralelní podstata u FO); § 156 (projednává NBÚ); § 159.
+- *Související předpisy:* zákon č. 250/2016 Sb. (souběh, absorpční zásada).
+- *Judikatura:* k odpovědnosti právnických osob za správní delikty platí objektivní (presumovaná) odpovědnost s možností liberace při vynaložení veškerého úsilí, jež lze požadovat (nosný závěr judikatury k liberačním důvodům u deliktů PO).
+
+**4. Subsumpce.** Znak „právnická osoba" splněn. U písm. a) je splněn znak „umožní výkon citlivé činnosti osobě bez platného dokladu/osvědčení" — pracovník doklad neměl. U písm. c) je splněn znak „zajistí si přístup k UI Důvěrné, aniž splňuje podmínky § 15 písm. b) nebo § 57 odst. 1" — PO osvědčení podnikatele neměla. Sporné: zda PO mohla úspěšně liberovat (prokázat, že vynaložila veškeré úsilí, např. spoléhala na nepravdivé potvrzení třetí osoby o způsobilosti) — to je obrana proti subjektivní stránce u objektivní odpovědnosti.
+
+**5. Řešení.** Jde o dva samostatné skutky téhož pachatele projednávané NBÚ ve společném řízení; uloží se úhrnná pokuta do 1 000 000 Kč (absorpce — pohlcení mírnějšího přísnějším). Pravděpodobný výsledek: pokuta ve střední části sazby s ohledem na reálné ohrožení UI a citlivé činnosti. Procesně: prokázat absenci osvědčení/dokladu a posoudit liberaci. Riziko: úspěšná liberace u jednoho ze skutků (PO prokáže, že byla uvedena v omyl a vynaložila veškeré úsilí) snižuje rozsah odpovědnosti.
+
+**6. Varianty.** (i) Kdyby PO zajistila přístup pouze k UI Vyhrazené bez splnění § 15 písm. a) / § 57 odst. 1 (písm. b)), klesla by sazba na 500 000 Kč. (ii) Kdyby totéž jednání (neoprávněný přístup k UI) spáchala fyzická osoba pro sebe, aplikoval by se § 148 odst. 1 písm. i) — § 155a je vůči FO úpravou paralelní, zachycující PO a podnikatele ve stejné rovině.
+
+#### G. Protiargumenty a rizika
+
+- **„PO byla v dobré víře uvedena v omyl třetí osobou ohledně způsobilosti pracovníka."** Liberační obrana. Neutralizace: liberace vyžaduje prokázání, že PO vynaložila veškeré úsilí, jež lze rozumně požadovat (typicky ověření platnosti dokladu/osvědčení v součinnosti s NBÚ); pouhé spoléhání na tvrzení pracovníka bez ověření zpravidla k liberaci nestačí.
+- **Souběh s úpravou FO (§ 148).** Riziko dvojího postihu téhož faktického stavu u PO i u konkrétní FO; nutno odlišit odpovědnost PO (za umožnění/zajištění) od odpovědnosti FO (za vlastní přístup) — jde o odlišné subjekty a odlišné skutky, ne bis in idem se neuplatní.
+- **Slabé místo:** prokázání, že přístup k UI byl skutečně „zajištěn" PO (nikoli excesem jednotlivce mimo vůli PO) — bez vazby jednání na PO hrozí, že odpovědnost ponese jen FO; spis musí prokázat organizační zajištění přístupu.
+
+#### H. Praktický závěr
+
+§ 155a postihuje právnické osoby a podnikající fyzické osoby za umožnění citlivé činnosti osobě bez příslušného oprávnění a za neoprávněné zajištění přístupu k UI. Je paralelou úpravy fyzických osob (§ 148 odst. 1 písm. i)) a uplatňuje se v rovině objektivní odpovědnosti s možností liberace. Sazba se odstupňuje podle stupně UI (Vyhrazené 500 000 Kč; Důvěrné a vyšší, resp. citlivá činnost 1 000 000 Kč).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda jde o umožnění citlivé činnosti (písm. a) nebo o neoprávněný přístup k UI (písm. b) Vyhrazené / písm. c) Důvěrné a vyšší) a tomu odpovídající sazbu.
+- [ ] Ověřit absenci platného dokladu/osvědčení u dotčené osoby, resp. nesplnění podmínek § 15 / § 57 odst. 1 u PO.
+- [ ] Posoudit liberaci (vynaložení veškerého úsilí) jako obranu proti objektivní odpovědnosti.
+- [ ] Odlišit odpovědnost PO od paralelní odpovědnosti FO (§ 148) a vyloučit dvojí postih téhož skutku.
+- [ ] Příslušnost: NBÚ (§ 156).
+
+**Typicky rozhodné důkazy / podklady:** doklady/osvědčení dotčených osob (či jejich absence), osvědčení podnikatele PO, smlouvy a projektová dokumentace zakládající přístup k UI, evidence ověřování způsobilosti, výslechy odpovědné osoby a bezpečnostního ředitele.
+
 ---
 
 ### § 155b — Nesoučinnost kontrolované osoby
@@ -2783,6 +5186,43 @@ Pokud subjekt **sám neoprávněně** přistupuje k UI nebo umožní výkon citl
 **Výklad:**
 
 § 155b sankcionuje **nesoučinnost** vůči neodkladným opatřením kontroly podle § 144 — pokuta až 500 000 Kč. Tato sankce zajišťuje **efektivitu kontroly** a je nezbytným doplňkem pravomoci kontrolního pracovníka.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** NBÚ provádí u podnikatele kontrolu fyzické bezpečnosti a zjistí bezprostřední ohrožení UI (nezajištěná zabezpečená oblast s otevřeným trezorem). Kontrolní pracovník na místě podle § 144 odst. 1 nařídí neodkladné opatření — okamžité zabezpečení UI a vyklizení neoprávněných osob. Odpovědná osoba kontrolované osoby pokyn ignoruje, odmítne UI zabezpečit a kontrolnímu pracovníkovi v provedení opatření brání s tím, že „bez soudního příkazu nic dělat nebude". Důkazy: protokol o kontrole, písemný záznam o nařízeném neodkladném opatření, svědectví dalších přítomných kontrolních pracovníků, fotodokumentace.
+
+**2. Právní otázka.** Naplnila kontrolovaná osoba skutkovou podstatu přestupku podle § 155b odst. 1 (nevyhovění pokynům kontrolního pracovníka při provádění neodkladných opatření podle § 144 odst. 1), a je obrana „chybí soudní příkaz" právně relevantní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 155b ZOUI — přestupek nesoučinnosti vůči neodkladným opatřením kontroly, sazba do 500 000 Kč.
+- *Související ustanovení téhož zákona:* § 144 odst. 1 (neodkladná opatření kontrolního pracovníka), na nějž dispozice odkazuje; § 143 (kontrolní pravomoci NBÚ); § 156 (projednává NBÚ); § 159.
+- *Související předpisy:* zákon č. 255/2012 Sb., o kontrole (kontrolní řád) — práva a povinnosti kontrolované osoby a kontrolujícího; zákon č. 250/2016 Sb.
+- *Judikatura:* k povinnosti součinnosti při kontrole platí, že kontrolovaná osoba je povinna poskytnout součinnost a strpět zákonem předvídaná opatření; obrana spočívající v požadavku předchozího soudního přivolení tam, kde zákon opravňuje správní orgán jednat bezprostředně, neobstojí (nosný závěr judikatury ke kontrolním oprávněním správních orgánů).
+
+**4. Subsumpce.** Znak „kontrolovaná osoba" splněn. Znak „nevyhoví pokynům kontrolního pracovníka při provádění neodkladných opatření podle § 144 odst. 1" je splněn — opatření bylo nařízeno (existoval zákonný důvod: bezprostřední ohrožení UI), pokyn byl konkrétní a kontrolovaná osoba mu aktivně nevyhověla, ba bránila. Sporné může být, zda byly splněny zákonné podmínky § 144 odst. 1 pro nařízení neodkladného opatření (existence bezprostředního ohrožení) — pokud opatření bylo nezákonné, nemůže být sankcionováno jeho neuposlechnutí.
+
+**5. Řešení.** Při splnění podmínek § 144 odst. 1 jde o dokonaný přestupek; NBÚ uloží pokutu do 500 000 Kč. Obrana „chybí soudní příkaz" je nedůvodná — § 144 opravňuje kontrolního pracovníka jednat bezprostředně právě proto, aby zabránil hrozícímu vyzrazení UI; soudní přivolení se nevyžaduje. Procesně: doložit zákonnost a nezbytnost neodkladného opatření a jeho aktivní zmaření. Riziko: prokáže-li kontrolovaná osoba, že nebyl dán zákonný důvod neodkladnosti (UI nebyla bezprostředně ohrožena), odpadá protiprávnost a tím i přestupek.
+
+**6. Varianty.** (i) Kdyby kontrolovaná osoba pokyn nejprve odmítla, ale po poučení o následcích jej splnila, mohlo by jít při absenci trvajícího maření o pouhé pochybení s výrazně polehčující okolností, případně o materiálně nenaplněný delikt. (ii) Kdyby šlo o běžnou nesoučinnost při řádné (nikoli neodkladné) kontrole, neaplikoval by se § 155b (vázaný na § 144 odst. 1), nýbrž sankční režim podle kontrolního řádu (pořádková pokuta podle zák. č. 255/2012 Sb.).
+
+#### G. Protiargumenty a rizika
+
+- **„Kontrolní pracovník neměl bez soudního příkazu právo zasahovat."** Nejčastější obrana. Neutralizace: § 144 odst. 1 zakládá oprávnění k neodkladnému opatření přímo ze zákona; jeho smyslem je odvrátit bezprostřední ohrožení UI, kde by čekání na soud zmařilo účel — soudní přivolení se nevyžaduje. Zákonnost opatření se přezkoumá, ale nesoučinnost vůči zákonnému opatření je sankcionovatelná.
+- **Spornost důvodu neodkladnosti.** Riziko, že nebylo dáno bezprostřední ohrožení UI; pak je nezákonné samo opatření a nelze trestat jeho neuposlechnutí. Nutno v protokolu přesně zachytit ohrožující stav.
+- **Slabé místo:** prokázání aktivního maření vs. pasivní pomalosti — bez jasného záznamu o konkrétním pokynu a jeho odmítnutí hrozí, že znak „nevyhoví" zůstane neprokázán; klíčový je písemný záznam o opatření a svědectví.
+
+#### H. Praktický závěr
+
+§ 155b je nezbytným doplňkem kontrolní pravomoci NBÚ — sankcí do 500 000 Kč vynucuje součinnost kontrolované osoby při neodkladných opatřeních podle § 144 odst. 1 a zajišťuje tak akceschopnost kontroly při bezprostředním ohrožení UI. Skutková podstata je úzce navázána na zákonnost nařízeného opatření; bez splnění podmínek § 144 odst. 1 přestupek nevzniká.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda byly splněny zákonné podmínky § 144 odst. 1 pro nařízení neodkladného opatření (bezprostřední ohrožení UI).
+- [ ] Doložit konkrétní pokyn kontrolního pracovníka a jeho aktivní nevyhovění/zmaření.
+- [ ] Odlišit § 155b (neodkladná opatření § 144) od běžné nesoučinnosti při kontrole (kontrolní řád, zák. č. 255/2012 Sb.).
+- [ ] Posoudit obranu „chybí soudní příkaz" jako nedůvodnou (oprávnění plyne přímo ze zákona).
+- [ ] Příslušnost: NBÚ (§ 156).
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole, písemný záznam o nařízeném neodkladném opatření podle § 144 odst. 1, fotodokumentace ohrožujícího stavu, svědectví kontrolních pracovníků a přítomných osob.
 
 ---
 
@@ -2809,6 +5249,43 @@ Toto rozdělení **odpovídá rozdělení působnosti** mezi NBÚ a NÚKIB (§ 1
 #### Procesní pravidla
 
 Procesně se podle § 159 in fine na řízení o přestupcích podle Části osmé použije **správní řád**, ve spojení se zákonem č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich. Vůči rozhodnutí o pokutě je přípustný rozklad (§ 152 SŘ), o němž rozhoduje ředitel NBÚ, resp. ředitel NÚKIB.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel se týmž kontrolovaným jednáním dopustí dvou přestupků: jednak provozuje informační systém zpracovávající UI bez certifikace NÚKIB (§ 153 odst. 1 písm. s)), jednak nevede evidenci UI podle § 69 odst. 1 písm. j) (§ 153 odst. 1 písm. m)). NBÚ — jako orgán provádějící kontrolu — vede řízení o obou skutcích a hodlá uložit jednu úhrnnou pokutu. Podnikatel namítá, že o přestupku týkajícím se IS (písm. s)) nesmí rozhodovat NBÚ, nýbrž výlučně NÚKIB. Důkazy: kontrolní protokol, certifikační dokumentace IS, evidence UI, spisový materiál o zahájení řízení.
+
+**2. Právní otázka.** Je NBÚ příslušný projednat přestupek podle § 153 odst. 1 písm. s) (provoz necertifikovaného IS), nebo tato příslušnost náleží podle § 156 výlučně NÚKIB; a jaký je důsledek, rozhodne-li nepříslušný úřad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 156 ZOUI — taxativní rozdělení projednávací příslušnosti mezi NBÚ (obecná příslušnost) a NÚKIB (výčet přestupků v oblasti kryptografie a IT/komunikačních systémů).
+- *Související ustanovení téhož zákona:* § 137 a § 137a (působnost NBÚ a NÚKIB), § 153, § 148, § 149, § 154 (sankcionovaná jednání, jejichž příslušnost se dělí); § 159 in fine (subsidiarita SŘ na řízení podle Části osmé).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád, zejm. § 11 a násl. (věcná a místní příslušnost), § 77 odst. 1 (nicotnost rozhodnutí vydaného věcně nepříslušným orgánem); zákon č. 250/2016 Sb. (řízení o přestupcích); § 152 SŘ (rozklad).
+- *Judikatura:* rozhodnutí vydané věcně nepříslušným správním orgánem je stiženo nejtěžší vadou — nicotností; k nicotnosti soud i správní orgán přihlížejí z úřední povinnosti (nosný závěr ustálené judikatury NSS k důsledkům absolutní věcné nepříslušnosti).
+
+**4. Subsumpce.** Přestupek podle § 153 odst. 1 písm. s) (IS bez certifikace) je v § 156 výslovně zařazen mezi přestupky „§ 153 odst. 1 písm. b) a s) až z)", které „projednává a za něž pokuty vybírá NÚKIB". Znak výlučné příslušnosti NÚKIB je tedy naplněn pro písm. s). Naopak přestupek podle § 153 odst. 1 písm. m) (nevedení evidence) do výčtu pro NÚKIB nespadá — zůstává v obecné příslušnosti NBÚ. Příslušnost je tak rozštěpena mezi dva úřady.
+
+**5. Řešení.** NBÚ není příslušný projednat písm. s); o něm musí vést řízení NÚKIB. NBÚ projedná pouze písm. m). Pokud by NBÚ přesto rozhodl i o písm. s), bylo by jeho rozhodnutí v této části nicotné (§ 77 odst. 1 SŘ) pro absolutní věcnou nepříslušnost. Správný postup: NBÚ věc v části písm. s) postoupí NÚKIB; každý úřad vede vlastní řízení a ukládá vlastní pokutu v rámci své příslušnosti. Proti rozhodnutí o pokutě je přípustný rozklad (§ 152 SŘ), o němž rozhoduje ředitel příslušného úřadu. Riziko: nesprávné postoupení či zadržení věci nepříslušným úřadem vede ke zrušení/nicotnosti.
+
+**6. Varianty.** (i) Kdyby oba přestupky spadaly do téhož úřadu (např. dvě jednání podle písm. m) a n), oba NBÚ), vedlo by se jediné řízení a uložila by se úhrnná pokuta podle absorpční zásady. (ii) Kdyby šlo o přestupek podle § 154 odst. 1 písm. e) (nepovolený vývoz krypto-prostředku), příslušnost by opět náležela NÚKIB — § 156 výslovně i tento přestupek vyjímá z obecné příslušnosti NBÚ.
+
+#### G. Protiargumenty a rizika
+
+- **„Z důvodu hospodárnosti by měl celý komplex projednat jeden úřad (NBÚ), který kontrolu provedl."** Protiargument procesní ekonomie. Neutralizace: věcná příslušnost je dána kogentně zákonem (§ 156) a nelze ji dohodou ani z důvodu hospodárnosti měnit; rozhodnutí nepříslušného úřadu je nicotné. Hospodárnost se řeší koordinací kontroly, nikoli sloučením příslušnosti.
+- **Riziko nicotnosti.** Záměna NBÚ/NÚKIB u taxativně vyjmenovaných přestupků zakládá nicotnost (§ 77 odst. 1 SŘ), k níž se přihlíží z úřední povinnosti — rozhodnutí nelze zhojit ani v rozkladu.
+- **Slabé místo:** mechanické odčítání výčtu v § 156 je náchylné k chybě (rozsáhlé odkazy na konkrétní písmena); chybné podřazení byť jednoho písmene pod nesprávný úřad zmaří celé dílčí řízení. Nutná pečlivá kontrola výčtu.
+
+#### H. Praktický závěr
+
+§ 156 stanoví klíčové pravidlo příslušnosti: většinu přestupků projednává NBÚ, avšak taxativně vyjmenované přestupky v oblasti kryptografie a IT/komunikačních systémů (§ 148 odst. 1 písm. f) až h), j), k); § 149 odst. 1 písm. g) až k); § 153 odst. 1 písm. b) a s) až z); § 153 odst. 2 písm. f) a j); § 154 odst. 1 písm. e)) projednává NÚKIB. Rozdělení kopíruje kompetenční dělbu obou úřadů (§ 137, § 137a). Rozhodnutí věcně nepříslušného úřadu je nicotné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U každého projednávaného přestupku ověřit ve výčtu § 156, zda náleží NBÚ, nebo NÚKIB.
+- [ ] Při souběhu přestupků různé příslušnosti vést oddělená řízení u obou úřadů; věc postoupit příslušnému orgánu.
+- [ ] Vyloučit rozhodování nepříslušného úřadu (hrozba nicotnosti podle § 77 odst. 1 SŘ).
+- [ ] Aplikovat procesně správní řád (§ 159 in fine) a zákon č. 250/2016 Sb.; proti pokutě připustit rozklad (§ 152 SŘ).
+- [ ] Při souběhu přestupků téhož úřadu uložit úhrnnou pokutu podle absorpční zásady.
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokol, spisový materiál o zahájení řízení a o příslušnosti, doklady k povaze přestupku (certifikace IS/komunikačních systémů, kryptografická dokumentace), případné usnesení o postoupení věci mezi NBÚ a NÚKIB.
 
 ---
 
@@ -2918,6 +5395,43 @@ Odst. 3 stanoví, že **dnem 1. ledna 2008** se ze zákona zrušují stupně uta
 
 Žádosti podané **45 a více dnů před účinností** se posuzují podle starých předpisů. Toto je technicko-procesní ochrana před přehlcením NBÚ žádostmi v poslední chvíli před účinností.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba podala dne 1. prosince 2005 žádost o bezpečnostní prověrku podle dosavadního zákona č. 148/1998 Sb. (tj. méně než 45 dnů přede dnem účinnosti ZOUI, jež nastala 1. ledna 2006). NBÚ řízení do konce roku 2005 nedokončil. Vzniká pochybnost, podle jaké úpravy se má řízení dokončit a podle jakého práva se posoudí hmotněprávní podmínky vydání osvědčení. Souběžně jiný účastník podal před 1. 1. 2006 opravný prostředek ke Kolegiu na úseku ochrany utajovaných skutečností, o němž nebylo do účinnosti ZOUI rozhodnuto. Důkazy: razítko podání / doklad o předání k poštovní přepravě, spisová značka, datum podání opravného prostředku ke Kolegiu.
+
+**2. Právní otázka.** Použije se na žádost podanou 1. 12. 2005 (méně než 45 dnů před účinností) staré, nebo nové právo — a to zvlášť pro stránku procesní a hmotněprávní (§ 157 odst. 28 ve spojení s odst. 18)? A jak naložit s nevyřízeným opravným prostředkem u Kolegia (§ 157 odst. 22)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 157 ZOUI — 28 odstavců přechodných ustanovení; zejm. odst. 18 (dokončení zahájené prověrky podle dosavadních předpisů), odst. 22 (vrácení nevyřízeného opravného prostředku Kolegia), odst. 28 (cut-off 45 dnů).
+- *Související ustanovení téhož zákona:* odst. 1 (utajovaná skutečnost → utajovaná informace), odst. 5 a 6 (zachování platnosti osvědčení a dokladů), odst. 3 (zrušení stupňů utajení u písemností do 31. 12. 1992 ke dni 1. 1. 2008); § 133 (soudní přezkum, na nějž odst. 22 odkazuje cestou žaloby).
+- *Související předpisy:* zákon č. 148/1998 Sb. (dosavadní úprava); zákon č. 150/2002 Sb., soudní řád správní (žaloba podle odst. 22 a 23); zákon č. 500/2004 Sb.
+- *Judikatura:* k této přechodné úpravě existuje přímo aplikovatelná judikatura citovaná v komentáři — NSS 2 As 29/2011 (na žádost podanou méně než 45 dnů před účinností se aplikuje nové právo hmotné i procesní; na dříve podanou žádost staré procesní právo, ale hmotněprávní podmínky podle nového práva — § 157 odst. 28 ve spojení s odst. 18) a NSS 2 As 91/2006 (zrušení projednání opravného prostředku Kolegiem podle § 157 odst. 22 je ústavně konformní, neboť soudní přezkum účel institutu naplňuje lépe).
+
+**4. Subsumpce.** Žádost z 1. 12. 2005 byla podána méně než 45 dnů před účinností (1. 1. 2006); znak odst. 28 (podání nejpozději 45 dnů předem) tedy NENÍ splněn → neuplatní se dosavadní předpisy podle odst. 28. Podle nosného závěru NSS 2 As 29/2011 se proto aplikuje nová úprava co do práva hmotného i procesního. Naopak u opravného prostředku podaného Kolegiu před účinností je naplněn znak odst. 22 („opravný prostředek, o kterém nebylo přede dnem účinnosti rozhodnuto") → Kolegium jej nevyřizuje a spis vrátí orgánu, který poučí účastníka o možnosti žaloby.
+
+**5. Řešení.** Řízení o žádosti z 1. 12. 2005 se dokončí podle nového ZOUI (hmotně i procesně), neboť cut-off 45 dnů nebyl dodržen; lhůta pro provedení řízení běží ode dne účinnosti (vazba odst. 18). Opravný prostředek u Kolegia se nevyřizuje; spis se do 5 pracovních dnů vrátí, účastník se poučí, že proti rozhodnutí ředitele Úřadu může podat žalobu, přičemž lhůta běží znovu od doručení poučení. Riziko: chybné určení rozhodného data podání (rozhoduje předání k poštovní přepravě / doručení) může převrátit režim staré vs. nové úpravy.
+
+**6. Varianty.** (i) Kdyby žádost byla podána 10. listopadu 2005 (více než 45 dnů předem), aplikovaly by se podle odst. 28 ve spojení s odst. 18 staré procesní předpisy, avšak hmotněprávní podmínky vydání osvědčení by se i tak posoudily podle nového práva (NSS 2 As 29/2011). (ii) Kdyby šlo o utajovanou písemnost vzniklou do 31. 12. 1992, u níž odpovědná osoba do konce r. 2007 nestanovila jinak, byl by její stupeň utajení ze zákona zrušen ke dni 1. 1. 2008 (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- **„Zpětná aplikace nového hmotného práva na řízení zahájené za staré úpravy je nepřípustnou retroaktivitou."** Protiargument proti závěru NSS. Neutralizace: jde o nepravou retroaktivitu výslovně předvídanou přechodným ustanovením (odst. 28 ve spojení s odst. 18); NSS 2 As 29/2011 ji aprobuje — posuzování způsobilosti k přístupu k UI podle aktuálních (přísnějších) hledisek je legitimní vzhledem k ochrannému účelu zákona.
+- **Zrušení projednání Kolegiem jako odepření opravného prostředku.** Námitka porušení práva na opravný prostředek (odst. 22). Neutralizace: NSS 2 As 91/2006 — úprava procesního postupu je v mezích ústavních pravidel věcí zákonodárce; soudní přezkum účel institutu naplňuje lépe, právo na projednání Kolegiem ústavně garantováno není.
+- **Slabé místo:** přesné určení rozhodného okamžiku podání (poštovní přeprava vs. doručení) a data nabytí účinnosti jednotlivých přechodných pravidel; chyba v datech zvrátí celý aplikační režim. Spis musí obsahovat nezpochybnitelný doklad o datu podání.
+
+#### H. Praktický závěr
+
+§ 157 obsahuje 28 odstavců přechodných ustanovení zajišťujících plynulý přechod z úpravy zákona č. 148/1998 Sb. na ZOUI: pojmové přemostění (utajovaná skutečnost → utajovaná informace, zrušení dvojkolejnosti státního/služebního tajemství), zachování platnosti dříve vydaných osvědčení, dokladů a certifikátů, procesní přechod (dokončení zahájených prověrek a řízení podle dosavadních předpisů), zrušení projednávání Kolegiem a cut-off 45 dnů (odst. 28). Klíčová je přímo aplikovatelná judikatura NSS (2 As 29/2011 a 2 As 91/2006).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit rozhodný okamžik podání (předání k poštovní přepravě / doručení) a porovnat s cut-off 45 dnů před 1. 1. 2006 (odst. 28).
+- [ ] Rozlišit režim procesní a hmotněprávní (NSS 2 As 29/2011 — hmotněprávní podmínky vždy podle nového práva).
+- [ ] U opravných prostředků podaných Kolegiu před účinností aplikovat odst. 22 (nevyřizování, vrácení spisu, poučení o žalobě) a NSS 2 As 91/2006.
+- [ ] Ověřit zachování platnosti dříve vydaných listin (odst. 5, 6, 11 a násl.) po dobu v nich uvedenou.
+- [ ] Zohlednit zrušení stupňů utajení u písemností do 31. 12. 1992 ke dni 1. 1. 2008 (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu podání žádosti (razítko / potvrzení o předání k poštovní přepravě), spisový materiál zahájeného řízení, dříve vydaná osvědčení/doklady/certifikáty, opravný prostředek podaný Kolegiu a doklad o jeho nevyřízení, poučení účastníka o možnosti žaloby.
+
 ---
 
 ### § 158 — Zmocňovací ustanovení
@@ -2936,6 +5450,43 @@ Odst. 3 stanoví, že **dnem 1. ledna 2008** se ze zákona zrušují stupně uta
 2. **NÚKIB** — k provedení 5 ustanovení týkajících se IT a kryptografie.
 
 Toto rozdělení odráží **kompetenční dělbu** mezi oběma úřady. Aktuálně jsou platné vyhlášky NBÚ č. 363/2011 Sb. (personální bezpečnost), č. 528/2005 Sb. (fyzická bezpečnost a certifikace) a další; pro NÚKIB pak vyhlášky o kybernetické bezpečnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel napadne před správním soudem rozhodnutí NBÚ o nevydání osvědčení s tím, že se opírá o prováděcí vyhlášku NBÚ, která podle něj překračuje meze zákonného zmocnění — stanoví povinnost (konkrétní formulář a rozsah dokládaných údajů), pro kterou v § 158 (a v zmocňovacích ustanoveních, na něž odkazuje) není opora. Namítá nezákonnost vyhlášky a tím i rozhodnutí, jež se o ni opírá. Důkazy: text napadeného ustanovení vyhlášky, příslušné zmocňovací ustanovení ZOUI, odůvodnění rozhodnutí NBÚ.
+
+**2. Právní otázka.** Drží se napadené ustanovení prováděcí vyhlášky v mezích zákonného zmocnění podle § 158 (resp. konkrétního zmocňovacího paragrafu, na nějž § 158 odkazuje — secundum et intra legem), nebo jde o nezákonný exces, k němuž soud při přezkumu nepřihlédne?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 158 ZOUI — dvojí zmocnění k vydání prováděcích vyhlášek: NBÚ (13 ustanovení) a NÚKIB (5 ustanovení v oblasti IT a kryptografie).
+- *Související ustanovení téhož zákona:* jednotlivá zmocňovací ustanovení vyjmenovaná v § 158 (§ 7 odst. 3, § 33, § 64, § 79 odst. 8, § 135 aj.); § 137 a § 137a (působnost NBÚ a NÚKIB jako základ kompetenční dělby zmocnění).
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (ministerstva a jiné správní úřady mohou vydávat právní předpisy jen na základě a v mezích zákona, jsou-li k tomu zákonem zmocněny); prováděcí vyhlášky NBÚ (zejm. č. 363/2011 Sb. — personální bezpečnost, č. 528/2005 Sb. — fyzická bezpečnost a certifikace) a vyhlášky NÚKIB.
+- *Judikatura:* k přezkumu podzákonných předpisů platí, že prováděcí předpis se musí pohybovat secundum et intra legem; překročí-li meze zmocnění (stanoví práva či povinnosti nad rámec zákona), je v té části nezákonný a soud k němu nepřihlédne (nosný závěr ustálené judikatury Ústavního soudu a NSS k vázanosti podzákonných předpisů zákonným zmocněním).
+
+**4. Subsumpce.** Znak „existence zákonného zmocnění" je dán, pokud napadenou povinnost lze podřadit pod některý z paragrafů vyjmenovaných v § 158 (např. formulářové a obsahové náležitosti žádosti/dotazníku). Pokud vyhláška jen konkretizuje zákonem předvídané náležitosti, drží se v mezích zmocnění (intra legem). Pokud však ukládá zcela novou povinnost bez opory v zákoně, je naplněn znak excesu a ustanovení vyhlášky je nezákonné.
+
+**5. Řešení.** Soud posoudí, zda se napadené ustanovení vyhlášky pohybuje v mezích § 158 a konkrétního zmocňovacího paragrafu. Drží-li se uvnitř zmocnění, námitka neobstojí a rozhodnutí NBÚ obstojí. Překračuje-li zmocnění, soud k nezákonnému ustanovení nepřihlédne (čl. 95 odst. 1 Ústavy — soudce je vázán zákonem, podzákonný předpis posuzuje) a rozhodnutí o ně opřené zruší. Procesně: přesně identifikovat zmocňovací paragraf a porovnat rozsah zmocnění s obsahem vyhlášky. Riziko: i správné zmocnění může být vyhláškou využito nepřiměřeně (nad rámec účelu) — pak částečná nezákonnost.
+
+**6. Varianty.** (i) Kdyby šlo o vyhlášku NÚKIB v oblasti kryptografie (§ 44, § 53 písm. b) až f)), posuzovalo by se zmocnění NÚKIB — § 158 dělí zmocnění mezi oba úřady podle jejich působnosti. (ii) Kdyby vyhláška chyběla zcela (orgán ji nevydal), nemohl by NBÚ po adresátech vyžadovat plnění povinností, jejichž obsah měl být teprve vyhláškou stanoven — absence prováděcího předpisu nelze klást k tíži adresáta.
+
+#### G. Protiargumenty a rizika
+
+- **„Vyhláška je dlouhodobě aplikována a nikdy nebyla zrušena, je tedy zákonná."** Protiargument z faktické praxe. Neutralizace: dlouhodobá aplikace nezhojuje rozpor se zákonným zmocněním; soud posuzuje zákonnost podzákonného předpisu incidenčně v každém řízení (čl. 95 odst. 1 Ústavy) bez ohledu na to, že nebyl formálně zrušen.
+- **Kompetenční záměna zmocnění.** Riziko, že vyhláška upraví materii spadající do zmocnění druhého úřadu (NBÚ vs. NÚKIB); překročení kompetenční dělby § 158 zakládá nezákonnost.
+- **Slabé místo:** hranice mezi přípustnou konkretizací (intra legem) a nepřípustným rozšířením (ultra vires) je v detailech neostrá; bez přesného porovnání textu zmocnění a vyhlášky hrozí, že námitka excesu zůstane nepodložená.
+
+#### H. Praktický závěr
+
+§ 158 svěřuje vydání prováděcích vyhlášek dvěma orgánům podle jejich působnosti: NBÚ (personální, administrativní, fyzická bezpečnost, certifikace, vzory dokladů — 13 ustanovení) a NÚKIB (IT a kryptografie — 5 ustanovení). Zmocnění je třeba vykládat striktně; prováděcí vyhláška se musí pohybovat secundum et intra legem (čl. 79 odst. 3 Ústavy) a soud k ní v případě excesu nepřihlédne.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat konkrétní zmocňovací paragraf v § 158, o nějž se napadené ustanovení vyhlášky opírá.
+- [ ] Porovnat rozsah zmocnění s obsahem vyhlášky (intra legem vs. ultra vires).
+- [ ] Ověřit kompetenční příslušnost zmocnění (NBÚ vs. NÚKIB podle § 137 a § 137a).
+- [ ] U excesu navrhnout, aby soud k nezákonnému ustanovení nepřihlédl (čl. 95 odst. 1 Ústavy).
+- [ ] Zohlednit, že absenci prováděcí vyhlášky nelze klást k tíži adresáta normy.
+
+**Typicky rozhodné důkazy / podklady:** text napadeného ustanovení prováděcí vyhlášky, znění příslušného zmocňovacího paragrafu ZOUI, odůvodnění rozhodnutí NBÚ/NÚKIB opřeného o vyhlášku, případně srovnání s dřívějšími prováděcími předpisy.
 
 ---
 
@@ -2966,6 +5517,43 @@ Mimo tyto tři okruhy se na bezpečnostní řízení (zejm. řízení o vydání
 
 Tato úprava byla mnohokrát kritizována za to, že zbavuje účastníka standardních procesních garancí — Ústavní soud (Pl. ÚS 11/04) ji však shledal **proporcionální** s ohledem na zvláštní povahu bezpečnostního řízení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník bezpečnostního řízení o vydání osvědčení fyzické osoby (řízení podle § 89 a násl.) napadne rozhodnutí NBÚ žalobou s tím, že NBÚ porušil ustanovení správního řádu o lhůtách, o poučovací povinnosti a o dokazování. Argumentuje, že správní řád se na řízení mělo použít subsidiárně. NBÚ namítá, že na bezpečnostní řízení podle § 89 a násl. se správní řád podle § 159 nepoužije (s výjimkou základních zásad činnosti správních orgánů) a že odůvodnění rozhodnutí se řídí speciálním § 122 odst. 3 (utajené důvody se nahradí odkazem na podklady a jejich stupeň utajení). Důkazy: spis bezpečnostního řízení, napadené rozhodnutí, podklady opatřené zpravodajskými službami.
+
+**2. Právní otázka.** Použije se na bezpečnostní řízení o vydání osvědčení (§ 89 a násl.) správní řád subsidiárně, nebo je jeho použití podle § 159 vyloučeno s výjimkou základních zásad činnosti správních orgánů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 159 ZOUI — správní řád se vztahuje pouze na řízení podle § 35 odst. 2, podle Části druhé Hlavy IX a na řízení podle Části osmé (přestupky).
+- *Související ustanovení téhož zákona:* § 89 a násl. (bezpečnostní řízení — autonomní procesní režim), § 122 odst. 3 (speciální pravidla odůvodnění při utajených podkladech), § 133 (soudní přezkum); § 89 a násl. ve vztahu k vyloučení SŘ.
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád, zejm. § 1 odst. 2 (subsidiarita: SŘ se nepoužije, stanoví-li zvláštní zákon jiný postup) a § 2 až § 8 (základní zásady činnosti správních orgánů, jež platí vždy); zákon č. 150/2002 Sb. (SŘS).
+- *Judikatura:* k této otázce existuje přímo aplikovatelná judikatura citovaná v komentáři — NSS 18 A 32/2024 (na bezpečnostní řízení podle § 89 a násl. SŘ nedopadá; jeho použití je vyloučeno v § 159 a § 122 odst. 3 stanoví speciální pravidla odůvodnění) a NSS 10 A 60/2016 (ačkoli se SŘ až na základní zásady nepoužije, lze z judikaturních závěrů k postupu odvolacího orgánu obdobně vycházet i zde, s ohledem na úmysl historického zákonodárce). K ústavní konformitě vyloučení SŘ srov. nález Ústavního soudu Pl. ÚS 11/04 (úprava shledána proporcionální vzhledem ke zvláštní povaze bezpečnostního řízení).
+
+**4. Subsumpce.** Řízení o vydání osvědčení je řízením podle § 89 a násl. (bezpečnostní řízení). Znak „řízení uvedené ve výčtu § 159" (§ 35 odst. 2 / Část druhá Hlava IX / Část osmá) NENÍ naplněn — řízení o osvědčení mezi vyjmenované okruhy nepatří. Proto se uplatní pravidlo, že SŘ se na ně (s výjimkou základních zásad činnosti správních orgánů) nepoužije. Naopak speciální pravidla odůvodnění podle § 122 odst. 3 (odkaz na utajené podklady a jejich stupeň) jsou aplikovatelná přímo.
+
+**5. Řešení.** Námitky opřené o jednotlivá ustanovení správního řádu (lhůty, dokazování, poučení) jsou nedůvodné, neboť tato ustanovení se na bezpečnostní řízení podle § 89 a násl. nepoužijí (§ 159); platí pouze základní zásady činnosti správních orgánů (§ 2 až § 8 SŘ). Odůvodnění s odkazem na utajené podklady je v souladu s § 122 odst. 3. Soud žalobu v této části zamítne; přezkum se soustředí na dodržení základních zásad a speciálních pravidel ZOUI. Riziko: i v autonomním režimu musí být zachovány základní zásady (zákonnost, zákaz libovůle, přiměřenost) — jejich porušení by k důvodnosti žaloby vést mohlo.
+
+**6. Varianty.** (i) Kdyby šlo o řízení o přestupku podle Části osmé (např. § 153), správní řád by se subsidiárně použil (§ 159 jej pro Část osmou výslovně připouští), spolu se zákonem č. 250/2016 Sb. (ii) Kdyby šlo o řízení o schválení bezpečnostního projektu komunikačního systému podle § 35 odst. 2, rovněž by se subsidiárně použil správní řád (výslovně vyjmenováno v § 159).
+
+#### G. Protiargumenty a rizika
+
+- **„Vyloučení správního řádu zbavuje účastníka procesních garancí a je protiústavní."** Nejsilnější námitka. Neutralizace: Ústavní soud (Pl. ÚS 11/04) shledal úpravu proporcionální vzhledem ke zvláštní povaze bezpečnostního řízení; navíc platí základní zásady činnosti správních orgánů a je zaručen soudní přezkum (§ 133) — minimální procesní standard je tedy zachován.
+- **„Absence úpravy v ZOUI vytváří mezery, jež nelze ničím vyplnit."** Neutralizace: NSS 10 A 60/2016 — i při vyloučení SŘ lze z judikaturních závěrů (např. k postupu odvolacího orgánu) obdobně vycházet s ohledem na úmysl zákonodárce; autonomní režim není bezbřehý.
+- **Slabé místo:** hranice mezi „základními zásadami" (které platí vždy) a „ostatními ustanoveními SŘ" (jež jsou vyloučena) je v praxi sporná; účastník může důvodně namítat porušení zásady zákonnosti či přiměřenosti, jež do autonomního režimu prosakují. Spis musí prokázat dodržení těchto zásad.
+
+#### H. Praktický závěr
+
+§ 159 je klíčovým pravidlem o vztahu ZOUI ke správnímu řádu: plošné použití SŘ je vyloučeno a subsidiárně se uplatní jen na tři okruhy — řízení podle § 35 odst. 2 (schválení projektu komunikačního systému), podle Části druhé Hlavy IX (akreditace/certifikace) a podle Části osmé (přestupky). Bezpečnostní řízení o osvědčení a dokladu je autonomním procesním režimem, v němž z SŘ platí pouze základní zásady činnosti správních orgánů; ústavní konformitu potvrdil Pl. ÚS 11/04.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit řízení: spadá-li pod § 35 odst. 2, Část druhou Hlavu IX nebo Část osmou → SŘ se použije subsidiárně; jinak nikoli.
+- [ ] U bezpečnostního řízení podle § 89 a násl. aplikovat z SŘ pouze základní zásady činnosti správních orgánů (§ 2 až § 8 SŘ).
+- [ ] U odůvodnění rozhodnutí s utajenými podklady aplikovat speciální § 122 odst. 3 (odkaz na podklady a jejich stupeň utajení).
+- [ ] Námitky o porušení jednotlivých (vyloučených) ustanovení SŘ vypořádat odkazem na § 159 a NSS 18 A 32/2024.
+- [ ] Přesto ověřit zachování zákonnosti, přiměřenosti a zákazu libovůle (základní zásady prosakují i do autonomního režimu).
+
+**Typicky rozhodné důkazy / podklady:** spis bezpečnostního řízení, napadené rozhodnutí a jeho odůvodnění (§ 122 odst. 3), utajené podklady a doklad o jejich stupni utajení, doklad o zařazení řízení do/mimo výčet § 159.
+
 ---
 
 ### § 160 — Zrušovací ustanovení
@@ -2988,6 +5576,43 @@ Tato úprava byla mnohokrát kritizována za to, že zbavuje účastníka standa
 
 Účinností ZOUI **přestaly platit** všechny dosavadní prováděcí předpisy. NBÚ pak postupně vydal **nové prováděcí vyhlášky** (vyhláška č. 432/2011 Sb., č. 528/2005 Sb., č. 525/2005 Sb. atd.). V přechodném období (do vydání nových vyhlášek) se aplikovala přechodná ustanovení § 157 v zájmu kontinuity.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po účinnosti ZOUI (1. 1. 2006) orgán státu při manipulaci s UI postupuje podle prováděcí vyhlášky č. 245/1998 Sb. (vyhláška NBÚ k zákonu č. 148/1998 Sb.), kterou má dosud v interních směrnicích jako odkaz. Spor vznikne, když adresát namítne, že tato vyhláška již neplatí (byla zrušena § 160) a postup orgánu nemá oporu v platném právu. Orgán naopak tvrdí, že v přechodném období se stará vyhláška „ještě používá". Důkazy: interní bezpečnostní směrnice orgánu, znění § 160 ZOUI, datum vydání nové prováděcí vyhlášky NBÚ.
+
+**2. Právní otázka.** Platila prováděcí vyhláška č. 245/1998 Sb. po 1. 1. 2006, nebo byla § 160 ZOUI zrušena — a pokud zrušena, podle čeho se měl orgán řídit v období, než NBÚ vydal novou prováděcí vyhlášku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 160 ZOUI — zrušovací ustanovení rušící 24 právních předpisů (zákony novelizující č. 148/1998 Sb., nařízení vlády, 15 prováděcích vyhlášek).
+- *Související ustanovení téhož zákona:* § 157 (přechodná ustanovení zajišťující kontinuitu — zachování platnosti dříve vydaných listin po dobu v nich uvedenou); § 158 (zmocnění k vydání nových prováděcích vyhlášek); § 161 (účinnost 1. 1. 2006, k níž se zrušení váže).
+- *Související předpisy:* zrušené předpisy (zejm. vyhlášky č. 245/1998 Sb., č. 263/1998 Sb. aj.); nové prováděcí vyhlášky NBÚ (č. 528/2005 Sb. — fyzická bezpečnost a certifikace, č. 525/2005 Sb., později č. 363/2011 Sb. a č. 432/2011 Sb.); zákon č. 309/1999 Sb., o Sbírce zákonů (deklaratorní povaha zrušovacích klauzulí).
+- *Judikatura:* k derogaci platí, že zrušovací ustanovení působí ke dni účinnosti rušícího předpisu erga omnes a soud k již zrušenému předpisu po datu derogace nepřihlíží; mezeru po zrušeném prováděcím předpisu lze přechodně překlenout přechodnými ustanoveními (nosný výkladový závěr k účinkům derogace).
+
+**4. Subsumpce.** Vyhláška č. 245/1998 Sb. je obsažena ve výčtu předpisů rušených § 160. Znak „předpis zrušený § 160" je tedy naplněn; vyhláška ke dni účinnosti ZOUI (1. 1. 2006) pozbyla platnosti. Postup orgánu opřený výlučně o tuto vyhlášku po 1. 1. 2006 nemá oporu v platném právu. Sporné může být toliko, zda konkrétní povinnost orgán dovozoval z (již platné) nové vyhlášky či přímo ze ZOUI, anebo skutečně jen ze zrušené vyhlášky.
+
+**5. Řešení.** Vyhláška č. 245/1998 Sb. po 1. 1. 2006 neplatí; orgán se měl řídit ZOUI a novými prováděcími vyhláškami NBÚ, případně v přechodném období přechodnými ustanoveními § 157 (jež zajišťovala kontinuitu zachováním platnosti dříve vydaných listin a režimů). Postup výlučně podle zrušené vyhlášky je vadný. Procesně: ověřit, zda v rozhodné době již existovala nová vyhláška upravující danou materii; pokud ano, aplikuje se ona, pokud ne, postupuje se přímo podle zákona a přechodných ustanovení. Riziko: záměna zrušené a nové vyhlášky v interních směrnicích orgánu vede k formálně vadnému, byť věcně třeba správnému postupu.
+
+**6. Varianty.** (i) Kdyby šlo o dříve vydané osvědčení nebo certifikát (nikoli o prováděcí předpis), zůstával by platný po dobu v něm uvedenou podle § 157 (odst. 5, 6, 14 a násl.) — derogace prováděcích předpisů se nedotýká individuálních aktů vydaných za jejich účinnosti. (ii) Kdyby orgán postupoval podle nové vyhlášky č. 528/2005 Sb. (platné od 1. 1. 2006), námitka neplatnosti by neobstála — nová úprava nahradila zrušenou.
+
+#### G. Protiargumenty a rizika
+
+- **„V přechodném období se stará vyhláška ještě používala, postup byl proto v pořádku."** Protiargument kontinuity. Neutralizace: zrušená vyhláška po datu derogace neplatí; kontinuitu nezajišťuje fiktivní „doužívání" zrušeného předpisu, nýbrž přechodná ustanovení § 157 (a nové prováděcí vyhlášky vydané k 1. 1. 2006). Opora postupu musí být v platném právu.
+- **Mezera mezi zrušením staré a vydáním nové vyhlášky.** Riziko regulační mezery. Neutralizace: NBÚ vydal klíčové nové vyhlášky s účinností od 1. 1. 2006 (č. 528/2005 Sb., č. 525/2005 Sb.); zbytkové mezery překlenují přechodná ustanovení § 157 v zájmu kontinuity.
+- **Slabé místo:** prokázání, zda orgán postupoval skutečně podle zrušené, či podle nové vyhlášky — bez analýzy interních směrnic a jejich aktualizace hrozí, že námitka neplatnosti zůstane jen formální. Spis musí doložit právní základ konkrétního postupu.
+
+#### H. Praktický závěr
+
+§ 160 zrušuje celý komplex dosavadní normativní úpravy ochrany utajovaných skutečností — 24 předpisů (zákony novelizující č. 148/1998 Sb., nařízení vlády a 15 prováděcích vyhlášek) — ke dni účinnosti ZOUI (1. 1. 2006). Důsledkem je kompletní nahrazení normativního prostředí; NBÚ vydal nové prováděcí vyhlášky a přechodné období překlenula ustanovení § 157. Po datu derogace nelze postup opírat o zrušený předpis; individuální akty (osvědčení, certifikáty) vydané za staré úpravy však zůstávají platné po dobu v nich uvedenou (§ 157).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda předpis, o nějž se postup opírá, není ve výčtu zrušených předpisů podle § 160.
+- [ ] Po 1. 1. 2006 aplikovat ZOUI a nové prováděcí vyhlášky NBÚ (č. 528/2005 Sb. aj.), nikoli zrušené předpisy.
+- [ ] Rozlišit derogaci prováděcích předpisů (§ 160) od zachování platnosti individuálních aktů vydaných za staré úpravy (§ 157).
+- [ ] V přechodném období využít přechodná ustanovení § 157 k překlenutí případných mezer.
+- [ ] Aktualizovat interní bezpečnostní směrnice tak, aby neodkazovaly na zrušené předpisy.
+
+**Typicky rozhodné důkazy / podklady:** znění § 160 a výčet zrušených předpisů, interní bezpečnostní směrnice orgánu/podnikatele a doklad o jejich aktualizaci, data vydání a účinnosti nových prováděcích vyhlášek NBÚ, dříve vydaná osvědčení/certifikáty s dobou platnosti.
+
 ---
 
 ### § 161 — Účinnost
@@ -3005,6 +5630,43 @@ Zákon č. 412/2005 Sb. byl vyhlášen ve Sbírce zákonů dne **20. října 200
 #### Strategický význam data účinnosti
 
 Datum **1. 1. 2006** bylo zvoleno strategicky — počátek kalendářního roku usnadňuje administrativní transformaci, daňové, účetní a rozpočtové zúčtování. Souvisí to také s tehdejším termínem **plné aplikace mezinárodních bezpečnostních standardů NATO** (po vstupu ČR v r. 1999) a se zaváděním standardů ochrany utajovaných informací v Evropské unii (Council Decision 2001/264/EC, aktualizováno 2011/292/EU, dnes 2013/488/EU).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán státu dne 28. prosince 2005 zahájí řízení o vydání osvědčení a aplikuje na ně přímo ZOUI, ačkoli zákon nabyl účinnosti až 1. ledna 2006. Účastník později namítne, že úkony provedené v období legisvakance (mezi vyhlášením 20. 10. 2005 a účinností 1. 1. 2006) podle ZOUI jsou neúčinné, neboť zákon tehdy ještě nebyl účinný. Spor se týká toho, od kdy lze podle ZOUI postupovat. Důkazy: datum vyhlášení ve Sbírce zákonů, datum jednotlivých úkonů orgánu, spis řízení.
+
+**2. Právní otázka.** Od kterého dne je možné podle ZOUI postupovat a činit účinné úkony — od vyhlášení (20. 10. 2005), nebo až od nabytí účinnosti (1. 1. 2006) podle § 161 — a jaký je význam legisvakanční lhůty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 161 ZOUI — nabytí účinnosti dnem 1. ledna 2006.
+- *Související ustanovení téhož zákona:* § 157 (přechodná ustanovení vázaná na den nabytí účinnosti — počítání lhůt „ode dne nabytí účinnosti"), § 160 (zrušení dosavadních předpisů ke dni účinnosti); celý zákon jako právní rámec, jenž se stává závazným teprve účinností.
+- *Související předpisy:* čl. 52 odst. 1 Ústavy a zákon č. 309/1999 Sb., o Sbírce zákonů a o Sbírce mezinárodních smluv (podmínkou platnosti zákona je vyhlášení; účinnost nastává v zákoně určeným dnem); mezinárodní bezpečnostní standardy NATO a EU (Council Decision 2001/264/ES, dnes 2013/488/EU).
+- *Judikatura:* k rozlišení platnosti a účinnosti právního předpisu platí, že vyhlášením předpis nabývá platnosti (stává se součástí právního řádu), avšak závazně se aplikuje teprve od účinnosti; úkony činěné podle dosud neúčinného předpisu nemají právní účinky (nosný ústavněprávní závěr k rozlišení platnosti a účinnosti).
+
+**4. Subsumpce.** Znak „den nabytí účinnosti" je § 161 stanoven na 1. 1. 2006. Úkony orgánu z 28. 12. 2005 spadají do období legisvakance (předpis byl platný, ale neúčinný). Znak „účinnost zákona" tedy v době těchto úkonů NENÍ naplněn. Řízení podle ZOUI bylo možné zahájit a účinně vést až od 1. 1. 2006; do té doby platily dosavadní předpisy (zrušené až § 160 ke dni účinnosti).
+
+**5. Řešení.** Úkony provedené podle ZOUI před 1. 1. 2006 jsou předčasné a nemají právní účinky; do účinnosti se mělo postupovat podle dosavadní úpravy (zákon č. 148/1998 Sb. a jeho prováděcí předpisy, zrušené až k 1. 1. 2006). Od 1. 1. 2006 se naopak ZOUI aplikuje plně, včetně přechodných ustanovení § 157, jejichž lhůty počínají běžet právě dnem účinnosti. Procesně: ověřit datum jednotlivých úkonů vůči datu účinnosti. Riziko: úkony z období legisvakance je třeba po účinnosti zopakovat/potvrdit podle ZOUI, jinak jsou bez účinku.
+
+**6. Varianty.** (i) Kdyby orgán v období legisvakance postupoval podle tehdy platného zákona č. 148/1998 Sb. (a řízení nedokončil), uplatnila by se po 1. 1. 2006 přechodná ustanovení § 157 (dokončení podle dosavadních předpisů, příp. cut-off 45 dnů podle odst. 28). (ii) Kdyby zákon stanovil delší legisvakanci, měly by orgány více času na přípravu prováděcích vyhlášek a interních systémů; krátká lhůta (~10 týdnů) postačovala jen díky převzetí struktury zákona č. 148/1998 Sb.
+
+#### G. Protiargumenty a rizika
+
+- **„Zákon byl vyhlášen již v říjnu 2005, byl tedy součástí právního řádu a šlo podle něj postupovat."** Záměna platnosti a účinnosti. Neutralizace: vyhlášení zakládá platnost, nikoli účinnost; závazně se předpis aplikuje teprve od dne určeného v § 161 (1. 1. 2006). Úkony podle neúčinného předpisu nemají právní účinky.
+- **„Krátká legisvakanční lhůta nedávala dostatek času na přípravu, proto by úkony z prosince měly být tolerovány."** Neutralizace: délka legisvakance je věcí zákonodárce a nemůže ospravedlnit aplikaci předpisu před jeho účinností; orgány měly do 1. 1. 2006 postupovat podle dosavadní úpravy.
+- **Slabé místo:** přesné datování jednotlivých úkonů ve vztahu k datu účinnosti — bez nezpochybnitelné časové osy hrozí spor, zda úkon spadá do legisvakance, či již do účinnosti. Spis musí obsahovat data všech relevantních úkonů.
+
+#### H. Praktický závěr
+
+§ 161 stanoví nabytí účinnosti ZOUI dnem 1. ledna 2006 (vyhlášen 20. 10. 2005 — legisvakance ~10 týdnů). Datum počátku kalendářního roku usnadnilo administrativní transformaci a souviselo s plnou aplikací mezinárodních bezpečnostních standardů NATO a EU. Klíčové je rozlišení platnosti (od vyhlášení) a účinnosti (od 1. 1. 2006): podle ZOUI lze závazně postupovat až od účinnosti; do té doby platily dosavadní předpisy a od účinnosti se uplatní přechodná ustanovení § 157, jejichž lhůty běží ode dne účinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odlišit platnost (vyhlášení 20. 10. 2005) od účinnosti (1. 1. 2006); podle ZOUI postupovat až od účinnosti.
+- [ ] Úkony z období legisvakance posoudit podle dosavadní úpravy; po účinnosti je případně zopakovat podle ZOUI.
+- [ ] Počítat lhůty přechodných ustanovení § 157 ode dne nabytí účinnosti (1. 1. 2006).
+- [ ] Zohlednit, že ke dni účinnosti byly zrušeny dosavadní předpisy (§ 160).
+- [ ] Vést přesnou časovou osu úkonů ve vztahu k datu účinnosti.
+
+**Typicky rozhodné důkazy / podklady:** datum vyhlášení zákona ve Sbírce zákonů (částka, datum), datace jednotlivých procesních úkonů orgánu, spis řízení, doklady o aplikované úpravě (ZOUI vs. zákon č. 148/1998 Sb.) v rozhodné době.
 
 ---
 
