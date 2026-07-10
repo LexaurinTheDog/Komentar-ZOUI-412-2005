@@ -14,3 +14,7 @@
 - **Osvědčení FO/PO** — bezpečnostní prověrka NBÚ
 - **Soudní přezkum** — NSS (rozhodnutí NBÚ jsou správní rozhodnutí)
 - **Sankce** — pokuty až 5 mil. Kč
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.

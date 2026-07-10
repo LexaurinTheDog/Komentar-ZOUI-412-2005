@@ -27,3 +27,6 @@ Výkladový text komentáře (© 2026 Vojtěch Říha) lze volně užívat, ší
 
 Komentář **není autoritativním právním stanoviskem** a poskytuje se „tak jak je", bez jakýchkoli záruk ve smyslu čl. 7–8 licence.
 
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
