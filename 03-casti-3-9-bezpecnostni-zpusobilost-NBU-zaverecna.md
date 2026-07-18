@@ -770,6 +770,52 @@ Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f44aacb3e6209ccb3ff5 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 88a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Tato část upravuje postup Úřadu v bezpečnostním řízení (dále jen „řízení“) při rozhodování o žádostech podle [[#§ 94|§ 94]], [[#§ 96|96]] a [[#§ 99|99]] a při rozhodování o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 96, § 99
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f44aacb3e6209ccb3ff5 -->
+
 ### § 89 — Obecné zásady bezpečnostního řízení
 
 > **§ 89**
@@ -843,6 +889,58 @@ Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=744b9e3020ce42f630eb generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 89 — Obecné zásady bezpečnostního řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad v řízení postupuje tak, aby byl úplně a přesně zjištěn stav věci v rozsahu, který je nezbytný pro rozhodnutí, aby nikomu nevznikaly zbytečné náklady a bez zbytečných průtahů.
+>
+> (2) Při řízení musí být šetřena osobní čest a důstojnost všech osob řízením dotčených.
+>
+> (3) Úřad vytváří podmínky, aby z důvodu zdravotního postižení účastníka řízení nedošlo k újmě či zkrácení jeho práv.
+>
+> (4) Řízení je neveřejné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=744b9e3020ce42f630eb -->
+
 ### § 89a — Vedení řízení
 
 > **§ 89a**
@@ -892,6 +990,54 @@ Pro celou Část čtvrtou (a navazující ustanovení Částí pátá–devátá
 **Typicky rozhodné důkazy / podklady:** vnitřní předpisy NBÚ o určení úředních osob, bezpečnostní svazek se záznamy, protokoly o úkonech, žádost účastníka o sdělení úřední osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1462c795bf8ec0ddf25e generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 89a — Vedení řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad vede řízení prostřednictvím úředních osob oprávněných k tomu podle vnitřních předpisů Úřadu. O tom, který zaměstnanec Úřadu je v daném řízení úřední osobou a ve kterém organizačním útvaru je zařazen, se provede záznam do bezpečnostního svazku a Úřad o tom účastníka řízení na požádání informuje.
+>
+> (2) Jednotlivé úkony v řízení se činí písemně, pokud to nevylučuje povaha věci. Jednotlivé sdělení v průběhu řízení lze vůči přítomnému účastníku řízení učinit ústně, pokud ten na písemné formě netrvá. Obsah úkonů prováděných jinou než písemnou formou se poznamená do bezpečnostního svazku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1462c795bf8ec0ddf25e -->
 
 ### § 89b — Jednací jazyk
 
@@ -945,6 +1091,56 @@ V řízení se jedná česky; cizojazyčné písemnosti je nutno předložit s �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=291c9bb7c38abc7422b6 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 89b — Jednací jazyk
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) V řízení se jedná a písemnosti se vyhotovují v českém jazyce, pokud nejde o výkon práv příslušníka národnostní menšiny podle odstavce 2. Písemnosti vyhotovené v cizím jazyce musí účastník řízení předložit v originálním znění a současně v úředně ověřeném překladu do jazyka českého70).
+>
+> (2) Občan České republiky příslušející k národnostní menšině, která tradičně a dlouhodobě žije na území České republiky, má právo činit úkony vůči Úřadu a jednat v jazyce své národnostní menšiny. Nemá-li Úřad úřední osobu znalou jazyka národnostní menšiny, obstará si osoba podle věty první tlumočníka zapsaného v seznamu tlumočníků; náklady tlumočení a náklady na pořízení překladu nese Úřad.
+>
+> (3) Účastník řízení podle § 92 písm. a) a b) a jeho zástupce podle [[#§ 92e|§ 92e]], který prohlásí, že neovládá jazyk, jímž se vede jednání, si na své náklady obstará tlumočníka zapsaného v seznamu tlumočníků a překladatelů; v ostatních případech nese náklady na tlumočení Úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 92, § 92e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=291c9bb7c38abc7422b6 -->
+
 ### § 89c — Nahlížení do bezpečnostního svazku
 
 > **§ 89c**
@@ -994,6 +1190,52 @@ Speciální opatření pro **nevidomé**: čtení obsahu, zvukový záznam, př�
 **Typicky rozhodné důkazy / podklady:** bezpečnostní svazek s vyznačením utajované části, rozhodnutí o zamítnutí/zrušení, žádost o nahlédnutí, doklad o zdravotním postižení (u nevidomých).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a60f22c8697f1102a844 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 89c — Nahlížení do bezpečnostního svazku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Účastník řízení a jeho zástupce mají právo nahlížet do bezpečnostního svazku a činit si z něj výpisy, s výjimkou té části bezpečnostního svazku, která obsahuje utajovanou informaci. Nevidomým osobám bude obsah bezpečnostního svazku přečten. Na požádání Úřad nevidomé osobě umožní pořízení zvukového záznamu. Úřad na žádost nevidomé osoby rovněž umožní, aby do bezpečnostního svazku, za podmínek uvedených ve větě první, nahlížel i její průvodce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a60f22c8697f1102a844 -->
 
 ### § 90 — Vyloučení z řízení
 
@@ -1072,6 +1314,66 @@ Odst. 2 brání tomu, aby táž úřední osoba rozhodovala v opravném stupni. 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c6508963bf89fb03b6dc generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 90 — Vyloučení z řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřední osoba, o které lze důvodně předpokládat, že má s ohledem na svůj poměr k věci, k účastníku řízení nebo jeho zástupci takový zájem na průběhu a výsledku řízení, pro nějž lze pochybovat o její nepodjatosti, je vyloučena ze všech úkonů v řízení, při jejichž provádění by mohla výsledek řízení ovlivnit.
+>
+> (2) Vyloučena je též úřední osoba, která se účastnila řízení v téže věci na jiném stupni řízení.
+>
+> (3) Účastník řízení může namítnout podjatost úřední osoby ve lhůtě do 15 dnů ode dne, kdy se o úřední osobě podílející se na řízení dozvěděl. V námitce podjatosti musí být uvedeno, proti které úřední osobě námitka směřuje, v čem je spatřován důvod pochybnosti o její nepodjatosti a jakými důkazy může být jeho tvrzení prokázáno. K později podané námitce se nepřihlíží.
+>
+> (4) Úřední osoba, která se dozví o okolnostech nasvědčujících tomu, že je podjatá, je povinna o nich neprodleně uvědomit svého nadřízeného. Do doby, než nadřízený rozhodne, zda je vyloučena, může úřední osoba provádět jen takové úkony, které nesnesou odkladu.
+>
+> (5) Nadřízený úřední osoby, která je vyloučena, za ni bezodkladně určí jinou úřední osobu, která není k vyloučenému ve vztahu podřízenosti; usnesení o tom se pouze poznamená do bezpečnostního svazku.
+>
+> (6) O vyloučení úřední osoby rozhodne nadřízený úřední osoby usnesením, proti kterému nelze podat rozklad. Usnesení o vyloučení úřední osoby podle odstavce 4 se pouze poznamená do bezpečnostního svazku.
+>
+> (7) Ustanovení odstavců 1 až 6 se nepoužijí pro ředitele Úřadu.
+>
+> (8) Odstavce 1 a 3 až 6 se užijí obdobně i pro účast znalců a tlumočníků v řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6508963bf89fb03b6dc -->
+
 ### § 92 — Účastník řízení
 
 > **§ 92**
@@ -1133,6 +1435,58 @@ Smyslem této restrikce je **ochrana neveřejnosti řízení** (§ 89 odst. 4) a
 **Typicky rozhodné důkazy / podklady:** podaná žádost s vyznačením, kdo a pro koho ji podává, vymezení předmětu řízení, doklad o uvědomění odpovědné osoby (§ 93 odst. 3).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=598c17a7bd0ddf9293b0 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 92 — Účastník řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Účastníkem řízení je
+>
+> - a) v řízení o žádostech podle [[#§ 94|§ 94]] nebo [[#§ 99|99]] fyzická osoba, která žádá o vydání osvědčení fyzické osoby nebo dokladu, nebo osoba, pro kterou je podle § 93 odst. 1 písm. c) žádáno o vydání osvědčení fyzické osoby,
+>
+> - b) v řízení o žádosti podle [[#§ 96|§ 96]] podnikatel, který žádá o vydání osvědčení podnikatele,
+>
+> - c) v řízení o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu držitel těchto veřejných listin.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 99, § 93, § 96
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=598c17a7bd0ddf9293b0 -->
 
 ### § 92a–92f — Zastoupení účastníka
 
@@ -1199,6 +1553,312 @@ Smyslem této restrikce je **ochrana neveřejnosti řízení** (§ 89 odst. 4) a
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o svéprávnosti, listina o ustanovení opatrovníka, plná moc (vč. dovolení substituce), předběžné prohlášení účastníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=393bf371590ff82a73ba generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 92a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Jménem podnikatele činí úkony v řízení jeho odpovědná osoba.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=393bf371590ff82a73ba -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9d7cdb235dd68475331c generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 92b — Procesní způsobilost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Účastník řízení může činit v řízení úkony samostatně (dále jen „procesní způsobilost“) v tom rozsahu, v jakém je svéprávný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9d7cdb235dd68475331c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8a7378d7a1f4d09ab033 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 92c — Zastoupení účastníka řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Zástupcem účastníka řízení je zákonný zástupce, opatrovník nebo zmocněnec.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a7378d7a1f4d09ab033 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=20a460e8f81c7cb54cf6 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 92d — Zastoupení na základě zákona a opatrovnictví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) V rozsahu, v jakém účastník řízení nemá procesní způsobilost, musí být zastupován zákonným zástupcem.
+>
+> (2) Úřad ustanoví opatrovníka
+>
+> - a) účastníkovi řízení podle odstavce 1, pokud nemá zákonného zástupce nebo nemůže-li ho zákonný zástupce zastupovat a nemá-li opatrovníka podle zvláštního zákona,
+>
+> - b) účastníkovi řízení zvlášť těžce zdravotně postiženému, s nímž se nelze dorozumět ani prostřednictvím tlumočníka nebo prostředníka,
+>
+> - c) účastníkovi řízení stiženému přechodnou duševní poruchou, která mu brání samostatně v řízení jednat, je-li to nezbytné k hájení jeho práv; v těchto případech Úřad rozhoduje na základě odborného lékařského posudku, nebo
+>
+> - d) podnikateli, jehož odpovědná osoba není způsobilá za něho jednat nebo jí nelze doručovat, popřípadě je-li v jiném řízení předmětem sporu, kdo je odpovědnou osobou podnikatele.
+>
+> (3) Úřad ustanoví opatrovníkem toho, u koho je osoba, jíž se opatrovník ustanovuje, v péči, nebo jinou vhodnou osobu. Tato osoba je povinna funkci opatrovníka přijmout, pokud jí v tom nebrání závažné důvody. Účastníku řízení, který v očekávání vlastní nezpůsobilosti právně jednat projevil vůli, aby se určitá osoba stala jeho opatrovníkem, ustanoví Úřad opatrovníkem s jejím souhlasem osobu označenou za opatrovníka v předběžném prohlášení. Opatrovníkem nelze ustanovit osobu, o níž lze mít důvodně za to, že má takový zájem na výsledku řízení, který odůvodňuje obavu, že nebude řádně hájit zájmy účastníka řízení.
+>
+> (4) O ustanovení opatrovníka rozhoduje Úřad usnesením, které se oznamuje tomu, kdo je ustanovován opatrovníkem, a účastníku řízení tehdy, pokud to nevylučuje povaha věci nebo stav účastníka řízení, který způsobuje, že by nebyl schopen vnímat obsah usnesení.
+>
+> (5) Nedbá-li opatrovník o ochranu práv nebo zájmů účastníka řízení nebo lze-li mít důvodně za to, že opatrovník má takový zájem na výsledku řízení, který odůvodňuje obavu, že nebude řádně hájit zájmy účastníka řízení, Úřad usnesením zruší předchozí ustanovení opatrovníka a ustanoví postupem podle odstavce 4 opatrovníkem někoho jiného.
+>
+> (6) Funkce opatrovníka zaniká, jakmile účastník řízení začal být zastupován zákonným zástupcem, nabyl procesní způsobilosti nebo pominuly důvody, pro něž byl opatrovník ustanoven. Tuto skutečnost Úřad poznamená do bezpečnostního svazku, jakmile se o ní dozví; v pochybnosti rozhodne usnesením, které se oznamuje pouze opatrovníkovi a účastníkovi řízení nebo jeho zákonnému zástupci.
+>
+> (7) Proti usnesení podle odstavců 4 až 6 nelze podat rozklad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20a460e8f81c7cb54cf6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=aa017e6d88f7ca0ab1c8 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 92e — Zastoupení na základě plné moci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Účastník řízení se může dát zastupovat advokátem nebo jiným zástupcem, kterého si zvolí. Zmocnění k zastoupení se prokazuje písemnou plnou mocí. Účastník řízení může mít současně pouze jednoho zmocněnce. U osobních úkonů je zastoupení vyloučeno.
+>
+> (2) Zmocnění může být uděleno
+>
+> - a) k určitému úkonu, skupině úkonů nebo pro určitou část řízení, nebo
+>
+> - b) pro celé řízení.
+>
+> (3) Zmocněnec může udělit plnou moc jiné osobě, aby místo něho za účastníka řízení jednala, jen je-li v plné moci výslovně dovoleno, že tak může učinit, pokud zvláštní zákon nestanoví jinak71).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa017e6d88f7ca0ab1c8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=091e2916663d9bf16582 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 92f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Zástupce v řízení vystupuje jménem zastoupeného. Z úkonů zástupce vznikají práva a povinnosti přímo zastoupenému.
+>
+> (2) V pochybnostech o rozsahu zastoupení platí, že zástupce je oprávněn vystupovat jménem zastoupeného v celém řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=091e2916663d9bf16582 -->
 
 ### Hlava II — Průběh řízení
 
@@ -1280,6 +1940,66 @@ Tato úprava odráží spolupráci ČR v rámci NATO a EU. Žádost orgánu EU (
 **Typicky rozhodné důkazy / podklady:** doklad o doručení žádosti, doklad o zaplacení správního poplatku, oznámení o zahájení řízení o zrušení, projev zpětvzetí s datem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7e3988a7223546464713 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 93 — Zahájení řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Řízení je zahájeno dnem, kdy je
+>
+> - a) Úřadu doručena písemná žádost podle [[#§ 94|§ 94]] nebo [[#§ 99|99]],
+>
+> - b) Úřadu doručena písemná žádost podle [[#§ 96|§ 96]] a je zaplacen správní poplatek,
+>
+> - c) Úřadu doručena žádost orgánu Evropské unie nebo mezinárodní organizace, jejímž je Česká republika členem, o vydání osvědčení fyzické osoby - státního občana České republiky, který je zaměstnancem orgánu Evropské unie nebo zaměstnancem mezinárodní organizace, jejímž je Česká republika členem, nebo
+>
+> - d) držiteli osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu doručeno písemné oznámení Úřadu o zahájení řízení o zrušení platnosti těchto veřejných listin.
+>
+> (2) Na žádost účastníka řízení Úřad přijetí žádosti podle [[#§ 94|§ 94]], [[#§ 96|96]] nebo [[#§ 99|99]] potvrdí.
+>
+> (3) O zahájení řízení podle odstavce 1 písm. d), jde-li o řízení o zrušení platnosti osvědčení fyzické osoby nebo dokladu, uvědomí Úřad též osobu, která je pro držitele těchto veřejných listin příslušnou odpovědnou osobou.
+>
+> (4) Žádost podle [[#§ 94|§ 94]], [[#§ 96|96]] nebo [[#§ 99|99]] může účastník řízení vzít zpět; toto právo nelze uplatnit v době od vydání rozhodnutí Úřadu do zahájení řízení o rozkladu a po vydání rozhodnutí o rozkladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 99, § 96
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e3988a7223546464713 -->
 
 ### § 94 — Žádost fyzické osoby
 
@@ -1386,6 +2106,82 @@ Tato úprava zajišťuje kontinuitu prověřeného statusu a koresponduje s lhů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d7372f43e6609c732285 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 94
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Žádost o vydání osvědčení fyzické osoby (dále jen „žádost fyzické osoby“) obsahuje v rozsahu stanoveném prováděcím právním předpisem písemné zdůvodnění nutnosti jejího přístupu k utajované informaci s uvedením stupně utajení, souhlas s provedením řízení a prohlášení o pravdivosti a úplnosti údajů.
+>
+> (2) Součástí žádosti podle odstavce 1 jsou tyto přílohy:
+>
+> - a) vyplněný dotazník fyzické osoby v elektronické podobě,
+>
+> - b) písemnosti dosvědčující správnost údajů uvedených v dotazníku v rozsahu a formě stanovených prováděcím právním předpisem; to neplatí, lze-li správnost údajů dosvědčit na základě údajů vedených v základním registru nebo agendovém informačním systému, které jsou Úřadu zpřístupněné pro výkon agendy, nebo na základě souhlasu,
+>
+> - c) jedna fotografie svým provedením odpovídající požadavkům podle jiného právního předpisu72),
+>
+> - d) je-li fyzická osoba cizincem, doklady a prohlášení podle § 13 odst. 2,
+>
+> - e) prohlášení o zproštění povinnosti mlčenlivosti věcně a místně příslušného správce daně a jiné osoby zúčastněné na správě daní podle [[§ 52 odst. 2|§ 52 odst. 2]] [[daňového řádu|daňového řádu]], a to v plném rozsahu údajů za účelem provedení řízení, a
+>
+> - f) zdůvodnění nutnosti přístupu k utajované informaci s uvedením stupně utajení a označení místa nebo funkce podle § 69 odst. 1 písm. b) potvrzené odpovědnou osobou nebo bezpečnostním ředitelem toho, kdo bude fyzické osobě utajované informace poskytovat, v rozsahu stanoveném prováděcím právním předpisem.
+>
+> (3) Má-li mít fyzická osoba přístup k utajované informaci i bezprostředně po uplynutí doby platnosti jejího dosavadního osvědčení fyzické osoby, je povinna písemně požádat Úřad o vydání nového osvědčení fyzické osoby, a to před uplynutím doby platnosti dosavadního osvědčení fyzické osoby ve lhůtě nejméně
+>
+> - a) 3 měsíců u osvědčení fyzické osoby pro stupeň utajení Důvěrné,
+>
+> - b) 7 měsíců u osvědčení fyzické osoby pro stupeň utajení Tajné a
+>
+> - c) 10 měsíců u osvědčení fyzické osoby pro stupeň utajení Přísně tajné.
+>
+> (4) Žádost podle odstavce 3 musí splňovat náležitosti podle odstavce 1 a musí k ní být přiloženy přílohy podle odstavce 2.
+>
+> (5) Požádá-li fyzická osoba podle odstavce 3 o vydání nového osvědčení fyzické osoby pro stejný stupeň utajení, pro který jí bylo vydáno dosavadní osvědčení fyzické osoby, zjišťují se podmínky pro vydání nového osvědčení fyzické osoby zpětně nejméně za dobu, která uplynula od vydání jejího dosavadního osvědčení fyzické osoby.
+>
+> (6) Požádá-li o vydání osvědčení fyzické osoby orgán Evropské unie nebo mezinárodní organizace, jejímž je Česká republika členem podle § 93 odst. 1 písm. c), fyzická osoba, o vydání jejíhož osvědčení se žádá, postupuje podle odstavců 2 až 5 obdobně.
+>
+> (7) Důvod pro nutnost přístupu fyzické osoby k utajované informaci, uvedený v žádosti, musí trvat po celou dobu řízení podle § 93 odst. 1 písm. a) nebo c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 52, § 69, § 93
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7372f43e6609c732285 -->
+
 ### § 95 — Dotazník fyzické osoby
 
 > **§ 95**
@@ -1445,6 +2241,92 @@ Rozsah dotazníku byl opakovaně předmětem ústavního přezkumu. ÚS opakovan
 **Typicky rozhodné důkazy / podklady:** vyplněný dotazník FO, zprávy zpravodajských služeb, protokol o pohovoru, podklady k ověření jednotlivých položek (návykové látky, majetek, kontakty).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=faa37e422c6181262c47 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 95 — Dotazník fyzické osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Dotazník fyzické osoby obsahuje tyto položky:
+>
+> - a) jméno, příjmení včetně předchozích a akademické tituly,
+>
+> - b) den, měsíc, rok a místo narození a rodné číslo,
+>
+> - c) státní občanství včetně předchozích,
+>
+> - d) adresy míst, kde se zdržuje nebo zdržovala v posledních 10 letech nepřetržitě déle než 90 dnů,
+>
+> - e) údaje o dokladu totožnosti, pokud jde o cizince,
+>
+> - f) zaměstnavatel a označení zastávané funkce, popřípadě uvedení vykonávané činnosti,
+>
+> - g) nepřetržitý pobyt v zahraničí delší než 90 dnů,
+>
+> - h) nařízené výkony rozhodnutí,
+>
+> - i) příslušnost, kontakty a vazby na bezpečnostní služby cizí moci nebo na její služby v oblasti zpravodajství, s výjimkou kontaktů vyplývajících z pracovních nebo služebních povinností po roce 1990,
+>
+> - j) osobní kontakty s cizími státními příslušníky nebo se státními občany České republiky žijícími v nečlenských státech Evropské unie nebo Organizace Severoatlantické smlouvy, s výjimkou kontaktů vyplývajících z pracovních nebo služebních povinností po roce 1990, pokud se lze oprávněně domnívat, že jde o kontakty významné,
+>
+> - k) užívání omamné nebo psychotropní látky uvedené v zákoně upravujícím oblast návykových látek35) a užívání alkoholu,
+>
+> - l) patologické hráčství,
+>
+> - m) léčba závislosti na látkách uvedených v písmenu k) a na alkoholu a léčba patologického hráčství,
+>
+> - n) majetkové poměry,
+>
+> - o) členství, popřípadě funkce ve spolku, nadaci, ústavu a obecně prospěšné společnosti za posledních 5 let,
+>
+> - p) adresa pro účely doručování,
+>
+> - q) údaje uvedené v písmenech a) až d) a f) u manžela (manželky) nebo partnera (partnerky)52) a osob starších 18 let žijících s fyzickou osobou v domácnosti,
+>
+> - r) životopis a
+>
+> - s) zdravotní a jiná odborná péče související se zdravotním stavem fyzické osoby, který může mít negativní vliv na její schopnost utajovat informace.
+>
+> (2) Pobyt podle odstavce 1 písm. d) a g) a § 94 odst. 2 písm. d) se pokládá za nepřetržitý i v případě jeho krátkodobého přerušení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=faa37e422c6181262c47 -->
 
 ### § 96, § 97 a § 98 — Žádost podnikatele, dotazník a bezpečnostní dokumentace
 
@@ -1517,6 +2399,154 @@ Pro podnikatele platí náročnější dokumentační režim než pro FO: žádo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8cb9313f85827f1095b5 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 96
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Žádost podnikatele obsahuje v rozsahu stanoveném prováděcím právním předpisem písemné zdůvodnění nutnosti přístupu podnikatele k utajované informaci s uvedením stupně utajení a formy výskytu utajovaných informací.
+>
+> (2) Součástí žádosti podle odstavce 1 jsou tyto přílohy:
+>
+> - a) vyplněný dotazník podnikatele v elektronické podobě,
+>
+> - b) bezpečnostní dokumentace podnikatele a
+>
+> - c) písemnosti nutné k ověření splnění podmínek podle [[#§ 16|§ 16]] v rozsahu a formě stanovených prováděcím právním předpisem,
+>
+> - d) prohlášení o zproštění povinnosti mlčenlivosti věcně a místně příslušného správce daně a jiné osoby zúčastněné na správě daní podle [[§ 52 odst. 2|§ 52 odst. 2]] [[daňového řádu|daňového řádu]], a to v plném rozsahu údajů za účelem provedení řízení.
+>
+> (3) Má-li mít podnikatel přístup k utajované informaci i bezprostředně po uplynutí doby platnosti jeho dosavadního osvědčení podnikatele, je povinen písemně požádat Úřad o vydání nového osvědčení podnikatele, a to před uplynutím doby platnosti dosavadního osvědčení podnikatele ve lhůtě nejméně
+>
+> - a) 7 měsíců u osvědčení podnikatele pro stupeň utajení Důvěrné,
+>
+> - b) 9 měsíců u osvědčení podnikatele pro stupeň utajení Tajné a
+>
+> - c) 11 měsíců u osvědčení podnikatele pro stupeň utajení Přísně tajné.
+>
+> (4) Žádost podle odstavce 3 musí splňovat náležitosti podle odstavce 1 a musí k ní být přiloženy přílohy podle odstavce 2. V dotazníku podnikatele se údaje vyplní v rozsahu stanoveném prováděcím právním předpisem. V bezpečnostní dokumentaci podnikatele se uvedou pouze změny, které nebyly Úřadu hlášeny podle § 68 písm. c) a d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 52, § 68
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8cb9313f85827f1095b5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8ff8902b5e51b5f22d00 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 97 — Dotazník podnikatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Dotazník podnikatele obsahuje tyto položky:
+>
+> - a) platné údaje, které se zapisují do obchodního, živnostenského nebo obdobného rejstříku či evidence, vždy však uvedení rodného čísla, bylo-li přiděleno, a data, místa, okresu a státu narození, a to i když se do takového rejstříku nebo evidence nezapisují,
+>
+> - b) jméno a příjmení, rodné číslo, bylo-li přiděleno, a datum, místo, okres a stát narození, firma a identifikační číslo společníků nebo členů obchodní korporace s nejméně 10% podílem na základním kapitálu nebo na hlasovacích právech na podnikateli nebo osobách ve vlastnické struktuře podnikatele až po fyzickou osobu disponující nejméně 10% přímým nebo nepřímým podílem na základním kapitálu nebo na hlasovacích právech obchodní korporace a osob majících rozhodující vliv na podnikatele, které nemají podíl na základním kapitálu podnikatele nebo na hlasovacích právech podnikatele,
+>
+> - c) jméno a příjmení, rodné číslo, bylo-li přiděleno, a datum, místo, okres a stát narození nebo firma a identifikační číslo tichého společníka podnikatele,
+>
+> - d) názvy nebankovních poskytovatelů platebních služeb, včetně zahraničních, a čísla nebo jiné jedinečné identifikátory účtů vedených u těchto osob v České republice i v zahraničí a dále názvy bank, zahraničních bank a spořitelních a úvěrních družstev a čísla nebo jiné jedinečné identifikátory účtů vedených u těchto osob v zahraničí,
+>
+> - e) vlastní i pronajaté nemovitosti a nebytové prostory podnikatele, ve kterých se vyskytuje zabezpečená oblast podle [[#§ 25|§ 25]], včetně uvedení jejich adresy,
+>
+> - f) údaje k provedeným řádným účetním závěrkám37), vede-li podnikatel účetnictví, nebo údaje k daňovým přiznáním, vede-li podnikatel daňovou evidenci, nebo uplatňuje-li výdaje procentem z příjmu podle jiného právního předpisu38), a údaje k řádným účetním závěrkám ověřeným auditorem, stanoví-li tak jiný právní předpis53), a to za posledních 5 let,
+>
+> - g) závazky ze smluv o zápůjčce nebo z úvěrových smluv, u kterých je podnikatel v prodlení se splátkami, uzavřených se subjekty s licencí, povolením nebo registrací vydanými Českou národní bankou, se subjekty podnikajícími na základě jednotné evropské licence, nebo se zahraničními bankami, a přijaté zápůjčky a úvěry od ostatních právnických nebo fyzických osob a zápůjčky a úvěry poskytnuté fyzickým nebo právnickým osobám, a to v posledních 5 letech,
+>
+> - h) smlouvy nebo jejich návrhy, jejichž předmět plnění vyžaduje přístup k utajované informaci, včetně výčtu těchto utajovaných informací s uvedením jejich původce nebo poskytovatele, stupně utajení a specifikace zakázky, včetně utajovaných informací cizí moci, ke kterým má podnikatel přístup, a uvedení počtu utajovaných informací uložených u podnikatele; v případě uzavření smlouvy se zpravodajskou službou podnikatel údaje o takové smlouvě dokládá pouze písemným potvrzením odpovědné osoby příslušné zpravodajské služby,
+>
+> - i) zahraniční obchodní partneři, s výjimkou obchodních partnerů z členských států Evropské unie, s celkovým finančním objemem uskutečněných obchodů nad 2 000 000 Kč v posledních 5 letech,
+>
+> - j) čeští obchodní partneři a obchodní partneři z členských států Evropské unie v rozsahu stanoveném prováděcím právním předpisem,
+>
+> - k) údaje o podání insolvenčního návrhu,
+>
+> - l) údaje o rozhodnutí o insolvenčním návrhu,
+>
+> - m) údaje o způsobu řešení úpadku,
+>
+> - n) údaje o zrušení podnikatele,
+>
+> - o) plnění závazků vůči státu podle § 17 odst. 2 písm. a) a b),
+>
+> - p) údaje odpovědné osoby podnikatele, jimiž jsou jméno, příjmení, rodné číslo, bylo-li přiděleno, datum narození a zastávaná funkce u podnikatele,
+>
+> - q) trestní řízení, a
+>
+> - r) seznam funkcí a osob, u kterých se předpokládá přístup k utajovaným informacím, s uvedením jejich rodného čísla, bylo-li přiděleno, a stupně utajení, a u oznámení podle [[#§ 6|§ 6]] vydaných podnikatelem datum jejich vydání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25, § 17, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8ff8902b5e51b5f22d00 -->
+
 ### § 99, § 100 — Žádost o doklad a dotazník
 
 > **§ 99**
@@ -1579,6 +2609,118 @@ V praxi je § 99/§ 100 ustanovením o náležitostech žádosti o doklad a o re
 **Typicky rozhodné důkazy / podklady:** stávající doklad s dobou platnosti, datum podání žádosti, vyplněný dotazník, zdůvodnění odpovědné osoby, případné přílohy (doklady cizince, fotografie).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=19d945d09b58d670f8cf generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 99
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Žádost o doklad obsahuje v rozsahu stanoveném prováděcím právním předpisem písemné zdůvodnění výkonu citlivé činnosti, souhlas s provedením řízení a prohlášení o pravdivosti a úplnosti údajů.
+>
+> (2) Součástí žádosti podle odstavce 1 jsou tyto přílohy:
+>
+> - a) vyplněný dotazník v elektronické podobě,
+>
+> - b) písemnosti dosvědčující správnost údajů uvedených v dotazníku v rozsahu a formě stanovených prováděcím právním předpisem; to neplatí, lze-li správnost údajů dosvědčit na základě údajů vedených v základním registru nebo agendovém informačním systému, které jsou Úřadu zpřístupněné pro výkon agendy, nebo na základě souhlasu,
+>
+> - c) prohlášení o zproštění povinnosti mlčenlivosti věcně a místně příslušného správce daně a jiné osoby zúčastněné na správě daní podle [[§ 52 odst. 2|§ 52 odst. 2]] [[daňového řádu|daňového řádu]], a to v plném rozsahu údajů za účelem provedení řízení,
+>
+> - d) je-li fyzická osoba cizincem, doklady a prohlášení podle § 13 odst. 2,
+>
+> - e) jedna fotografie svým provedením odpovídající požadavkům podle jiného právního předpisu72) a
+>
+> - f) zdůvodnění výkonu citlivé činnosti potvrzené odpovědnou osobou nebo jí pověřenou osobou v rozsahu stanoveném prováděcím právním předpisem.
+>
+> (3) Má-li fyzická osoba vykonávat citlivou činnost i bezprostředně po skončení doby platnosti dokladu, je povinna požádat Úřad o vydání nového dokladu nejméně 5 měsíců před skončením platnosti dokladu dosavadního.
+>
+> (4) Žádost podle odstavce 3 musí splňovat náležitosti podle odstavce 1 a musí k ní být přiloženy přílohy podle odstavce 2.
+>
+> (5) Důvod pro výkon citlivé činnosti uvedený v žádosti o doklad musí trvat po celou dobu řízení podle § 93 odst. 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52, § 13, § 93
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19d945d09b58d670f8cf -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9efd71100f1e5157bbaf generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 100 — Dotazník
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Dotazník podle § 99 odst. 2 písm. a) obsahuje údaje stanovené v § 95 odst. 1 písm. a) až p), r) a s).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 99, § 95
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9efd71100f1e5157bbaf -->
 
 ### § 101 — Zrušení platnosti veřejné listiny
 
@@ -1647,6 +2789,56 @@ Toto pravidlo zajišťuje, že **otázka zrušení platnosti musí být meritorn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c6e69e37dd1d017820b4 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 101
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Řízení o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu Úřad zahájí, existuje-li důvodná pochybnost o tom, že držitel takovéto veřejné listiny i nadále splňuje podmínky pro její vydání ([[#§ 12|§ 12]], [[#§ 16|16]] a [[#§ 81|81]]).
+>
+> (2) Přestal-li držitel osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu splňovat podmínky pro vydání takovéto veřejné listiny, Úřad její platnost zruší.
+>
+> (3) Řízení o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu nelze přerušit podle [[#§ 112|§ 112]] a ani zastavit podle [[#§ 113|§ 113]], s výjimkou zastavení řízení podle § 113 odst. 1 písm. i) nebo j).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12, § 16, § 81, § 112, § 113
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6e69e37dd1d017820b4 -->
+
 ### § 102 a § 103 — Odstranění nedostatků a součinnost účastníka
 
 > **§ 102**
@@ -1712,6 +2904,52 @@ Důsledkem nesoučinnosti je možnost zastavení řízení (§ 113 odst. 1 písm
 **Typicky rozhodné důkazy / podklady:** výzva s doručenkou a poučením, datum doplnění, doplněné přílohy a dotazníky, výpis z obchodního rejstříku k prokázání změn, prováděcí vyhláška k rozsahu hlášení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ee5abd76b7538b9155ef generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 102
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Nemá-li žádost podle [[#§ 94|§ 94]], [[#§ 96|96]] nebo [[#§ 99|99]] předepsané náležitosti, pomůže Úřad účastníku řízení formální nedostatky žádosti odstranit. Pokud nedostatky nelze odstranit na místě, Úřad neprodleně písemně vyzve účastníka řízení, aby nedostatky žádosti odstranil ve lhůtě 30 dnů ode dne doručení výzvy; součástí výzvy je poučení o důsledcích včasného neodstranění nedostatků pro další průběh řízení [§ 113 odst. 1 písm. c)].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 96, § 99, § 113
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ee5abd76b7538b9155ef -->
 
 ### § 104 — Svědek
 
@@ -1783,6 +3021,64 @@ Důsledkem nesoučinnosti je možnost zastavení řízení (§ 113 odst. 1 písm
 **Typicky rozhodné důkazy / podklady:** předvolání s doručenkou, protokol o výslechu (podepsaný na každé straně), případné písemné vyjádření svědka, vyúčtování náhrad, zpráva o výsledcích šetření podle § 107.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3de52a9d3ab98cd3a0a8 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 104 — Svědek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Každý, kdo není účastníkem řízení, je povinen vypovídat jako svědek za účelem zjištění skutečného stavu věci a zjištění možných bezpečnostních rizik a dostavit se na předvolání k Úřadu. Z předvolání musí být zřejmé, kdy, kam a v jaké věci se má svědek dostavit a jaké jsou právní následky nedostavení se ([[#§ 115|§ 115]] a [[#§ 116|116]]). Svědek musí vypovídat pravdivě a nesmí nic zamlčet. Jako svědek nesmí být vyslechnut ten, kdo by porušil ochranu utajovaných informací nebo zákonem uloženou nebo uznanou povinnost mlčenlivosti, ledaže by byl této povinnosti zproštěn. Výpověď může odepřít jen tehdy, kdyby jí způsobil nebezpečí trestního stíhání sobě nebo osobám blízkým39). Výpověď může rovněž odepřít osoba blízká k účastníku řízení.
+>
+> (2) Úřad před výslechem zjistí totožnost svědka a poučí jej podle odstavce 1 a o právních následcích bezdůvodného odmítnutí nebo nepravdivé nebo neúplné svědecké výpovědi ([[#§ 116|§ 116]]).
+>
+> (3) O výpovědi svědka se vyhotoví protokol. Pro vyhotovení protokolu o výpovědi svědka platí obdobně § 105 odst. 5 a [[#§ 6|6]].
+>
+> (4) Od svědka lze požadovat, aby ke skutečnostem, které mu Úřad uvede, podal písemné vyjádření. Podpis svědka musí být na každé straně listiny obsahující jeho vyjádření. V dalším se obdobně použijí odstavce 1, [[#§ 2|2]], [[#§ 6|6]] a [[#§ 7|7]].
+>
+> (5) Úřad nahradí svědkovi prokázané hotové výdaje podle zákona upravujícího cestovní náhrady40) a ušlý výdělek. Nárok je třeba uplatnit do 5 dnů po svědecké výpovědi, jinak zaniká. O tom musí být svědek předem poučen.
+>
+> (6) Jako svědek nesmí být vyslechnut příslušník policie nebo zpravodajské služby podílející se na řízení.
+>
+> (7) Výpovědí svědka nelze nahrazovat úkony v řízení podle § 107 až 109.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 115, § 116, § 105, § 6, § 2, § 7, § 107
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3de52a9d3ab98cd3a0a8 -->
 
 ### § 105 — Pohovor
 
@@ -1861,6 +3157,66 @@ Pohovor je klíčovým osobním důkazním prostředkem bezpečnostního řízen
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=af1e4cb6c138603e8c5a generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 105 — Pohovor
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Vyskytnou-li se v průběhu řízení skutečnosti, které je třeba objasnit pro zjištění skutečného stavu věci, provede Úřad s účastníkem řízení pohovor; s účastníkem řízení, který žádá o vydání osvědčení fyzické osoby pro stupeň utajení Přísně tajné, provede Úřad pohovor vždy.
+>
+> (2) Účastník řízení se k pohovoru předvolá písemně, a to nejméně s pětidenním předstihem. Z předvolání musí být zřejmé, kdy, kam, v jaké věci a z jakého důvodu se má účastník řízení dostavit a jaké jsou právní následky nedostavení se. Lhůtu uvedenou ve větě první je možné se souhlasem účastníka řízení zkrátit.
+>
+> (3) Při pohovoru je účastník řízení povinen vypovídat osobně; advokát či jiný zástupce účastníka řízení není oprávněn do průběhu pohovoru zasahovat.
+>
+> (4) Před započetím pohovoru musí být účastník řízení písemně poučen o významu a účelu pohovoru, o způsobu jeho provedení a o případných následcích odmítnutí vypovídat nebo nepravdivé nebo neúplné výpovědi.
+>
+> (5) O provedení pohovoru se vyhotoví protokol. Protokol musí obsahovat místo, čas a obsah pohovoru a údaje umožňující identifikaci účastníka řízení, úřední osoby a dalších osob zúčastněných na pohovoru.
+>
+> (6) Protokol podepisuje účastník řízení, úřední osoba, popřípadě zapisovatel a tlumočník; podpis účastníka řízení musí být na každé straně protokolu. Odepření podpisu a důvody tohoto odepření se v protokolu zaznamenají. Na žádost účastníka řízení úřední osoba vydá kopii protokolu. Pohovor může být zaznamenán na zvukový nebo obrazový nosič pouze se souhlasem účastníka řízení; záznam se provede vždy, pokud o to účastník řízení požádá. Tento záznam je součástí bezpečnostního svazku ([[#§ 124|§ 124]]).
+>
+> (7) Při pohovoru nesmějí být sdělovány utajované informace.
+>
+> (8) Pohovor s účastníkem řízení, který dlouhodobě pobývá v zahraničí, lze nahradit jeho písemným vyjádřením. Úřad této osobě sdělí skutečnosti, které mají být předmětem vyjádření, a poučí ji podle odstavce 4. Podpis účastníka řízení musí být na každé straně písemného vyjádření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 124
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af1e4cb6c138603e8c5a -->
+
 ### § 106 — Znalec
 
 > **§ 106**
@@ -1918,6 +3274,56 @@ Standardní úprava znaleckého dokazování podle zákona č. 254/2019 Sb., o z
 **Typicky rozhodné důkazy / podklady:** usnesení o ustanovení znalce, znalecký posudek, podklady předané znalci (protokol o pohovoru, výsledky šetření), doklad o úhradě nákladů Úřadem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c2f222fb1cf817c62805 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 106 — Znalec
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Je-li k odbornému posouzení skutečností důležitých pro rozhodnutí třeba znaleckého posudku, ustanoví Úřad znalce41).
+>
+> (2) Náklady k vypracování znaleckého posudku podle odstavce 1 hradí Úřad.
+>
+> (3) Úřad ustanoví znalce usnesením, které se znalci doručí, a o ustanovení znalce vhodným způsobem informuje účastníka řízení. Proti usnesení o ustanovení znalce nelze podat rozklad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c2f222fb1cf817c62805 -->
 
 ### § 107–§ 111 — Úkony v řízení
 
@@ -2003,6 +3409,218 @@ Pokud informace nepostačují, Úřad **vyžádá písemný souhlas** účastní
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=47d501d923bb5f2486ec generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 107 — Úkony v řízení o vydání osvědčení fyzické osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) V řízení o vydání osvědčení fyzické osoby pro stupeň utajení Důvěrné si Úřad k ověření podmínek pro vydání tohoto osvědčení vyžádá potřebnou informaci od příslušného orgánu státu, právnické osoby nebo podnikající fyzické osoby, pokud s ní nakládají.
+>
+> (2) V řízení o vydání osvědčení fyzické osoby pro stupeň utajení Tajné Úřad provede úkony podle odstavce 1 a dále ověří identitu účastníka řízení. Pokud získané informace nepostačují pro rozhodnutí ve věci a Úřad je nemůže ověřit nebo doplnit, lze je ověřit nebo doplnit na žádost Úřadu šetřením příslušné zpravodajské služby nebo policie k účastníkovi řízení, k manželovi nebo k partnerovi52) a k osobám starším 18 let žijícím s účastníkem řízení v domácnosti. Úřad v žádosti vymezí okolnosti, ke kterým má být šetření provedeno.
+>
+> (3) V řízení o vydání osvědčení fyzické osoby pro stupeň utajení Přísně tajné Úřad provede úkony podle odstavce 2 a dále požádá příslušnou zpravodajskou službu o šetření k výskytu bezpečnostních rizik v prostředí, v němž se účastník řízení pohybuje.
+>
+> (4) Pokud informace získané úkony v řízení o vydání osvědčení fyzické osoby pro stupeň utajení Důvěrné nepostačují pro rozhodnutí ve věci, Úřad postupuje podle odstavců 2 a [[#§ 3|3]]. Pokud informace získané úkony v řízení o vydání osvědčení fyzické osoby pro stupeň utajení Tajné nepostačují pro rozhodnutí ve věci, Úřad postupuje podle odstavce 3. V těchto případech si Úřad vyžádá písemný souhlas účastníka řízení a zároveň jej poučí o právních následcích, které nastanou, jestliže Úřad písemný souhlas neobdrží. Úřad v žádosti zpravodajské službě nebo policii vymezí okolnosti, ke kterým má být šetření provedeno.
+>
+> (5) Za účelem šetření prováděného zpravodajskou službou nebo policií podle odstavců 2 až 4 poskytne Úřad informace, kterými k předmětu šetření disponuje. Žádosti Úřadu jsou zpravodajské služby a policie povinny vyhovět a podat Úřadu zprávu o výsledcích požadovaných šetření. Zpravodajské služby a policie se ve zprávě o výsledcích šetření vyjádří k předmětu šetření a uvedou další informace, kterými disponují a které by mohly mít vliv na rozhodnutí ve věci.
+>
+> (6) Je-li prováděno řízení na základě žádosti podle § 94 odst. 3, je Úřad oprávněn provést úkony podle odstavců 1 až 4. Ustanovení odstavce 4 věty třetí platí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 94
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=47d501d923bb5f2486ec -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=138a14595c9ced34514e generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 108 — Úkony v řízení o vydání osvědčení podnikatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) V řízení o vydání osvědčení podnikatele pro stupeň utajení Důvěrné si Úřad ke zjištění ekonomické stability, bezpečnostní spolehlivosti, k ověření vlastnických vztahů podnikatele a k ověření jeho schopnosti zabezpečit ochranu utajovaných informací vyžádá potřebnou informaci od příslušného orgánu státu, právnické osoby nebo podnikající fyzické osoby, pokud s ní nakládají.
+>
+> (2) V řízení o vydání osvědčení podnikatele pro stupeň utajení Tajné Úřad provede úkony podle odstavce 1 a další úkony k ověření obchodních vztahů podnikatele.
+>
+> (3) V řízení o vydání osvědčení podnikatele pro stupeň utajení Přísně tajné Úřad provede úkony podle odstavce 2 a další úkony k ověření významných kapitálových a finančních vztahů podnikatele.
+>
+> (4) Za účelem ověření podmínek pro vydání osvědčení podnikatele jsou úřední osoby oprávněny vstupovat do objektů, zařízení, provozů nebo jiných prostor a na pozemky podnikatele a vyžadovat předložení potřebných dokladů podnikatelem.
+>
+> (5) Nemůže-li Úřad ověřit vztahy uvedené v odstavcích 1 až 3 nebo jiné skutečnosti ke zjištění možného bezpečnostního rizika u podnikatele nebo jeho schopnosti zabezpečit ochranu utajovaných informací, může o jejich ověření požádat příslušnou zpravodajskou službu nebo policii. Úřad v žádosti vymezí okolnosti, ke kterým má být šetření provedeno.
+>
+> (6) Za účelem šetření prováděného zpravodajskou službou nebo policií podle odstavce 5 poskytne Úřad informace, kterými k předmětu šetření disponuje. Zpravodajské služby a policie jsou povinny žádosti Úřadu podle odstavce 5 vyhovět a podat mu zprávu o výsledcích požadovaných šetření. Zpravodajské služby a policie se ve zprávě o výsledcích šetření vyjádří k předmětu šetření a uvedou další informace, kterými disponují a které by mohly mít vliv na rozhodnutí ve věci.
+>
+> (7) Pokud informace, získané úkony podle odstavce 1 nebo [[#§ 2|2]] v řízení o vydání osvědčení podnikatele pro příslušný stupeň utajení, nepostačují pro rozhodnutí ve věci, je Úřad oprávněn zjistit je úkony stanovenými v odstavci 2 nebo [[#§ 3|3]] pro řízení, týkající se vyššího stupně utajení. V těchto případech si Úřad vyžádá písemný souhlas účastníka řízení a zároveň jej poučí o právních následcích, které nastanou, jestliže Úřad písemný souhlas neobdrží.
+>
+> (8) Je-li prováděno řízení na základě žádosti podle § 96 odst. 3, ustanovení odstavců 1 až 7 platí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 3, § 96
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=138a14595c9ced34514e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6ee0ec2159a668491ff0 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 109 — Úkony v řízení o žádosti o doklad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) V řízení o žádosti o doklad si Úřad vyžádá potřebné informace od příslušného orgánu státu, právnické osoby nebo podnikající fyzické osoby, pokud s nimi nakládají.
+>
+> (2) Pokud informace získané podle odstavce 1 nepostačují pro rozhodnutí ve věci, lze je ověřit nebo doplnit provedením dalších nezbytných úkonů podle [[#§ 107|§ 107]], přiměřených účelu řízení; v těchto případech si Úřad vyžádá písemný souhlas účastníka řízení a upozorní jej na právní následky, jestliže Úřad písemný souhlas neobdrží.
+>
+> (3) Je-li prováděno řízení na základě žádosti podle § 99 odst. 3, je Úřad oprávněn provést úkony podle odstavců 1 a [[#§ 2|2]]. Ustanovení odstavce 2 části věty za středníkem platí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 107, § 99, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ee0ec2159a668491ff0 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e62a0ab3edffb853840d generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 111
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Úřad je oprávněn při provádění úkonů podle [[#§ 107|§ 107]] a [[#§ 108|108]], § 109 odst. 1 a [[#§ 110|§ 110]] poskytnout orgánu státu, právnické osobě nebo podnikající fyzické osobě v nezbytně nutném rozsahu potřebné osobní údaje vztahující se k vyžádané informaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 107, § 108, § 109, § 110
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e62a0ab3edffb853840d -->
+
 ### § 110 — Průběžné prověřování
 
 > **§ 110**
@@ -2061,6 +3679,54 @@ Konkretizací průběžného prověřování je oznamovací povinnost odpovědn�
 **Typicky rozhodné důkazy / podklady:** oznámení zpravodajské služby/odpovědné osoby, výpisy z exekučního/insolvenčního rejstříku, výzva k součinnosti s doručenkou, doklady o majetkových poměrech, zprávy o výsledcích úkonů podle § 107.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=feed8c420e20a982fe39 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 110
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Po dobu platnosti osvědčení fyzické osoby, dokladu nebo osvědčení podnikatele, před vydáním osvědčení fyzické osoby pro cizí moc nebo osvědčení podnikatele pro cizí moc podle [[#§ 57|§ 57]] Úřad prověřuje za pomoci úkonů řízení, zda fyzická osoba nebo podnikatel i nadále splňují podmínky pro vydání osvědčení fyzické osoby, dokladu nebo osvědčení podnikatele.
+>
+> (2) Fyzická osoba nebo podnikatel jsou povinni poskytnout nezbytnou součinnost pro postup Úřadu podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 57
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=feed8c420e20a982fe39 -->
 
 ### § 112 — Přerušení řízení
 
@@ -2144,6 +3810,74 @@ Konkretizací průběžného prověřování je oznamovací povinnost odpovědn�
 **Typicky rozhodné důkazy / podklady:** usnesení o ustanovení znalce, doklad o probíhajícím prejudiciálním řízení, výzva k doplnění/odstranění vad, žádost účastníka o přerušení s odůvodněním (např. lékařská zpráva), usnesení o přerušení a vyrozumění o pokračování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a53c9b2beeb99bb1ddb0 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 112 — Přerušení řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad usnesením přeruší řízení, jestliže
+>
+> - a) probíhá jiné řízení, které řeší otázku významnou pro vydání rozhodnutí podle tohoto zákona,
+>
+> - b) účastník řízení byl Úřadem vyzván, aby ve stanovené lhůtě odstranil nedostatky žádosti fyzické osoby, žádosti podnikatele, žádosti o doklad nebo v rozkladu, anebo aby doplnil jiné Úřadem požadované údaje, nebo jestliže byl předvolán k pohovoru,
+>
+> - c) účastník řízení byl Úřadem vyzván, aby ve stanovené lhůtě určil odpovědnou osobu,
+>
+> - d) nelze provést výslech svědka, jehož výpověď je důležitá pro úplné a přesné zjištění skutečného stavu věci v rozsahu, který je nezbytný pro rozhodnutí,
+>
+> - e) účastník řízení o žádosti o přerušení požádá z důvodu, který mu dlouhodobě brání v účasti na řízení, a to na dobu nejdéle 60 dnů; účastník řízení o žádosti může požádat o přerušení řízení nejvýše dvakrát, nebo
+>
+> - f) Úřadem bylo vydáno usnesení o ustanovení znalce pro vypracování znaleckého posudku.
+>
+> (2) Úřad může usnesením řízení přerušit v případě odmítnutí nahlédnutí do spisu podle § 138 odst. 2.
+>
+> (3) Řízení se přerušuje dnem předání usnesení o přerušení řízení držiteli poštovní licence nebo zvláštní poštovní licence, dnem osobního převzetí takového usnesení účastníkem řízení, doručuje-li Úřad, nebo dodáním do datové schránky účastníka řízení54).
+>
+> (4) Proti usnesení o přerušení řízení není rozklad přípustný.
+>
+> (5) Během přerušení řízení činí Úřad a účastník řízení úkony, kterých je zapotřebí k odstranění důvodů přerušení podle odstavce 1. Úřad pokračuje v řízení, jakmile pominuly překážky, pro které bylo řízení přerušeno, případně jakmile uplynula lhůta uvedená v odstavci 1 písm. e) nebo se účastník řízení dostavil k pohovoru. Účastníka řízení o tomto písemně vyrozumí, s výjimkou pokračování řízení provedením pohovoru.
+>
+> (6) Po dobu přerušení řízení lhůty podle [[#§ 117|§ 117]] a § 131 odst. 6 neběží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 138, § 117, § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a53c9b2beeb99bb1ddb0 -->
 
 ### § 113 — Zastavení řízení
 
@@ -2237,6 +3971,76 @@ Proti usnesení o zastavení **podle určitých písmen** (a, b, e, f, g, i, j) 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7653d8450f547539c1ef generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 113 — Zastavení řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad usnesením řízení zastaví, jestliže
+>
+> - a) účastník řízení vzal žádost podle [[#§ 94|§ 94]], [[#§ 96|96]] nebo [[#§ 99|99]] zpět,
+>
+> - b) účastník řízení nesplňuje podmínky stanovené v § 12 odst. 1 písm. b) a d) nebo § 81 odst. 1 písm. b), c) nebo d),
+>
+> - c) účastník řízení ve stanovené lhůtě neodstranil nedostatky v žádosti fyzické osoby, v žádosti podnikatele nebo v žádosti o doklad,
+>
+> - d) účastník řízení se bez omluvy, obsahující závažné důvody, nedostaví opětovně k pohovoru,
+>
+> - e) účastník řízení nedal souhlas podle § 107 odst. 4, § 108 odst. 7 nebo § 109 odst. 2,
+>
+> - f) účastník řízení ve stanovené lhůtě neurčil odpovědnou osobu,
+>
+> - g) není možné zjistit úplně a přesně skutečný stav věci v rozsahu, který je nezbytný pro rozhodnutí, proto, že účastník řízení se dlouhodobě zdržuje nebo zdržoval na území cizího státu,
+>
+> - h) účastník řízení podal nepravdivou nebo neúplnou výpověď nebo neposkytuje jinou nezbytnou součinnost a na základě daného stavu věci nelze rozhodnout,
+>
+> - i) účastník řízení zemřel, byl prohlášen za mrtvého, byl zrušen nebo zanikl, nebo
+>
+> - j) v řízení o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu odpadl jeho důvod či předmět.
+>
+> (2) Úřad může řízení o vydání osvědčení fyzické osoby nebo dokladu zastavit na základě oznámení odpovědné osoby podle § 67 odst. 1 písm. f) nebo § 86 písm. c).
+>
+> (3) Proti usnesení o zastavení řízení podle odstavce 1 písm. a), b), e), f), g), i) a j) není rozklad přípustný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 96, § 99, § 12, § 81, § 107, § 108, § 109, § 67, § 86
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7653d8450f547539c1ef -->
+
 ### § 114–§ 116 — Předvolání, předvedení, pořádková pokuta
 
 > **§ 114 — Předvolání**
@@ -2303,6 +4107,154 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 **Typicky rozhodné důkazy / podklady:** předvolání a výzvy s doručenkami, doklady o opětovném nedostavení a absenci omluvy, žádosti o informace podle § 117 odst. 6, usnesení o pořádkové pokutě/předvedení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fc9a8f0a262871e0ef6d generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 114 — Předvolání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad písemně předvolá osoby, jejichž osobní účast při projednávání věci je nutná.
+>
+> (2) V předvolání Úřad upozorní osoby uvedené v odstavci 1 na právní následky nedostavení se.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc9a8f0a262871e0ef6d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e932db067a20cf4dd9aa generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 115 — Předvedení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Svědek, který se bez náležité omluvy nebo bez závažných důvodů na opětovné předvolání nedostaví k Úřadu a bez jehož osobní účasti nelze řízení provádět, může být na jeho náklady předveden.
+>
+> (2) Předvedení svědka zajistí na žádost Úřadu policie, v případě vojáka v činné službě Vojenská policie a v případě příslušníka bezpečnostního sboru příslušný bezpečnostní sbor.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e932db067a20cf4dd9aa -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a152d575d67eb2f7d105 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 116 — Pořádková pokuta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad může uložit pořádkovou pokutu
+>
+> - a) do 50 000 Kč tomu, kdo ztěžuje postup řízení, zejména tím, že se bez závažných důvodů nedostaví na písemnou výzvu k Úřadu, podá nepravdivou nebo neúplnou svědeckou výpověď anebo bezdůvodně odmítá svědeckou výpověď nebo předložení listiny,
+>
+> - b) do 500 000 Kč orgánu státu, právnické nebo podnikající fyzické osobě za to, že na žádost neposkytne bezúplatně informace vyžádané Úřadem pro potřeby řízení podle § 117 odst. 6.
+>
+> (2) Pokutu podle odstavce 1 lze uložit opakovaně. Úhrn uložených pořádkových pokut nesmí přesáhnout částku 100 000 Kč, jde-li o pokutu podle odstavce 1 písm. a), a částku 1 000 000 Kč, jde-li o pokutu podle odstavce 1 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 117
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a152d575d67eb2f7d105 -->
 
 ### § 117 — Lhůty pro provedení řízení
 
@@ -2415,6 +4367,90 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8b7a68a134cd2c286f83 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 117
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad provede úkon podle [[#§ 121|§ 121]] v případě řízení o vydání osvědčení fyzické osoby ode dne jeho zahájení ve lhůtě
+>
+> - a) 2 měsíců pro stupeň utajení Důvěrné,
+>
+> - b) 6 měsíců pro stupeň utajení Tajné a
+>
+> - c) 9 měsíců pro stupeň utajení Přísně tajné.
+>
+> (2) Úřad provede úkon podle [[#§ 121|§ 121]] v případě řízení o vydání osvědčení podnikatele ode dne jeho zahájení ve lhůtě
+>
+> - a) 6 měsíců pro stupeň utajení Důvěrné,
+>
+> - b) 8 měsíců pro stupeň utajení Tajné a
+>
+> - c) 10 měsíců pro stupeň utajení Přísně tajné.
+>
+> (3) Úřad provede úkon podle [[#§ 121|§ 121]] v případě řízení o vydání dokladu ve lhůtě 75 dnů ode dne jeho zahájení.
+>
+> (4) Příslušná zpravodajská služba a policie postoupí Úřadu výsledky šetření provedeného podle § 107 odst. 2 věty druhé a § 107 odst. 3 ode dne doručení jeho žádosti ve lhůtě
+>
+> - a) 4 měsíců pro stupeň utajení Tajné,
+>
+> - b) 6 měsíců pro stupeň utajení Přísně tajné.
+>
+> (5) Příslušná zpravodajská služba a policie postoupí Úřadu výsledky šetření provedeného podle § 108 odst. 5 ode dne doručení jeho žádosti ve lhůtě
+>
+> - a) 3 měsíců pro stupeň utajení Důvěrné,
+>
+> - b) 4 měsíců pro stupeň utajení Tajné,
+>
+> - c) 6 měsíců pro stupeň utajení Přísně tajné.
+>
+> (6) Orgán státu, právnická osoba nebo podnikající fyzická osoba je povinna ve lhůtě 30 dnů ode dne doručení žádosti Úřadu podle [[#§ 107|§ 107]], [[#§ 108|108]] nebo [[#§ 109|109]] bezplatně vyhovět jeho žádosti o poskytnutí informace.
+>
+> (7) Udělí-li fyzická osoba souhlas s ověřením informací podle § 107 odst. 4 nebo § 109 odst. 2, anebo udělí-li podnikatel souhlas podle § 108 odst. 7, vztahují se na dané řízení lhůty stanovené pro stupeň utajení, k jehož úkonům byl souhlas udělen.
+>
+> (8) Lhůty podle odstavců 1 až 6 neběží po dobu, kdy je vyhlášen krizový stav.
+>
+> (9) V případě rozhodnutí ředitele Úřadu o rozkladu vydaného podle § 131 odst. 6 běží lhůty podle odstavců 1 až 3 ode dne doručení rozhodnutí účastníkovi řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121, § 107, § 108, § 109, § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b7a68a134cd2c286f83 -->
+
 ### § 118–§ 119 — Prodloužení a počítání lhůt
 
 > **§ 118**
@@ -2475,6 +4511,116 @@ Vyšší pokuta institucionálních subjektů odráží fakt, že jejich nesouč
 **Typicky rozhodné důkazy / podklady:** doklad o překážce (lékařská zpráva), výzva s doručenkou prokazující zmeškanou lhůtu, žádost o prominutí s datem podání, doklad o dodatečném provedení úkonu, oznámení služby/zdroje o nedodržení lhůty (§ 118).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=83307cadbb13b13db160 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 118
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Nemůže-li zpravodajská služba nebo policie sdělit Úřadu výsledky šetření ve lhůtách podle § 117 odst. 4 a [[#§ 5|5]], oznámí tuto skutečnost Úřadu s uvedením důvodů pro nedodržení těchto lhůt.
+>
+> (2) Nemůže-li orgán státu, právnická osoba nebo podnikající fyzická osoba informaci poskytnout ve lhůtě uvedené v § 117 odst. 6, oznámí tuto skutečnost Úřadu.
+>
+> (3) Nemůže-li Úřad na základě oznámení podle odstavce 1 nebo [[#§ 2|2]] rozhodnout ve lhůtách podle § 117 odst. 1 až 3, ředitel Úřadu lhůtu přiměřeně, nejvýše však dvakrát, prodlouží a účastníka řízení o tom, s uvedením důvodů, písemně vyrozumí.
+>
+> (4) Doba prodloužení lhůty podle odstavce 3 nesmí být jednorázově delší, než je doba stanovená pro provedení řízení podle [[#§ 117|§ 117]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 117, § 5, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=83307cadbb13b13db160 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0d22ae590e5b69c794b6 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 119
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad určí účastníkovi řízení přiměřenou lhůtu k provedení úkonu, pokud ji nestanoví zákon a je-li toho zapotřebí. Určením lhůty nesmí být ohrožen účel řízení. Usnesení o určení lhůty se oznamuje pouze tomu, komu je určena, popřípadě i tomu, jehož se jinak přímo dotýká.
+>
+> (2) Účastník řízení může podat žádost o prodloužení lhůty. Úřad o této žádosti rozhodne usnesením, které se pouze poznamená do bezpečnostního svazku.
+>
+> (3) Do lhůty se nezapočítává den, kdy došlo ke skutečnosti určující počátek lhůty. Lhůty určené podle měsíců nebo let končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li takový den v měsíci, končí lhůta posledním dnem měsíce. Připadne-li konec lhůty na den pracovního klidu, je posledním dnem lhůty nejbližší následující pracovní den.
+>
+> (4) Lhůta je zachována, je-li posledního dne lhůty učiněn úkon u Úřadu, anebo je-li v tento den podána poštovní zásilka adresovaná Úřadu, držiteli poštovní licence nebo zvláštní poštovní licence17) nebo osobě, která má obdobné postavení v jiném státě.
+>
+> (5) V pochybnostech se považuje lhůta za zachovanou, pokud se neprokáže opak.
+>
+> (6) Zmešká-li účastník řízení ze závažných důvodů lhůtu, Úřad zmeškání lhůty usnesením promine, pokud o to účastník řízení požádá do 5 dnů ode dne, kdy pominula příčina zmeškání, a učiní-li v téže lhůtě zmeškaný úkon. Úřad může této žádosti přiznat odkladný účinek. V případě, že Úřad zmeškání lhůty promine, usnesení o prominutí zmeškání lhůty se pouze poznamená do bezpečnostního svazku.
+>
+> (7) Proti usnesení o návrhu na prominutí zmeškané lhůty nelze podat rozklad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0d22ae590e5b69c794b6 -->
 
 ### § 120 — Doručování
 
@@ -2558,6 +4704,68 @@ Možné u **osob neznámého pobytu** nebo osob, jimž se prokazatelně nedaří
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=487a3456b118f9416e80 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 120 — Doručování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí a jiné písemnosti doručuje Úřad sám, dodáním do datové schránky54) nebo prostřednictvím držitele poštovní licence nebo zvláštní poštovní licence, kterému z poštovní smlouvy17) vyplývá povinnost doručit písemnost způsobem odpovídajícím požadavkům tohoto zákona. Doručování do zahraničí se zpravidla provádí prostřednictvím Ministerstva zahraničních věcí. U příslušníků nebo zaměstnanců ozbrojených sil a bezpečnostních sborů se doručování do zahraničí může provádět prostřednictvím příslušného bezpečnostního ředitele. Všechny písemnosti se doručují do vlastních rukou. Má-li účastník řízení zástupce, doručují se písemnosti pouze zástupci; v případě osobních úkonů se písemnosti doručují také účastníku řízení. Doručování zastoupenému nemá účinky pro běh lhůt. V případě zastavení řízení podle § 113 odst. 1 písm. i) se usnesení nedoručuje.
+>
+> (2) Odepře-li adresát písemnost převzít, držitel poštovní licence nebo zvláštní poštovní licence tuto skutečnost vyznačí na doručence spolu s datem a písemnost Úřadu vrátí. Písemnost se považuje za doručenou dnem, kdy bylo její převzetí adresátem odepřeno; doručuje-li Úřad, odepření převzetí písemnosti na ni vyznačí obdobně.
+>
+> (3) Nebyl-li adresát v místě doručení zastižen, doručovatel uloží zásilku u Úřadu nebo v místně příslušné provozovně držitele poštovní licence nebo zvláštní poštovní licence. Zásilka se uloží po dobu 10 dnů. Adresát se vyzve vložením oznámení do domovní schránky nebo jiným vhodným způsobem, aby si písemnost vyzvedl. Nevyzvedne-li si adresát písemnost do 10 dnů od uložení, považuje se poslední den lhůty za den doručení, i když se adresát o uložení nedozvěděl.
+>
+> (4) Místem doručení u fyzické osoby je adresa na území České republiky určená touto osobou. Pobývá-li fyzická osoba dlouhodobě v zahraničí ve státním zájmu, může být místem doručení i adresa v zahraničí.
+>
+> (5) Je-li písemnost doručována adresátu do zahraničí, lhůty podle tohoto zákona v době doručování neběží.
+>
+> (6) Fyzické osobě lze písemnost doručit, kdekoli bude zastižena. Odepře-li fyzická osoba písemnost převzít, postupuje se podle odstavce 2 obdobně.
+>
+> (7) Právnické osobě a podnikající fyzické osobě se písemnost doručuje na adresu jejího sídla. Za právnickou osobu je oprávněna písemnost převzít odpovědná osoba nebo pověřený zaměstnanec přijímající písemnosti.
+>
+> (8) Osobám neznámého pobytu nebo sídla a osobám, jimž se prokazatelně nedaří doručovat, se může doručovat veřejnou vyhláškou. Doručení veřejnou vyhláškou se provede tak, že se písemnost, popřípadě oznámení o možnosti převzít písemnost, vyvěsí na úřední desce Úřadu a na písemnost se vyznačí den vyvěšení. Patnáctým dnem po vyvěšení se písemnost považuje za doručenou, byla-li v této lhůtě splněna i povinnost zveřejnění podle odstavce 9.
+>
+> (9) Úřad zřizuje úřední desku, která musí být nepřetržitě veřejně přístupná. Obsah úřední desky se zveřejňuje i na internetových stránkách Úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 113
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=487a3456b118f9416e80 -->
+
 ### § 121–§ 123a — Rozhodnutí
 
 > **§ 121**
@@ -2628,6 +4836,210 @@ Standardně: výrok, odůvodnění, poučení, označení Úřadu, datum, razít
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3ff0da0e1745bccb2cc7 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 121
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Pokud Úřad žádosti fyzické osoby, žádosti podnikatele nebo žádosti o doklad vyhoví, nevydává písemné rozhodnutí. V těchto případech Úřad vydá osvědčení fyzické osoby, osvědčení podnikatele nebo doklad a doručí jej účastníku řízení; kopie založí do bezpečnostního svazku ([[#§ 124|§ 124]]).
+>
+> (2) Pokud Úřad žádosti fyzické osoby, žádosti podnikatele nebo žádosti o doklad nevyhoví, vydá rozhodnutí o nevydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu, které založí do bezpečnostního svazku a jeho stejnopis doručí účastníku řízení.
+>
+> (3) Pokud Úřad zruší platnost osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu, vydá o tom rozhodnutí, které založí do bezpečnostního svazku a jeho stejnopis doručí účastníku řízení.
+>
+> (4) V případě řízení provedeného na základě žádosti příslušného orgánu Evropské unie nebo mezinárodní organizace, jejímž je Česká republika členem podle § 93 odst. 1 písm. c), zašle Úřad tomuto orgánu oznámení o výsledku řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 124, § 93
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ff0da0e1745bccb2cc7 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=053f0a2c896bc303cc0b generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 122 — Náležitosti rozhodnutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí se vydává v písemné podobě a obsahuje výrokovou část, odůvodnění a poučení účastníka řízení. Vykonatelnost rozhodnutí doručeného účastníku řízení, který je fyzickou osobou, oznámí Úřad neprodleně odpovědné osobě tohoto účastníka.
+>
+> (2) Ve výrokové části se uvede řešení otázky, která je předmětem rozhodování, a ustanovení tohoto zákona, podle nichž bylo rozhodnuto. Součástí výrokové části je i označení účastníka řízení, které umožňuje jeho identifikaci. Je-li účastníkem řízení fyzická osoba, označuje se jménem, příjmením a rodným číslem. Je-li účastníkem řízení podnikatel, označuje se firmou nebo názvem, nebo jménem a příjmením, a identifikačním číslem. Výroková část může obsahovat i určení lhůty ke splnění ukládané povinnosti.
+>
+> (3) V odůvodnění se uvedou důvody vydání rozhodnutí, podklady pro jeho vydání, úvahy, kterými se Úřad řídil při jejich hodnocení a při použití právních předpisů. Jsou-li některé z důvodů vydání rozhodnutí utajovanými informacemi, uvede se v odůvodnění pouze odkaz na podklady pro vydání rozhodnutí a jejich stupeň utajení. Úvahy, kterými se Úřad řídil při jejich hodnocení, a důvody vydání rozhodnutí se uvedou pouze v rozsahu, ve kterém nejsou utajovanými informacemi.
+>
+> (4) V poučení se uvede, zda je možné proti rozhodnutí podat rozklad, v jaké lhůtě, od kterého dne se tato lhůta počítá, kdo rozhoduje o rozkladu, ke komu se podává, a skutečnost, že rozklad nemá odkladný účinek.
+>
+> (5) Rozhodnutí musí dále obsahovat označení Úřadu, datum vyhotovení, otisk úředního razítka, jméno, příjmení, funkci a podpis zaměstnance Úřadu, který rozhodnutí vydal.
+>
+> (6) Opravu zřejmých nesprávností v písemném vyhotovení rozhodnutí provede Úřad kdykoliv i bez návrhu a vyrozumí o tom účastníka řízení. Týká-li se oprava výrokové části rozhodnutí, vydá o tom Úřad opravné rozhodnutí. Proti opravnému rozhodnutí lze podat rozklad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=053f0a2c896bc303cc0b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=acb62180fe9157382610 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 123 — Právní moc a vykonatelnost rozhodnutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí je v právní moci, bylo-li doručeno a nelze-li proti němu podat rozklad.
+>
+> (2) Na žádost účastníka řízení Úřad na stejnopisu rozhodnutí vyznačí, kdy rozhodnutí nabylo právní moci.
+>
+> (3) Rozhodnutí je vykonatelné, jestliže je v právní moci nebo jestliže bylo doručeno a rozklad proti němu nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acb62180fe9157382610 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2480acc360c526d2d185 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 123a — Usnesení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Úřad rozhoduje usnesením v případech stanovených tímto zákonem. Usnesení, které se pouze poznamenává do bezpečnostního svazku, nabývá právní moci tímto poznamenáním a Úřad jej může v průběhu řízení změnit novým usnesením; nové usnesení se pouze poznamená do bezpečnostního svazku. O usnesení, které se poznamenává do bezpečnostního svazku, se účastník řízení vhodným způsobem vyrozumí; v ostatních případech se usnesení oznamuje doručením. Proti usnesení, které se účastníku řízení oznamuje, lze podat rozklad, nestanoví-li tento zákon jinak. Podání rozkladu nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2480acc360c526d2d185 -->
+
 ### § 124 — Bezpečnostní svazek
 
 > **§ 124**
@@ -2695,6 +5107,60 @@ Bezpečnostní svazek je předmětem zpracování osobních údajů. Pravomocí 
 **Typicky rozhodné důkazy / podklady:** soupis součástí svazku s daty vložení, spisová značka, žádost podle InfZ a rozhodnutí o jejím odmítnutí, žádost orgánů činných v trestním řízení a rozhodnutí ředitele o zproštění mlčenlivosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=140ca7c4a70cbae84b1c generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 124 — Bezpečnostní svazek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Bezpečnostní svazek obsahuje materiály vztahující se k řízení a hlášení změn a musí být označen spisovou značkou; člení se na utajovanou a neutajovanou část. Bezpečnostní svazek tvoří podklady pro zahájení řízení, protokoly, záznamy, písemná vyhotovení rozhodnutí a další písemnosti, které se vztahují k dané věci, včetně obrazových a zvukových záznamů a záznamů na elektronických médiích. Bezpečnostní svazek musí obsahovat soupis všech svých součástí s určením data, kdy byly do bezpečnostního svazku vloženy.
+>
+> (2) Bezpečnostní svazek zakládá, vede, doplňuje, eviduje a vyřazuje Úřad; vyřazuje se po uplynutí 11 let od data posledního pravomocného rozhodnutí v řízení. Zpravodajské služby vyřazují své bezpečnostní svazky nejdříve po uplynutí 11 let od data posledního pravomocného rozhodnutí v řízení.
+>
+> (3) Údaje uvedené v bezpečnostním svazku je možné využívat pouze pro potřeby plnění úkolů podle tohoto zákona a neposkytují se podle zákona upravujícího svobodný přístup k informacím.
+>
+> (4) Zaměstnanci Úřadu, kteří provádějí řízení, jsou povinni zachovávat mlčenlivost o údajích uvedených v bezpečnostním svazku, se kterými se seznámili při provádění tohoto řízení nebo v souvislosti s ním, a to i po skončení pracovněprávního vztahu.
+>
+> (5) Na žádost orgánů činných v trestním řízení může ředitel Úřadu zprostit v potřebném rozsahu mlčenlivosti osoby uvedené v odstavci 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=140ca7c4a70cbae84b1c -->
 
 ### Hlava III — Rozklad a soudní přezkum
 
@@ -2765,6 +5231,156 @@ Rozklad musí obsahovat: identifikační údaje účastníka, označení napaden
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fa5b8dd3df6dcc8fc04e generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 125
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Proti rozhodnutí Úřadu vydanému v řízení má účastník řízení právo podat rozklad, pokud se tohoto práva po doručení rozhodnutí písemně nevzdal nebo pokud tento zákon nestanoví jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa5b8dd3df6dcc8fc04e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=cadfa9c03a7d039b28c6 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 126
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Rozklad se podává u Úřadu do 15 dnů ode dne doručení rozhodnutí.
+>
+> (2) V případě chybějícího, neúplného nebo nesprávného poučení lze rozklad podat do 3 měsíců ode dne doručení rozhodnutí.
+>
+> (3) Úřad promine ze závažných důvodů zmeškání lhůty k podání rozkladu, pokud o to požádá účastník řízení do 15 dnů ode dne, kdy pominula příčina zmeškání, a zároveň rozklad podá.
+>
+> (4) Podání rozkladu proti rozhodnutí o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cadfa9c03a7d039b28c6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=eb29a3dedc4d015a7746 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 127
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Rozklad podaný fyzickou osobou musí obsahovat její jméno, příjmení, rodné číslo a adresu místa trvalého pobytu nebo adresu pro účely doručování, musí být datován a podepsán.
+>
+> (2) Rozklad podaný podnikatelem musí obsahovat jeho označení firmou nebo názvem a identifikačním číslem a adresu sídla, popřípadě jinou adresu pro doručování; je-li podnikatel fyzickou osobou, musí rozklad obsahovat její jméno a příjmení, nebo firmu, rodné číslo, bylo-li přiděleno, identifikační číslo a adresu sídla nebo adresu pro účely doručování. Rozklad musí být datován a podepsán osobou nebo osobami, které jsou oprávněny za podnikatele jednat.
+>
+> (3) V rozkladu musí být dále uvedeno, proti kterému rozhodnutí směřuje, čeho se účastník řízení domáhá a v čem je spatřován rozpor s právními předpisy nebo nesprávnost napadeného rozhodnutí. Rozklad nelze podat pouze proti odůvodnění rozhodnutí.
+>
+> (4) Pokud rozklad nemá předepsané náležitosti, vyzve Úřad písemně toho, kdo rozklad podal, k odstranění nedostatků. Ve výzvě stanoví lhůtu pro odstranění nedostatků, která nesmí být delší než 15 dnů, a upozorní jej na právní důsledky neodstranění těchto nedostatků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb29a3dedc4d015a7746 -->
+
 ### § 128–§ 129 — Postup před rozhodnutím ředitele
 
 > **§ 128**
@@ -2827,6 +5443,108 @@ Proti **oběma** těmto rozhodnutím **lze podat (nový) rozklad** — zajiště
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí, rozklad s datem podání, doklad o doručení původního rozhodnutí (běh lhůty), případné rozhodnutí o prominutí zmeškání, podklad zakládající plné vyhovění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a61cc9d05033ac1fee88 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 128
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad rozhodnutím rozklad zamítne, aniž jeho rozhodnutí podepisuje ředitel Úřadu, pokud
+>
+> - a) jej podle tohoto zákona nelze podat, nebo
+>
+> - b) byl podán po uplynutí lhůty podle § 126 odst. 1 nebo [[#§ 2|2]], nebylo-li její zmeškání podle § 126 odst. 3 prominuto.
+>
+> (2) Proti rozhodnutí uvedenému v odstavci 1 lze podat rozklad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 126, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a61cc9d05033ac1fee88 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d0c57bb1a9bf4ce7ed7c generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 129
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad může o rozkladu rozhodnout sám, aniž jeho rozhodnutí podepisuje ředitel Úřadu, pokud rozkladu vyhoví v plném rozsahu; vyhoví-li Úřad rozkladu, napadené rozhodnutí zruší.
+>
+> (2) Proti rozhodnutí uvedenému v odstavci 1 lze podat rozklad.
+>
+> (3) Nerozhodne-li Úřad o rozkladu podle odstavce 1 nebo podle § 128 odst. 1, předloží jej se svým stanoviskem a s veškerým spisovým materiálem do 15 dnů od doručení rozkladu řediteli Úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 128
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0c57bb1a9bf4ce7ed7c -->
 
 ### § 130 — Rozkladová komise
 
@@ -2912,6 +5630,70 @@ V řízení o rozkladu proti rozhodnutí **zpravodajské služby** se nepoužije
 **Typicky rozhodné důkazy / podklady:** jmenovací akty členů komise, doklady o vzdělání a osvědčení FO členů, námitka podjatosti a usnesení ředitele o ní, zápis o jednání komise a o usnášeníschopnosti, návrh komise předložený řediteli.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=16f3e615f392283fef80 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 130
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) O rozkladu rozhoduje, nejde-li o postup podle § 128 odst. 1 nebo § 129 odst. 1, ředitel Úřadu na základě návrhu rozkladové komise.
+>
+> (2) Členy rozkladové komise jmenuje a odvolává ředitel Úřadu. Rozkladová komise má nejméně pět členů. Více než polovina členů komise musí mít ukončené právnické vysokoškolské vzdělání v magisterském studijním programu právo a právní věda. Člen rozkladové komise musí být držitelem platného osvědčení fyzické osoby a státním občanem České republiky. Rozkladová komise je ustavena vždy na dobu 5 let; předsedou rozkladové komise je vždy jeden z členů této komise po dobu jednoho kalendářního roku. Rozkladová komise může jednat, je-li přítomna nadpoloviční většina jejích členů; usnesení se přijímá nadpoloviční většinou jejích přítomných členů.
+>
+> (3) Většinu členů rozkladové komise tvoří zaměstnanci státu zařazení v jiných orgánech státu než v Úřadu; to neplatí pro složení rozkladové komise v řízení podle § 140 odst. 1 písm. a).
+>
+> (4) Členství v rozkladové komisi končí
+>
+> - a) uplynutím funkčního období této komise,
+>
+> - b) odvoláním z funkce,
+>
+> - c) vzdáním se funkce,
+>
+> - d) úmrtím nebo prohlášením osoby za mrtvou.
+>
+> (5) Za činnost v rozkladové komisi nepřísluší jejímu členovi odměna. Úřad může členům rozkladové komise poskytovat náhradu cestovních výdajů podle zákona upravujícího cestovní náhrady40).
+>
+> (6) O podjatosti člena rozkladové komise z důvodů uvedených v § 90 odst. 1 rozhoduje ředitel Úřadu usnesením; proti tomuto usnesení není rozklad přípustný. V případě, že ředitel Úřadu shledá, že jsou u člena rozkladové komise dány skutečnosti, pro které lze pochybovat o jeho nepodjatosti, vyloučí tohoto člena rozkladové komise z projednávání daného rozkladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 128, § 129, § 140, § 90
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16f3e615f392283fef80 -->
 
 ### § 131 — Rozhodnutí ředitele Úřadu o rozkladu
 
@@ -3017,6 +5799,92 @@ V případě kasačního rozhodnutí (odst. 6) **právní názor ředitele** je 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bb78031bfda3f50d1e35 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 131
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) V řízení o rozkladu proti rozhodnutí Úřadu o nevydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu nebo rozhodnutí Úřadu o zastavení řízení ředitel Úřadu řízení zastaví a napadené rozhodnutí zruší, jestliže
+>
+> - a) účastník řízení vzal žádost podle [[#§ 94|§ 94]], [[#§ 96|96]] nebo [[#§ 99|99]] zpět,
+>
+> - b) účastník řízení nesplňuje podmínky stanovené v § 12 odst. 1 písm. b) a d) nebo § 81 odst. 1 písm. b), c) nebo d), nebo
+>
+> - c) účastník řízení zemřel, byl prohlášen za mrtvého, byl zrušen nebo zanikl;
+>
+> řízení o rozkladu je zastaveno dnem, kdy usnesení o zastavení řízení, které se pouze poznamená do bezpečnostního svazku, nabylo právní moci.
+>
+> (2) V řízení o rozkladu proti rozhodnutí Úřadu o nevydání osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu nebo rozhodnutí Úřadu o zastavení řízení ředitel Úřadu usnesením řízení o rozkladu zastaví, jestliže
+>
+> - a) účastník řízení vzal rozklad zpět, nebo
+>
+> - b) účastník řízení ve stanovené lhůtě neodstranil nedostatky rozkladu.
+>
+> (3) V řízení o rozkladu proti rozhodnutí Úřadu o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu ředitel Úřadu usnesením řízení o rozkladu zastaví, jestliže
+>
+> - a) účastník řízení vzal rozklad zpět,
+>
+> - b) účastník řízení ve stanovené lhůtě neodstranil nedostatky rozkladu, nebo
+>
+> - c) účastník řízení zemřel, byl prohlášen za mrtvého, byl zrušen nebo zanikl;
+>
+> řízení o rozkladu je zastaveno dnem, kdy usnesení o zastavení řízení, které se pouze poznamená do bezpečnostního svazku, nabylo právní moci.
+>
+> (4) Proti rozhodnutí ředitele Úřadu podle odstavců 1 až 3 nelze podat rozklad. Dnem právní moci usnesení ředitele Úřadu o zastavení řízení o rozkladu podle odstavců 2 a [[#§ 3|3]] nabývá právní moci rovněž napadené rozhodnutí.
+>
+> (5) Napadené rozhodnutí ředitel Úřadu zruší, pokud vyhoví v plném rozsahu rozkladu podanému proti rozhodnutí o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu.
+>
+> (6) Napadené rozhodnutí ředitel Úřadu zruší a věc vrátí k novému projednání a rozhodnutí, pokud
+>
+> - a) bylo vydáno v rozporu s právními předpisy nebo je nesprávné, nebo
+>
+> - b) po vydání rozhodnutí nastaly skutečnosti, které mají vliv na rozhodnutí.
+>
+> (7) Rozklad ředitel Úřadu zamítne a rozhodnutí potvrdí, pokud neshledá důvod pro postup podle odstavců 1 až 6.
+>
+> (8) Ředitel Úřadu v odůvodnění rozhodnutí o rozkladu podle odstavce 6 vysloví též právní názor, kterým je při novém projednání věci Úřad vázán, pokud se tento právní názor vlivem změny právního stavu nebo skutkových okolností nestane bezpředmětným. Při novém projednání věci může Úřad využít podkladů původního rozhodnutí, včetně podkladů rozhodnutí o rozkladu, nevylučuje-li to důvod řízení.
+>
+> (9) Ředitel Úřadu o rozkladu rozhodne do 3 měsíců ode dne doručení rozkladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 96, § 99, § 12, § 81, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bb78031bfda3f50d1e35 -->
+
 ### § 132 — Obnova platnosti veřejné listiny
 
 > **§ 132**
@@ -3065,6 +5933,52 @@ Zásadní účinek úspěšného rozkladu: **platnost se obnoví**, s **zachovan
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ředitele o rozkladu s doložkou právní moci, doklad o dřívějším odevzdání osvědčení/dokladu, evidence doby platnosti, záznam o vrácení listiny účastníkovi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c3dfc0a42946405181b0 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 132
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Dnem právní moci rozhodnutí o rozkladu podle § 129 odst. 1 anebo § 131 odst. 5 nebo [[#§ 6|6]] se platnost zrušeného osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu obnoví. Současně s rozhodnutím o rozkladu se účastníkovi řízení zašle zpět jeho osvědčení fyzické osoby, osvědčení podnikatele nebo doklad, odevzdané podle § 66 odst. 1 písm. b), § 68 písm. a) nebo § 87 odst. 1 písm. a); doba platnosti osvědčení nebo dokladu zůstává zachována.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 129, § 131, § 6, § 66, § 68, § 87
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c3dfc0a42946405181b0 -->
 
 ### Hlava IV — Soudní přezkum
 
@@ -3146,6 +6060,56 @@ Tato úprava byla opakovaně předmětem ústavněprávních a evropskoprávníc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aa9adccac7e3aa168f87 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 133
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Žalobu podle jiného právního předpisu42) lze podat proti rozhodnutí ředitele Úřadu podle § 131 odst. 2 písm. b), § 131 odst. 3 písm. b) a § 131 odst. 5 až 7.
+>
+> (2) Dokazování se v soudním řízení provádí tak, aby byla šetřena povinnost zachovávat mlčenlivost o utajovaných informacích obsažených ve výsledcích šetření nebo v údajích z evidencí zpravodajských služeb nebo policie. K těmto okolnostem lze provést důkaz výslechem jen tehdy, byl-li ten, kdo povinnost mlčenlivosti má, této povinnosti příslušným orgánem zproštěn; zprostit mlčenlivosti nelze pouze v případě, kdy by mohlo dojít k ohrožení nebo vážnému narušení činnosti zpravodajských služeb nebo policie; přiměřeně se postupuje i v případech, kdy se důkaz provádí jinak než výslechem.
+>
+> (3) Úřad označí okolnosti uvedené v odstavci 2, o kterých tvrdí, že ve vztahu k nim nelze zprostit mlčenlivosti, a předseda senátu rozhodne, že části spisu, k nimž se tyto okolnosti váží, budou odděleny, jestliže činnost zpravodajských služeb nebo policie může být ohrožena nebo vážně narušena; do oddělených částí spisu účastník řízení, jeho zástupce a osoby zúčastněné na řízení nahlížet nemohou. V ostatním nejsou ustanovení zvláštního právního předpisu42) o dokazování, označování částí spisu a nahlížení do něj dotčena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa9adccac7e3aa168f87 -->
+
 ### § 134 — Subsidiarita
 
 > **§ 134**
@@ -3194,6 +6158,52 @@ Tato úprava byla opakovaně předmětem ústavněprávních a evropskoprávníc
 **Typicky rozhodné důkazy / podklady:** spis o rozkladu, srovnání zvláštní (§ 125–132) a obecné (§ 89–124) úpravy k dané otázce, doklady o procesních úkonech (doručení, lhůty).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c2440766c31f4602ec9 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 134
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Není-li v § 125 až 132 stanoveno jinak, použijí se pro řízení o rozkladu obdobně ustanovení § 89 až 124.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 125, § 89
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c2440766c31f4602ec9 -->
 
 ### Hlava V — Zmocňovací ustanovení
 
@@ -3245,6 +6255,72 @@ Tato úprava byla opakovaně předmětem ústavněprávních a evropskoprávníc
 **Typicky rozhodné důkazy / podklady:** text prováděcí vyhlášky a její zmocňovací ustanovení, znění § 135 a souvisejících paragrafů o dotaznících, dotazníkový formulář, odůvodnění účelu požadovaných údajů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ad36726883b28fb50fe4 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 135
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Prováděcí právní předpis stanoví
+>
+> - a) vzor poučení podle § 58 odst. 5,
+>
+> - b) vzory a způsob podání žádostí podle § 93 odst. 1 písm. a) a b),
+>
+> - c) rozsah a formu písemností podle § 94 odst. 2 písm. b),
+>
+> - d) rozsah údajů dotazníku podnikatele v případě žádosti podle § 96 odst. 4,
+>
+> - e) vzor dotazníku fyzické osoby podle [[#§ 95|§ 95]] a rozsah údajů vyžadovaných k položkám dotazníku,
+>
+> - f) rozsah a formu písemností podle § 96 odst. 2 písm. c) a jejich náležitosti, rozsah údajů podle § 97 písm. j) a vzor dotazníku podnikatele podle [[#§ 97|§ 97]],
+>
+> - g) rozsah a formu písemností podle § 99 odst. 2 písm. b) a vzor dotazníku podle [[#§ 100|§ 100]] a rozsah údajů vyžadovaných k položkám dotazníku,
+>
+> - h) rozsah písemného zdůvodnění podle § 94 odst. 1, § 94 odst. 2 písm. f), § 96 odst. 1, § 99 odst. 1 a § 99 odst. 2 písm. f),
+>
+> - i) omezení rozsahu hlášení změn údajů, jakož i způsob a formu jejich doložení, podle § 66 odst. 1 písm. d), § 68 písm. c) a d), § 87 odst. 1 písm. c) a § 103 odst. 3,
+>
+> - j) vzor zproštění mlčenlivosti podle § 94 odst. 2 písm. e), § 96 odst. 2 písm. d) a § 99 odst. 2 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 58, § 93, § 94, § 96, § 95, § 97, § 99, § 100, § 66, § 68, § 87, § 103
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad36726883b28fb50fe4 -->
 
 ## ČÁST PÁTÁ — Výkon státní správy (§§ 136–142)
 
@@ -3331,6 +6407,58 @@ Zaměstnanci NBÚ podléhají **zákoníku práce** a Platovému řádu Úřadu,
 **Typicky rozhodné důkazy / podklady:** usnesení vlády o jmenování/odvolání, zápis o projednání ve výboru PS, Platový řád Úřadu a doklad o jeho schválení, vnitřní předpisy NBÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cc12351ffcb177df47d6 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 136
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Státní správu v oblasti ochrany utajovaných informací a bezpečnostní způsobilosti vykonává Úřad, který je ústředním správním úřadem, pokud tento zákon nestanoví jinak.
+>
+> (2) V čele Úřadu je ředitel, kterého jmenuje po projednání ve výboru Poslanecké sněmovny příslušném ve věcech bezpečnosti vláda, která ho též odvolává.
+>
+> (3) Ředitel Úřadu je odpovědný předsedovi vlády nebo pověřenému členovi vlády.
+>
+> (4) Poskytování platu a odměn z dohod o pracích konaných mimo pracovní poměr zaměstnanců Úřadu se řídí zákoníkem práce a Platovým řádem Úřadu. Platový řád Úřadu vydává ředitel Úřadu po jeho schválení rozpočtovým výborem Poslanecké sněmovny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cc12351ffcb177df47d6 -->
 
 ### § 137 — Působnost NBÚ
 
@@ -3438,6 +6566,78 @@ NBÚ zveřejňuje seznam osvědčení a dokladů na svých internetových strán
 **Typicky rozhodné důkazy / podklady:** žádost (FO/podnikatele/cizího úřadu), mezinárodní smlouva o ochraně UI, dokumentace ke zřízení registru, podklady řízení dle § 138, případně Věstník NBÚ a bezpečnostní standardy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5364a0d543054b0d2f82 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 137 — Úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Úřad
+>
+> - a) rozhoduje o žádosti fyzické osoby, žádosti podnikatele a žádosti o doklad a o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele a dokladu a vydává osvědčení pro cizí moc, s výjimkou případů stanovených tímto zákonem [§ 140 odst. 1 písm. a) a § 141 odst. 1], a vydává osvědčení fyzické osoby podle [[#§ 56a|§ 56a]],
+>
+> - b) vykonává kontrolu v oblasti ochrany utajovaných informací a bezpečnostní způsobilosti ([[#§ 143|§ 143]]) a metodickou činnost, s výjimkou případů stanovených tímto zákonem (§ 143 odst. 4),
+>
+> - c) plní úkoly v oblasti ochrany utajovaných informací v souladu se závazky vyplývajícími z členství České republiky v Evropské unii, Organizaci Severoatlantické smlouvy a z mezinárodních smluv, jimiž je Česká republika vázána, a provádí na žádost bezpečnostního úřadu členského státu Organizace Severoatlantické smlouvy, Evropské unie nebo jiného státu, se kterým má Česká republika uzavřenou mezinárodní smlouvu, který má v působnosti ochranu utajovaných informací, úkony řízení k osobě, která je v daném státě prověřována pro přístup k utajovaným informacím,
+>
+> - d) vede ústřední registr a schvaluje zřízení registrů v orgánech státu, u právnických osob podle [[#§ 60b|§ 60b]] a u podnikatelů,
+>
+> - e) ve stanovených případech povoluje poskytování utajovaných informací v mezinárodním styku,
+>
+> - f) vydává na základě písemné žádosti odpovědné osoby nebo bezpečnostního ředitele kurýrní listy a v odůvodněných případech zajišťuje přepravu utajovaných informací, s výjimkou utajovaných informací poskytovaných podle § 78 odst. 1,
+>
+> - g) provádí certifikace technického prostředku,
+>
+> - h) vydává bezpečnostní standardy,
+>
+> - i) ukládá správní tresty za nedodržení povinností stanovených tímto zákonem,
+>
+> - j) rozhoduje v dalších věcech a plní další úkoly na úseku ochrany utajovaných informací a bezpečnostní způsobilosti stanovené tímto zákonem,
+>
+> - k) vydává Věstník Úřadu, který zveřejňuje na svých internetových stránkách,
+>
+> - l) vede a na svých internetových stránkách zveřejňuje seznam osvědčení fyzické osoby, osvědčení podnikatele a dokladů, jejichž držitelé jsou oprávněni mít přístup k utajované informaci podle [[#§ 60a|§ 60a]] nebo vykonávat citlivou činnost nebo mít přístup k utajované informaci stupně utajení Vyhrazené podle [[#§ 80a|§ 80a]], a
+>
+> - m) zajišťuje výzkum a vývoj v oblasti ochrany utajovaných informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 140, § 141, § 56a, § 143, § 60b, § 78, § 60a, § 80a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5364a0d543054b0d2f82 -->
 
 ### § 137a — Národní úřad pro kybernetickou a informační bezpečnost
 
@@ -3548,6 +6748,82 @@ NÚKIB **vyvíjí a schvaluje národní šifrové algoritmy** — klíčový atr
 **Typicky rozhodné důkazy / podklady:** žádost o certifikaci/akreditaci, technická a bezpečnostní dokumentace IS/komunikačního systému, sdělení úřadu o (ne)příslušnosti, doklady o vydaných certifikátech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f70e08660f8046fc7cd1 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 137a — Národní úřad pro kybernetickou a informační bezpečnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Národní úřad pro kybernetickou a informační bezpečnost v oblasti působnosti svěřené mu tímto zákonem
+>
+> - a) zajišťuje zkoušky zvláštní odborné způsobilosti a vydává osvědčení o zvláštní odborné způsobilosti,
+>
+> - b) plní úkoly v souladu se závazky vyplývajícími z členství České republiky v Evropské unii, Organizaci Severoatlantické smlouvy a z mezinárodních smluv, jimiž je Česká republika vázána, ve vybraných oblastech ochrany utajovaných informací,
+>
+> - c) vykonává metodickou činnost,
+>
+> - d) zajišťuje činnost Národního střediska komunikační bezpečnosti, Národního střediska pro distribuci kryptografického materiálu, Národního střediska pro měření kompromitujícího vyzařování a Národního střediska pro bezpečnost informačních systémů, které jsou jeho součástí,
+>
+> - e) provádí certifikace a akreditace informačního systému, certifikace kryptografického prostředku, kryptografického pracoviště a stínící komory a schvaluje projekt bezpečnosti komunikačního systému,
+>
+> - f) zajišťuje výzkum, vývoj a výrobu národních kryptografických prostředků,
+>
+> - g) vyvíjí a schvaluje národní šifrové algoritmy a vytváří národní politiku kryptografické ochrany,
+>
+> - h) zjišťuje kompromitující vyzařování tam, kde se vyskytují nebo budou vyskytovat utajované informace,
+>
+> - i) zjišťuje v součinnosti se zpravodajskými službami a policií, zda v jednací oblasti nedochází nedovoleným použitím technických prostředků určených k získávání informací k ohrožení nebo únikům utajovaných informací,
+>
+> - j) vydává bezpečnostní standardy,
+>
+> - k) ukládá správní tresty za nedodržení povinností stanovených tímto zákonem,
+>
+> - l) rozhoduje v dalších věcech a plní další úkoly na úseku ochrany utajovaných informací stanovené tímto zákonem,
+>
+> - m) vede a na svých internetových stránkách zveřejňuje seznam certifikátů informačního systému, kryptografického prostředku, kryptografického pracoviště a stínicí komory, jejichž platnost zanikla podle § 48 odst. 4 písm. b) a d), § 49 odst. 5 písm. b), § 50 odst. 4 písm. b) a d) nebo § 51 odst. 4 písm. b) a d),
+>
+> - n) provádí analýzu a monitoring hrozeb, které mohou ohrozit způsobilost informačního nebo komunikačního systému nakládat s utajovanými informacemi, a zvýšení rizika využití těchto hrozeb a
+>
+> - o) zajišťuje výzkum a vývoj v oblasti ochrany utajovaných informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 48, § 49, § 50, § 51
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f70e08660f8046fc7cd1 -->
 
 ### § 138 — Oprávnění Úřadu
 
@@ -3673,6 +6949,102 @@ Odst. 6 zakotvuje obdobnou (ale užší) sadu pravomocí pro NÚKIB — v rozsah
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2c06977cece0bb72cab5 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 138
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad je při plnění úkolů podle tohoto zákona oprávněn
+>
+> - a) zpracovávat osobní údaje v rozsahu nezbytném pro plnění úkolů podle tohoto zákona,
+>
+> - b) vést evidenci porušení ochrany utajovaných informací, evidenci bezpečnostních ředitelů, evidenci fyzických osob a podnikatelů, kteří mají přístup k utajovaným informacím, s výjimkou příslušníků a zaměstnanců zařazených do zpravodajských služeb a vybraných policistů, evidenci fyzických osob, které jsou držiteli dokladu,
+>
+> - c) požadovat bezplatně poskytnutí informace u orgánu státu, právnické osoby nebo podnikající fyzické osoby a tyto informace využívat a evidovat,
+>
+> - d) pro účely řízení požadovat od policie a zpravodajských služeb informace získané postupy podle zvláštního právního předpisu43),
+>
+> - e) vyžadovat opis z evidence Rejstříku trestů11) a z evidence přestupků vedené Rejstříkem trestů; žádost o vydání opisu z evidence Rejstříku trestů a z evidence přestupků a opis z evidence Rejstříku trestů a z evidence přestupků se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup,
+>
+> - f) nahlížet do trestních a soudních spisů a dále do spisů vedených jiným orgánem veřejné moci v rámci výkonu jeho působnosti a pořizovat si z nich výpisy a kopie,
+>
+> - g) poskytovat v nezbytném rozsahu orgánu státu, právnické osobě nebo podnikající fyzické osobě potřebné osobní údaje vztahující se k vyžádané informaci,
+>
+> - h) uzavírat smlouvu s orgánem státu nebo podnikatelem k provádění dílčích úloh při certifikaci technických prostředků,
+>
+> - i) uchovávat ve svých informačních systémech údaje získané v rámci plnění úkolů podle tohoto zákona,
+>
+> - j) při provádění řízení spolupracovat s úřadem cizí moci, který má v působnosti ochranu utajovaných informací, zejména vyžadovat informace k účastníku řízení,
+>
+> - k) vyjadřovat se k oznámení podle § 69 odst. 1 písm. r) ve lhůtě 30 dnů ode dne jeho doručení a poskytovat přehled těchto oznámení a vyjádření k nim Úřadu pro ochranu hospodářské soutěže a
+>
+> - l) pro rozhodování zpravodajské služby podle § 140 odst. 1, na základě její písemné žádosti, provádět úkony podle § 107 odst. 1.
+>
+> (2) Zpravodajská služba může nahlížení do svých spisů podle odstavce 1 písm. f) odmítnout. Nahlížení do spisů uvedených v odstavci 1 písm. f) lze dále odmítnout, pokud by jejich zpřístupnění ohrozilo důležitý zájem sledovaný orgánem veřejné moci, který spis vede, přičemž po odpadnutí důvodu odmítnutí orgán veřejné moci spis k nahlížení Úřadu zpřístupní. Z nahlížení je vyloučen bezpečnostní svazek vedený podle [[#§ 124|§ 124]].
+>
+> (3) Úřad poskytuje
+>
+> - a) zpravodajským službám a Ministerstvu vnitra jedenkrát měsíčně seznam
+>
+> - 1. osvědčení fyzických osob, osvědčení podnikatelů a dokladů s uvedením informace o datu platnosti a datu zániku jejich platnosti,
+>
+> - 2. osob, u kterých rozhodl o nevydání veřejné listiny uvedené v bodu 1 nebo kterým byla platnost této listiny zrušena, a
+>
+> - 3. podnikatelů, k nimž obdržel podle § 15a odst. 2 nebo [[#§ 3|3]] prohlášení podnikatele, a
+>
+> - b) policii, Generální inspekci bezpečnostních sborů, Generálnímu ředitelství cel a Vojenské policii jedenkrát měsíčně seznam podle písmene a) bodů 1 a [[#§ 3|3]].
+>
+> (4) Způsob ochrany informací poskytovaných podle odstavce 3 písm. b), jejich poskytování a podmínky dalšího nakládání se stanoví dohodou mezi Úřadem a orgány uvedenými v odstavci 3 písm. b).
+>
+> (5) Úřad vydá zaměstnanci služební průkaz, který osvědčuje, že jeho držitel je zaměstnancem Úřadu; vzor služebního průkazu stanoví prováděcí právní předpis.
+>
+> (6) Národní úřad pro kybernetickou a informační bezpečnost je při plnění úkolů podle tohoto zákona oprávněn k činnostem podle odstavce 1 písm. a), c), g) a i), a dále je oprávněn
+>
+> - a) vést evidenci fyzických osob, které jsou držiteli osvědčení o zvláštní odborné způsobilosti, evidenci porušení ochrany utajovaných informací a evidenci pracovníků kryptografické ochrany a kurýrů kryptografického materiálu,
+>
+> - b) uzavírat smlouvu s orgánem státu nebo podnikatelem k provádění dílčích úloh při certifikaci informačních systémů, kryptografických prostředků, kryptografického pracoviště, stínících komor, k provádění školení zvláštní odborné způsobilosti pracovníků kryptografické ochrany a zjišťování možnosti výskytu kompromitujícího vyzařování tam, kde se utajované informace budou vyskytovat, a provádět výrobu kryptografických prostředků a
+>
+> - c) vést certifikační spis informačního systému, kryptografického prostředku, kryptografického pracoviště a stínící komory, vést seznam kontrolovaných kryptografických položek a vést dokumentaci pro provádění činností podle [[#§ 45|§ 45]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 69, § 140, § 107, § 124, § 15a, § 3, § 45
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c06977cece0bb72cab5 -->
+
 ### § 138b — Spolupráce NBÚ a NÚKIB
 
 > **§ 138b**
@@ -3721,6 +7093,52 @@ Toto ustanovení zaručuje **informační kontinuitu** mezi oběma úřady navzd
 **Typicky rozhodné důkazy / podklady:** samotné oznámení dle § 34 odst. 6 / § 43 odst. 2 / § 69 odst. 1 písm. f, h, technický rozbor incidentu, záznam o předání NBÚ, evidence osvědčení dotčené osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ff0de146d0c076a55dbb generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 138b — Spolupráce Úřadu a Národního úřadu pro kybernetickou a informační bezpečnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Národní úřad pro kybernetickou a informační bezpečnost předá bez zbytečného odkladu Úřadu oznámení, které obdržel podle § 34 odst. 6, § 43 odst. 2 nebo § 69 odst. 1 písm. f) a h).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 43, § 69
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ff0de146d0c076a55dbb -->
 
 ### § 138c — Oznamovací povinnost dalších bezpečnostních orgánů
 
@@ -3779,6 +7197,52 @@ Tyto orgány **neprodleně** informují NBÚ o okolnostech indikujících, že d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f4062fb7fc8ed847c2f6 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 138c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Ministerstvo vnitra, policie, Generální inspekce bezpečnostních sborů, Generální ředitelství cel a Vojenská policie oznámí neprodleně Úřadu okolnosti nasvědčující tomu, že držitel osvědčení fyzické osoby, držitel osvědčení podnikatele nebo držitel dokladu přestal splňovat podmínky pro jeho vydání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f4062fb7fc8ed847c2f6 -->
+
 ### § 139 — Katalog oblastí UI
 
 > **§ 139**
@@ -3829,6 +7293,52 @@ Katalog umožňuje **klasifikaci konkrétní informace** podle vlastnosti, ktero
 **Typicky rozhodné důkazy / podklady:** samotný utajovaný dokument s klasifikační doložkou, aktuální znění nařízení vlády (katalog), klasifikační odůvodnění původce, případný protokol o kontrole NBÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=65004e456b9e2c2d5e44 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 139
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Vláda stanoví nařízením katalog oblastí utajovaných informací. Katalog oblastí utajovaných informací stanoví jeden nebo více stupňů utajení, kterými lze klasifikovat utajovanou informaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=65004e456b9e2c2d5e44 -->
 
 ### § 140 — Zpravodajské služby
 
@@ -3968,6 +7478,102 @@ Toto **ústavně i kompetenčně neobvyklé** ustanovení dovoluje zpravodajské
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ea07838b4d9f765c9cce generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 140 — Zpravodajské služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Zpravodajské služby
+>
+> - a) rozhodují o žádosti fyzické osoby v případě svých příslušníků, zaměstnanců a uchazečů o přijetí do služebního poměru nebo základního pracovněprávního vztahu, s výjimkou uchazečů o přijetí do služebního poměru nebo základního pracovněprávního vztahu, kteří jsou držiteli osvědčení fyzické osoby alespoň pro požadovaný stupeň utajení, a o zrušení platnosti osvědčení této fyzické osoby a vydávají osvědčení fyzické osoby podle [[#§ 56a|§ 56a]] a osvědčení fyzické osoby pro cizí moc podle [[#§ 57|§ 57]]; za fyzickou osobu se považuje též osoba, která žádá o zařazení do aktivní zálohy, bývalý voják z povolání, který má být zařazen do aktivní zálohy, a voják v aktivní záloze, pokud mají vykonávat službu ve služebním zařazení u Vojenského zpravodajství a nejsou zároveň držiteli osvědčení fyzické osoby vydaného Úřadem,
+>
+> - b) na základě písemné žádosti Úřadu v rámci své působnosti provádí šetření podle tohoto zákona.
+>
+> (2) Zpravodajské služby mají při rozhodování podle odstavce 1 písm. a) postavení Úřadu a odpovědná osoba zpravodajské služby postavení ředitele Úřadu. Příslušnost k úkonům se řídí podle [[§ 5|§ 5]] [[zákona č. 153/1994 Sb., o zpravodajských službách České republiky|zákona č. 153/1994 Sb., o zpravodajských službách České republiky]], ve znění pozdějších předpisů.
+>
+> (3) Zpravodajské služby jsou při plnění úkolů podle tohoto zákona povinny oznámit neprodleně Úřadu, zjistí-li okolnosti nasvědčující tomu, že držitel osvědčení fyzické osoby, držitel osvědčení podnikatele nebo dokladu přestal splňovat podmínky pro jejich vydání, neohrozí-li to zájem sledovaný zpravodajskou službou.
+>
+> (4) Zpravodajské služby jsou při plnění úkolů podle tohoto zákona oprávněny
+>
+> - a) používat prostředky k získávání informací podle zvláštních právních předpisů44),
+>
+> - b) využívat údaje ze svých evidencí a údaje z evidencí poskytnutých Úřadem,
+>
+> - c) požadovat a využívat údaje z evidencí a materiálů vzniklých z činnosti bezpečnostních a vojenských orgánů československého státu,
+>
+> - d) zpracovávat osobní údaje,
+>
+> - e) vést evidence,
+>
+> - f) požadovat bezúplatně informace u orgánu státu, právnické osoby nebo podnikající fyzické osoby a využívat je,
+>
+> - g) vyžadovat opis a výpis z evidence Rejstříku trestů11) a opis z evidence přestupků; žádost o vydání opisu nebo výpisu z evidence Rejstříku trestů nebo opisu z evidence přestupků a opis nebo výpis z evidence Rejstříku trestů nebo opis z evidence přestupků se předávají v listinné podobě, popřípadě elektronické podobě, a to způsobem umožňujícím dálkový přístup,
+>
+> - h) uchovávat v informačních systémech údaje získané v rámci plnění úkolů podle tohoto zákona,
+>
+> - i) provádět opatření k evidenční ochraně osobních údajů fyzické osoby,
+>
+> - j) využívat údaje z evidence osob, kterým byl umožněn přístup k utajovaným informacím podle § 58 odst. 4,
+>
+> - k) v souvislosti s postupem podle odstavce 1 písm. a) požadovat další informace nad rámec položek dotazníku podle § 95 odst. 1 v rozsahu nezbytném pro ověřování podmínek pro vydání osvědčení fyzické osoby a
+>
+> - l) nahlížet do trestních a soudních spisů a dále do spisů vedených jiným orgánem veřejné moci v rámci výkonu jeho působnosti a pořizovat si z nich výpisy a kopie.
+>
+> (5) Zpravodajská služba může nahlížení do svých spisů podle odstavce 4 písm. l) odmítnout. Nahlížení do spisů uvedených v odstavci 4 písm. l) lze dále odmítnout, pokud by jejich zpřístupnění ohrozilo důležitý zájem sledovaný orgánem veřejné moci, který spis vede, přičemž po odpadnutí důvodu odmítnutí orgán veřejné moci spis k nahlížení zpravodajské službě zpřístupní. Z nahlížení je vyloučen bezpečnostní svazek vedený podle [[#§ 124|§ 124]].
+>
+> (6) Orgán veřejné správy, který je správcem informačního systému, v němž jsou zpracovávány příslušné osobní údaje, je povinen poskytnout zpravodajským službám součinnost potřebnou k provedení opatření podle odstavce 4 písm. i).
+>
+> (7) Ředitel zpravodajské služby vydává souhlas podle § 59 odst. 3.
+>
+> (8) V řízení podle odstavce 1 písm. a) se ustanovení § 105 odst. 6 věty čtvrté, § 105 odst. 7, [[#§ 112|§ 112]], [[#§ 114|114]] a [[#§ 120|120]] použijí přiměřeně.
+>
+> (9) Zpravodajská služba může usnesením řízení
+>
+> - a) přerušit, pokud je jí odmítnuto nahlížení do spisu podle odstavce 5, nebo
+>
+> - b) zastavit, pokud odpadl důvod řízení podle odstavce 1 písm. a) z důvodu nepříslušnosti a žádost fyzické osoby nebyla vzata zpět.
+>
+> (10) Je-li to nezbytné z důvodu ohrožení činnosti při plnění úkolů v působnosti zpravodajské služby podle jiného zákona56), může zpravodajská služba používat při ochraně utajovaných informací zvláštní postupy v oblasti administrativní bezpečnosti, fyzické bezpečnosti, bezpečnosti informačních nebo komunikačních systémů a kryptografické ochrany. Zvláštní postupy stanoví vláda; návrh zvláštních postupů předkládá vládě zpravodajská služba prostřednictvím příslušného člena vlády, a to se stanoviskem Úřadu, a jde-li o zvláštní postupy v oblasti bezpečnosti informačních nebo komunikačních systémů a kryptografické ochrany Národního úřadu pro kybernetickou a informační bezpečnost. Použitím zvláštních postupů nesmí být ohrožena ochrana utajovaných informací. Zvláštní postupy nelze používat při nakládání s utajovanými informacemi Evropské unie a Organizace Severoatlantické smlouvy a utajovanými informacemi vyžadujícími zvláštní režim nakládání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56a, § 57, § 5, § 58, § 95, § 124, § 59, § 105, § 112, § 114, § 120
+
+##### Souvisící předpisy
+
+- zákon č. 153/1994 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea07838b4d9f765c9cce -->
+
 ### § 141 — Ministerstvo vnitra a policie
 
 > **§ 141**
@@ -4073,6 +7679,88 @@ MV má **7 pravomocí** analogických pravomocem NBÚ, ale v užším rozsahu. *
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9e20b195e98cb4a58111 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 141 — Ministerstvo vnitra a policie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo vnitra rozhoduje o žádosti fyzické osoby v případě příslušníků policie vybraných v zájmu plnění závažných úkolů policie ministrem vnitra, s výjimkou příslušníků policie, kteří jsou držiteli osvědčení fyzické osoby alespoň pro požadovaný stupeň utajení, a o zrušení platnosti osvědčení fyzické osoby u těchto příslušníků policie a vydává osvědčení fyzické osoby podle [[#§ 56a|§ 56a]] a osvědčení fyzické osoby pro cizí moc podle [[#§ 57|§ 57]]; obdobně Ministerstvo vnitra rozhoduje o žádosti fyzické osoby, která může být vybrána v zájmu plnění závažných úkolů policie ministrem vnitra.
+>
+> (2) Ministerstvo vnitra má při rozhodování podle odstavce 1 postavení Úřadu a ministr vnitra postavení ředitele Úřadu.
+>
+> (3) Ministerstvo vnitra je při plnění úkolů podle tohoto zákona dále povinno provádět na žádost Úřadu opatření k evidenční ochraně osobních údajů držitele osvědčení fyzické osoby nebo jeho manžela, partnera52), dítěte nebo rodiče nebo osoby žijící s ním ve společné domácnosti a údajů o vozidle provozovaném nebo vlastněném těmito osobami.
+>
+> (4) Při plnění úkolů podle odstavců 1 až 3 je Ministerstvo vnitra oprávněno
+>
+> - a) využívat údaje ze svých evidencí a údaje poskytnuté Úřadem z jeho evidencí,
+>
+> - b) zpracovávat osobní údaje,
+>
+> - c) vést evidence,
+>
+> - d) požadovat bezúplatně informace u orgánu státu, právnické osoby nebo podnikající fyzické osoby a využívat je,
+>
+> - e) vyžadovat stanovisko policie k bezpečnostní spolehlivosti vybraného příslušníka policie,
+>
+> - f) vyžadovat opis a výpis z evidence Rejstříku trestů11) a opis z evidence přestupků; žádost o vydání opisu nebo výpisu z evidence Rejstříku trestů nebo opisu z evidence přestupků a opis nebo výpis z evidence Rejstříku trestů nebo opis z evidence přestupků se předávají v listinné podobě, popřípadě elektronické podobě, a to způsobem umožňujícím dálkový přístup,
+>
+> - g) nahlížet do trestních a soudních spisů a dále do spisů vedených jiným orgánem veřejné moci v rámci výkonu jeho působnosti a pořizovat si z nich výpisy a kopie.
+>
+> (5) Zpravodajská služba může nahlížení do svých spisů podle odstavce 4 písm. g) odmítnout. Nahlížení do spisů uvedených v odstavci 4 písm. g) lze dále odmítnout, pokud by jejich zpřístupnění ohrozilo důležitý zájem sledovaný orgánem veřejné moci, který spis vede, přičemž po odpadnutí důvodu odmítnutí orgán veřejné moci spis k nahlížení Ministerstvu vnitra zpřístupní. Z nahlížení je vyloučen bezpečnostní svazek vedený podle [[#§ 124|§ 124]].
+>
+> (6) Ministerstvo vnitra může usnesením řízení
+>
+> - a) přerušit, pokud je mu odmítnuto nahlížení do spisu podle odstavce 5, nebo
+>
+> - b) zastavit, pokud odpadl důvod řízení podle odstavce 1 z důvodu nepříslušnosti a žádost fyzické osoby nebyla vzata zpět.
+>
+> (7) Policie se podílí v rámci své působnosti podle zvláštního právního předpisu30) na plnění úkolů Ministerstva vnitra podle odstavce 1; na základě písemné žádosti Úřadu v rámci své působnosti provádí též úkony v řízení.
+>
+> (8) Policie je při plnění úkolů podle tohoto zákona oprávněna využívat údaje z evidence osob, kterým byl umožněn přístup k utajovaným informacím podle § 58 odst. 4.
+>
+> (9) Orgán veřejné správy, který je správcem informačního systému, v němž jsou zpracovávány příslušné osobní údaje, je povinen poskytnout Ministerstvu vnitra součinnost potřebnou k provedení opatření podle odstavce 3.
+>
+> (10) Ministr vnitra vydává souhlas podle § 59 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56a, § 57, § 124, § 58, § 59
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e20b195e98cb4a58111 -->
+
 ### § 142 — Nález ztracené veřejné listiny
 
 > **§ 142**
@@ -4133,6 +7821,54 @@ Důležitá legální fikce: příslušník policie nebo zaměstnanec ZÚ se **p
 **Typicky rozhodné důkazy / podklady:** záznam o odevzdání nálezu, předávací protokol policie/ZÚ → NBÚ, samotná nalezená UI a osvědčení/doklad, dokumentace o rozsahu manipulace s UI.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=61fe07d2119a1ea1e9f7 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 142
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Byla-li Úřadu, policii nebo zastupitelskému úřadu České republiky odevzdána nalezená písemnost podle § 65 odst. 1 nebo doklad podle § 87 odst. 2, sepíše tento orgán záznam o odevzdání, v němž nalezenou písemnost nebo doklad označí, a uvede jméno, příjmení, rodné číslo a místo trvalého pobytu osoby, která nalezenou písemnost nebo doklad odevzdala, a podrobně okolnosti, za kterých je tato osoba získala. Policie nebo zastupitelský úřad České republiky spolu se záznamem předá nalezenou písemnost nebo doklad Úřadu. Úřad doručí utajovanou informaci jejímu původci a osvědčení fyzické osoby, osvědčení podnikatele, doklad, osvědčení fyzické osoby pro cizí moc nebo osvědčení podnikatele pro cizí moc doručí tomu, na koho jsou vydány.
+>
+> (2) Pro účely předání utajované informace podle odstavce 1 se příslušník policie nebo zaměstnanec pracující na zastupitelském úřadu České republiky považuje za oprávněného k přístupu k utajované informaci v rozsahu nezbytně nutném pro sepsání záznamu a jejímu doručení Úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 65, § 87
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=61fe07d2119a1ea1e9f7 -->
 
 ## ČÁST ŠESTÁ — Kontrola (§§ 143–144)
 
@@ -4222,6 +7958,60 @@ V případě kontrol zasahujících do působnosti NÚKIB (kybernetická bezpeč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=905b05955935d1b2bc67 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 143
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Úřad v oblasti ochrany utajovaných informací a bezpečnostní způsobilosti kontroluje, jak orgány státu, právnické osoby podle [[#§ 60b|§ 60b]], podnikatelé a fyzické osoby (dále jen „kontrolované osoby“) dodržují právní předpisy v této oblasti.
+>
+> (2) Zaměstnanci Úřadu mají při výkonu kontroly (dále jen „kontrolní pracovníci“) přístup k utajovaným informacím v rozsahu prováděné kontroly, prokáží-li se platným osvědčením fyzické osoby pro příslušný stupeň utajení.
+>
+> (3) Úřad cizí moci, který má v působnosti ochranu utajovaných informací, je oprávněn účastnit se kontroly v oblasti ochrany utajovaných informací, které jsou jím poskytnuty České republice, vyplývá-li to ze závazku členství České republiky v Evropské unii, nebo stanoví-li tak mezinárodní smlouva, kterou je Česká republika vázána.
+>
+> (4) Kontrole podle tohoto zákona nepodléhá činnost zpravodajských služeb a činnost Ministerstva vnitra v případech podle [[#§ 141|§ 141]].
+>
+> (5) V případě kontroly, která zasahuje do působnosti v rámci ochrany utajovaných informací, jejíž státní správu podle tohoto zákona vykonává Národní úřad pro kybernetickou a informační bezpečnost, bude ke kontrole přizván jeho zástupce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60b, § 141
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=905b05955935d1b2bc67 -->
+
 ### § 144 — Opatření k nápravě
 
 > **§ 144**
@@ -4291,6 +8081,56 @@ Náklady hradí **kontrolovaná osoba** — princip *polluter pays*. Toto je san
 **Typicky rozhodné důkazy / podklady:** protokol o kontrole a kontrolní zjištění, potvrzení o odejmutí UI, fotodokumentace stavu zabezpečení, klasifikační rozbor dokumentů, doklady o nákladech opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3c4bf18b38d1fef2b82c generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 144 — Opatření k nápravě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Kontrolní pracovníci jsou při zjištění porušení právních předpisů v oblasti ochrany utajovaných informací a bezpečnostní způsobilosti u kontrolované osoby oprávněni přijmout neodkladná opatření k zajištění ochrany utajovaných informací, včetně odejmutí utajované informace, opatření ke zrušení nebo změně stupně utajení utajované informace nebo k označení utajované informace stupněm utajení. O odejmutí vydají kontrolované osobě potvrzení. Rovněž jsou oprávněni požadovat, aby ve stanovené lhůtě byly odstraněny zjištěné nedostatky.
+>
+> (2) Náklady spojené s provedením opatření podle odstavce 1 hradí kontrolovaná osoba.
+>
+> (3) Každý je povinen vyhovět pokynům kontrolního pracovníka při provádění neodkladných opatření podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c4bf18b38d1fef2b82c -->
 
 ## ČÁST SEDMÁ — Kontrola činnosti Úřadu (§§ 145–147)
 
@@ -4388,6 +8228,72 @@ Toto omezení je projevem **dělby moci** — parlament kontroluje, ale nevykon�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=18af56ddeaf0aa694ae2 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 145
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Kontrolu činnosti Úřadu vykonává Poslanecká sněmovna, která k tomuto účelu zřizuje zvláštní kontrolní orgán (dále jen „kontrolní orgán“).
+>
+> (2) Kontrolní orgán se skládá nejméně ze 7 členů. Poslanecká sněmovna stanoví počet členů tak, aby byl zastoupen každý poslanecký klub ustavený podle příslušnosti k politické straně nebo politickému hnutí, za něž poslanci kandidovali ve volbách; počet členů je vždy lichý. Členem kontrolního orgánu může být pouze poslanec Poslanecké sněmovny.
+>
+> (3) Pokud tento zákon nestanoví jinak, vztahuje se na jednání kontrolního orgánu a na práva a povinnosti jeho členů přiměřeně zvláštní právní předpis46). Na jednání kontrolního orgánu a na práva a povinnosti jeho členů se kontrolní řád nepoužije.
+>
+> (4) Členové kontrolního orgánu mohou vstupovat v doprovodu ředitele Úřadu nebo jím pověřeného zaměstnance do objektů Úřadu.
+>
+> (5) Ředitel Úřadu předkládá kontrolnímu orgánu
+>
+> - a) zprávu o činnosti Úřadu,
+>
+> - b) zprávu o jednotlivých řízeních o žádosti fyzické osoby, žádosti podnikatele a žádosti o doklad a o zrušení platnosti osvědčení fyzické osoby, osvědčení podnikatele nebo dokladu [§ 137 písm. a)],
+>
+> - c) návrh rozpočtu Úřadu,
+>
+> - d) podklady potřebné ke kontrole plnění rozpočtu Úřadu,
+>
+> - e) vnitřní předpisy Úřadu.
+>
+> (6) Kontrolní orgán není oprávněn zasahovat do personálních pravomocí vedoucích pracovníků Úřadu a nahrazovat jejich řídicí činnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 137
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=18af56ddeaf0aa694ae2 -->
+
 ### § 146–§ 147 — Reakce na zjištěné nedostatky
 
 > **§ 146**
@@ -4453,6 +8359,100 @@ Mimo tento případ jsou členové kontrolního orgánu vázáni přísnou mlče
 **Typicky rozhodné důkazy / podklady:** zprávy předkládané ředitelem (§ 145 odst. 5), spisy jednotlivých řízení, písemné vysvětlení ředitele, zápis z jednání kontrolního orgánu, text oznámení předsedovi vlády.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=37a28c34ec8fcc0b5798 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 146
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Má-li kontrolní orgán za to, že činnost Úřadu nezákonně omezuje nebo poškozuje práva a svobody občanů nebo že rozhodovací činnost Úřadu v rámci řízení je stižena vadami, je oprávněn požadovat od ředitele Úřadu potřebné vysvětlení.
+>
+> (2) Každé porušení zákona zaměstnancem Úřadu při plnění povinností podle tohoto zákona, které kontrolní orgán zjistí při své činnosti, je povinen oznámit řediteli Úřadu a předsedovi vlády.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=37a28c34ec8fcc0b5798 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=044c02b73ef6219a4b98 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 147
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Povinnost zachovávat mlčenlivost uložená členům kontrolního orgánu podle zákona se nevztahuje na případy, kdy kontrolní orgán podává oznámení podle § 146 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 146
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=044c02b73ef6219a4b98 -->
 
 ## ČÁST OSMÁ — Přestupky (§§ 148–156)
 
@@ -4584,6 +8584,92 @@ Tato úprava obrací obvyklý princip přestupkového práva (které se zaměřu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5da4f507520b7f036971 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 148
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že
+>
+> - a) jako účastník řízení neoznámí podle § 103 odst. 3 změnu údaje uvedeného v žádosti fyzické osoby nebo v žádosti o doklad,
+>
+> - b) neodevzdá nalezenou písemnost podle § 65 odst. 1 nebo nalezený doklad podle § 87 odst. 2,
+>
+> - c) poruší povinnost zachovávat mlčenlivost o utajované informaci,
+>
+> - d) umožní přístup k utajované informaci neoprávněné osobě,
+>
+> - e) vykonává funkci bezpečnostního ředitele v rozporu s § 71 odst. 4 nebo [[#§ 5|5]],
+>
+> - f) provádí kryptografickou ochranu, aniž je pracovníkem kryptografické ochrany splňujícím požadavky stanovené v § 38 odst. 2,
+>
+> - g) provádí provozní obsluhu kryptografického prostředku, aniž splňuje požadavky stanovené v § 40 odst. 2,
+>
+> - h) přepravuje kryptografický materiál, aniž je kurýrem kryptografického materiálu splňujícím požadavky stanovené v § 42 odst. 1,
+>
+> - i) zajistí si přístup k utajované informaci, aniž splňuje podmínky podle § 6 odst. 1, § 11 odst. 1 nebo § 57 odst. 1,
+>
+> - j) vyveze z území České republiky certifikovaný kryptografický prostředek bez povolení Národního úřadu pro kybernetickou a informační bezpečnost,
+>
+> - k) nakládá s kryptografickým materiálem jiným způsobem, než je uvedeno v § 38 odst. 1, [[#§ 40|§ 40]], § 41 odst. 3 nebo [[#§ 42|§ 42]], aniž splňuje podmínky podle [[#§ 42a|§ 42a]], nebo
+>
+> - l) neprojednává utajované informace v jednací oblasti v souladu s § 24 odst. 4 nebo je projednává v jednací oblasti, která nesplňuje stanovené požadavky.
+>
+> (2) Pokus přestupku podle odstavce 1 písm. d), i) a j) je trestný.
+>
+> (3) Přestupku podle odstavce 1 písm. b) a c) se dopustí též návodce nebo pomocník.
+>
+> (4) Za přestupek lze uložit pokutu do
+>
+> - a) 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) a l),
+>
+> - b) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo e),
+>
+> - c) 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. f), g), h) nebo k),
+>
+> - d) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. i),
+>
+> - e) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), d) nebo j).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 103, § 65, § 87, § 71, § 5, § 38, § 40, § 42, § 6, § 11, § 57, § 41, § 42a, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5da4f507520b7f036971 -->
+
 ### § 149 — Přestupky fyzické osoby s přístupem k UI
 
 > **§ 149**
@@ -4671,6 +8757,84 @@ Specifikum: u některých přestupků je trestný také **organizátor** (kromě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c09e21937e8cc9bbd511 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 149
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která má přístup k utajované informaci, se dopustí přestupku tím, že
+>
+> - a) neeviduje nebo nezaznamenává utajovanou informaci v administrativních pomůckách podle § 21 odst. 5,
+>
+> - b) vyhotoví opis, kopii nebo překlad utajované informace bez souhlasu uvedeného v § 21 odst. 6,
+>
+> - c) předá utajovanou informaci v rozporu s § 21 odst. 8,
+>
+> - d) zapůjčí, přepraví nebo přenese utajovanou informaci v rozporu s § 21 odst. 7 nebo [[#§ 9|9]],
+>
+> - e) zruší nebo změní stupeň utajení bez souhlasu původce nebo poskytující cizí moci,
+>
+> - f) nesplní požadavky na zpracovávání nebo ukládání utajované informace podle § 24 odst. 5 nebo [[#§ 6|6]],
+>
+> - g) nakládá s utajovanou informací v informačním systému, který není certifikován nebo akreditován Národním úřadem pro kybernetickou a informační bezpečnost nebo není certifikován pro příslušný stupeň utajení nebo není písemně schválen do provozu odpovědnou osobou nebo jí pověřenou osobou,
+>
+> - h) nakládá s utajovanou informací v komunikačním systému, jehož bezpečnostní projekt není schválen Národním úřadem pro kybernetickou a informační bezpečnost nebo není schválen pro stupeň utajení odeslané utajované informace,
+>
+> - i) zpracovává utajovanou informaci v rozporu s bezpečnostní provozní směrnicí vydanou podle § 36 odst. 2 písm. a),
+>
+> - j) neeviduje kryptografický materiál v administrativních pomůckách kryptografické ochrany,
+>
+> - k) manipuluje s kryptografickým materiálem v rozporu s § 41 odst. 2 nebo 4, nebo
+>
+> - l) neoznámí ztrátu nebo neoprávněné zničení nosiče obsahujícího utajovanou informaci.
+>
+> (2) Přestupku podle odstavce 1 písm. a), b), e), g) a h) se dopustí též organizátor, návodce nebo pomocník.
+>
+> (3) Za přestupek lze uložit pokutu do
+>
+> - a) 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), c), d), e), f), g), h) nebo l),
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. i), j) nebo k).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 9, § 24, § 6, § 36, § 41
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c09e21937e8cc9bbd511 -->
+
 ### § 150–§ 152 — Přestupky držitelů veřejných listin
 
 > **§ 150**
@@ -4741,6 +8905,170 @@ V praxi jde o nejmírnější segment sankčního katalogu: drobné formální p
 **Typicky rozhodné důkazy / podklady:** osvědčení (resp. jeho kopie a evidence), předávací/odevzdací protokoly, personální spis s datem zániku oprávnění, oznámení (či jeho absence) o ztrátě/odcizení/poškození, výpovědi odpovědné osoby a držitele, protokol o kontrole NBÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ca8361a79dc45d32f0d1 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 150
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která je držitelem osvědčení fyzické osoby, se dopustí přestupku tím, že
+>
+> - a) neodevzdá neplatné osvědčení fyzické osoby podle § 66 odst. 1 písm. b),
+>
+> - b) neoznámí ztrátu, odcizení nebo poškození osvědčení fyzické osoby podle § 66 odst. 1 písm. c),
+>
+> - c) neoznámí neprodleně změnu údaje uvedeného v žádosti fyzické osoby podle § 66 odst. 1 písm. d),
+>
+> - d) jako držitel osvědčení fyzické osoby pro cizí moc neodevzdá neplatné osvědčení fyzické osoby pro cizí moc podle § 57 odst. 11, nebo
+>
+> - e) jako držitel osvědčení fyzické osoby pro cizí moc neoznámí ztrátu, odcizení nebo poškození osvědčení fyzické osoby pro cizí moc podle § 66 odst. 1 písm. c).
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 66, § 57
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ca8361a79dc45d32f0d1 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=cb1020a0a86f86a997ac generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 151
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která je držitelem oznámení, se dopustí přestupku tím, že
+>
+> - a) nesdělí změnu podmínek pro vydání oznámení uvedených v § 6 odst. 2 písm. a) nebo c) nebo změnu údajů v oznámení obsažených, nebo
+>
+> - b) neodevzdá neplatné oznámení podle § 9 odst. 6.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 30 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb1020a0a86f86a997ac -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1d2c665449456c24089b generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 152
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která je držitelem dokladu, se dopustí přestupku tím, že
+>
+> - a) neodevzdá neplatný doklad podle § 87 odst. 1 písm. a),
+>
+> - b) neoznámí ztrátu, odcizení nebo poškození dokladu podle § 87 odst. 1 písm. b), nebo
+>
+> - c) neoznámí změnu údaje uvedeného v žádosti o doklad podle § 87 odst. 1 písm. c).
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 87
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1d2c665449456c24089b -->
 
 ### § 153 — Přestupky podnikatele, právnické osoby a orgánu státu
 
@@ -4898,6 +9226,138 @@ V praxi jde o nejmírnější segment sankčního katalogu: drobné formální p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef197d4bc96ef15ef071 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 153
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Podnikatel, který má přístup k utajované informaci, právnická osoba podle [[#§ 60b|§ 60b]] nebo orgán státu se dopustí přestupku tím, že
+>
+> - a) nezajistí podle § 28 odst. 2 nebo [[#§ 4|4]] ostrahu u objektu, ve kterém se nachází zabezpečená oblast kategorie Vyhrazené,
+>
+> - b) v rozporu s § 36 odst. 2 písm. a) nevydá bezpečnostní provozní směrnici, nebo nezašle Národnímu úřadu pro kybernetickou a informační bezpečnost informaci podle § 36 odst. 2 písm. b) o provozovaném zařízení uvedeném v § 36 odst. 1,
+>
+> - c) nezajistí písemné pověření fyzické osoby k přístupu k utajované informaci se zvláštním režimem nakládání označené „ATOMAL“,
+>
+> - d) nezřídí a neobsadí funkci bezpečnostního ředitele podle § 71 odst. 1 nebo obsadí funkci bezpečnostního ředitele v rozporu s § 71 odst. 4,
+>
+> - e) neoznámí podle § 71 odst. 2 jmenování bezpečnostního ředitele,
+>
+> - f) nevyznačí na utajované informaci náležitosti podle § 21 odst. 2 až 4,
+>
+> - g) jako původce klasifikuje a označí stupeň utajení na informaci, aniž ji lze podřadit pod položku uvedenou v katalogu oblastí utajovaných informací nebo aniž její vyzrazení nebo zneužití může způsobit újmu zájmu České republiky nebo může být pro tento zájem nevýhodné,
+>
+> - h) jako původce neoznámí zrušení nebo změnu stupně utajení podle § 22 odst. 6,
+>
+> - i) jako adresát utajované informace neoznámí změnu nebo zrušení stupně utajení podle § 22 odst. 6,
+>
+> - j) nezajistí podle § 28 odst. 1, [[#§ 3|3]] nebo [[#§ 4|4]] nepřetržitou ostrahu u objektu, ve kterém se nachází zabezpečená oblast nebo jednací oblast,
+>
+> - k) nenahlásí porušení povinnosti při ochraně utajované informace,
+>
+> - l) nezpracuje projekt fyzické bezpečnosti podle [[#§ 32|§ 32]],
+>
+> - m) nevede některou z evidencí stanovených v § 69 odst. 1 písm. j),
+>
+> - n) nepředá k zaevidování utajovanou informaci podle § 69 odst. 1 písm. n),
+>
+> - o) nezajistí, aby použitá opatření fyzické bezpečnosti odpovídala projektu fyzické bezpečnosti a požadavkům stanoveným podle [[#§ 31|§ 31]],
+>
+> - p) jako původce nevyznačí náležitosti podle § 21 odst. 1 a [[#§ 4|4]], ačkoli informaci lze podřadit pod položku uvedenou v katalogu oblastí utajovaných informací a její vyzrazení nebo zneužití může způsobit újmu zájmu České republiky nebo může být pro tento zájem nevýhodné,
+>
+> - q) jako původce nezruší nebo nezmění neprodleně stupeň utajení v případech, kdy pominul důvod pro utajení informace, důvody pro utajení neodpovídají stanovenému stupni utajení nebo byl-li stupeň utajení stanoven neoprávněně, anebo po obdržení výzvy podle § 22 odst. 9,
+>
+> - r) nezajistí vytvoření podmínek stanovených na základě [[#§ 33|§ 33]] pro ukládání a § 23 odst. 2 pro evidenci, zapůjčování nebo přepravu utajovaných informací nebo utajovaných informací se zvláštním režimem nakládání nebo pro jinou manipulaci s nimi,
+>
+> - s) provozuje informační systém, který není certifikován Národním úřadem pro kybernetickou a informační bezpečnost nebo není písemně schválen do provozu odpovědnou osobou nebo jí pověřenou osobou, nebo provozuje informační systém cizí moci, který není akreditován Národním úřadem pro kybernetickou a informační bezpečnost, anebo v rozporu s § 34 odst. 4 nezavede další nutné bezpečnostní funkce nebo opatření nebo jejich zavedení neoznámí Národnímu úřadu pro kybernetickou a informační bezpečnost,
+>
+> - t) provozuje komunikační systém, jehož bezpečnostní projekt není schválen Národním úřadem pro kybernetickou a informační bezpečnost,
+>
+> - u) nezastaví provoz informačního systému, který nesplňuje podmínky stanovené v certifikační zprávě, nebo nezastaví provoz komunikačního systému, který nesplňuje podmínky stanovené v projektu bezpečnosti komunikačního systému,
+>
+> - v) používá pro kryptografickou ochranu prostředek, který není certifikován Národním úřadem pro kybernetickou a informační bezpečnost nebo není součástí informačního systému cizí moci akreditovaného Národním úřadem pro kybernetickou a informační bezpečnost, nebo používá kryptografické pracoviště k jinému účelu, než ke kterému bylo certifikováno a schváleno do provozu,
+>
+> - w) nezajistí výkon kryptografické ochrany osobou, která splňuje požadavky stanovené v § 38 odst. 2,
+>
+> - x) nezajistí obsluhu kryptografického prostředku osobou, která splňuje požadavky stanovené v § 40 odst. 2,
+>
+> - y) nezajistí přepravu kryptografického materiálu osobou, která splňuje požadavky stanovené v § 42 odst. 1, nebo
+>
+> - z) neoznámí kompromitaci kryptografického materiálu podle § 43 odst. 2.
+>
+> (2) Podnikatel, který má přístup k utajované informaci, právnická osoba podle [[#§ 60b|§ 60b]] nebo orgán státu se dopustí přestupku tím, že
+>
+> - a) nezřídí registr nebo nenahlásí Úřadu změny v registru podle § 79 odst. 8 písm. f),
+>
+> - b) neprovádí kontrolu utajovaných informací podle § 69 odst. 1 písm. m) vedených v registru nebo neoznámí její výsledek Úřadu,
+>
+> - c) odešle utajovanou informaci stupně utajení Přísně tajné, Tajné nebo Důvěrné v rozporu s [[#§ 77|§ 77]],
+>
+> - d) umožní výkon citlivé činnosti fyzické osobě, která není držitelem platného dokladu nebo osvědčení fyzické osoby nebo jí nebylo uznáno bezpečnostní oprávnění vydané úřadem cizí moci,
+>
+> - e) neoznámí zničení utajované informace podle § 21 odst. 11 nebo § 69 odst. 1 písm. u),
+>
+> - f) nevede některou z evidencí stanovených v § 69 odst. 1 písm. t),
+>
+> - g) nezpracovává a nevede přehled míst nebo funkcí podle § 69 odst. 1 písm. b),
+>
+> - h) nezajistí zaslání kopie poučení Úřadu podle § 11 odst. 2,
+>
+> - i) nezašle neprodleně Úřadu kopii prohlášení podnikatele podle § 15a odst. 2,
+>
+> - j) umožní přístup k utajované informaci neoprávněné osobě,
+>
+> - k) nezajistí nakládání s kryptografickým materiálem jiným způsobem, než je uvedeno v § 38 odst. 1, [[#§ 40|§ 40]], § 41 odst. 3 nebo [[#§ 42|§ 42]], osobou, která splňuje požadavky stanovené v [[#§ 42a|§ 42a]], nebo
+>
+> - l) neprojednává utajované informace v jednací oblasti v souladu s § 24 odst. 4 nebo je projednává v jednací oblasti, která nesplňuje stanovené požadavky.
+>
+> (3) Za přestupek lze uložit pokutu do
+>
+> - a) 300 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), c), d), e), f) nebo g) nebo odstavce 2 písm. g), h) nebo i),
+>
+> - b) 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. h), i), j), k), l), m), n) nebo o) nebo odstavce 2 písm. e) nebo f),
+>
+> - c) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. p), q), r), s), t), u), v), w), x), y) nebo z) nebo odstavce 2 písm. a), b), c), d), j), k) nebo l).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60b, § 28, § 4, § 36, § 71, § 21, § 22, § 3, § 32, § 69, § 31, § 33, § 23, § 34, § 38, § 40, § 42, § 43, § 79, § 77, § 11, § 15a, § 41, § 42a, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef197d4bc96ef15ef071 -->
+
 ### § 153a — Přestupek zadavatele veřejné zakázky
 
 > **§ 153a**
@@ -4952,6 +9412,54 @@ Souvisí to s § 29 a § 192 zákona č. 134/2016 Sb., o zadávání veřejných
 **Typicky rozhodné důkazy / podklady:** zadávací dokumentace a smlouva, klasifikace plnění z hlediska UI, korespondence se NBÚ (oznámení či jeho absence), interní evidence zadavatele o bezpečnostních aspektech VZ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=489bf1cace413e36099d generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 153a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Zadavatel veřejné zakázky podle § 69 odst. 1 písm. r) a § 69 odst. 3 se dopustí přestupku tím, že neoznámí Úřadu skutečnost podle § 69 odst. 1 písm. r).
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 2 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 69
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=489bf1cace413e36099d -->
 
 ### § 154 — Přestupky podnikatele s přístupem k UI
 
@@ -5023,6 +9531,74 @@ Souvisí to s § 29 a § 192 zákona č. 134/2016 Sb., o zadávání veřejných
 **Typicky rozhodné důkazy / podklady:** smlouvy o mezinárodní spolupráci, povolení podle § 73 a vývozní povolení NÚKIB (či jejich absence), předávací protokoly UI, celní/vývozní dokumentace ke krypto-prostředku, certifikát prostředku, prohlášení podnikatele podle § 15a, bezpečnostní dokumentace podnikatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=96bacf382b3697cee4a0 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 154
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Podnikatel, který má přístup k utajované informaci, se dopustí přestupku tím, že
+>
+> - a) neodevzdá nebo nepředá utajovanou informaci podle § 56 odst. 2,
+>
+> - b) neaktualizuje bezpečnostní dokumentaci podnikatele podle [[#§ 98|§ 98]],
+>
+> - c) poskytne utajovanou informaci stupně utajení Vyhrazené zahraničnímu partneru v rozporu s § 73 písm. b),
+>
+> - d) poskytne utajovanou informaci stupně utajení Přísně tajné, Tajné nebo Důvěrné zahraničnímu partneru v rozporu s § 73 písm. a),
+>
+> - e) vyveze z území České republiky certifikovaný kryptografický prostředek bez povolení Národního úřadu pro kybernetickou a informační bezpečnost,
+>
+> - f) nezašle neprodleně Úřadu kopii prohlášení podnikatele podle § 15a odst. 2 nebo prohlášení podnikatele podle § 15a odst. 3, nebo
+>
+> - g) neoznámí písemně Úřadu nebo poskytovateli vyhrazené informace zánik prohlášení podnikatele podle § 15a odst. 6.
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 300 000 Kč, jde-li o přestupek podle odstavce 1 písm. f) nebo g),
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b) nebo c),
+>
+> - c) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) nebo e).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56, § 98, § 73, § 15a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96bacf382b3697cee4a0 -->
 
 ### § 155 — Přestupky držitele osvědčení podnikatele
 
@@ -5108,6 +9684,76 @@ Toto je významná specifika oproti obecné úpravě přestupků (zákon č. 250
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=202772f9aa431d5e7bb2 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 155
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Podnikatel, který je držitelem osvědčení podnikatele, se dopustí přestupku tím, že
+>
+> - a) neodevzdá podle § 68 písm. a) osvědčení podnikatele, jehož platnost zanikla,
+>
+> - b) neoznámí podle § 68 písm. b) ztrátu, odcizení nebo poškození osvědčení podnikatele,
+>
+> - c) neoznámí podle § 68 písm. c) změnu údaje uvedeného v § 97 písm. a), b), c) nebo q) nebo v § 98 písm. c),
+>
+> - d) neoznámí podle § 68 písm. d) změnu údaje uvedeného v žádosti podnikatele,
+>
+> - e) jako držitel osvědčení pro cizí moc neodevzdá podle § 57 odst. 11 neplatné osvědčení podnikatele pro cizí moc,
+>
+> - f) jako držitel osvědčení pro cizí moc neoznámí podle § 68 písm. b) ztrátu, odcizení nebo poškození osvědčení podnikatele pro cizí moc,
+>
+> - g) nezabezpečí ochranu utajované informace při zániku platnosti osvědčení podnikatele postupem podle § 56 odst. 2, nebo
+>
+> - h) nezašle podle § 68 písm. f) rozhodnutí o schválení projektu přeměny podle zákona [[o přeměnách obchodních společností a družstev|o přeměnách obchodních společností a družstev]].
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), c), d), e), f) nebo h),
+>
+> - b) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. g).
+>
+> (3) Pokuta od 10 000 Kč do 70 000 Kč se uloží, dopustí-li se podnikatel přestupku podle odstavce 1 písm. c), d) nebo f) opakovaně. Přestupek podle odstavce 1 písm. c), d) nebo f) je spáchán opakovaně, jestliže od nabytí právní moci rozhodnutí o stejném přestupku, z něhož byl obviněný uznán vinným, do jeho spáchání neuplynulo 12 měsíců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 68, § 97, § 98, § 57, § 56
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=202772f9aa431d5e7bb2 -->
+
 ### § 155a — Přestupky PO a podnikající FO
 
 > **§ 155a**
@@ -5175,6 +9821,64 @@ Pokud subjekt **sám neoprávněně** přistupuje k UI nebo umožní výkon citl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d090ff41562247bf202c generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 155a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) umožní výkon citlivé činnosti fyzické osobě, která není držitelem platného dokladu nebo osvědčení fyzické osoby nebo jí nebylo uznáno bezpečnostní oprávnění vydané úřadem cizí moci,
+>
+> - b) si zajistí přístup k utajované informaci stupně utajení Vyhrazené, aniž splňuje podmínky podle § 15 písm. a) nebo § 57 odst. 1, nebo na základě prohlášení podnikatele, k němuž nebyly splněny podmínky podle § 15a odst. 1, nebo
+>
+> - c) si zajistí přístup k utajované informaci stupně utajení Důvěrné nebo vyšší, aniž splňuje podmínky podle § 15 písm. b) nebo § 57 odst. 1.
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. b),
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 57, § 15a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d090ff41562247bf202c -->
+
 ### § 155b — Nesoučinnost kontrolované osoby
 
 > **§ 155b**
@@ -5225,6 +9929,54 @@ Pokud subjekt **sám neoprávněně** přistupuje k UI nebo umožní výkon citl
 **Typicky rozhodné důkazy / podklady:** protokol o kontrole, písemný záznam o nařízeném neodkladném opatření podle § 144 odst. 1, fotodokumentace ohrožujícího stavu, svědectví kontrolních pracovníků a přítomných osob.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d3326d2c6e81d63c53ce generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 155b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Kontrolovaná osoba se dopustí přestupku tím, že nevyhoví pokynům kontrolního pracovníka při provádění neodkladných opatření podle § 144 odst. 1.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 500 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 144
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3326d2c6e81d63c53ce -->
 
 ### § 156 — Příslušnost k projednávání přestupků
 
@@ -5288,6 +10040,52 @@ Procesně se podle § 159 in fine na řízení o přestupcích podle Části osm
 **Typicky rozhodné důkazy / podklady:** kontrolní protokol, spisový materiál o zahájení řízení a o příslušnosti, doklady k povaze přestupku (certifikace IS/komunikačních systémů, kryptografická dokumentace), případné usnesení o postoupení věci mezi NBÚ a NÚKIB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c1c1a5806d3162411d7a generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 156 — Společné ustanovení k přestupkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Přestupky podle tohoto zákona projednává a pokuty vybírá Úřad, s výjimkou přestupků podle § 148 odst. 1 písm. f) až h), j) a k), § 149 odst. 1 písm. g) až k), § 153 odst. 1 písm. b) a s) až z), § 153 odst. 2 písm. f) a j) a § 154 odst. 1 písm. e), které projednává a za něž pokuty vybírá Národní úřad pro kybernetickou a informační bezpečnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 148, § 149, § 153, § 154
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c1c1a5806d3162411d7a -->
 
 ## ČÁST DEVÁTÁ — Přechodná a závěrečná ustanovení (§§ 157–161)
 
@@ -5434,6 +10232,106 @@ Odst. 3 stanoví, že **dnem 1. ledna 2008** se ze zákona zrušují stupně uta
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a6fc1041ba19352e3c53 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 157 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> (1) Utajovaná skutečnost podle dosavadních právních předpisů se považuje za utajovanou informaci podle tohoto zákona. Pokud se v dosavadních právních předpisech mluví o utajovaných skutečnostech nebo o státním a služebním tajemství, rozumí se tím utajované informace podle tohoto zákona.
+>
+> (2) Stupeň utajení stanovený podle dosavadních právních předpisů se považuje za stupeň utajení stanovený podle tohoto zákona.
+>
+> (3) Dnem 1. ledna 2008 se zrušují stupně utajení u utajovaných písemností vzniklých do 31. prosince 1992, pokud odpovědná osoba nestanoví v konkrétním případě do 31. prosince 2007 jinak.
+>
+> (4) Písemný záznam o určení podle dosavadních právních předpisů se považuje za poučení podle tohoto zákona.
+>
+> (5) Osvědčení, že navrhovaná osoba splňuje podmínky stanovené pro jeho vydání, které bylo vydáno podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za osvědčení fyzické osoby podle tohoto zákona.
+>
+> (6) Doklad o bezpečnostní způsobilosti fyzické osoby, který byl vydán podle dosavadních právních předpisů, se považuje za doklad o bezpečnostní způsobilosti fyzické osoby podle tohoto zákona, včetně doby jeho platnosti.
+>
+> (7) Oznámení o splnění podmínek pro určení navrhované osoby pro stupeň utajení Vyhrazené, které bylo vydáno podle dosavadních právních předpisů, se po dobu 6 měsíců ode dne nabytí účinnosti tohoto zákona považuje za ověření splnění podmínky způsobilosti k právním úkonům, věku a bezúhonnosti pro umožnění přístupu fyzické osoby k utajované informaci stupně utajení Vyhrazené podle tohoto zákona, pokud odpovědná osoba nebo ten, kdo utajovanou informaci fyzické osobě poskytuje, provede do 1 měsíce ode dne nabytí účinnosti tohoto zákona její poučení.
+>
+> (8) Souhlas s určením navrhované osoby bez předchozího provedení bezpečnostní prověrky, který byl vydán podle dosavadních právních předpisů, se po dobu 6 měsíců ode dne nabytí účinnosti tohoto zákona považuje za souhlas s jednorázovým přístupem k utajované informaci pro stupeň utajení, pro který má být navrhované osobě vydáno osvědčení.
+>
+> (9) Fyzická osoba, která se přede dnem nabytí účinnosti tohoto zákona podle dosavadních právních předpisů seznamovala s utajovanými skutečnostmi pouze na základě poučení a nebyla držitelem platného osvědčení, může mít ode dne nabytí účinnosti tohoto zákona přístup k utajovaným informacím pouze, je-li držitelem platného osvědčení fyzické osoby. To neplatí u osoby, která podle tohoto zákona má přístup k utajované informaci bez platného osvědčení fyzické osoby a bez poučení.
+>
+> (10) Certifikát potvrzující cizí moci, že navrhované osobě bylo vydáno osvědčení nebo organizaci potvrzení, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za osvědčení fyzické osoby pro cizí moc nebo osvědčení podnikatele pro cizí moc, které potvrzuje cizí moci, že u fyzické osoby nebo podnikatele bylo provedeno bezpečnostní řízení a je držitelem platného osvědčení fyzické osoby nebo osvědčení podnikatele daného stupně utajení a v případě osvědčení podnikatele i formy výskytu utajované informace.
+>
+> (11) Potvrzení, že podnikatel splňuje podmínky stanovené pro jeho vydání, které bylo vydáno podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za osvědčení podnikatele podle tohoto zákona.
+>
+> (12) Souhlas s poskytováním utajovaných skutečností mezi organizací a zahraničním partnerem, který byl vydán podle dosavadních právních předpisů, se považuje za povolení k poskytování utajovaných informací mezi organizací a zahraničním partnerem mimo území České republiky podle tohoto zákona.
+>
+> (13) Osvědčení odborné způsobilosti pracovníka kryptografické ochrany vydané podle dosavadních právních předpisů se považuje po dobu platnosti v něm uvedenou za osvědčení o zvláštní odborné způsobilosti pracovníka kryptografické ochrany podle tohoto zákona.
+>
+> (14) Certifikát technického prostředku používaného k ochraně utajovaných skutečností, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za certifikát technického prostředku podle tohoto zákona.
+>
+> (15) Certifikát informačního systému používaného k nakládání s utajovanými skutečnostmi, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za certifikát informačního systému podle tohoto zákona.
+>
+> (16) Certifikát kryptografického prostředku používaného k ochraně utajovaných skutečností, který byl vydán podle dosavadních právních předpisů, se po dobu platnosti v něm uvedenou považuje za certifikát kryptografického prostředku podle tohoto zákona.
+>
+> (17) Utajovaný bezpečnostní standard, který byl vydán podle dosavadních právních předpisů, se považuje za bezpečnostní standard podle tohoto zákona.
+>
+> (18) Bezpečnostní prověrka zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů. Na její dokončení se vztahuje lhůta pro provedení srovnatelného řízení o vydání osvědčení podle tohoto zákona s tím, že lhůta začíná běžet ode dne nabytí účinnosti tohoto zákona.
+>
+> (19) Ověřování bezpečnostní způsobilosti zahájené přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů. Na jeho dokončení se vztahuje lhůta pro provedení řízení o vydání dokladu podle tohoto zákona s tím, že lhůta začíná běžet ode dne nabytí účinnosti tohoto zákona.
+>
+> (20) Certifikace technického prostředku, informačního systému nebo kryptografického prostředku zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle tohoto zákona.
+>
+> (21) Stížnost proti nevydání osvědčení, potvrzení nebo dokladu podaná ve lhůtě přede dnem nabytí účinnosti tohoto zákona se vyřídí podle dosavadních právních předpisů.
+>
+> (22) Opravný prostředek podaný podle dosavadních právních předpisů Kolegiu na úseku ochrany utajovaných skutečností, o kterém nebylo přede dnem nabytí účinnosti tohoto zákona rozhodnuto, Kolegium již nevyřizuje. Kolegium v těchto případech všechen spisový materiál do 5 pracovních dnů ode dne nabytí účinnosti tohoto zákona vrátí orgánu, který mu jej předložil. Tento orgán písemně poučí účastníka řízení o tom, že proti rozhodnutí ředitele Úřadu může podat žalobu; v těchto případech lhůta pro podání žaloby běží znovu ode dne doručení písemného poučení.
+>
+> (23) Proti rozhodnutí o zamítnutí stížnosti vydanému podle dosavadních právních předpisů po dni nabytí účinnosti tohoto zákona lze podat žalobu podle tohoto zákona.
+>
+> (24) Řízení o uložení pokuty zahájené přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.
+>
+> (25) Komunikační systém, který byl provozován přede dnem nabytí účinnosti tohoto zákona, lze provozovat do doby schválení jeho projektu bezpečnosti, nejdéle však po dobu 12 měsíců ode dne nabytí účinnosti tohoto zákona, pokud odpovědná osoba orgánu do 3 měsíců ode dne nabytí účinnosti tohoto zákona písemně požádá o schválení jeho bezpečnostního projektu.
+>
+> (26) Pracoviště, na kterém byly vykonávány činnosti kryptografické ochrany přede dnem nabytí účinnosti tohoto zákona, lze používat k výkonu kryptografické ochrany do doby jeho schválení do provozu statutárním orgánem, nejdéle však po dobu 12 měsíců ode dne nabytí účinnosti tohoto zákona, a v případě, že pracoviště podléhá certifikaci, pokud orgán státu nebo podnikatel do 3 měsíců ode dne nabytí účinnosti tohoto zákona písemně požádá o provedení jeho certifikace.
+>
+> (27) Stínicí komoru, která byla Ministerstvem zahraničních věcí používána na zastupitelském úřadu České republiky k ochraně utajovaných informací přede dnem nabytí účinnosti tohoto zákona, lze tímto ministerstvem používat k ochraně utajovaných informací do doby provedení její certifikace, nejdéle však po dobu 24 měsíců ode dne nabytí účinnosti tohoto zákona, pokud Ministerstvo zahraničních věcí do 3 měsíců ode dne nabytí účinnosti tohoto zákona písemně požádá o provedení její certifikace.
+>
+> (28) Provedení bezpečnostní prověrky fyzické osoby, bezpečnostní prověrky organizace, certifikace technického prostředku, certifikace informačního systému, certifikace kryptografického prostředku, ověření bezpečnostní způsobilosti fyzické osoby, vydání certifikátu potvrzující cizí moci, že navrhované osobě bylo vydáno osvědčení nebo organizaci potvrzení, a vydání souhlasu s poskytováním utajovaných informací mezi organizací a zahraničním partnerem se řídí dosavadními právními předpisy pouze tehdy, jestliže žádost byla předána k poštovní přepravě nebo jinak doručena či podána nejpozději 45 dnů přede dnem nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6fc1041ba19352e3c53 -->
+
 ### § 158 — Zmocňovací ustanovení
 
 > **§ 158**
@@ -5489,6 +10387,52 @@ Toto rozdělení odráží **kompetenční dělbu** mezi oběma úřady. Aktuál
 **Typicky rozhodné důkazy / podklady:** text napadeného ustanovení prováděcí vyhlášky, znění příslušného zmocňovacího paragrafu ZOUI, odůvodnění rozhodnutí NBÚ/NÚKIB opřeného o vyhlášku, případně srovnání s dřívějšími prováděcími předpisy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a33dd6fd82e19d2b72d3 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 158 — Zmocňovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Úřad vydá vyhlášku k provedení § 7 odst. 3, § 9 odst. 8, § 15a odst. 7, § 23 odst. 2, [[#§ 33|§ 33]], § 53 písm. a) a f), [[#§ 64|§ 64]], § 75a odst. 4, § 77 odst. 8, § 79 odst. 8, § 85 odst. 7, [[#§ 135|§ 135]] a § 138 odst. 5. Národní úřad pro kybernetickou a informační bezpečnost vydá vyhlášku k provedení § 34 odst. 7, § 35 odst. 6, § 36 odst. 4, [[#§ 44|§ 44]] a § 53 písm. b) až f).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 9, § 15a, § 23, § 33, § 53, § 64, § 75a, § 77, § 79, § 85, § 135, § 138, § 34, § 35, § 36, § 44
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a33dd6fd82e19d2b72d3 -->
 
 ### § 159 — Subsidiární použití správního řádu
 
@@ -5556,6 +10500,52 @@ Tato úprava byla mnohokrát kritizována za to, že zbavuje účastníka standa
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e29b76891142fb2ec1a8 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 159
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> [[Správní řád|Správní řád]] se vztahuje pouze na řízení podle § 35 odst. 2, podle části druhé hlavy IX, a na řízení podle části osmé.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e29b76891142fb2ec1a8 -->
+
 ### § 160 — Zrušovací ustanovení
 
 > **§ 160**
@@ -5615,6 +10605,125 @@ Tato úprava byla mnohokrát kritizována za to, že zbavuje účastníka standa
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c720b7663f85d037598 generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 160 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Zákon č. 164/1999 Sb., kterým se mění zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů|Zákon č. 164/1999 Sb., kterým se mění zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů]].
+>
+> - 2. [[Zákon č. 363/2000 Sb., kterým se mění zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů|Zákon č. 363/2000 Sb., kterým se mění zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů]].
+>
+> - 3. [[Zákon č. 386/2004 Sb., kterým se mění zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů|Zákon č. 386/2004 Sb., kterým se mění zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů]].
+>
+> - 4. [[Nařízení vlády č. 340/2002 Sb., kterým se stanoví seznam některých citlivých činností|Nařízení vlády č. 340/2002 Sb., kterým se stanoví seznam některých citlivých činností]].
+>
+> - 5. [[Nařízení vlády č. 385/2003 Sb., kterým se stanoví citlivá činnost pro Hradní stráž|Nařízení vlády č. 385/2003 Sb., kterým se stanoví citlivá činnost pro Hradní stráž]].
+>
+> - 6. [[Nařízení vlády č. 31/2005 Sb., kterým se stanoví seznam citlivých činností pro civilní letectví|Nařízení vlády č. 31/2005 Sb., kterým se stanoví seznam citlivých činností pro civilní letectví]], ve znění [[nařízení vlády č. 212/2005 Sb|nařízení vlády č. 212/2005 Sb.]]
+>
+> - 7. [[Nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností|Nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností]].
+>
+> - 8. [[Nařízení vlády č. 89/1999 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností|Nařízení vlády č. 89/1999 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností]].
+>
+> - 9. [[Nařízení vlády č. 152/1999 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění nařízení vlády č. 89/1999 Sb|Nařízení vlády č. 152/1999 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění nařízení vlády č. 89/1999 Sb.]]
+>
+> - 10. [[Nařízení vlády č. 17/2001 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů|Nařízení vlády č. 17/2001 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů]].
+>
+> - 11. [[Nařízení vlády č. 275/2001 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů|Nařízení vlády č. 275/2001 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů]].
+>
+> - 12. [[Nařízení vlády č. 403/2001 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů|Nařízení vlády č. 403/2001 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů]].
+>
+> - 13. [[Nařízení vlády č. 549/2002 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů|Nařízení vlády č. 549/2002 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů]].
+>
+> - 14. [[Nařízení vlády č. 631/2004 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů|Nařízení vlády č. 631/2004 Sb., kterým se mění nařízení vlády č. 246/1998 Sb., kterým se stanoví seznamy utajovaných skutečností, ve znění pozdějších předpisů]].
+>
+> - 15. [[Vyhláška č. 137/2003 Sb., o podrobnostech stanovení a označení stupně utajení a o zajištění administrativní bezpečnosti|Vyhláška č. 137/2003 Sb., o podrobnostech stanovení a označení stupně utajení a o zajištění administrativní bezpečnosti]].
+>
+> - 16. [[Vyhláška č. 245/1998 Sb., o osobnostní způsobilosti a vzorech tiskopisů používaných v oblasti personální bezpečnosti|Vyhláška č. 245/1998 Sb., o osobnostní způsobilosti a vzorech tiskopisů používaných v oblasti personální bezpečnosti]].
+>
+> - 17. [[Vyhláška č. 397/2000 Sb|Vyhláška č. 397/2000 Sb.]], kterou se mění [[vyhláška č. 245/1998 Sb., o osobnostní způsobilosti a vzorech tiskopisů používaných v oblasti personální bezpečnosti|vyhláška č. 245/1998 Sb., o osobnostní způsobilosti a vzorech tiskopisů používaných v oblasti personální bezpečnosti]].
+>
+> - 18. [[Vyhláška č. 263/1998 Sb., kterou se stanoví způsob a postup ověřování bezpečnostní spolehlivosti organizace|Vyhláška č. 263/1998 Sb., kterou se stanoví způsob a postup ověřování bezpečnostní spolehlivosti organizace]].
+>
+> - 19. [[Vyhláška č. 12/1999 Sb., o zajištění technické bezpečnosti utajovaných skutečností a certifikaci technických prostředků|Vyhláška č. 12/1999 Sb., o zajištění technické bezpečnosti utajovaných skutečností a certifikaci technických prostředků]].
+>
+> - 20. [[Vyhláška č. 337/1999 Sb|Vyhláška č. 337/1999 Sb.]], kterou se mění [[vyhláška č. 12/1999 Sb., o zajištění technické bezpečnosti utajovaných skutečností a certifikaci technických prostředků|vyhláška č. 12/1999 Sb., o zajištění technické bezpečnosti utajovaných skutečností a certifikaci technických prostředků]].
+>
+> - 21. [[Vyhláška č. 56/1999 Sb., o zajištění bezpečnosti informačních systémů nakládajících s utajovanými skutečnostmi, provádění jejich certifikace a náležitostech certifikátu|Vyhláška č. 56/1999 Sb., o zajištění bezpečnosti informačních systémů nakládajících s utajovanými skutečnostmi, provádění jejich certifikace a náležitostech certifikátu]].
+>
+> - 22. [[Vyhláška č. 339/1999 Sb., o objektové bezpečnosti|Vyhláška č. 339/1999 Sb., o objektové bezpečnosti]].
+>
+> - 23. [[Vyhláška č. 136/2001 Sb., o zajištění kryptografické ochrany utajovaných skutečností, provádění certifikace kryptografických prostředků a náležitostech certifikátu|Vyhláška č. 136/2001 Sb., o zajištění kryptografické ochrany utajovaných skutečností, provádění certifikace kryptografických prostředků a náležitostech certifikátu]].
+>
+> - 24. [[Vyhláška č. 348/2002 Sb., o bezpečnostní způsobilosti fyzických osob|Vyhláška č. 348/2002 Sb., o bezpečnostní způsobilosti fyzických osob]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 164/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 148/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 363/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 386/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 340/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 385/2003 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 31/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 212/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 246/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 89/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 152/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 17/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 275/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 403/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 549/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 631/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 137/2003 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 245/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 397/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 263/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 12/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 337/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 56/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 339/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 136/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 348/2002 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c720b7663f85d037598 -->
+
 ### § 161 — Účinnost
 
 > **§ 161**
@@ -5669,6 +10778,52 @@ Datum **1. 1. 2006** bylo zvoleno strategicky — počátek kalendářního roku
 **Typicky rozhodné důkazy / podklady:** datum vyhlášení zákona ve Sbírce zákonů (částka, datum), datace jednotlivých procesních úkonů orgánu, spis řízení, doklady o aplikované úpravě (ZOUI vs. zákon č. 148/1998 Sb.) v rozhodné době.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c55b2c2be31f86d68bfa generator=2026-07-17.4 source_sha256=a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36 -->
+#### Revizní doplnění k § 161 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/412-2005 Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti.md`; identifikátor verze: `SB-2005-00412_2025-07-01`; SHA-256: `a4e25c252066a006c80900f96c5bdeee17bffa915b5e00ee4a058823e31b9b36`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2006.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c55b2c2be31f86d68bfa -->
 
 ## Podpisové doložky a poznámkový aparát
 
